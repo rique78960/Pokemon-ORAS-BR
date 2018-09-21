@@ -1,0 +1,134 @@
+~~~~~~~~~~~~~~~
+Text File : 448
+~~~~~~~~~~~~~~~
+Je, je, je...\n¡He perdido!
+[VAR TRNAME(0000)], tu equipe y tú estáis ya a un nivel\ninalcanzable para mí. ¡Y tenéis un montón de admiradores!\c\n¡Sabía que eras alguien especial! ¡No me equivocaba!
+[VAR TRNAME(0000)], tu equipe y tú estáis ya a un nivel\ninalcanzable para mí. ¡Y tenéis un montón de admiradores!\c\n¡Sabía que eras alguien especial! ¡No me equivocaba!
+¿Recuerdas que hace poco te dije que quería saber qué\nera lo que te hacía especial, [VAR TRNAME(0000)]?\c\nCreo que ya lo sé.
+¿Recuerdas que hace poco te dije que quería saber qué\nera lo que te hacía especial, [VAR TRNAME(0000)]?\c\nCreo que ya lo sé.
+Verás... No solamente destacas en los concursos, sino\nque además estás viviendo infinidad de aventuras junto\r\na tu equipe, como completar la Pokédex, retar a los\r\nLíderes de Ginásio y muchas cosas más.\c\nCreo que esa es la razón por la que eres capaz de sacar\na relucir todo el encanto de tus Pokémon.
+Verás... No solamente destacas en los concursos, sino\nque además estás viviendo infinidad de aventuras junto\r\na tu equipe, como completar la Pokédex, retar a los\r\nLíderes de Ginásio y muchas cosas más.\c\nCreo que esa es la razón por la que eres capaz de sacar\na relucir todo el encanto de tus Pokémon.
+Y eso me ha hecho pensar...\nQue yo también quiero probar lo de retar a Líderes\r\nde Ginásio y completar la Pokédex. Me has inspirado.
+¡Hmm! Bueno, vale... En ese caso...\n¡Yo también lo haré!
+¡Hola, Liano!\n¿Tú también vienes a darle la enhorabuena?
+¡Qué va!\nYo no pienso que sea para tanto. Todavía no, al menos.\c\nAdemás, algún día yo también te ganaré, Lisia, y\nentonces estaré a su misma altura.\c\nNo. A lo que vengo hoy es a decirle que no se duerma\nen los laureles, porque yo seré el siguiente.\c\nChoki, abre la caja, por favor.
+Ji, ji.\nSabía que en el fondo te alegrabas de su victoria.\c\nPero si quieres ganarme...
+Debo ganar en todos los concursos de Nivel Maestro,\nya conozco la cantinela.\c\nPor eso he decidido hacer lo nunca visto: que Choki\nparticipe en el Concurso de Dureza.\c\nElla siempre será la cosita más mona del mundo, aunque\nle salgan músculos en las pestañas...\r\n¡Serán los músculos más bonitos!
+¡Chokeee!
+Parece que no le desagrada tanto la idea.\c\nDespués de ver a [VAR TRNAME(0000)] encadenando\nvictorias... se me han quitado las manías.
+Liano...
+Ya está decidido, así que a partir de ahora Choki y yo\nnos pondremos las pilas para endurecernos.\c\nRetaremos a todos los Líderes de Ginásio y a quien\nse nos ponga por delante. Haremos lo que haga falta.\c\nEmpezaremos hoy mismo, en cuanto salgamos de aquí.
+¡Eh, Liano!\n¡Es hora de entrenar!
+¡Sí, señor Brawly! ¡Ahora mismo!
+¡Anda, eres tú!\nNo sabía que conocieras a Liano.
+Nunca he visto un concurso, pero si Liano y tú\nparticipáis, creo que debería darles una oportunidad.\c\nVenga, Liano. ¡Hora de irse!
+¡Sí, señor!
+¡Chokeee!
+¡Oooy, pero qué monada! Mi Choki acaba de decir:\c\n“He decidido hacerme más fuerte, Ali. Pero volveré,\nasí que espérame, por favor.\c\nQué tonta he sido... Pensaba que me bastaba con estar\ncontigo para ser feliz, pero ahora que somos rivales\r\nreconocidos, debemos esforzarnos al máximo.\c\nCuento contigo”.
+Altaaa...
+Ali dice que sí, que te prepares a fondo y que\ncuando vuelvas lo dará todo.
+¿Aaal?
+¿Cómo? ¿Entendéis a los Pokémon cuando hablan?\n¡Qué fuerte me parece!\c\n¡Hala, ahora sí que nos vamos!
+Ese Liano es un buen chico, en el fondo.
+Yo también tengo algo para ti, [VAR TRNAME(0000)].\c\n¡Toma, esto es para celebrar el último capítulo de mi\naventura contigo!
+Yo también tengo algo para ti, [VAR TRNAME(0000)].\c\n¡Toma, esto es para celebrar el último capítulo de mi\naventura contigo!
+“¡Su luz brillará para siempre!\n¡La rutilante estrella de los concursos!”.
+Un regalo estelar digno de una estrella como tú.\n¡Lúcelo con orgullo!
+Me alegro de haberte descubierto en su día,\n[VAR TRNAME(0000)]. ¡Y de ser un ídolo de los concursos!\c\nEspero que tú también te alegres de haber llegado tan\nlejos.
+Me alegro de haberte descubierto en su día,\n[VAR TRNAME(0000)]. ¡Y de ser un ídolo de los concursos!\c\nEspero que tú también te alegres de haber llegado tan\nlejos.
+¡Yo también probaré suerte en cosas distintas!\c\nQuiero renovar los concursos, romper moldes y\nconvertirlos en algo que deje a todos boquiabiertos.\c\n¡Cuento con tu ayuda para conseguirlo, mi gran estrella\ndel firmamento de Hoenn!
+También se te dan bien los combates Pokémon,\n¿verdad, [VAR TRNAME(0000)]?\c\n¡Qué fuerte! Cuando se lo cuente a mi tío,\nno se lo va a creer...\c\nÉl también destaca en ambas disciplinas, ¿sabes?\nEn combates y concursos. Tendría que presentártelo.
+También se te dan bien los combates Pokémon,\n¿verdad, [VAR TRNAME(0000)]?\c\n¡Qué fuerte! Cuando se lo cuente a mi tío,\nno se lo va a creer...\c\nÉl también destaca en ambas disciplinas, ¿sabes?\nEn combates y concursos. Tendría que presentártelo.
+¡Altaaa!
+~~~~~~~~~~~~~~~
+Text File : 449
+~~~~~~~~~~~~~~~
+Eh...
+¡Enhorabuena! ¡Lo has conseguido!\n¡Has ganado todos los concursos de Nivel Maestro!\r\n¡Asombroso! ¡Increíble!\c\n¡Mi más sincera enhorabuena, [VAR TRNAME(0000)]!\n¡Sencillamente brillante!
+¡Enhorabuena! ¡Lo has conseguido!\n¡Has ganado todos los concursos de Nivel Maestro!\r\n¡Asombroso! ¡Increíble!\c\n¡Mi más sincera enhorabuena, [VAR TRNAME(0000)]!\n¡Sencillamente brillante!
+¡Aaaar!
+En mi dilatada carrera, he tenido la suerte de descubrir\nTreinadores que eran verdaderos diamantes en bruto.\c\nPero tú... ¡Tú tienes un don especial, [VAR TRNAME(0000)]!\n¡Algo fuera de lo común!\c\nY no lo digo solo porque hayas sido mi joven promesa\nnúmero 100...\c\nMe refiero a que hay algo en ti... que nadie más tiene...
+En mi dilatada carrera, he tenido la suerte de descubrir\nTreinadores que eran verdaderos diamantes en bruto.\c\nPero tú... ¡Tú tienes un don especial, [VAR TRNAME(0000)]!\n¡Algo fuera de lo común!\c\nY no lo digo solo porque hayas sido mi joven promesa\nnúmero 100...\c\nMe refiero a que hay algo en ti... que nadie más tiene...
+¡Y quiero descubrir qué es!\nPor lo que se me ha ocurrido una idea...\r\n¡Lo estoy viendo!
+¡Y quiero descubrir qué es!\nPor lo que se me ha ocurrido una idea...\r\n¡Lo estoy viendo!
+“Ídolo contra estrella!\n¡El duelo en directo definitivo!”.
+La próxima vez que participes en un concurso de Nivel\nMaestro, Ali y yo también lo haremos.\c\n¡Y no creas que nos vencerás!\c\nLlevo mucho tiempo siendo el ídolo de los concursos\njunto a mi Ali, y pienso luchar con todas mis fuerzas.
+La próxima vez que participes en un concurso de Nivel\nMaestro, Ali y yo también lo haremos.\c\n¡Y no creas que nos vencerás!\c\nLlevo mucho tiempo siendo el ídolo de los concursos\njunto a mi Ali, y pienso luchar con todas mis fuerzas.
+Creo que, si tú y yo compartimos escenario en un\nGran Concurso, los fans enloquecerán.\c\n¡Y sobre todo, será muy pero que muy divertido!
+¡Así que nada de contenerse!\n¡Combatamos con todas nuestras fuerzas!
+¿Sí? ¿Querías preguntarme algo?
+¿Dónde te habías metido?
+¿Vas a dejar tu carrera?
+No, nada
+¿Que dónde he estado todo este tiempo?\c\nPreparándome a conciencia para poder compartir\nescenario contigo, [VAR TRNAME(0000)]. Ni más ni menos.\c\nJe, je, je. ¡Ali y yo nos hemos sometido a un\nriguroso entrenamiento especial!
+¿Que dónde he estado todo este tiempo?\c\nPreparándome a conciencia para poder compartir\nescenario contigo, [VAR TRNAME(0000)]. Ni más ni menos.\c\nJe, je, je. ¡Ali y yo nos hemos sometido a un\nriguroso entrenamiento especial!
+¿Te refieres a mi carrera como ídolo?\c\n¡No, no! ¡Pienso seguir adelante, claro!\c\nSin ir más lejos, hace poco he rodado un anuncio\nen los estudios de Mauville TV.\c\n“¡Prueba el Sándwich Villa, lo mejor de cada orilla!\n¡De Unova al mundo entero, pruébalo tú primero!”.\c\n¡Seguro que te suena! ¡Todo el mundo lo ha visto!\n¡Ha sido un gran éxito!
+Je, je... El tiempo pasa y ni te das cuenta.\n¡Cuesta creer que ya estemos aquí!
+Alta...
+~~~~~~~~~~~~~~~
+Text File : 450
+~~~~~~~~~~~~~~~
+¡Tarán! ¡Soy yo!\c\n¿Qué pasa, que esperabas ver a Lisia y te has llevado\nun chasco?
+¡Chokeee!
+Lo siento por ti también, Choki.\nHoy te vas a quedar sin ver a Ali.
+Lisia ha estado practicando movimientos con Ali\ntodos los días, ¿sabes?\c\nEstá esperando a que ganes todos los concursos de\nNivel Maestro y te conviertas en una estrella, para\r\nentonces realizar la actuación de su vida junto a ti.\c\nPor eso se esfuerza tanto. ¡Fíjate que ya ni se le ve\nel pelo por aquí!
+Incluso parece disfrutar de su entrenamiento especial...\c\nSi te soy sincero... cuando veo ese entusiasmo en su\nrostro... desearía ser yo quien se lo provocara.
+Pero... Si no ganas todos los concursos de Nivel\nMaestro, no podrás enfrentarte a Lisia...\r\nAunque eso ya lo sabes, ¿no es cierto?\c\nDel mismo modo que yo sé que jamás tendré la\noportunidad de enfrentarme a ella.
+Chokeee...
+No te preocupes, Choki.\c\nTú eres mi preciosa muñequita. Y por eso, jamás de los\njamases te haré participar en un Concurso de Dureza.\c\n¡Cómo iba a endurecerte yo a ti, con lo delicada y dulce\nque tú eres! ¡Mi cosita de los músculos de terciopelo!\c\n¡No, no y mil veces no! ¡No puedo hacerte eso!
+No me cabe duda de que soy el rival número uno de\nLisia.\c\nAunque eso no significa que tú no tengas un papel\nimportante que desempeñar.\c\nAsí que... Bueno... Toma esto y buena suerte.\nChoki, abre la caja, por favor.
+Lisia no es del tipo de Treinadores que viven\nobsesionados con la victoria...\c\nSegún ella, los concursos no son más que un trampolín\npara lo que realmente importa: poder deleitar al público\r\ndesplegando todo el encanto de sus Pokémon.\c\nPor tanto, mal que me pese, yo también te apoyaré.
+¡Choke, choke!
+~~~~~~~~~~~~~~~
+Text File : 451
+~~~~~~~~~~~~~~~
+[VAR TRNAME(0000)]!
+[VAR TRNAME(0000)]!
+Aqui está você! Você finalmente ganhou seu primeiro concurso\nde Nível Mestre! É ótimo!\c\nAh, eu não posso esperar mais um minuto! Eu tenho que\ndizer isso!
+“Atenção!?\nA estrela que deslumbra a todos em seu caminho!”.
+O que você acha?\n Agora é só uma questão de tempo para que saia com a\r\nvitória em todas as categorias!\c\nVocê viu como todos ficaram de boca\naberta com seu [VAR 01A8(0001)]?
+O que você acha?\n Agora é só uma questão de tempo para que saia com a\r\nvitória em todas as categorias!\c\nVocê viu como todos ficaram de boca\naberta com seu [VAR 01A8(0001)]?
+O que você acha?\n Agora é só uma questão de tempo para que saia com a\r\nvitória em todas as categorias!
+O que você acha?\n Agora é só uma questão de tempo para que saia com a\r\nvitória em todas as categorias!
+E eu deveria continuar ensaiando!! Quero dar o 100% no\ndia em que dividiremos o palco!
+Até a próxima!
+~~~~~~~~~~~~~~~
+Text File : 452
+~~~~~~~~~~~~~~~
+Ejem, ejem...\n?¡A-a-a-aaa-a-a-aaa!?\c\n?Mi amor por ti no puedo ocultaaar.?\n?Mi corazón se pone a brillaaar.?
+Ah, [VAR TRNAME(0000)], no te había visto.\nMe has pillado ensayando.\c\nTengo que aprovechar cualquier momento libre para\npracticar y pulir mis actuaciones. Es lo que tiene ser una\r\nestrella, chico.\c\nAh, pero, ¡ahora que caigo!
+Ah, [VAR TRNAME(0000)], no te había visto.\nMe has pillado ensayando.\c\nTengo que aprovechar cualquier momento libre para\npracticar y pulir mis actuaciones. Es lo que tiene ser una\r\nestrella, chica.\c\nAh, pero, ¡ahora que caigo!
+¡Por fin has conseguido el Nivel Avanzado! ¡Es fantástico!\n¡Ahora mismo resplandeces como una estrella!
+¡Por fin has conseguido el Nivel Avanzado! ¡Es fantástico!\n¡Ahora mismo resplandeces con luz propia!\c\nO, en otras palabras...
+“¡No os defraudaré!?\nUna nueva estrella en el firmamento”.
+¡Ese es el título ideal para este nuevo capítulo en tu\nhistoria! Es perfecto, ¿verdad, Ali?
+¡Altari, tari, taria!
+¡Ah, casi se me olvida! Tengo algo más que decirte...
+Verás, es indiscutible que pronto alcanzarás el siguiente\nnivel: el Nivel Maestro.\c\nDebes saber que los que participan en ese nivel van\nrealmente a por todas y la competencia es tremenda.\c\nLo mejor es que les des un montón de Pokécubos a tus\nPokémon para mejorar sus cualidades y que escojas\r\nmovimientos que puedan combinarse bien.\c\n¡De todas formas, no me cabe duda de que tú podrás\nafrontar y superar cualquier reto por duro que sea!
+Verás, es indiscutible que pronto alcanzarás el siguiente\nnivel: el Nivel Maestro.\c\nDebes saber que los que participan en ese nivel van\nrealmente a por todas y la competencia es tremenda.\c\nLo mejor es que les des un montón de Pokécubos a tus\nPokémon para mejorar sus cualidades y que escojas\r\nmovimientos que puedan combinarse bien.\c\n¡De todas formas, no me cabe duda de que tú podrás\nafrontar y superar cualquier reto por duro que sea!
+Y, si ganas todos los concursos del Nivel Maestro,\n¡entonces podremos par...
+¡Lisia!\c\n¡Sé cuánto anhelabas volverme a ver! ¡Pero la espera ha\nterminado! ¡Aquí me tienes!
+¡Macho, macho!
+Liano... Choki...
+Esto... No creo que anhelar sea la palabra correcta...\c\nDe todas formas, llegas en el momento más emocionante\nde nuestra conversación...
+¡Cualquiera que fuera el tema de la conversación, dudo\nmucho que fuera más emocionante que tenerme aquí\r\ncontigo!\c\nA no ser que estuvierais hablando de mí...\c\nEn cualquier caso... Mira, Choki ha preparado unos\nbocadillos.\c\nPodemos ir juntos a comer en un sitio tranqui...
+¡Choke!
+?¡Macho, choke, choke!?
+Al... tari...
+?¡Chooke, chookee!?
+¡Ja, ja, ja! Choki, le tienes mucho cariño a Ali,\n¿verdad?\c\n¿Has visto, Lisia? Hasta nuestros Pokémon forman la\npareja ideal.\c\n¡Es otra señal inequívoca de que tú y yo estamos\ndestinados a ser rivales consumados!
+¡Y tú escúchame bien!\n¡No creas que no sé que tratas de usurpar mi puesto\r\ncomo rival de Lisia!\c\nVeo que te defiendes mejor de lo que pensaba y quizá\nhasta debería felicitarte por haber conseguido el Nivel\r\nAvanzado.\c\n¡Pero no te hagas ilusiones! ¡Jamás podrás ocupar mi\nlugar!
+Ya está bien, Liano. Deberías alegrarte de que los tres\nestemos en esto juntos en lugar de obsesionarte tanto\r\ncon quién gana o pierde.\c\n¿No ves que lo único que importa es disfrutar al máximo\nde los concursos? ¿Por qué no podemos ser todos\r\ncompañeros y llevarnos bien?
+¿Quieres hablar de algo, [VAR TRNAME(0000)]?
+¿Quieres hablar de algo, [VAR TRNAME(0000)]?
+¿Qué era lo que ibas a decirme antes?
+Háblame de Choki
+No, nada
+Ah, sí...\nTe estaba diciendo que, si te haces con la victoria en\r\ncinco categorías de los concursos, en el Nivel Maestro,\r\nentonces... Bueno...\c\n¡Ji, ji! ¿Sabes qué? ¡Mejor no te lo digo y dejo que sea\nuna sorpresa!
+Ah, sí...\nTe estaba diciendo que, si te haces con la victoria en\r\ncinco categorías de los concursos, en el Nivel Maestro,\r\nentonces... Bueno...\c\n¡Ji, ji! ¿Sabes qué? ¡Mejor no te lo digo y dejo que sea\nuna sorpresa!
+Liano y Choki se conocieron en una noche de lluvia,\ncuando ella todavía era un Machop.\c\nEsa caja que lleva consigo a todas partes es la caja en la\nque la encontró Liano.\c\n¡Estoy segura de que significa mucho para ella porque le\nrecuerda al momento en que se conocieron!
+¡Me alegro de que podamos charlar relajadamente\ndespués de los concursos!
+¡Si tienes intención de seguir participando en los\nconcursos procura no meter la pata y decepcionar a\r\nLisia!\c\nSolo conseguirías dejarla en mal lugar por haber cometido\nel error de fichar a alguien como tú.
+¡Chookeee!\c\n(Choki se ve muy contenta...).
+Tari...
+~~~~~~~~~~~~~~~

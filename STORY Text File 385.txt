@@ -1,0 +1,28 @@
+~~~~~~~~~~~~~~~
+Text File : 385
+~~~~~~~~~~~~~~~
+¡Hola, [VAR TRNAME(0000)]!
+¿Te sorprende verme aquí?
+Te agradezco mucho que hayas cumplido aquella\npromesa...
+El haber llegado hasta aquí te lo debo a ti,\n[VAR TRNAME(0000)].
+Desde que perdí ante ti aquel día, he mejorado mucho.
+Supongo que tanto tú como tus Pokémon habréis\natravesado no menos dificultades para llegar hasta aquí.
+Todos hemos mejorado mucho...
+¡Me estremezco solo de mirarte a los ojos!
+¡Pero esta vez no voy a perder ni en sueños!
+¡Venceré en nombre de los Pokémon que me han\ndevuelto el vigor y la valentía!
+¡A combatir!
+[~ 11]
+...\c\n...
+Maldita sea...
+...\c\n...
+Creo que debo darte las gracias porque tú y tus Pokémon\nos hayáis enfrentado a mí con todas vuestras fuerzas...
+Muchas gracias a vosotros también...\nGallade... Mi equipe entero...
+¡Sin vuestra inestimable ayuda, no hubiera llegado hasta\naquí!
+Hoy no he podido vencerte, [VAR TRNAME(0000)], pero voy a\nseguir entrenando aquí y, un día de estos... ¡le daremos\r\nla vuelta a la tortilla!\c\n¡Prométeme que volverás a enfrentarte a mí!
+[~ 19]
+[~ 20]
+[~ 21]
+¡Oh, ya sé!\nTe voy a dar esto.\c\nComo recuerdo de tu combate contra mí... contra mi\nGallade y el resto de mi equipe.
+Si tienes un Kirlia macho contigo, acuérdate de usar esta\nPiedra Alba con él, [VAR TRNAME(0000)].
+~~~~~~~~~~~~~~~

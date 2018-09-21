@@ -1,0 +1,119 @@
+STORY TXT - O arquivos começa do 0 até o 636.
+
+Text File 0 - Completo
+Text File 1 - Completo
+Text File 2 - Completo
+Text File 3 - Completo
+Text File 4 - Completo
+Text File 5 - Completo
+Text File 6 - Completo
+Text File 7 - Completo
+Text File 8 - Completo
+Text File 9 - Completo
+Text File 10 até o 128 - Completo
+Text File 129 - Completo
+Text File 130 - Não traduzido
+Text File 131 - Completo
+Text File 132 - Completo
+Text File 133 - Completo
+Text File 134 - Completo
+Text File 135 - Completo
+Text File 136 - Completo
+Text File 137 - Completo
+Text File 138 - Completo
+Text File 139 - Completo
+Text File 140 até o 162 - Completo
+Text File 163 - Completo
+Text File 164 - Completo
+Text File 165 - Completo
+Text File 166 - Completo
+Text File 167 - Completo
+Text File 168 - Completo
+Text File 169 - Completo
+Text File 170 - Completo
+Text File 171 - Completo
+Text File 172 - Completo
+Text File 173 - Completo
+Text File 174 - Completo
+Text File 175 até o 178 - Completo
+Text File 179 - Completo
+Text File 180 - Completo
+Text File 181 - Completo
+Text File 182 - Completo
+Text File 183 - Completo
+Text File 184 - Completo
+Text File 185 - Completo
+Text File 186 - Completo
+Text File 187 - Completo
+Text File 188 - Completo
+Text File 189 - Completo
+Text File 190 - Completo
+Text File 191 - Completo
+Text File 192 até o 230 - Completo
+Text File 231 - Completo
+Text File 232 - Completo
+Text File 233 - Completo
+Text File 234 até o 241 - Completo
+Text File 241 - Completo
+Text File 242 - Completo
+Text File 243 - Completo
+Text File 244 até o 255 - Completo
+Text File 256 - Completo
+Text File 257 - Completo
+Text File 258 - Completo
+Text File 259 - Completo
+Text File 260 até 329 - Completo
+Text File 330 - Não traduzido
+Text File 331 até o 334 - Completo
+Text File 335 - Não traduzido
+Text File 337 até 342 - Não traduzido
+Text File 346 - Não traduzido
+Text File 348 até o 355 - Completo
+Text File 356 - Não traduzido
+Text File 357 até 363 - Completo
+Text File 364 - Não traduzido
+Text File 365 - Não traduzido
+Text File 366 - Completo
+Text File 367 até o 384 - Completo
+Text File 385 - Não traduzido
+Text File 386 até o 384 - Completo
+Text File 402 até o 431 - Completo
+Text File 432 até o 443 - Completo
+Text File 444 - Incompleto
+Text File 445 - Completo
+Text File 446 - Completo
+Text File 447 - Completo
+Text File 448 - Não traduzido
+Text File 449 - Não traduzido
+Text File 450 - Não traduzido
+Text File 451 - Completo
+Text File 452 - Não traduzido
+Text File 453 até o 469 - Completo
+Text File 470 até o 491 - Completo
+Text File 492 - Não traduzido
+Text File 493 - Não traduzido
+Text File 494 até o 498 - Completo
+Text File 499 - Não traduzido
+Text File 500 - Não traduzido
+Text File 501 até o 566 - Completo
+Text File 567 até 572 - Não traduzido
+Text File 573 até o 618 - Completo
+Text File 619 - Completo
+Text File 620 - Completo
+Text File 621 - Completo
+Text File 622 - Completo
+Text File 623 - Completo
+Text File 624 - Não traduzido
+Text File 625 - Não traduzido
+Text File 626 - Completo
+Text File 627 - Não traduzido
+Text File 628 - Não traduzido
+Text File 629 - Não traduzido
+Text File 630 - Não traduzido
+Text File 631 - Não traduzido
+Text File 632 - Completo
+Text File 633 - Completo
+Text File 634 - Completo falta revisão
+Text File 635 - Completo
+Text File 636 - Completo
+FIM DO ARQUIVOS DO STORYTXT

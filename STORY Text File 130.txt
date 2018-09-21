@@ -1,0 +1,286 @@
+~~~~~~~~~~~~~~~
+Text File : 130
+~~~~~~~~~~~~~~~
+[VAR 01AA(0001)]!\nMe chamo [VAR TRNAME(0000)]!
+?????!\n¡Me llamo [VAR TRNAME(0000)]!
+Hello!\n¡Me llamo [VAR TRNAME(0000)]!
+Bonjour!\n¡Me llamo [VAR TRNAME(0000)]!
+Ciao!\n¡Me llamo [VAR TRNAME(0000)]!
+Hallo!\n¡Me llamo [VAR TRNAME(0000)]!
+¡Hola!\n¡Me llamo [VAR TRNAME(0000)]!
+??!\n¡Me llamo [VAR TRNAME(0000)]!
+[VAR TRNAME(0000)]: ¡Gracias por pasar un rato conmigo!\nToma esto como muestra de agradecimiento.
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0002)] ha reunido\n[VAR NUM6(0003,E07F)] bandera[VAR NUMBRNCH(0003,0100)]s!
+[VAR TRNAME(0000)]: ¿Todavía no tienes tu propia Base\nSecreta?
+[VAR TRNAME(0000)]: ¿Qué necesitas?
+[VAR TRNAME(0000)]: Encontré un rincón perfecto en\n[VAR LOCATION(0002)] para establecer mi Base\r\nSecreta, pero alguien se me adelantó y lo dejé estar.\c\n¿Estará vacía ahora?
+[VAR TRNAME(0000)]: He encontrado un lugar perfecto para\nestablecer mi Base Secreta muy cerquita de\r\n[VAR LOCATION(0002)], pero [VAR TRNAME(0003)]\r\nse me ha adelantado...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0007)]!\c\nAquí seguimos las reglas del\n[VAR 01AC(0004)].\c\n¿Estás list[VAR GENDBR(00FF,0101)]oa para combatir?
+[VAR TRNAME(0000)]: ¡Ha sido un combate genial!\n¡Me alegraría un montón verte mañana por aquí!
+[VAR TRNAME(0000)]: ¡Pásate también mañana!
+[VAR TRNAME(0000)]: Pues la verdad, hoy no me siento con\nmuchas ganas de librar un combate...\c\n¿Qué tal si lo dejamos para la próxima vez?
+[VAR TRNAME(0000)]: ¡Anda ya!\n¡No tienes suficientes Pokémon en tu equipe!
+[VAR TRNAME(0000)]: ¡Avísame cuando estés preparad[VAR GENDBR(00FF,0101)]oa!
+Es la voz de Aarune...\c\n“Necesitas establecer una Base Secreta para poder hacer\nAmigos Secretos”.
+Es la voz de Aarune...\c\n“No hay Alfombras Agasajo libres en tu Base Secreta”.
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0007)]!\n¡[VAR 01AA(0007)]!\c\n¡Me alegro de conocerte, [VAR TRNAME(0001)]!
+¡[VAR TRNAME(0000)] se ha unido a tus Amigos Secretos!
+[VAR TRNAME(0000)]: ¿Qué? ¿Te gusta este lugar?
+[VAR TRNAME(0000)]: Vale, entiendo...\nNada, me buscaré otro sitio entonces.
+Vas a borrar a [VAR TRNAME(0000)] de tus favoritos.\n¿De verdad quieres hacerlo?
+Has borrado a [VAR TRNAME(0000)] de tus favoritos.
+Miembro de la Base Secreta: ¡[VAR 01A9(0007)]!\c\nAquí seguimos las reglas del\n[VAR 01AC(0004)].\c\n¿Estás list[VAR GENDBR(00FF,0101)]oa para combatir?
+Miembro de la Base Secreta: ¡Menudo combate!\c\n¿Qué te parecería combatir contra mi líder,\n[VAR TRNAME(0000)]?
+Miembro de la Base Secreta: ¡Espero verte por aquí\nmañana!
+Miembro de la Base Secreta: ¡[VAR 01AA(0001)]!\c\nMira una cosa: no estoy con ánimos de combatir,\n¿sabes?\c\nTe dejo que te des media vuelta, pero no se lo digas\na mi líder.
+Miembro de la Base Secreta: ¡No, no y no!\n¡No tienes suficientes Pokémon en tu equipe!
+Miembro de la Base Secreta: ¡Vuelve cuando te apetezca!
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Inverso
+Sin límite de nivel
+Nivel 30
+Nivel 50
+¡[VAR 01AA(0001)]!\n¡Soy [VAR TRNAME(0000)]!
+?????!\n¡Soy [VAR TRNAME(0000)]!
+Hello!\n¡Soy [VAR TRNAME(0000)]!
+Bonjour!\n¡Soy [VAR TRNAME(0000)]!
+Ciao!\n¡Soy [VAR TRNAME(0000)]!
+Hallo!\n¡Soy [VAR TRNAME(0000)]!
+¡Hola!\n¡Soy [VAR TRNAME(0000)]!
+??!\n¡Soy [VAR TRNAME(0000)]!
+[VAR TRNAME(0000)]: ¡Gracias por pasar un rato conmigo!\nToma esto como muestra de agradecimiento.
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0002)] ha reunido\n[VAR NUM6(0003,E07F)] bandera[VAR NUMBRNCH(0003,0100)]s!
+[VAR TRNAME(0000)]: ¿Todavía no tienes tu propia Base\nSecreta?
+[VAR TRNAME(0000)]: ¿Qué necesitas?
+[VAR TRNAME(0000)]: Encontré un rincón perfecto en\n[VAR LOCATION(0002)] para establecer mi Base\r\nSecreta, pero alguien se me adelantó y lo dejé estar.\c\n¿Estará vacía ahora?
+[VAR TRNAME(0000)]: He encontrado un lugar perfecto para\nestablecer mi Base Secreta muy cerquita de\r\n[VAR LOCATION(0002)], pero [VAR TRNAME(0003)]\r\nse me ha adelantado...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0007)]!\c\nAquí seguimos las reglas del\n[VAR 01AC(0004)].\c\n¿Estás list[VAR GENDBR(00FF,0101)]oa para combatir?
+[VAR TRNAME(0000)]: ¡Ha sido un combate genial!\n¡Me alegraría un montón verte mañana por aquí!
+[VAR TRNAME(0000)]: ¡Pásate también mañana!
+[VAR TRNAME(0000)]: Pues la verdad, hoy no me siento con\nmuchas ganas de librar un combate...
+[VAR TRNAME(0000)]: ¡Anda ya!\n¡No tienes suficientes Pokémon en tu equipe!
+[VAR TRNAME(0000)]: ¡Avísame cuando estés preparad[VAR GENDBR(00FF,0101)]oa!
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0007)]!\n¡[VAR 01AA(0007)]!\c\n¡Me alegro de conocerte, [VAR TRNAME(0001)]!
+¡[VAR TRNAME(0000)] se ha unido a tus Amigos Secretos!
+[VAR TRNAME(0000)]: ¿Qué? ¿Te gusta este lugar?
+[VAR TRNAME(0000)]: Vale, entiendo...\nNada, me buscaré otro sitio entonces.
+Miembro de la Base Secreta: ¡[VAR 01A9(0007)]!\c\nAquí seguimos las reglas del\n[VAR 01AC(0004)].\c\n¿Estás list[VAR GENDBR(00FF,0101)]oa para combatir?
+Miembro de la Base Secreta: ¡Menudo combate!\c\n¿Qué te parecería combatir contra mi líder,\n[VAR TRNAME(0000)]?
+Miembro de la Base Secreta: ¡Espero verte por aquí\nmañana!
+Miembro de la Base Secreta: ¡[VAR 01AA(0001)]!\c\nMira una cosa: no estoy con ánimos de combatir,\n¿sabes?\c\nTe dejo que te des media vuelta, pero no se lo digas\na mi líder.
+Miembro de la Base Secreta: ¡No, no y no!\n¡No tienes suficientes Pokémon en tu equipe!
+Miembro de la Base Secreta: ¡Vuelve cuando te apetezca!
+¡Vamos a echar un combate!
+¡Hagámonos colegas!
+¡Quiero mudarme aquí!
+Nada, déjalo...
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0001)]!
+[VAR TRNAME(0000)]: ¡El otro día me hice con alguna que otra\nbandera! ¡Hala, para ti!
+¡[VAR TRNAME(0000)] te ha entregado [VAR NUM3(0003)] bandera[VAR NUMBRNCH(0003,0100)]s!
+[VAR TRNAME(0000)]: ¿Qué te apetece que hagamos,\n[VAR TRNAME(0002)]?
+¡Echemos un combate!
+¡Enséñame alguna de tus técnicas especiales!
+Adiós...
+Nada, déjalo...
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0007)]!\c\nYo solo combato con las reglas del\n[VAR 01AC(0004)].\c\n¿Te apuntas?
+[VAR TRNAME(0000)]: ¡Qué combate más espléndido!\nEchemos otro mañana, ¿vale?
+[VAR TRNAME(0000)]: ¡Espero verte por aquí mañana!
+[VAR TRNAME(0000)]: Me temo que no tienes suficientes\nPokémon en tu equipe...
+[VAR TRNAME(0000)]: ¡Avísame cuando estés list[VAR GENDBR(00FF,0101)]oa!
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Inverso
+Sin límite de nivel
+Nivel 30
+Nivel 50
+Vas a eliminar a [VAR TRNAME(0000)] de la lista de Amigos\nSecretos.\c\n¿De verdad quieres hacerlo?
+[VAR TRNAME(0000)]: ¡Si cambias de parecer, vuelve a\ninvitarme!
+[VAR TRNAME(0000)]: ¡Sinceramente, esta Base Secreta está\ngenial!\c\nAhora que somos colegas, me encantaría hacer cosas que\nantes, por mi cuenta, no podía...
+[VAR TRNAME(0000)]: ¡Ya lo tengo!\n¡Mira lo que se me ha ocurrido!\c\n¡Vamos a crear nuestro propio grupo, algo así como un\nequipe!\c\n¡Sí! ¡Decidido! ¡Vamos a ponerle un nombre!\n¿Cuál te gustaría ponerle, [VAR TRNAME(0002)]?
+[VAR TRNAME(0000)]: ¡Sí, sí!\nMmm... ¿[VAR 01AA(0007)]?\c\n[VAR 01AA(0007)]...\n¡[VAR 01AA(0007)]!\c\n¡[VAR 01A9(0006)]!\n¡Fabuloso! ¡Me encanta!\c\nVale, pues ahora que ya le hemos puesto un nombre,\n¡toca el lema!\c\n¿Qué te parecería bien para [VAR 01AA(0007)]?
+[VAR TRNAME(0000)]: ¡Qué imaginación!\c\n[VAR 01AA(0001)], ¿eh?\n¡[VAR 01AA(0001)]!\c\n¡[VAR 01AA(0001)]!\n¡Voy a repetírmelo hasta que se me quede bien grabado\r\nen la memoria!\c\nEl nombre del grupo y el lema están muy bien, pero, si\nacaso te da por cambiarlos, puedes hacerlo en el PC\r\nde la Base Secreta.\c\n¡Vamos a pasarlo en grande, [VAR TRNAME(0002)]!\n¡[VAR 01AA(0007)] es genial!\c\nPara cualquier cosa, avísame, ¿vale?
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0001)]!
+[VAR TRNAME(0000)]: ¡El otro día me hice con alguna que otra\nbandera! ¡Hala, para ti!
+[VAR TRNAME(0000)]: ¡Oye, [VAR TRNAME(0002)]!\n¿Hacemos algo?
+[VAR TRNAME(0000)]: ¡[VAR 01AA(0007)]!\c\nLas reglas son las siguientes:\n¡[VAR 01AC(0004)]!\c\n¿Todo listo?
+[VAR TRNAME(0000)]: ¡El combate ha sido flipante!\nPásate también mañana, ¿vale?
+[VAR TRNAME(0000)]: ¡Vuelve mañana!
+[VAR TRNAME(0000)]: No tienes suficientes Pokémon...
+[VAR TRNAME(0000)]: ¡Avísame cuando estés list[VAR GENDBR(00FF,0101)]oa!
+[VAR TRNAME(0000)]: ¡Si cambias de parecer, vuelve a\ninvitarme!
+[VAR TRNAME(0000)]: ¡Sinceramente, esta Base Secreta está\ngenial!\c\nAhora que somos colegas, me encantaría hacer cosas que\nantes, por mi cuenta, no podía...
+[VAR TRNAME(0000)]: ¡Ya lo tengo!\n¡Mira lo que se me ha ocurrido!\c\n¡Vamos a crear nuestro propio grupo, algo así como un\nequipe!\c\n¡Sí! ¡Decidido! ¡Vamos a ponerle un nombre!\n¿Qué nombre te gustaría ponerle, [VAR TRNAME(0002)]?
+[VAR TRNAME(0000)]: ¡Sí, sí!\nMmm... ¿[VAR 01AA(0007)]?\c\n[VAR 01AA(0007)]...\n¡[VAR 01AA(0007)]!\c\n¡[VAR 01A9(0006)]!\n¡Fabuloso! ¡Me encanta!\c\nVale, pues ahora que ya le hemos puesto un nombre,\n¡toca el lema!\c\n¿Qué te parecería bien para [VAR 01AA(0007)]?
+[VAR TRNAME(0000)]: ¡Qué imaginación!\c\n[VAR 01AA(0001)], ¿eh?\n¡[VAR 01AA(0001)]!\c\n¡[VAR 01AA(0001)]!\n¡Voy a repetírmelo hasta que se me quede bien grabado\r\nen la memoria!\c\nEl nombre del grupo y el lema están muy bien, pero, si\nacaso te da por cambiarlos, puedes hacerlo en el PC\r\nde la Base Secreta.\c\n¡Vamos a pasarlo en grande, [VAR TRNAME(0002)]!\n¡[VAR 01AA(0007)] es genial!\c\nPara cualquier cosa, avísame, ¿vale?
+[VAR TRNAME(0000)]: ¿Qué técnica especial quieres ver?
+Creación de artículos
+Mimahuevos
+Masaje
+Recolección
+Buscabayas
+Cazatesoros
+Recogepiedras
+Entrenamiento
+Ejercicio
+Adivinación
+Ninguna
+[VAR TRNAME(0000)]: ¿A qué Huevo quieres que mime?
+[VAR TRNAME(0000)]: Necesitaría un Huevo...
+[VAR TRNAME(0000)]: Eso se parece a un Huevo lo que un\nHuevo a una Baya Atania...
+[VAR TRNAME(0000)]: Este Huevo está de muy buen ver.\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: ¿Cuál es mi Huevito más querido?\n¿Cuál?\c\n¡[VAR 01A9(0002)]!\c\n¡Ay! ¡Cuchi, cuchi! ¡Pero qué mono que eres!\n...
+¡Parece que el Huevo te quiere decir:\n“[VAR 01AA(0006)]”!
+[VAR TRNAME(0000)]: Venga, vamos a ello, que no me puedo\naguantar las ganas...
+[VAR TRNAME(0000)]: Ahora le pones esto aquí, le sacas esto\notro, lo encajas en este lado y...\c\n¡[VAR 01A9(0006)]!\c\n...\n...
+[VAR TRNAME(0000)]: ¡Muy bien! [VAR 01A9(0006)]...\n¡Tal cual!
+[VAR TRNAME(0000)]: ¿Habrá algo tirado por el suelo?\nVamos a ver...
+[VAR TRNAME(0000)]: Un vistazo por aquí, un vistazo por allá\ny... otro vistazo más... ¿Eh? ¿Qué es esto? ¿No será...?\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡No veas lo que había aquí!
+[VAR TRNAME(0000)]: Muy bien. Ahora, a ponerse en modo\nsabueso a ver si aparece algo...
+[VAR TRNAME(0000)]: Abramos las fosas nasales, dejémonos\nenvolver por el aroma de las bayas...\c\nEspera... ¿Y esto?\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡He encontrado una baya! ¡Toma ya!
+[VAR TRNAME(0000)]: Muy bien. A ver si hoy también están\nen ese mismo lugar... Vamos a ello...
+[VAR TRNAME(0000)]: Piedras, piedrecitas bonitas, ¿dónde\nestáis? Piedras...\c\n¡Ah! ¡Me parece que...!\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nPero... ¿se puede saber qué clase de piedra es esta?
+[VAR TRNAME(0000)]: Muy bien. Yo me encargo.\nVamos a ello...
+[VAR TRNAME(0000)]: Exploremos, husmeemos, indaguemos,\ninspeccionemos...\c\nHmmm... Creo que tenemos algo...\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Es un tesoro! ¡Olé!
+[VAR TRNAME(0000)]: ¿A qué Pokémon quieres que le dé un\nmasaje?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: ¡Qué duro está esto! Pero... Oye...\n¿No ves que eso es un Huevo?
+[VAR TRNAME(0000)]: Madre mía... ¡Qué dureza!\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Chof, chof...\nQué suave y blandito...\c\n[VAR 01A9(0002)]...\c\n...\n...
+[VAR TRNAME(0000)]: ¡Pues parece que [VAR PKNICK(0004)] se\nsiente ahora más feliz, [VAR TRNAME(0002)]!
+[VAR TRNAME(0000)]: ¿A qué Pokémon quieres que entrene?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: Eso es un Huevo. Y ya sabes que a los\nHuevos no los puedo entrenar.
+[VAR TRNAME(0000)]: Parece que aquí hay potencial, sí.\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: ¡[VAR PKNICK(0004)]!\n¡[VAR 01A9(0002)]! ¡Un poquito más!\c\n¡Un último esfuerzo!\n¡[VAR PKNICK(0004)]! ¡[VAR 01A9(0006)]!\c\nVamos, así...\nVenga...
+[VAR TRNAME(0000)]: ¡El entrenamiento ha dado unos\nresultados magníficos!
+¡[VAR PKNICK(0004)] ha subido [VAR NUM1(0005)] nivel[VAR NUMBRNCH(0005,0200)]es!
+[VAR TRNAME(0000)]: ¿Qué Pokémon quieres que haga\nejercicio?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: ¿Y cómo esperas que se ejercite un\nHuevo?
+[VAR TRNAME(0000)]: ¿Qué ejercicio quieres que haga?
+Ejercicio de PS
+Ejercicio de Ataque
+Ejercicio de Defensa
+Ejercicio de Ataque Especial
+Ejercicio de Def. Especial
+Ejercicio de Velocidad
+No hacer ejercicio
+[VAR TRNAME(0000)]: ¡Venga! ¡Juntos!\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Un, dos, un, dos, un, dos.\n¡Salta, [VAR PKNICK(0004)]! ¡[VAR 01A9(0002)]!\c\n¡[VAR TRNAME(0001)] también, [VAR 01A9(0002)]!\c\n...\n...
+[VAR TRNAME(0000)]: Qué sudores...
+¡Los PS de base de [VAR PKNICK(0004)] han aumentado!
+¡El Ataque de base de [VAR PKNICK(0004)] ha aumentado!
+¡La Defensa de base de [VAR PKNICK(0004)] ha aumentado!
+¡El Ataque Especial de base de [VAR PKNICK(0004)] ha\naumentado!
+¡La Defensa Especial de base de [VAR PKNICK(0004)] ha\naumentado!
+¡La Velocidad de base de [VAR PKNICK(0004)] ha aumentado!
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nLeamos el futuro punteando la guitarra...
+[VAR TRNAME(0000)]: La-la-la-la-do-do-re...\nLa suerte de [VAR TRNAME(0002)] te leeré...\c\n¿Eh? ¡Ha funcionado!\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nVeamos qué nos dicen las olas...
+[VAR TRNAME(0000)]: Adentrémonos en las profundidades del\nmar de la fortuna...\c\nEspera... Tengo algo...\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nAnalicemos lo que nos auguran los disfraces...
+[VAR TRNAME(0000)]: Disfracito, disfracito mágico, dinos qué\nle depara la suerte a [VAR TRNAME(0002)]...\c\n¡Uy! Pues sí, parece que ha dicho algo...\c\n...\n...
+¡[VAR 01A9(0006)]! ¡Se te presenta una gran\noportunidad para capturar Pokémon, [VAR TRNAME(0002)]!
+¡[VAR 01A9(0006)]! ¡Tu futuro económico está tejido\nen oro, [VAR TRNAME(0002)]!
+¡[VAR 01A9(0006)]! ¡[VAR TRNAME(0002)], vas a comprar\nalgo muy especial!
+¡[VAR 01A9(0006)]! ¡Tus Pokémon van a estar en\nplena forma, [VAR TRNAME(0002)]!
+¡[VAR OPOWER(0006)] se ha activado!
+[VAR TRNAME(0000)]: ¿Qué técnica especial quieres ver?
+[VAR TRNAME(0000)]: ¡Ajá! ¿A qué Huevo quieres que mime?
+[VAR TRNAME(0000)]: Necesitaría un Huevo... y no veo que\ntengas ninguno por ahí.
+[VAR TRNAME(0000)]: Eso se parece a un Huevo lo que un\nHuevo a una Baya Atania...
+[VAR TRNAME(0000)]: Este Huevo tiene potencial, ¿eh?\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: ¿Cuál es mi Huevito más querido?\n¿Cuál?\c\n¡[VAR 01A9(0002)]!\c\n¡Ay! ¡Cuchi, cuchi! ¡Pero qué mono que eres!\n...
+¡Tu Huevo parece querer decirte “[VAR 01AA(0006)]”!
+[VAR TRNAME(0000)]: Uy, pues te voy a preparar algo, sí.\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Ahora le pones esto aquí, le sacas esto\notro, lo encajas en este lado y...\c\n¡[VAR 01A9(0006)]!\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nTacháaan... ¡Ahí lo tienes!
+[VAR TRNAME(0000)]: ¿Habrá algo por ahí desperdigado?\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Un vistazo por aquí, un vistazo por allá\ny... otro vistazo más... ¿Eh? ¿Qué es esto?\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Ay! Que creo que he encontrado algo...
+[VAR TRNAME(0000)]: Bayas a mí... Sé que andáis por ahí...\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Abramos las fosas nasales, dejémonos\nenvolver por el aroma de las bayas...\c\nEspera... ¿Y esto?\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Toma ya! ¡Una baya!
+[VAR TRNAME(0000)]: A ver si mirando hoy donde el otro día...\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Piedras, piedrecitas bonitas, ¿dónde\nestáis? Piedras...\c\n¡Ah! ¡Me parece que...!\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nPero... ¿se puede saber qué clase de piedra es esta?
+[VAR TRNAME(0000)]: Muy bien. Yo me encargo.\nVamos a ello...
+[VAR TRNAME(0000)]: Exploremos, husmeemos, indaguemos,\ninspeccionemos...\c\nHmmm... Creo que tenemos algo...\c\n...\n...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Creo que he encontrado un tesoro! ¡Olé!
+[VAR TRNAME(0000)]: ¿A qué Pokémon quieres que le dé un\nmasaje?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: ¿No ves que eso es un Huevo?
+[VAR TRNAME(0000)]: Madre mía... ¡Qué dureza!\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Chof, chof...\nQué suave y blandito...\c\n[VAR 01A9(0002)]...\c\n...\n...
+[VAR TRNAME(0000)]: ¡Pues parece que [VAR PKNICK(0004)] se\nsiente ahora más feliz, [VAR TRNAME(0002)]!
+[VAR TRNAME(0000)]: ¿A qué Pokémon quieres que entrene?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: Eso es un Huevo. Y ya sabes que a los\nHuevos no los puedo entrenar.
+[VAR TRNAME(0000)]: Parece que aquí hay potencial, sí.\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: ¡[VAR PKNICK(0004)]!\n¡[VAR 01A9(0002)]! ¡Un poquito más!\c\n¡Un último esfuerzo!\n¡[VAR PKNICK(0004)]! ¡[VAR 01A9(0006)]!\c\nVamos, así...\nVenga...
+[VAR TRNAME(0000)]: ¡El entrenamiento ha dado unos\nresultados magníficos!
+[VAR TRNAME(0000)]: ¿Qué Pokémon quieres que haga\nejercicio?
+[VAR TRNAME(0000)]: [VAR PKNICK(0004)] no parece que lo\nnecesite...
+[VAR TRNAME(0000)]: ¿Cómo se supone que se ejercita un\nHuevo?
+[VAR TRNAME(0000)]: ¿Qué ejercicio quieres que haga?
+[VAR TRNAME(0000)]: ¡Venga!\nMuy bien. Vamos a ello...
+[VAR TRNAME(0000)]: Un, dos, un, dos, un, dos.\n¡Salta, [VAR PKNICK(0004)]! ¡[VAR 01A9(0002)]!\c\n¡[VAR TRNAME(0001)] también, [VAR 01A9(0002)]!\c\n...\n...
+[VAR TRNAME(0000)]: Qué sudores...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nVeamos qué dice mi intuición femenina...
+[VAR TRNAME(0000)]: A ver, a ver...\n¿Qué me dice mi intuición?\c\n¡Oh! Parece que me viene algo a la mente...\n[VAR TRNAME(0002)]...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nComienza la adivinación de la soñadora...
+[VAR TRNAME(0000)]: ¡Vuela, vuela al interior del mundo de\nlos sueños y rescátanos un recuerdo del futuro de\r\n[VAR TRNAME(0002)]!\c\nParece que hay algo...
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\nPenetremos en los misterios del mundo de lo oculto...
+[VAR TRNAME(0000)]: ¡Oh, luz, acude a nosotros y no nos\nabandones en la oscuridad!\c\n¿Has visto eso? Creo que ha habido un chispazo,\n[VAR TRNAME(0002)]...
+¡[VAR 01A9(0006)]! ¡Vas a capturar Pokémon sin\nparar, [VAR TRNAME(0002)]!
+¡[VAR 01A9(0006)]! ¡Tu futuro económico está tejido\nen oro, [VAR TRNAME(0002)]!
+¡[VAR 01A9(0006)]! ¡[VAR TRNAME(0002)], vas a comprar\nalgo muy especial!
+¡[VAR 01A9(0006)]! ¡Tus Pokémon van a estar en\nplena forma, [VAR TRNAME(0002)]!
+[VAR TRNAME(0000)]: Voy a seguir practicando. ¡Ya verás\nmañana!
+[VAR TRNAME(0000)]: Voy a seguir practicando. ¡Ya verás\nmañana!
+[VAR TRNAME(0000)]: ¡He conseguido [VAR NUM6(0003,E07F)] bandera[VAR NUMBRNCH(0003,0100)]s!
+[VAR TRNAME(0000)]: ¡He conseguido [VAR NUM6(0003,E07F)] bandera[VAR NUMBRNCH(0003,0100)]s!
+[VAR TRNAME(0000)]: ¿Un [VAR 01A9(0004)]?\c\nSí, ya sé que es lo que tocaría aquí, pero es que no\ntengo suficientes Pokémon en mi equipe...\c\n¿Qué te parecería un Combate Individual?
+[VAR TRNAME(0000)]: ¿Un [VAR 01A9(0004)]?\c\nSí, ya sé que es lo que tocaría aquí, pero es que no\ntengo suficientes Pokémon en mi equipe...\c\n¿Qué te parecería un Combate Individual?
+¡Hola! ¿Cómo estás? Yo soy [VAR TRNAME(0000)].
+¡Muy bien! Has sido capaz de encontrar mi Base Secreta,\n¿eh? Me llamo [VAR TRNAME(0000)], por cierto.
+¡Hola! ¡Soy [VAR TRNAME(0000)]!\n¿Estás disfrutando al máximo de tu Base Secreta?
+Déjame que te diga algo: “¡[VAR 01A9(0004)]!”.\nAh, y yo soy [VAR TRNAME(0000)].
+¡Hola! ¡Soy [VAR TRNAME(0000)]! ¿Sabes lo que me viene a la\ncabeza tras haberte conocido? ¡[VAR 01A9(0003)]!
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la base del grupo [VAR 01AA(0002)]!\nMe llamo [VAR TRNAME(0000)].
+¡Hola, hola! ¡Me llamo [VAR TRNAME(0000)]!\n¿Qué tal estás?
+¡Genial! Has sido capaz de encontrar mi Base Secreta,\n¿eh? Y yo soy [VAR TRNAME(0000)], por cierto.
+¡Hola! ¡Soy [VAR TRNAME(0000)]!\n¿Estás disfrutando al máximo de tu Base Secreta?
+Déjame que te diga algo: “¡[VAR 01A9(0004)]!”.\nAh, y yo me llamo [VAR TRNAME(0000)].
+¡Hola! ¡Soy [VAR TRNAME(0000)]! ¿Sabes lo que me pide el\ncuerpo decir al conocerte? ¡[VAR 01A9(0003)]!
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la base del grupo [VAR 01AA(0002)]!\nMe llamo [VAR TRNAME(0000)].
+[VAR TRNAME(0000)]: ¡Hola! ¿Qué tal?
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0004)]!\n¡Eso es lo que me apetece decir hoy!
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Eso es lo que me apetece decir hoy!
+[VAR TRNAME(0000)]: ¡Hola, [VAR TRNAME(0007)]! ¿Sabes lo que\nme pide el cuerpo decir hoy? ¡[VAR 01A9(0003)]!
+[VAR TRNAME(0000)]: ¡Hola, [VAR TRNAME(0007)]! ¿Sabes lo que\nme pide el cuerpo decir hoy? ¡[VAR 01A9(0005)]!
+[VAR TRNAME(0000)]: Oye... ¿Qué es eso de\n[VAR 01AA(0001)]?
+[VAR TRNAME(0000)]: Así que [VAR 01AA(0002)], ¿eh?\nPues suena muy bien, qué te voy a decir.
+[VAR TRNAME(0000)]: ¡Hola! ¿Cómo estás?
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0004)]!\n¡Eso es lo que me apetece decir hoy!
+[VAR TRNAME(0000)]: ¡[VAR 01A9(0006)]!\n¡Eso es lo que me apetece decir hoy!
+[VAR TRNAME(0000)]: ¡Hola, [VAR TRNAME(0007)]! ¿Sabes lo que\nme pide el cuerpo decir hoy? ¡[VAR 01A9(0003)]!
+[VAR TRNAME(0000)]: ¡Hola, [VAR TRNAME(0007)]! ¿Sabes lo que\nme pide el cuerpo decir hoy? ¡[VAR 01A9(0005)]!
+[VAR TRNAME(0000)]: Oye... ¿Me cuentas qué es eso de\n[VAR 01AA(0001)]?
+[VAR TRNAME(0000)]: Conque [VAR 01AA(0002)], ¿eh?\nMe gusta mucho cómo suena. ¡Es verdad!
+[VAR TRNAME(0000)]: ¡Si está que no se tiene en pie!\nDeja que [VAR PKNICK(0004)] se recupere y luego hablamos.
+[VAR TRNAME(0000)]: ¡Si está que no se tiene en pie!\nDeja que [VAR PKNICK(0004)] se recupere y luego hablamos.
+[VAR TRNAME(0000)]: Antes de entrenar, [VAR PKNICK(0004)]\ntendría que descansar un poquito.
+[VAR TRNAME(0000)]: Antes de entrenar, [VAR PKNICK(0004)]\ntendría que descansar un poquito.
+[VAR TRNAME(0000)]: No sé a ti, pero a mí me parece que\n[VAR PKNICK(0004)] no está en plenas facultades.
+[VAR TRNAME(0000)]: No sé a ti, pero a mí me parece que\n[VAR PKNICK(0004)] no está en plenas facultades.
+~~~~~~~~~~~~~~~

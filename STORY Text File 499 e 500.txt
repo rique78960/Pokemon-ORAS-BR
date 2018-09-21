@@ -1,0 +1,314 @@
+~~~~~~~~~~~~~~~
+Text File : 499
+~~~~~~~~~~~~~~~
+Mossdeep geralmente tem um bom tempo e ventos\nestáveis.\c\nÉ o melhor lugar para lançar foguetes no espaço\nsideral.
+[~ 1]
+[~ 2]
+[~ 3]
+Professor Cozmo! Isso é terrível!
+O meteorito... alterou seu curso!\nAgora está indo... Está indo... direto para nós!
+Como disse?!\c\nConfirme esses dados! Eu quero um cálculo da trajetória\nagora mesmo!
+Alvo fixo.\nCalculando a trajetória do meteorito...
+Ponto de impacto estimado...\nProximidades da Rota 131, a sudoeste de Sootopolis.
+É como... se tivesse vida própria...
+¡¿Qué hacemos ahora, profesor?!\n¡¿Eh?! ¡¿Qué hacemos, qué hacemos?!
+¡Mantener la calma, a ser posible!\n¡Somos profesionales!
+¿Qué?\c\nAh... Sí, claro... Je, je...
+...\c\nAy...\c\nNo hay más remedio...
+Profesor Cozmo, alguien pregunta por usted.
+¡Oh! ¡Eres tú, [VAR TRNAME(0000)]!\n¡Me alegro de verte!\c\nVeo que me traes un Fragmento de Meteorito, ¿eh?\n¡Muchas gracias!
+¡Oh! ¡Eres tú, [VAR TRNAME(0000)]!\n¡Me alegro de verte!\c\nVeo que me traes un Fragmento de Meteorito, ¿eh?\n¡Muchas gracias!
+Me he quedado de piedra al enterarme de que conocías\nal profesor.\c\nSalta a la vista que posees un don especial para formar\nlazos con la gente allí adonde vas.
+Pero vamos a lo que nos interesa...\c\nProfesor, ¿podría repetir los detalles de su plan?
+Faltaría más.\nVenid conmigo, por favor.
+Creo que el Sr. Peñas ya os tiene al corriente de todo\nhasta cierto punto.\c\nEl primer paso consiste en sincronizar la impronta\nenergética del Pokémon que está en el interior del cohete\r\ncon la energía humana contenida en la Piedra Activadora.\c\nDicho de otro modo, reproducir de forma artificial y\ncontrolada la energía descomunal que se libera durante la\r\nmegaevolución.
+El siguiente paso es canalizar dicha energía hacia el\nespacio exterior.
+A decir verdad, ya existe un aparato que hace uso\nde dicha tecnología y cuyo uso está bastante extendido...
+Increíble...\n¿Crees que podría funcionar?\c\nY si lo hiciera, ¿adónde iría a parar el meteorito?
+Eso es algo que no hay modo de asegurar...\c\nDepende en su totalidad del aparato que establezca la\nconexión entre ambos extremos del agujero de gusano,\r\nes decir, entre ambos portales dimensionales...\c\nLo hemos bautizado como Cable Link.
+Pero tranquilízate.\c\nTeóricamente, es casi seguro que el Meteorito se enviará\nlejos de nuestro planeta.\c\nSin embargo, hemos descubierto que necesitaremos más\nenergía de la prevista para controlar el Cable Link.\c\nSiento tener que decirte que hará falta otro Fragmento de\nMeteorito...
+¡Vaya!\nAsí que este es el corazón del famoso Centro Espacial.\c\n¿A que impresiona, Aster?
+¡Whiii!
+¡Eh, tú!\n¡No puedes entrar aquí!
+¡Venga, no seas tan seriota!\n¡No pasa nada!
+¿A que no?
+Grr...
+¿Quién eres?\nEstá claro que eres más de lo que aparentas...
+Vaya, te encuentro hasta en la sopa, ¿eh?\nTe llamabas...
+[VAR TRNAME(0000)], ¿verdad?
+[VAR TRNAME(0000)], ¿verdad?
+¡Pero bueno! ¡¿Y tú quién eres?!
+¿Yo?\c\nPues nada, me llamo Tristana y soy una simple turista que\npasaba por aquí.\c\nAhora mismo estaba pensando en darme un garbeo por el\nespacio...
+Ajá, ya veo...\c\nAquí es donde se juntan la ciencia, los sueños de la\nhumanidad entera, la sangre, el sudor y las lágrimas.\c\nY otras cosas que ni me acuerdo ni vienen a cuento.\nYa me entendéis.
+¿Crees que no lo sé?\c\nSé lo que vais a utilizar como energía motriz para el\ncohete...\c\nLa misma funesta tecnología creada por el hombre hace\ntres mil años.
+Y ahora vais a repetir la historia.\c\nCon el mismo pretexto de querer salvar la humanidad y el\nplaneta y qué sé yo qué más... vais a cometer los mismos\r\nerrores que en el pasado.\c\nY lo que es peor: por lo que he podido oír de la\nconversación, estáis dispuestos a cometer un error\r\nmás grave todavía.
+¿Y qué sugieres que hagamos?\c\n¿Quedarnos de brazos cruzados a la espera de que el\nmeteorito impacte sobre nuestras cabezas?
+¡Ja, ja, ja!\c\nPerdona que me ría, pero es que se me antoja un\nrazonamiento de lo más simple para un ex-Campeón.
+¿Qué expectativas debo tener entonces ante la posible\nsugerencia de nuestr[VAR GENDBR(00FF,0101)]oa actual Campe[VAR GENDBR(00FF,0302)]ónona?
+¿Y bien, [VAR TRNAME(0000)]?
+¿Y bien, [VAR TRNAME(0000)]?
+¿Qué tienes que decir?\n¿Se te ocurre algo mejor?
+¡Mucho mejor!
+Pues no
+¡Anda! ¿En serio?\c\n¡Pues eso me lo tienes que contar la próxima vez que nos\nveamos! ¡Me tienes intrigada!
+Ya veo.\nSupongo que esperaba demasiado de ti.\c\nPero no te preocupes. Al fin y al cabo, la mayoría de la\ngente no tiene ideas.
+Mira, no pretendo juzgar vuestro razonamiento ni deciros\nqué hacer. Lo único que os pido es que reflexionéis.\c\nValorad las consecuencias y ved si vale la pena y si no\nhay otras medidas.\c\nTened presente que algunos sacrificios son necesarios,\npero otros no, y a veces cuesta discernir entre ambos.\c\nPoseéis unas mentes privilegiadas, y tenéis a vuestra\ndisposición una tecnología puntera...\c\nPero si os precipitáis, no solo no evitaréis los errores\npasados, sino que cometeréis otros nuevos.
+Lo que hace falta es imaginación.
+...
+¡Oh! Pero os he interrumpido en plena conversación,\n¿verdad? Perdonadme...
+Supongo que es hora de irnos.
+Vámonos, Aster.
+¡Whiii!
+...\c\n¿Pero quién diantre es esa chica?\c\nAparece de pronto y, como quien no quiere la cosa, nos\ninsta a un replanteamiento radical... Como si supiera con\r\ntotal certeza lo que va a ocurrir...
+Por cierto, profesor, antes de que nos interrumpiera...\n¿no iba usted a explicarnos algo?
+¡Ah, sí, tienes razón!\nVeréis, a decir verdad...\c\nNecesitamos otro fragmento de meteorito, de mayor\npureza, para poder crear el portal dimensional.
+¿Sugiere que regresemos a la Cueva Granito?
+No exactamente... El Fragmento de Meteorito que ahora\nnecesitamos solo puede hallarse en la Cascada Meteoro.
+¡La Cascada Meteoro!\nEntiendo... Tal vez allí encontremos algo...
+Me adelantaré a la Cascada Meteoro. Tú prepárate y ven\ncuando estés list[VAR GENDBR(00FF,0101)]oa.\c\nPuede que allí encontremos algo más que el Fragmento\nde Meteorito.
+Todo está dispuesto. Lo único que nos falta ahora es el\nFragmento de Meteorito de la Cascada Meteoro.\c\nSteven ya está en camino. Cuento contigo también.
+Tienes el don de la oportunidad, [VAR TRNAME(0000)].
+Tienes el don de la oportunidad, [VAR TRNAME(0000)].
+El Equipe Magma...
+El Equipe Aqua...
+¿Qué pretendéis hacer con eso?\c\n¿No os dais cuenta de que es nuestra última esperanza\npara salvar al mundo?
+...\c\n...\c\n...\c\n¿Esperanza?
+¿Tú me hablas... de esperanza?
+...\c\n...\c\n?¡Jaa, ja, ja!?
+¡Jua!\c\n¡Jua, jua!
+?¡Jaa, ja, ja, ja!?\c\n?¡Jaa, ja, ja, ja, ja, ja, ja!?\c\n?¡Jaa, ja, ja, ja, ja, ja, ja, ja, ja!?
+¡Jua, jua, jua!
+...\c\nLa organización en la que yo tenía depositada... mi\nesperanza...
+...\c\n¡Esto no es cosa de risa! ¡Basta ya!
+Ha sido destruida a manos de su propio jefe, Maxie.
+Yo... que lo consideraba mi hermano...
+¡Destruida hasta los cimientos!\n¡Por su propio creador!
+Como si todos los lazos creados... que habíamos\ncompartido hasta el momento... todo lo hecho...\r\n¡hubiera sido un inmenso error!\c\n¡Y todo por tu culpa! ¡Desde que apareciste tú, el jefe\nha cambiado por completo!
+Qué bien te viene culpar a otros...
+¡Cállate!\c\n¡Brrr!\c\nYa... Ya no...\n¡No quiero saber nada más de este mundo!
+¡Silencio!\nYo... yo...
+¡Ajá!\nCrees que no lo sé, pero lo sé.\c\nEl cohete alberga en su interior la energía vital de un\nPokémon...\c\nUna fuerza tan poderosa o más que el arma definitiva\nque se empleó en la guerra de hace tres mil años.
+¿Crees que no lo sé? Pues resulta que sé perfectamente\nque el cohete alberga una energía increíble.\c\nMás potente incluso que el arma definitiva empleada en la\nguerra de hace tres mil años.
+¿...?
+¡Ja, ja, ja!\c\nPrepárate, porque la explosión que vas a ver será tan\ngrande, tan devastadora...\c\nQue, a su lado, la que puso fin a la guerra parecerá solo\nun petardo. ¡Te lo digo yo!
+Gracias a la Piedra Activadora que encontré en la Cascada\nMeteoro, la energía contenida en su interior se liberará\r\ncon toda su hermosa fuerza devastadora.\c\n¡Haré megaevolucionar a vuestro cohete! ¡Jaaa, ja, ja!
+Es cierto que podría dejar que el meteorito impactara,\npero hay algo que no termina de convencerme...\c\nPara mí es mucho mejor tomar la iniciativa y reventar el\ncohete yo misma. ¡Es más seguro!
+¡Ni meteoritos ni porras!\n¡Pondré fin a todo yo mismo! ¡Ipso facto!
+¡Es hora de ultimar el Proyecto AZOTH!\c\nLo que por supuesto implica la aniquilación total de este\ntrasladador dimensional...\c\n?Al fin y al cabo, no nos podemos arriesgar a que lo\nutilicéis con el Meteorito, ¿verdad??
+¡Hora de poner la guinda final al Proyecto AZOTH!\n¡Yo haré que el mundo regrese a su origen!
+[VAR TRNAME(0000)]...
+[VAR TRNAME(0000)]...
+¡Lo que dice no es ningún farol!\c\nDebemos pararle los pies o el mundo se verá abocado a\nla más horrenda de las catástrofes.
+¿Estás preparad[VAR GENDBR(00FF,0101)]oa para luchar?
+...\c\nDe acuerdo, lo entiendo. Persona precavida vale por dos,\n¿eh? No esperaba menos.
+¡Bien!
+No... podrás... ¡ganaaar!
+¡Aaarg!\n¡Te voy a hacer puréee!
+¡Pero qué...! ¡Pero cómo...!\c\n¡¿Por quéee?!\c\n¡¿Por qué siempre tienes que entrometerte?!
+¡Aaaarg!\nAy... Ay...
+¡Maldita sea!\nMaldita sea...
+¡Maldición!\nJefe... He vuelto a fracasar...
+...
+¡Ahora, [VAR TRNAME(0000)]!\n¡El trasladador dimensional!
+¡Ahora, [VAR TRNAME(0000)]!\n¡El trasladador dimensional!
+¡Whisss!
+¿Eh?
+¡¿Qué...?!
+¡Aster le ha arrebatado el trasladador dimensional a\nCourtney!
+¡Aster le ha arrebatado el trasladador dimensional a\nMatt!
+Este Pokémon...
+???: ¡Tres puntos, Aster!
+La chica del Clan...
+Meteoro, exacto.\nTristana, para servirles.
+¡Aster!
+¡Whiii!
+Gracias.
+Bueno...
+Esta máquina es increíble.\c\nMandas el meteorito a otro lugar adonde no moleste y,\nhala, asunto zanjado, ¿verdad?
+¡Ja, ja! Es tal y como dijo el Campeón: la última\nesperanza para los humanos y los Pokémon que viven\r\nen este planeta.
+Pero hay un ligero inconveniente.
+¿Sois conscientes de que vuestra dicha podría suponer\nla más absoluta desesperanza, el desastre total para\r\notros humanos y Pokémon?
+¿Qué quieres decir con eso?
+Incluso tú deberías ser capaz de comprenderlo.
+Bah.
+¿Qué me dices tú, [VAR TRNAME(0000)]?
+¿Qué me dices tú, [VAR TRNAME(0000)]?
+Tú entiendes que la esperanza de unos es la\ndesesperanza de otros, ¿verdad?
+Lo entiendo
+No lo entiendo
+Y no esperaba menos.
+¿No?\c\nBueno, tampoco me sorprende. La mayor parte de la\ngente no lo entiende...
+Es algo que siempre hemos sabido y que se ha\ntransmitido de generación en generación.\c\nLa megaevolución afecta al tejido de la realidad y crea\nfuertes fluctuaciones en el mismo.\c\nEsto puede desembocar en la disociación de la realidad,\nlo que se traduce en la existencia de mundos o\r\nrealidades alternativas o paralelas, observables y\r\ndefinidas.
+Pensad en un lugar casi idéntico a Hoenn, pero poblado\npor otros humanos y Pokémon.\c\nLuego pongamos que, en ese mundo, la evolución de los\nPokémon haya transcurrido por otros derroteros y que, de\r\nhecho, allí no exista la megaevolución.\c\nImaginemos también que allí jamás hubiera tenido lugar la\nguerra que asoló nuestro mundo hace tres mil años y que\r\nnunca se hubiera utilizado el arma definitiva.
+¿Qué ocurriría si apareciera un meteorito de la nada que\nfuera directo hacia ese mundo?\c\n¿Qué sería de sus habitantes, quienes no poseen la\ntecnología capaz de destruir el meteorito ni de crear\r\nportales dimensionales?
+...\c\nLo que hace falta... es imaginación.
+¡Tristana ha destruido el trasladador dimensional!
+¡Insensata!\c\n¡¿Qué pruebas tenemos de la existencia de un mundo\nparalelo al nuestro?!\c\n¡Con la presente tecnología, no hay modo de demostrar\nesa teoría!\c\nPor lo que sabemos, es pura elucubración, y aun así...\n¡has destruido el trasladador!
+No puedo... creerlo.
+Adiós, esperanza vana.
+¡¿Te das cuenta de lo que has hecho?!\n¡¿Qué piensas hacer ahora al respecto?!
+Cálmese, profesor.
+Todo irá bien. Yo... O mejor dicho, nosotros aún podemos\nsalvar este mundo y cualquier otro.
+¿Cómo que “nosotros”?\n¿Qué quieres decir?
+¡Oh, es verdad!\nHabía olvidado una cosa.
+¿Pero... qué...?
+¡¿...?!
+¡Tristana le ha quitado la Piedra Activadora a Courtney!
+¡Tristana le ha quitado la Piedra Activadora a Matt!
+¿Eh? ¿Qué...?
+Oh... ¿Ooh?
+La Piedra Activadora...\c\nAhora lo que debemos hacer es emplearla con ese\nartilugio que tienen en su guarida.
+¡Whiii!
+Parece que debo ocuparme de otro asunto.\n¡Hora de largarse! ¡Nos vemos!
+[~ 159]
+[~ 160]
+[~ 161]
+¡Hasta pronto!
+¡Whiii!
+Pero...\nLa Piedra...\c\n¡La Piedra Activadora de Maxie!\n¡Me la acaba de birlar! ¡La muy...!\c\n¡Maldita sea!
+¡Maldita sea!\c\n¿Cómo se atreve a robar la Piedra Activadora de Archie?\n¡Imperdonable! ¡Inconcebible!
+Aaargh... Entonces, seguro que se dirige a la guarida del\nEquipe Aqua.
+Aaargh... Entonces, seguro que se dirige a la guarida del\nEquipe Magma.
+Hmm... Tristana ha mencionado el Pilar Celeste, y ese\nlugar solo es accesible a unos pocos.\c\nLos herederos del saber ancestral, destinados a\ntransmitirlo a las generaciones futuras.
+¡Te estaba esperando, [VAR TRNAME(0000)]!
+¡Te estaba esperando, [VAR TRNAME(0000)]!
+¿Te acuerdas de Wallace, de Sootopolis?
+Me alegra oírlo.
+¿No? Pobre Wallace...
+Wallace, el Líder de Ginásio de Sootopolis, debería ser\ncapaz de romper el sello que impide la entrada al Pilar\r\nCeleste.\c\nEs una de las pocas personas que ha recibido y puede\ntransmitir ese conocimiento ancestral.
+Me quedaré junto al profesor y su equipe para tratar de\nelaborar un plan.\c\nEsa mujer, Tristana... No puedo confiar en ella.\c\nYa se nos ocurrirá algún modo de detener el meteorito\npor nuestros propios medios.
+A ti te corresponde encargarte de Tristana y del Pilar\nCeleste.\c\nYo contactaré con Wallace para que te preste la ayuda\nnecesaria.\c\nSe encuentra en la [VAR COLOR(0002)]Cueva Ancestral [VAR COLOR(0000)]de [VAR COLOR(0002)]Sootopolis[VAR COLOR(0000)].
+Déjame...
+Buaaa... Snif, snif...
+Ca-Courtney...\nTu lado vulnerable también es hermoso...
+Matt...\nYo estaré a tu lado para consolarte...
+¡No es momento para desanimarse!\n¡Debo hallar el modo de reparar el trasladador\r\ndimensional!
+Hay varios ordenadores con pinta de ser carísimos.\c\nEn los monitores puede apreciarse una serie frenética de\nnúmeros y símbolos matemáticos.
+¡Reacción energética detectada!
+¡Confirmada desintegración del meteorito!
+¡Pro-pro-pro-pro-profesooor!
+¡El me...! ¡El me...! ¡El meteorito!\nSe ha... Se ha... ¡desintegradooo!
+¡Mantengamos la calma! ¡Somos profesionales!
+Aunque debo reconocer... que hay ocasiones que se\nprestan a cierta euforia... Y yo... yo también...\c\n¡Yo también alucinooo! ¡Vivaaa! ¡Eurekaaa!\n¡Mua, ja, ja, ja, ja!
+Ja, ja, ja...\c\n...
+Te estoy muy agradecido, [VAR TRNAME(0000)]...
+Te estoy muy agradecido, [VAR TRNAME(0000)]...
+¡Oh! ¡Hola!
+¡Te estamos muy agradecidos por todo lo que has hecho!\n¡Nos has ayudado a salvar el mundo, nada menos!
+Podría estar dándote las gracias hasta fin de año, y aun\nasí nos quedaríamos cortos.
+Por cierto, creo que lo justo sería mostrarte los últimos\nresultados de nuestra investigación.
+¡Enseguida! ¡Marchando!
+Tras una minuciosa y exhaustiva inspección del\nmeteorito, hemos realizado hallazgos importantes.
+Corrígeme si me equivoco, pero diría que, al destruir el\nmeteorito... viste también a cierto Pokémon.
+Pues bien, tras el minucioso análisis de la impronta\nenergética, hemos deducido lo siguiente:\c\nSe trata de Deoxys, un Pokémon singular que vive en el\nespacio exterior.
+Y observando sus reacciones y movimientos, hemos\ndeducido que se ha valido de un meteorito errante para,\r\ntras alterar su trayectoria, desplazarse hasta la región de\r\nHoenn.
+Debo reconocer que el motivo de sus actos todavía\nescapa a nuestro entendimiento...
+Pero creo que podemos descartar, cuando menos, que\nsu objetivo fuera la destrucción del planeta.
+La investigación sigue su curso, por lo que pronto\nesperamos contar con resultados que nos permitan\r\nexplicar la conducta y las motivaciones de Deoxys.
+Si descubres cualquier información sobre Deoxys que\npudiera sernos de utilidad, no dudes en comunicárnosla.
+Por cierto, hay otra cosa que deberías saber.\c\nHemos detectado la impronta energética de Deoxys en\nla región de Hoenn. Concretamente, [VAR COLOR(0002)]en un punto de la[VAR COLOR(0000)]\r\n[VAR COLOR(0002)]Rota 131[VAR COLOR(0000)]...\c\nPor ahora, no podemos ser más precisos en cuanto a\nsu ubicación, pero tal vez te apetezca ir en persona a\r\ninvestigar...
+[~ 206]
+[~ 207]
+[~ 208]
+[~ 209]
+[~ 210]
+[~ 211]
+[~ 212]
+[~ 213]
+[~ 214]
+[~ 215]
+A propósito, cuando veo a ese Beldum blanco que te\nacompaña en tu viaje, no puedo evitar acordarme del\r\ninstante en que vi descender del Pilar Celeste a\r\nRayquaza, el Pokémon legendario.\c\nHace ya un tiempo de aquello... Pero recuerdo como\nsi fuera ayer unir fuerzas en combate con un joven\r\nTreinador y su fiel Mega-Charizard negro.\c\nEl Pilar Celeste...\nNo sé qué te aguarda allí, pero te recomiendo\r\nencarecidamente tener el mayor de los cuidados.
+¡Y utilizarla para crear un portal dimensional!
+Si logramos emplazar dicho portal justo en la trayectoria\ndel meteorito, deberíamos ser capaces de interceptarlo y\r\ntransportarlo a otro lugar.
+Imagino que ya sabéis de lo que hablo...\c\nTe subes encima, te hace dar vueltas y vueltas...\n¡Y zas! ¡Te transporta a otro lugar!\c\n¿No lo habéis usado nunca?
+No sé... Tengo la sensación de haberla visto ya en algún\nlugar...
+Piensa, Steven, piensa...\n¿Qué podemos hacer?
+¡[VAR TRNAME(0000)] le ha entregado el Fragmento de\nMeteorito al Profesor Cozmo!
+Nunca había visto a nadie como esa chica de antes...\c\nTransmitía tal fuerza, una intensidad tan enorme...\nque me he quedado achicadita perdida.
+Los problemas no se van solos. De hecho, si los dejas\ncrecen y se reproducen.\c\nPor eso es un deber moral para todo científico alumbrar\na la humanidad y tomar el testigo con decisión para\r\nllevar a todos a un futuro mejor...\r\nDespués de la siesta.
+¡Steven me ha entregado su Fragmento de Meteorito!\c\nAhora solo queda extraer su energía para alimentar\nla máquina.
+~~~~~~~~~~~~~~~
+Text File : 500
+~~~~~~~~~~~~~~~
+El despegue del cohete es inminente.
+El despegue ha sido todo un éxito.\nCon este ya son un total de [VAR NUM4(0000,0000)].
+Debo proteger el cohete...\nPero también debo pensar en mí...
+El lanzamiento de un cohete debe ser absolutamente\nperfecto.\c\nAunque el 99% salga bien, de nada sirve si el 1% falla.\c\nA pesar de eso, seguimos intentándolo.\n¿Que por qué? Porque es nuestro sueño.
+Esos tipos...\n¿Pretenden robarnos el cohete?
+Me estaba dando una vuelta por la playa cuando\nencontré esto.\c\nYo no lo necesito, así que puedes quedártelo.
+La región de Hoenn es famosa por sus lluvias de\nmeteoritos.
+¡¿Pe-pe-pero por quéee?!\c\n¡¿No habían dicho por el VideoNav que los del equipe\nyo-qué-sé se habían reformado?!
+Algunas personas dicen que los Pokémon llegaron del\nespacio. ¿Será verdad?
+En un momento así, lo único que puedo decir es:\n¡¿Lo cuálooo?!
+Me encantaría poder ir al espacio en cohete...\nAsí podría montar guateques estelares con los Pokémon.\r\nJue, jue...
+Aunque tampoco me importaría montar un buen sarao con\nesos granujas...
+¡Un cohete!\c\n¡Mola!
+¡La primera vez que veo quintillizos!\n¡Qué suerte tengo!
+Un enorme trozo de metal que puede salir volando al\nespacio... ¡Yo es que alucino!
+¡Esos pillastres!\n¡No puedo moverme ni un tanto así!
+Lo siento, pero no puedo dejaros subir.\nYa hay demasiada gente.
+No tendría que haberles dejado pasar, pero las piernas no\nme responden. ¡No puedo moverme!
+¡Je, je, je!
+Hete aquí otra vez.
+Hace ya... Esto... ¿Cuánto hace?
+¡Merluzo!\n¡Eso da igual que da lo mismo!
+¡Prepárate!\n¡No somos unos quintillizos cualesquiera!
+Uf, uf...\nVa a ser que no...
+¡Y yo que quería lucirme en combate como los Hoenn\nRangers!
+Qué raro.\c\nSe suponía que la técnica suprema de intimidación y\nacoso a cinco bandas era infalible.\c\n¡Seguro que has hecho trampa!\nBrrr...
+¡Merluzo!\c\n¡Recoge tu honor del suelo y haz lo que tienes que hacer\npor una vez en la vida!
+Courtney está en el piso de arriba.\c\nY aunque me pese decirlo, no hemos sido capaces de\ndetenerla. Por favor, hazlo tú.
+¡Joo, jo, jo!
+¡Otra vez tú!
+Hacía ya...\n¿Cuánto hacía? Ya no me acuerdo...
+¡Déjate de tonterías!\n¡Eso ahora da igual, que da lo mismo!
+¡Prepárate!\n¡No somos unas quintillizas cualesquiera!
+Uf, uf...\nVa a ser que no...
+¡Y yo que quería lucirme en combate como los Hoenn\nRangers!
+Qué raro.\c\nSe suponía que la técnica suprema de intimidación y\nacoso a cinco bandas era infalible.\c\n¡Seguro que has hecho trampa!\nBrrr...
+¡Será posible!\c\n¡Recoge tu honor del suelo y haz lo que tienes que hacer\npor una vez en la vida!
+Matt está en el piso de arriba.\c\nY aunque me repatee decirlo, no somos capaces de\ndetenerlo. Por favor, hazlo tú.
+Tú debes de ser [VAR TRNAME(0000)], ¿verdad?\c\nEl Sr. Steven Peñas ya me dijo que vendrías.\nPor aquí, por favor.
+¡Los Hoenn Rangers! ¡Los superhéroes de la región\nde Hoenn!\c\nSu misión: luchar por la coexistencia pacífica entre\nhumanos, Pokémon y naturaleza.
+¡Los Hoenn Rangers! ¡Los superhéroes de la región\nde Hoenn!\c\nUna figura de Pacifidlog Añil, miembro de los Hoenn\nRangers, caracterizada por su serenidad y baja forma.\c\nEn la etiqueta no pone nada. No hay forma de saber el\nprecio.
+Es una maqueta del cohete.\nHay una nota que dice:\c\n“El primer cohete de la historia. Gracias a la Energía\nInfinita patentada por Devon S. A., era capaz de superar\r\ndos veces la velocidad de escape e impulsarse al espacio\r\nexterior”.
+Uah...\nEsa lluvia de meteoritos de Litleo ha sido increíble...
+Esa lluvia de meteoritos de Litleo ha sido una pasada...
+Voy a tener que darle las gracias a tu padre por esto.
+Voy a tener que darle las gracias a tu padre por esto.
+Y es que...
+Es... No sé... Es como...
+Nunca había sentido algo así...
+Como si un Bouffalant me hubiera pasado por encima.
+Muchas gracias a ti también, [VAR TRNAME(0000)].
+Muchas gracias a ti también, [VAR TRNAME(0000)].
+Me ha hecho mucha ilusión poder verlo contigo.
+Me ha hecho mucha ilusión poder verlo contigo.
+[~ 54]
+Megafonía: Atención, les informamos de que el Centro\nEspacial de Mossdeep cerrará sus puertas en breve.\c\nPor favor, comprueben que llevan todas sus pertenencias\nconsigo antes de salir. Muchas gracias por su visita.
+Es verdad que el tiempo vuela cuando te lo pasas bien.
+El tiempo vuela cuando te lo pasas bien, ¿eh?
+Bienvenid[VAR GENDBR(00FF,0101)]oa al Centro Espacial de Mossdeep, donde el\nlejano espacio exterior está al alcance de tu mano.\c\nDisfruta de la visita.
+Aaay...\nQué tipos tan extraños... Me dan miedo.\c\nPero no debo alterarme, soy una profesional...
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+Algo invisible corta el paso...
+¿Quieres usar el Detector Devon?
+[VAR TRNAME(0000)] ha usado el Detector Devon.
+¡Un Pokémon invisible se ha vuelto visible!
+¡El Pokémon se ha asustado y te va a atacar!
+Dicen que no hay dos sin tres...\n¿Significa que la próxima vez también perderé?
+Si fuera una Hoenn Ranger, habría ganado sin\ndespeinarme.\c\n¡Voy a entrenar día, noche y hasta fines de semana\npara ser una Hoenn Ranger con todas las de la ley!
+¡Cinco, ni tres ni cuatro! ¡Cinco contra uno y hemos\nperdido! ¡Esto no tiene nombre!\c\n¡Tú has hecho trampa, fijo! Si no, ¿de qué ibas a ganar?\nBrrr...
+¡Será posible! ¡Si te aplicaras la mitad de lo que berreas,\nserías Campeona de la Liga Pokémon!
+Matt está en el piso de arriba.\c\nY aunque me repatee decirlo, no somos capaces de\ndetenerlo. Hazlo tú... Por favor.
+Dicen que no hay dos sin tres...\n¿Significa que la próxima vez también perderé?
+Si fuera un Hoenn Ranger, te habría ganado sin\ndespeinarme.\c\n¡Voy a entrenar día, noche y hasta fines de semana\npara ser un Hoenn Ranger con todas las de la ley!
+¡Cinco, ni tres ni cuatro! ¡Cinco contra uno y hemos\nperdido! ¡Esto no tiene nombre!\c\n¡Tú has hecho trampa, fijo! Si no, ¿de qué ibas a ganar?\nBrrr...
+¡Merluzo! ¡Si te aplicaras la mitad de lo que berreas,\nserías Campeón de la Liga Pokémon!
+Courtney está en el piso de arriba.\c\nY aunque me pese decirlo, no somos capaces de\ndetenerla. Por favor, contamos contigo.
+No sabía cómo acabaría todo y me temía lo peor.\nPero gracias a ti ya no corremos ningún peligro.\c\nMuchas gracias.
+~~~~~~~~~~~~~~~

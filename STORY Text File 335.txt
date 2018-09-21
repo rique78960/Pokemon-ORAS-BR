@@ -1,0 +1,40 @@
+~~~~~~~~~~~~~~~
+Text File : 335
+~~~~~~~~~~~~~~~
+¡Así que has venido!\n¡Gracias!
+¡No sabes qué alegría me das, [VAR TRNAME(0000)]!
+¡No sabes qué alegría me das, [VAR TRNAME(0000)]!
+Que no te quepa la menor duda...
+Has sido un buen chico, así que te mereces algo que\nhe guardado con mucho celo.
+Has sido una buena chica, así que te mereces algo que\nhe guardado con mucho celo.
+Las pinturas rupestres que ves en esta torre son un\nlegado de nuestros ancestros, el Clan Meteoro.\c\nEn ellas nos transmiten la leyenda de ciertos hechos\nacaecidos hace miles de años, protagonizados por cierto\r\nPokémon...\c\nEsta es la historia...
+Hace miles, miles de años, el planeta rebosaba de\nuna poderosa energía natural...\c\nGroudon y Kyogre, en su apariencia primitiva, se\nenfrentaban violenta e incesantemente por hacerse con\r\nella.
+Para los humanos, no había manera de detener a Groudon\nni a Kyogre en su apariencia primitiva. Solo podían\r\nesperar a que pasara la amenaza...
+Y fue entonces cuando, de más allá del cielo, de las\nprofundidades mismas del espacio exterior, arreció sobre\r\nel mundo una tremenda lluvia de meteoritos.\c\nResultó que uno de ellos fue a impactar directamente\nsobre una cascada que había sido hogar de un clan\r\nespecializado en Pokémon de tipo Dragón.
+¡Y eso es todo por ahora!\n¡Hasta aquí llega el primer capítulo!
+En el siguiente piso te cuento como sigue.\n¡Ahí te dejo con las ganas!
+¡Aquí estás!
+¡Ponte cómod[VAR GENDBR(00FF,0101)]oa!\c\nVoy a narrarte el segundo capítulo de esa interesante\nhistoria.
+Presta atención...
+Aquel meteorito brillaba con los colores del arcoíris; era\ncomo si albergara vida...
+Entonces, como reaccionando ante ese brillo, descendió\nde los cielos un Pokémon de un maravilloso resplandor\r\nverde...\c\nNo era otro que Rayquaza.
+Rayquaza, valiéndose de un poder incluso superior al de\nsendos Pokémon ancestrales tras la Regresión Primigenia,\r\nlogró someterlos y la paz volvió al mundo.\c\nDesde entonces, los habitantes de Hoenn comenzaron a\nrendir culto a Rayquaza como su deidad salvadora.
+Mil años después, otro meteorito proveniente del espacio\nvolvió a impactar en la superficie del planeta.\c\nEste, mayor aún que el primero, penetró el océano y\nformó un cráter gigantesco.\c\nEl punto de impacto fue lo que hoy conocemos como\nSootopolis.
+Y...\n¡Aquí termina la segunda entrega!
+Pero esto es solo el principio...\n¡Búscame si quieres oír más!
+Bueno, bueno...\nAhora empieza la mejor parte.\c\nNos habíamos quedado en que ese enorme meteorito dio\norigen a lo que hoy se conoce como Sootopolis, ¿sí?
+A continuación, los habitantes de la región tuvieron que\nhacer frente a algo todavía peor.\c\nA causa del impacto, se fracturó la superficie terrestre y\nde su interior comenzó a brotar la energía de la\r\nnaturaleza...\c\nEntonces, Groudon Primigenio y Kyogre Primigenio,\nansiosos de hacerse con dicha energía, despertaron de\r\nnuevo.
+Los hombres recordaron lo sucedido mil años atrás...\nLa aparición de ese Pokémon legendario revestido de un\r\nverde resplandor...\c\nEl meteorito que había caído en el centro de Sootopolis\ncomenzó a emitir un intenso brillo.\c\nComo si se tratara de una inmensa Piedra Activadora...\c\nSeguidamente, Rayquaza bajó de los cielos una vez más.
+La gente elevó su ruego a Rayquaza, llegado desde un\nlugar recóndito del universo.\c\nInmediatamente, el aspecto de Rayquaza se transformó...\c\nTras cubrirse de una luz deslumbrante, reapareció con\nuna figura completamente distinta a la que los hombres\r\nconocían.\c\n¡Aún más majestuoso y lleno de vigor que la primera\nvez!
+Rayquaza había cambiado de forma en respuesta a la\npiedra multicolor y los vehementes ruegos de los\r\nhombres.\c\nSí, su ruego...\c\nTe sonará extraño, pero la forma de los Pokémon puede\ncambiar si el vínculo que los une a los hombres, su ruego\r\nen este caso, es lo bastante fuerte.\c\n¿No te recuerda a algo?\c\n¿No es algo parecido a la megaevolución?
+Bueno, continúo...\c\nTras haber adoptado esta nueva y maravillosa forma,\n¿salvaría Rayquaza a la humanidad?
+Así fue; Rayquaza volvió a interponerse entre Kyogre\nPrimigenio y Groudon Primigenio.\c\nSus bigotes dorados cubrieron el cielo y, acto seguido,\nsu resplandor verde se intensificó y un poderoso viento\r\ncomenzó a soplar por los alrededores.
+La luz y el viento arrebataron inmediatamente la fuerza a\nKyogre Primigenio y Groudon Primigenio.\c\nAmbos Pokémon, desposeídos de su apariencia primitiva,\nse sumieron en las profundidades del mar y la tierra\r\nrespectivamente.\c\nTras esto, Rayquaza recuperó su apariencia anterior y se\nperdió volando en el firmamento.\c\nEste es el testimonio de un extranjero de imponente\nestatura que pudo contemplar la escena con sus propios\r\nojos:\c\n“Su aspecto, una vez transformado, era semejante al de\nla letra delta: ?. Todo sucedió gracias al poder de la\r\npiedra y los ruegos de los hombres”.
+Para rendir culto a esa piedra multicolor y aproximarse\nun poco más a Rayquaza, el Clan Meteoro edificó una\r\nenorme torre.\c\nAdemás, para que su experiencia y las hazañas de\nRayquaza no cayeran en el olvido, las plasmaron en estas\r\nparedes para la posteridad...
+Una gran torre...\nPinturas históricas...\c\nTengo la sensación de haber visto esa torre en alguna\nparte...\c\nBueno, con esto concluye mi relato.
+El final está a la vuelta de la esquina...
+De ahí en adelante, se sucedió un milenio de paz...\c\nNuestros ancestros del Clan Meteoro, basándose en su\nexperiencia y en los ciclos históricos observados,\r\nprofetizaron el advenimiento de un nuevo meteorito.\c\nEn esta ocasión, de un tamaño mucho mayor que los\nanteriores. Capaz de aniquilar el mundo...
+Para detener esta amenaza, los herederos del saber\nancestral decidieron invocar a Rayquaza, nuestra deidad\r\nsalvadora, justo antes del impacto y salvar así el mundo\r\nde una destrucción segura.
+Y con esto, ahora sí, doy punto y final al relato del Clan\nMeteoro.
+No te puedes imaginar el tiempo que he dedicado a\npensar en el modo de garantizar la felicidad del mayor\r\nnúmero de personas posible.\c\n¿Qué harías tú si hubieras heredado la fuerza y la\nsabiduría?\c\n¿Si la voluntad de los ancestros pesara sobre tus\nhombros?\c\nPiénsalo, piénsalo...
+~~~~~~~~~~~~~~~

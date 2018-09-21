@@ -1,0 +1,253 @@
+~~~~~~~~~~~~~~~
+Text File : 337
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+Una maqueta de un gran barco.\nNo tiene ni una sola mota de polvo.
+Uma vitrine.\nNão pode ser aberto, está fechada com chave.
+A bandeira da Equipe Magma!
+...
+...
+...
+...
+...
+...
+¡Aaargh!
+¿Qué clase de conversación es esta?
+Uh...
+¡Tendré que ser yo quien se haga cargo de la situación!
+¡Courtney!
+¿Sí?
+¡Discúlpate de inmediato ante Maxie!
+...\n¿Ah?
+¡Pídele perdón de una vez!\n¡Vamos!
+Perdón...\n¡Perdóneme, jefe!\c\nNo lo volveré a hacer, lo prometo...
+Perdóneme...\nSe lo ruego...
+¡¿...?!
+Ay...\nSnif, snif...
+¿Mmm?
+Buaaa...\nSnif, snif...
+...\c\n...\c\nUh...
+De acuerdo...
+Yo, el noble Maxie, acepto tus disculpas.
+Pero con una condición...
+¿Una condición?
+¿...?
+Que me perdones tú a mí también...
+Sé la angustia que has pasado, Courtney...
+No podía imaginar hasta qué punto me adorabas, ni\ncuánto te afectarían mis acciones.\c\nYo soy quien te ha llevado a este difícil trance.\nLo siento muchísimo.
+¿Sabes qué, Courtney?\nMe gustaría iniciar un camino nuevo.\c\nHe cometido muchos errores y al fin he topado con la\ndura realidad...\c\nEso me ha hecho reconsiderar mis ideales y el propósito\nde mi vida...\c\nAunque a veces pueda resultar doloroso, tenemos que\nintentar comprendernos los unos a los otros.\c\nAsí podremos alcanzar la armonía con nuestros\nsemejantes, con los Pokémon y con la naturaleza misma.\c\nSí... Quiero romper todas las barreras y, en unión con\ntodos los que me rodean, crear algo nuevo.\c\nEsta es mi nueva visión.
+¿Estás dispuesta a seguirme en este nuevo camino,\nCourtney?
+Snif... ¡Buaaa!\n¡Por supuesto, Maxie! ¡Nada me haría más feliz!
+Hm...\nEstás hecha una llorona.
+¡Bieeeeeeen!\c\n¡Esto no podía terminar mejor!\n¡Yujuuuuuuuuu!
+¿Eh?
+¡Fantástico!\n¡La victoria es mía!
+¡Líder Maxie!\n¡Pero haga algo, deténgala!
+Argh...
+¡Yo... perder contra alguien así!
+?¡Whiii!?
+Estás contenta, ¿eh, Aster?
+Ja, ja, ja... Es como si fuera mi hija. Nos entendemos\nsin necesidad de palabras.
+Tú...\n¿Se puede saber quién eres?
+¿Quién soy?\nDifícil pregunta...
+...\n...\c\n¿Quién sabe quién soy? Lo único que sé... es que\nno soy quien debiera...\c\n...\n...
+Eh... ¡Bueno, basta ya!\nDejemos el psicoanálisis de estar por casa...
+¡[VAR TRNAME(0000)]!\n¡No te quedes ahí plantad[VAR GENDBR(00FF,0101)]oa!\c\n¡Acércate a mí!
+¡Tú...!
+¿[VAR GENDBR(00FF,0909)]El mocosoLa mocosa...?\n[VAR GENDBR(00FF,0202)]ElLa que faltaba...
+Eres un verdadero héroe dispuesto a salvar el mundo,\n¿eh?
+Eres una verdadera heroína dispuesta a salvar el mundo,\n¿eh?
+Pero es un poco tarde...\nDe haber aparecido hace tan solo un minuto...
+¡Tristana ha robado la Piedra Activadora a Maxie!
+¡¿Ah?!
+¡¿Lí-líder?!
+¡Fantástico!\n¡La Piedra Activadora es mía!
+Ya tenemos todo lo que necesitábamos...
+¿Mur?
+Con ella podremos al fin invocar...
+¡A Rayquaza!
+¡Aquí os quedáis, que ahora tengo una misión que\ncumplir!
+Esto, [VAR TRNAME(0000)]...
+Me gustaría que intentaras darme alcance.\c\nNos dirigimos a un lugar que fue sellado en el origen\nde los tiempos...\c\n¡El [VAR COLOR(0002)]Pilar Celeste[VAR COLOR(0000)]!
+Si hay algo que se te escapa, pregunta al antiguo\nCampeón; él podrá ayudarte.
+¡Hasta luego!
+¡Whiiis!
+¡Pero bueno!\n¿Qué significa todo eso?\c\nSe mete en nuestra guarida como Pedro por su casa y\nse larga como si tal cosa.\c\n¡Esto es imperdonable!
+...\n...
+Vaya, vaya...
+Tu presencia aquí no puede ser una casualidad...
+¿Líder...?
+¡Tatiano!\nDale esto al crío, anda.
+¡Tatiano!\nToma esto para la cría.
+¿Eh?\n¿Está seguro, jefe?
+Me es inútil...\c\nAhora que me han robado la Piedra Activadora, no tengo\nmedio de usar esta Megapiedra...
+A sus órdenes...
+Es una Cameruptita...\nAnda, dásela a tu Camerupt y verás.
+Ahora mismo carezco de la fuerza necesaria para llevar a\ncabo la megaevolución...\c\nTú harás mejor uso de esta Megapiedra...\n¡Confío en ti!
+Esa chica de antes es capaz de utilizar Pokémon de tipo\nDragón a su antojo...\c\nNo es una persona al uso...
+Me pregunto qué se le cuece en la mollera...\nEn fin, ahora solo tú eres capaz de ponerle freno...\r\nConfío en ti. Lucha en mi lugar y pon fin a esta crisis.
+Tu Pokémon MultiNav está sonando:\n“Llamada Entrante (Versión 0.09)”
+Steven: ¡[VAR TRNAME(0000)]!\n¿Todo bien?
+Steven: ¡[VAR TRNAME(0000)]!\n¿Todo bien?
+Steven: ...\c\nYa veo...\c\nLa Piedra Activadora, el Pilar Celeste, el Clan Meteoro...\nTodo está conectado con el cielo...\c\n¡Ven, date prisa!\nTenemos que hablar de nuestros siguientes pasos.\c\nMe encontrarás en la primera planta del Centro Espacial.\n¡Te espero!
+Bip-bip...
+La chica ha dejado caer que el antiguo Campeón podrá\ninformarte...\c\nSeguro que tú sabes mejor que nadie dónde puedes\nencontrarlo.
+¡El líder Maxie lo ha dejado en tus manos!\n¡No le defraudes!
+Eh, chaval...\c\nNo, perdona. A partir de ahora, debo llamarte por tu\nnombre, [VAR TRNAME(0000)].
+Eh, chavala...\c\nNo, perdona. A partir de ahora, debo llamarte por tu\nnombre, [VAR TRNAME(0000)].
+Adelante, eres libre de quedarte en nuestra guarida\nuna hora, un día o lo que prefieras.\c\nSiempre serás bienvenido, [VAR TRNAME(0000)].
+Adelante, eres libre de quedarte en nuestra guarida\nuna hora, un día o lo que prefieras.\c\nSiempre serás bienvenida, [VAR TRNAME(0000)].
+¡Jo, jo!\n¡Escucha con atención, pequeñ[VAR GENDBR(00FF,0101)]oa!\c\n¡Ya no soy un simple Comandante en el nuevo Equipe\nMagma! Ahora soy...\c\n¡Comandante en jefe! ¡Me han ascendido!\n¡Jo, jo, jo!\c\nSi es que... ¡el que vale, vale!\n¡Joo, jo, jo, jo, jo!
+...\c\nBienvenid[VAR GENDBR(00FF,0101)]oa.\c\n...\c\nTienes buen aspecto.
+~~~~~~~~~~~~~~~
+Text File : 338
+~~~~~~~~~~~~~~~
+¡Es la bandera del Equipe Magma!
+Hay varios documentos esparcidos sobre la mesa:\c\n“Cómo mejorar el sistema de evaluación de reclutas”,\n“Planificación del Equipe Magma (10 años vista)”,\r\n“Solicitud de ascenso a Comandante (Tatiano)...”.
+En la pantalla se ven varias fotos de Maxie tomadas en\ndistintas épocas. Se le ve bastante cambiado de unas a\r\notras.
+~~~~~~~~~~~~~~~
+Text File : 339
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+...\n...\c\n?Ja...?\n...\c\nSabía que vendrías.
+Aunque a buenas horas llegas...\c\nYa está todo listo.\nLa remodelación del submarino ya ha concluido.
+?Mira...?\nBonita perforadora, ¿no te parece?\c\n?Con ella nos abriremos paso hasta la Caverna Abisal.?
+...\c\nSolo me queda una tarea por hacer...\nConsiste en retenerte...
+Hasta la partida de Maxie.
+Me gustaría...
+Hacer una cosita...
+Contigo.
+Quisiera ponerme en contacto...
+Contigo...
+Para analizarte.\n?Ja, ja, ja...?
+...
+Cámbialo...\nCambia el mundo...
+Líder Maxie...
+...
+Misión...
+Cumplida.
+El líder Maxie ha logrado partir...
+En pos del progreso de la humanidad...
+En pos de nuestro sueño...
+...\c\nTe daré una pista para que puedas llegar a ver con tus\npropios ojos lo que tanto ansiamos...
+Nuestro jefe se dirige a la Caverna Abisal, ubicada en las\nprofundidades marinas frente a Lilycove.
+Ni yo misma sé cómo se accede.\nY aun sabiéndolo, no creas que te lo diría...\c\n?Ja, ja, ja...?
+¿Qué harás ahora?\c\nQuizás deberías visitar las costas de Lilycove...\n?Ja, ja...?
+Son unos planos en los que pone lo siguiente:\c\n“Modificaciones previstas para el Submarino Explorador 1”.
+Son las instrucciones para manejar el panel que controla\nlas compuertas.
+¡Jo, jo, jo!
+¡Volvemos a encontrarnos!
+¿Cómo?\n¿Que es la primera vez?
+¡Bah!\nYa ves tú qué problema...
+¡Prepárate!\n¡Vas a ver el poder de los quintillizos!
+Ja, ja, ja...
+Qué fracaso...
+Me extraña que hayas vencido.\c\n¿Cómo una criatura es capaz de derrotar a cinco\npersonas? Has debido de hacer trampas...
+¡Merluzo!\c\n¡Recoge tu honor del suelo y haz lo que tienes que hacer\npor una vez en la vida!
+Adelante. Nuestro jefe se ocupará de ponerte en tu sitio.
+Si estás buscando la habitación del jefe, no es por aquí.\c\nY ya van dos. Antes ha venido una chica con un Whismur\nque andaba buscando lo mismo.
+Por lo que se ve, la chica que ha venido antes\npreguntando por la habitación del jefe era una intrusa.\c\nEsto me lo descontarán del sueldo, ya verás.\nNuestro jefe da miedo cuando se enfada.
+~~~~~~~~~~~~~~~
+Text File : 340
+~~~~~~~~~~~~~~~
+Es un dispositivo capaz de emitir un rayo láser dirigido\nal Meteorito.\c\nHan debido de estar experimentando con él hace nada,\nporque aún huele un poco a chamuscado a su alrededor.
+Proyecto AZOTH\nExpediente n.º 2:\c\n“Tenemos que prestar atención a la potencia del arma\ndefinitiva usada en la región de Kalos hace 3000 años.\c\nBasándonos en esa tecnología, es necesario desarrollar\nun arma de perforación.\c\nLa Caverna Abisal está sellada por la energía del\nPokémon legendario, y la única forma de penetrar en la\r\ncaverna es romper el sello con un poder mayor que el\r\nque posee dicho Pokémon.\c\nSegún la información recabada por el equipe\nde investigación en Cidade Petalburg, Devon S. A. ha\r\nlogrado desentrañar los misterios tecnológicos del\r\narma definitiva.\c\nVamos a desplegar todos nuestros recursos para hacernos\ncon dicha tecnología”.
+Es una máquina que pone a prueba el aguante del traje.\nLos paneles están llenos de botones con las siguientes\r\ninscripciones:\c\n- Golpear con fuerza\n- Aplastar con dureza\r\n- Estirar con brío\r\n- Lanzar con brusquedad\r\n- Quemar con intensidad\r\n- Sumergir con energía\r\n- Frotar con vigor\r\n- Restregar con ímpetu
+Hay un aviso muy claro en la pared:\c\n“¡Precaución! No jugar aquí dentro. ¡Es peligroso!\n¡Es verdaderamente peligroso! ¡Sumamente peligroso!\c\n¿En serio que es tan peligroso? ¡En serio!\nEl personal queda avisado: si no se lo creen y ocurre\r\nalgo serio, yo no quiero saber nada de nada”.
+Hay un traje protector en el dispositivo.
+Bip... Biiip... Biiiiiiip...\c\nSoy el dispositivo de inteligencia artificial que controla\nel desarrollo del Traje Magma.\c\nBiiip... El desarrollo del Traje Magma está ahora al 120%.\nEnhorabuena.\c\nBip... Bip... Bip... El Traje Magma puede exponerse a lava\nde cualquier temperatura.\c\nAsimismo, también puede soportar una fuerza gravitacional\nequivalente a la segunda velocidad cósmica.\c\nMuchas gracias por utilizar este traje de tecnología\nsuperultramegamoderna. Bip... Bip... Bip...\c\nEl interior del Traje Magma, no obstante, cuenta con un\níndice de humedad notablemente elevado.\r\nDisculpen las molestias.\c\nFin del mensaje... Bip... bip... Biiiiiiip...
+Este dispositivo permite controlar el rayo láser que apunta\nal Meteorito.\c\nSe pueden leer las siguientes inscripciones en el panel\nde control:\c\n- Disparar un poquito\n- Disparar lo justo\r\n- Disparar de buen rollo\r\n- Disparar a saco
+El Traje Magma es el culmen del progreso científico y el\navance tecnológico de Devon S. A. y el Equipe Magma.\c\nNuestro candente Tatiano, que trabajó en su día en\nDevon S. A., ha sido el artífice de tal invención.
+Cuando me entran unas ganas locas de beberme un\nzumo, me lo pimplo en un santiamén y me quedo tan a\r\ngusto. Me siento realizado.\c\nSé que puede parecer una memez lo de sentirse pleno\ncon unos objetivos tan triviales, pero yo soy un tío así de\r\nchulo. ¿Cómo te quedas?
+Los meteoritos...\nLa energía de la naturaleza...\r\nEl Pokémon ancestral...\c\nAquí tratamos de desentrañar los misterios que plantean\ntodos esos elementos.\c\nAhora mismo estamos realizando experimentos para crear\nartificialmente un Prisma Rojo, pero, por alguna razón que\r\nse nos escapa, no estamos teniendo éxito.\c\nEs un enigma demasiado complejo para la humanidad.
+~~~~~~~~~~~~~~~
+Text File : 341
+~~~~~~~~~~~~~~~
+Proyecto AZOTH\nExpediente n.º 1:\c\n“El Proyecto AZOTH tiene el objetivo de restituirlo todo\na su forma original.\c\nNuestras investigaciones concernientes a la Regresión\nPrimigenia de Groudon avanzan satisfactoriamente.\c\nLa Regresión Primigenia es un tipo de evolución superior\na la de aquellos Pokémon que simplemente\r\nmegaevolucionan.\c\nA diferencia de los procesos megaevolutivos, que\nconcentran la energía tanto de los Pokémon como de las\r\npersonas, Groudon concentra en su interior una gran\r\ncantidad de energía procedente de la naturaleza misma\r\npara aumentar imponderablemente sus capacidades”.
+Hay un monitor enorme en la pared.
+Cuentan que, hace tiempo, el jefe Maxie y Archie,\nel líder del Equipe Aqua, estaban en el mismo grupo.
+A ver, a ver... Snif, snif... Hmm...\c\n¡Bien! ¡Inspección olfativa diaria finalizada!\n¡Todo correcto! ¡El catre hiede como es debido!
+¡Quema, quema, quema!\c\n¡Buf, el magma que fluye por aquí está de un caliente\nque no veas!
+¡Eh, tú no puedes estar aquí!\c\nEsta es nuestra sala de mando y operaciones ultrasecreta.\n¡Aquí solo entra personal autorizado!
+Atención, revelación absurda: Si piensas en las siglas\ndel Proyecto AZOTH...\c\nY asumes que la A simboliza el comienzo, mientras que\nla Z representa el final, podemos deducir...\r\n¡Que no tengo ni idea de lo que son las otras letras!
+Todas las mañanas, a eso de las 11, nos reunimos aquí\ntodo el personal y escuchamos con atención las palabras\r\nde nuestro gran jefe, Maxie.\c\nUn día... tras otro... tras otro...
+Mira, una cama... ¡A descansar!
+~~~~~~~~~~~~~~~
+Text File : 342
+~~~~~~~~~~~~~~~
+¿Qué haces aquí? ¿Por qué vienes a dar la lata al\nEquipe Magma?\c\n¡El jefe no está aquí! ¡Ha salido a mangar algo\nimportantísimo!\c\n¿Qué? ¿Que adónde ha ido?\c\n¡Jua, jua, jua! ¿Pero tú te crees que te diría algo tan\nsumamente importante?
+¿Qué haces aquí? ¿Por qué vienes a dar la lata al\nEquipe Magma?\c\n¡Nuestro jefe no está aquí! ¡Ha ido a mangar un\nsubmarino!\c\n¿Qué? ¿Que adónde ha ido?\c\n¡Jua, jua, jua! ¿Pero tú crees que te diría algo tan\nsumamente importante?
+Hemos decidido reformar por completo el Equipe\nMagma junto a Maxie.
+Tenía el cabello oscuro, peinado bob... y una fuerza\nterrorífica...\c\nPero, para llegar hasta donde está el jefe, primero hay\nque cruzar una sala repleta de telepaneles.\c\nNo va a resultar tarea fácil.
+¡Por fin el gran resurgir del Equipe Magma!
+Brrr...\nTanto rato así en pie me está destrozando las piernas...
+Brrr...\c\nEl dolor está en la mente. He dejado de pensar en ello\ny me ha dolido igual, pero ha sido más llevadero.
+Hay que ver la de trabajo que da esto de reformar el\nEquipe Magma.
+Ahí dentro hay una chica... con un Whismur...
+¿A qué me dedicaré a partir de ahora?\c\nBueno, tengo un montón de tiempo, así que me lo\npensaré con calma.
+¿Qué haces aquí? ¿Por qué vienes a dar la lata al\nEquipe Magma?\c\n¡Nuestro jefe no está aquí! ¡Está en la Rota 122, de\ncamino al Monte Pira!\c\n¿Qué? ¿Que por qué se ha ido?\c\n¡Jua, jua, jua! ¿Pero tú te crees que te diría algo tan\nsumamente importante?
+¿Qué haces aquí? ¿Por qué vienes a dar la lata al\nEquipe Magma?\c\n¡Nuestro jefe no está aquí! ¡Está de camino a Cidade\nSlateport!\c\n¿Qué? ¿Que por qué se ha ido?\c\n¡Jua, jua, jua! ¿Pero tú te crees que te diría algo tan\nsumamente importante?
+¿Qué haces aquí? ¿Por qué vienes a dar la lata al\nEquipe Magma?\c\nBueno, qué importa...
+Increíble...\n¡Esa chica domina de forma espectacular a los\r\nPokémon de tipo Dragón! ¡Magistral!\c\nMe da que ni siquiera Maxie está a su altura...
+Esto de empezar de cero es un fastidio, ya lo sé,\npero si todos ponemos de nuestra parte, podremos\r\nlograr grandes cosas.\c\nAl menos, eso es lo que me transmite el Equipe\nMagma.
+Cabello oscuro, peinado bob...\c\nEntre tú y yo, es exactamente el tipo de mujer que a mí\nme gusta...
+Ha sido una detrás de otra...\c\nPero aunque llueva sobre mojado, no hay que tirar la\ntoalla. ¡Hay que tirar pa’lante!
+Por lo menos, Maxie está sano y salvo...\nNo todo va a ser malo, digo yo.
+~~~~~~~~~~~~~~~
+Text File : 343
+~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+Text File : 344
+~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+Text File : 345
+~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+Text File : 346
+~~~~~~~~~~~~~~~
+¡Que salten las chispas!
+Uf... Pues me da a mí que no va a caer esa breva.
+¡Uaaah!
+Uf, uf... casi se me sale el corazón por la boca. ¡No me\ndes esos sustos de muerte, por favor!\c\nA todo esto, ¿qué haces tú por aquí? ¿También has\nvenido en busca de Pokémon raros?
+Vaya cara de empanad[VAR GENDBR(00FF,0101)]oa... Es decir, que no tienes ni idea\nde qué estoy hablando, ¿no? Pues te lo explico.\c\nSegún me ha contado mi abuelo, corre el rumor de que\nhay un Pokémon Llama raro que lleva habitando en esta\r\ncueva muchos años.\c\nSe dice que su cuerpo recuerda al magma y tiene unas\nuñas muy afiladas...\c\nPero desde aquí todo se vuelve tan oscuro que resulta\nimposible avanzar si careces de Destello...\c\nDe hecho, hasta da algo de miedo. ¿Que no? Imagínate\nque en medio de la oscuridad te cae algo encima...\r\n¡Pues menudo mal rollito no saber lo que es!\c\nPor eso estaba pensando en volver a Lavaridge para\nprepararme como es debido e intentar venir de nuevo.\c\nAsí que yo me voy ya. Si tú vas a aventurarte por aquí,\n¡ten mucho cuidado!
+Así que tú también.\c\nDicen que hay un Pokémon Llama raro que habita en esta\ncueva desde hace mucho tiempo.\c\nY claro, yo también he venido a investigar, pero parece\nque no me he preparado lo suficiente...\c\nPrecisamente estaba pensando ahora que me sería mejor\nvolver a Lavaridge.\c\nAsí que yo me voy ya. Si tú vas a aventurarte por aquí,\n¡ten mucho cuidado!
+~~~~~~~~~~~~~~~

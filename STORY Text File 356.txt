@@ -1,0 +1,39 @@
+~~~~~~~~~~~~~~~
+Text File : 356
+~~~~~~~~~~~~~~~
+Hay un papel medio roto dentro de la carpeta con\ndocumentos.\c\n“Declaración de disculpas:\nYo, Déd...lo Cozm..., respo...ble de la pérdid... de la\r\n[VAR COLOR(0002)]Piedra Espíritu [VAR COLOR(0000)]...onada por la Mi...a P...rita”.\c\nEl resto es ilegible.
+Esto está repleto de todo tipo de artículos con un\ndenominador común: Skitty vestido de uniforme.\r\n¡Pero está de polvo hasta arriba!
+Hay un fichero sucio cuyo interior contiene resguardos\ndetallados de nóminas con notas ya viejas pegadas.\c\nLas letras están borrosas en algunos fragmentos y cuesta\nmucho leerlos.\c\n“Nombre: D...dalo Coz...o\nSueldo base: 1...85...9 $\r\nHoras ...xtra: 1...23 $”.\c\nEl resto es ilegible.
+Las estanterías están tan destartaladas que se podrían\nvenir abajo en cualquier momento.\c\nHay una consola antigua de dos pantallas. Parece algo\ndiferente a la que tienes tú...
+Qué monos son los Skitty... Me pregunto si estarían de\nmoda hace tiempo...\c\nPero, digo yo, ¿qué diantres harían aquí?\n¿No era esto una oficina?
+Hay un montón de cartas en una caja de hojalata.\n¿Quieres leerlas?
+Primera carta
+Segunda carta
+Tercera carta
+Cuarta carta
+Quinta carta
+Sexta carta
+Séptima carta
+No, gracias
+Querido papá:\c\nEspero que estés muy bien.\n¿Cómo va tu trabajo?\c\nPor aquí, todo bien: estudiando mucho y ayudando en\ncasa cuando puedo.\c\nMamá también está bien. Todas las noches me hace unas\ncenas riquísimas.\c\n¿Volverás por vacaciones?\c\nLa próxima vez que estés en casa, me gustaría que\nfuéramos a ver juntos el espectáculo espacial.\c\nP. D.: Te mando el dibujo que he hecho en la Escuela de\nTreinadores.\c\nÍcaro Cozmo
+Parecía una carta, pero ha resultado ser un dibujo.\c\nEn él se ve la cara de un hombre con las palabras “¡Papá,\nte quiero!” a su lado.
+Querido papá:\c\nEspero que estés muy bien.\n¿Cómo va tu trabajo?\c\nMe puse muy triste porque no viniste a casa durante las\nvacaciones.\c\nA mamá no pareció importarle tanto y siguió quedando\npor ahí con sus amigas.\c\nPor cierto, ha tardado en llegar, pero por fin recibí el\ntelescopio que me enviaste. ¡Es lo que siempre había\r\nquerido!\c\n¡Muchas gracias, papá! Sabes que me encanta mirar las\nestrellas.\c\nA veces me imagino que, mientras estoy viendo el cielo,\ntú también lo estarás mirando en algún lugar.\c\n¡La próxima vez que vengas a casa tenemos que ver las\nestrellas juntos!\c\nÍcaro Cozmo
+Querido papá:\c\nEspero que estés muy bien.\nNo te estás pasando de trabajar, ¿no?\c\nNo has vuelto a pasar por casa y ya estoy empezando a\npreocuparme, papá.\c\nMamá sale por ahí bastante y vuelve a casa con una\nsonrisa en la cara, así que está muy bien, por lo que se\r\nve.\c\nPor cierto, el Shelgon que me regalaste evolucionó\nfinalmente.\c\nShelgon me gustaba mucho porque parecía un meteorito.\c\nSalamence no me acababa de convencer, así que lo\nintercambié por el Solrock de un amigo mío.\c\n¡Lo siento mucho, papá! Pero es que Solrock me parece\nmucho más chulo.\c\nEsta noche me pondré a mirar las estrellas y pensaré en\nti, papá.\c\nÍcaro Cozmo
+Querido papá:\c\nMe alegré muchísimo de verte después de tanto tiempo.\c\n¡Fue genial jugar juntos e ir a ver el espectáculo espacial\nlos dos! ¡Me lo pasé genial!\c\nFue una lástima que mamá no pudiera venir con\nnosotros...\c\nY más triste aún que tú y ella discutierais esa noche.\c\nEstudiaré un montón y me portaré muy bien, como tú\nquieres, pero no discutáis más, por favor.\c\nMe gustaría seguir viendo las estrellas aunque tenga\ndeberes.\c\n¡Es que cuando sea mayor quiero dedicarme a\nestudiarlas!\c\nÍcaro Cozmo
+Querido papá:\c\nMuchas gracias por escribir. Estoy muy bien, así que no\nte preocupes.\c\nTengo muchísimas ganas de que nos volvamos a ver,\npapá.\c\n¿Sabes qué? Me he traído el telescopio que me regalaste\na la casa nueva.\c\nNo trabajes demasiado y cuídate mucho, ¿vale?\c\nSi hay dos cosas que tengo claras es que me gustan\nmucho las estrellas... ¡y que quiero mucho a mi padre!\c\nP. D.: Te mando a mi Skitty para que te haga compañía.\n¡Cuídalo mucho!\c\nÍcaro Cozmo
+Parecía una carta, pero ha resultado ser una foto.\c\nEn ella se puede ver a un chico con un telescopio y una\nmujer a su lado con cara de estar muerta de aburrimiento.
+¿Quieres leer otra carta?
+Es lo que queda de una revista con la foto de una chica\nque se parece a Lisia en la portada.\c\n“¡Se confirma el cierre del proyecto Malvalanova!\n¡Como consecuencia, se evalúa la clausura de Sea Mauville!\c\n¡Los trabajadores, preocupados por su empleo, salen a la\ncalle con gritos de protesta!\c\nLos ejecutivos de la corporación Gran Mauville aún no\nhan emitido ningún comunicado oficial al respecto.\c\nPor su parte, el responsable del proyecto Malvalanova,\nWattson, comentaba que...”.\c\nFalta el resto de la revista...
+...\c\n¡Spiritooomb!
+Hay una tarjeta de empleado de Sea Mauville cubierta de\nmoho. Puede leerse lo siguiente:\c\n“8.ª Cuadrilla de excavación. Equipe B.\nJefe: Stern”.
+Hay un cuaderno forrado en piel que se había colado por\nun rincón roto del mueble:\c\n“Los daños derivados por la cancelación del proyecto\nMalvalanova han sido devastadores.\c\nComo miembro del equipe directivo, me corresponde\nafrontar la responsabilidad y las deudas de este desastre.\c\nSin embargo, eso no va a compensar de ningún modo a\ntodos lo que van a perder su empleo.\c\nNo hay nada que yo pueda hacer por ellos y ahora mismo\nme siento completamente inútil.\c\nEl ideal de Wattson de crear un entorno sostenible para\npreservar el equilibrio natural y el de los Pokémon era\r\nencomiable. Realmente pienso que Wattson es un hombre\r\ndigno de admirar.\c\nPero, sus grandes sueños, tan alejados del marco realista\nen el que actuaba nuestra organización, terminaron por\r\nhundirla.\c\nY no había nada que yo pudiera hacer para evitarlo”.\c\nEso es todo lo que puede leerse. El resto de las páginas\nestán arrancadas.
+Dentro del armario hay varios documentos que se\nemborronaron al mojarse:\c\n“Bolet... de ...vamar n.º 389\c\nEl gana... de este mes del concur... de ...óganes para\nla empresa es ...inio, del gr... 1 del equipe de\r\nlogística. ...evo eslóg... dice así:\c\n“Ensúciate las manos por un futuro más limpio”.\c\nSard... recibirá un Cas...tado y un ...yperior como\npremio.\c\nQue todos los empl... ...an presente y se apliquen\nel ...gan ...es”.
+A este viejo colchón se le han salido varios muelles.\nHay algo que asoma por debajo...\c\nEs una revista titulada “Modelos de todo el mundo”.
+Este colchón huele un poco raro...\nHay algo que asoma por debajo...\c\nEs una revista manchada titulada “Montañeros de todo\nel mundo”.
+Las sábanas de esta cama están llenas de manchurrones.\nHay algo que asoma por debajo...\c\nEs una revista medio rota con el titular “Especial empleo:\nlas temidas reducciones de plantilla”.
+Hay un montón de recortes de papel esparcidos por la\ncama. Algo asoma por debajo...\c\nEs una revista descolorida con el titular “¡Exclusiva:\nDestrezas y debilidades del Campeón de la Liga!”.
+El tirador de la taquilla está roto.\nEstá tan lleno de óxido que no se abre ni queriendo.
+Por algún motivo, tienes la sensación de que alguien te\nestá observando...
+En este armario cubierto de polvo hay unas botellas\nbastante viejas. En la etiqueta pone:\c\n“¡Ponte las pilas con la Bebida Energética Devon!\n¡La única con extractos naturales de veneno de Seviper!\r\n¡Te quita el cansancio y la tontería de golpe para que\r\npuedas dar el 100% a diario!”.
+¡Spiriii!
+~~~~~~~~~~~~~~~

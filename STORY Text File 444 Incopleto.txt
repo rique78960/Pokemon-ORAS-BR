@@ -1,0 +1,103 @@
+~~~~~~~~~~~~~~~
+Text File : 444
+~~~~~~~~~~~~~~~
+Ei, vocês!\nDeixem em paz o Professor Cozmo!
+Ei, vocês!\nDeixem em paz o Professor Cozmo!
+Oh...?\c\nDe onde vieram essas crianças?
+Oh...?\c\nDe onde essas crianças vieram?
+[VAR TRNAME(0000)]!\nQue bom que você veio!
+[VAR TRNAME(0000)]!\nQue bom que você veio!
+Temos que defender o professor destes bandidos!
+Temos que defender o professor desses caras!
+Somos dois contra dois...\n[VAR TRNAME(0000)], lute ao meu lado!
+Somos dois contra dois...\n¡[VAR TRNAME(0000)], dê-me uma mãozinha!
+Quê?!\c\nAh, claro, você precisa se preparar primeiro, né?\nMuito bem, vou esperar por você aqui.
+Compreendo, você tem que se preparar, não é?\nNão se preocupe, vou distraí-los até que você esteja pronta.
+Ótimo! Obrigada!
+Obrigado!
+Hi, hi, hi, hi, hi!\nIsso é engraçado!\c\nÉ sério pensa em disafiar-me os dois sozinhos?\nEu sou Tatiano, Comandante da Equipe Magma!\c\nHmm...\nPor que não?\c\nVocê vai descobrir o quão assustadores que podem ser\nos adultos!\c\nHi, hi, hi!\nEsta lição não será esquecida em toda a sua vida!
+Nossa!\c\nVocê está rindo de mim?\nEu sou Shelly, sub-líder da Equipe Aqua!\c\n...\nComo quiser!\c\nAs crianças que não sabem manter a boca fechada merecem\numa boa lição.\c\nEu não terei compaixão só porque vocês são crianças!\nHo, ho, ho, ho, ho!
+Este será nosso primeiro combate juntos!\nCoragem e faça o seu melhor!
+Muito bem! Vamos lá!
+Uh...?\nIsso eu não esperava!
+Ah...\nEu não tenho sido durona o suficiente...?
+Nós conseguimos, [VAR TRNAME(0000)]!
+Nós vencemos, [VAR TRNAME(0000)]!
+Droga! Essas crianças intrometidas!\nNão coloque o nariz onde não é chamado!\c\nCombinando os conhecimentos científicos da Equipe\nMagma com a energia do Monte Chaminé e o poder\r\nconcentrado no Meteorito, finalmente o Pokémon\r\nancestral...
+Se conseguirmos combinar as energias incomensuráveis do\nMeteorito e o Monte Chaminé, estaremos a um passo de\r\ncriar o mundo que é tão sonhado pela Equipe Aqua!\c\nNão vamos tolerar que umas crianças nos façam perder\ntempo!
+Hi, hi...\c\nEra de esperar... A Equipe Aqua não consegue nem\nvencer pelo menos duas crianças.
+Ho, ho, ho, ho, ho!\c\nDerrotado por algumas crianças!\nQue outra coisa se poderia esperar da Equipe Magma?
+Quem...?
+O que? Quem...?
+Uh...!\nA Equipe Aqua também vasculhando por aqui...\c\nÉ claro que hoje não é meu dia...
+Poxa...!\nAté mesmo a Equipe Magma vêm nos fazer\r\ncompanhia... Bem, bem...
+Você! Traga-me esse Meteorito agora, que eu não tenho todo\no dia todo!
+Vamos!\nTraga-me o Meteorito já!
+Sim, senhor!
+Agora mesmo!
+Qu-quê?! Aaai!!
+Você! Dê-me o Meteorito!
+Vamos!\nSolte o Meteorito!
+Auu! Ugh!
+Professor!
+Professor!
+Hi, hi, hi!\nO Meteorito é meu!\c\nAqui vocês ficam com as mãos vazias, fracotes!\nEm frente! Vamos para o [VAR COLOR(0002)]Monte Chaminé[VAR COLOR(0000)]!
+Ho, ho, ho! Aqui vocês ficam, fracotes!\nVamos para o [VAR COLOR(0002)]Monte Chaminé[VAR COLOR(0000)]!
+Hmm...
+Argh!
+[~ 44]
+[~ 45]
+Maxie...\nNão podemos deixar escapar a Equipe Aqua!
+Archie!\nTemos que perseguir a Equipe Magma!
+Hmm...
+Isso é! Eles não vão se safar!
+...\c\nSou Maxie, o chefe da Equipe Magma, uma organização\ncujo objetivo é garantir a felicidade da humanidade.\c\nPelo que acabo de ver, você estava enfrentando os membros da\nEquipe Aqua...\c\nFaça o que quiser com eles, mas tenha cuidado\npara não se envolver em nossos planos.\c\nNão me importo se vocês são apenas crianças. Se nos\ncausar o menor contratempo, eu mesmo me encarregarei em\r\ncuidar de vocês.
+Oh...\nPor ser crianças, vocês são muito espertos.\c\nSou Archie, chefe da Equipe Aqua. Nosso objetivo é\nrecriar um mundo ideal para os Pokémon.\c\nParece que você tem assuntos pendentes com os membros da Equipe\nMagma...\c\nPor mim tanto faz. Eu não dou a mínima para o que você\nfaz com esses idiotas.\c\nIsso sim, lembre-se bem o que vou dizer.\c\nNem pense em colocar o nariz nos assuntos da\nEquipe Aqua, você não vai sair bem da história!\c\nQue isso fique bem claro, pirralhos!\nHa, ha, ha, ha, ha!
+Mas...! De onde vêm toda essa gente?!\nNão entendo nada!
+Nossa... Que pressa eles tem? Que coisa...
+Ah...! Professor! Você está bem?
+Ei, responde!\nProfessor! Você está bem?
+Ei...? Oh...
+Parece que o susto ainda dura...
+Pobrezinho... Acho que o susto ainda dura...
+[VAR TRNAME(0000)]...
+[VAR TRNAME(0000)]...
+A primeira coisa é levar o professor de volta ao laboratório de\nVila Fallarbor.
+A primeira coisa é levar o professor de volta ao laboratório de\nVila Fallarbor.
+Vamos, professor.
+Vamos, professor.
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+[~ 74]
+[~ 75]
+[~ 76]
+[~ 77]
+[~ 78]
+[~ 79]
+O homem bonito com cabelos prateados foi para\nCidade Rustboro.
+...
+Muuur...
+Aster...
+Já...\c\nVocê já terminou tudo...
+Tristana, meu amor...
+Vovó? É você?
+Você fez muito bem.
+...
+Ale, ale... No le des más vueltas.\nHas hecho cuanto has podido.\c\nHay que dejar que las cosas lleguen a su fin.\nSolo así puede haber nuevos comienzos.\c\nEs ley de vida y todos los seres vivos tenemos que\nacatarla.\c\nSiempre ha estado presente en la historia del Clan\nMeteoro, al igual que ahora está presente en la historia\r\nde tu vida.
+Lo que tienes que hacer ahora es descansar.\nDebes desprenderte de la pesada carga que has llevado\r\na cuestas durante tanto tiempo y recobrar la fuerza\r\nnecesaria para poder seguir adelante.
+...
+...\n...\c\nTienes razón.
+Jovencit[VAR GENDBR(00FF,0101)]oa...
+Tristana me ha contado todo lo que ha pasado.\nTe agradezco mucho lo que has hecho por nosotros.
+Tristana ha emprendido un largo viaje... para encontrarse\na sí misma...
+Ah, sí...\nMe pidió que te diera esto.
+Me pregunto qué le deparará el futuro a Tristana ahora\nque ya no lleva todo el peso del Clan Meteoro sobre sus\r\nespaldas...\c\nPero sé que estará bien y que no tengo por qué\npreocuparme.
+Escucha...\c\nSi alguna vez tu Rayquaza no recuerda cómo usar\nAscenso Draco, ven a verme.\c\nAunque no parezca gran cosa, soy miembro del Clan\nMeteoro y por tanto sé cómo enseñar este movimiento.
+~~~~~~~~~~~~~~~

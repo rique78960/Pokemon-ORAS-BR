@@ -1,0 +1,53 @@
+~~~~~~~~~~~~~~~
+Text File : 364
+~~~~~~~~~~~~~~~
+Los lugares de este tipo son poco comunes,\nasí que estoy de inspección.\c\nMmm... Parece que hay muchas habitaciones...
+El cristal de la estantería está roto.\c\n¿Eh?\nAl fondo hay una llave...
+El cristal de la estantería está roto.\nNo hay nada que llame la atención.
+El armario está cubierto de polvo y en uno de sus\nestantes hasta crece hierba.
+¡Pe-pero bueno!\n¡Si había cerrado con llave!\c\nVale, vale, quieres esto, ¿verdad? Pues hale, llévatelo.
+Le estaba enseñando a la zagala esta lo dura que es\nla vida de una Treinadora.
+Jo.
+Al fondo del estante hay un viejo cuaderno.\c\n“Finalmente se ha fijado la fecha de clausura de las\ninstalaciones.\c\nRespeto completamente las decisiones de Stern. Al fin\ny al cabo, él es quien nos recogió de la calle.\c\nEl duro trabajo que hemos realizado tanto Dock como\nyo nos ha transformado por completo en lo personal.\c\nAyudarle a salvar su empresa...\nes la única forma en que podemos agradecérselo”.
+Es un papel arrugado en el que está escrito el himno\nde Sea Mauville:\c\n“1. En la Rota 108 amanece el día.\nOlvido la pereza y me alzo sin manías.\c\nDomingos y festivos trabajo sin descanso.\nEl futuro de Hoenn sigo mejorando.\c\nEn busca de energía voy a perforar.\n¡Por ti lo daré todo, grandiosa Sea Mauville!\c\n2. En la Rota 108 el sol quema mi piel.\nA mi excelsa fortaleza yo siempre seré fiel.\c\nA ningún sindicato escucharé,\nYo por mi empresa lucharé.\c\nEn busca de energía voy a perforar.\n¡Por ti lo daré todo, grandiosa Sea Mauville!\c\n3. En la Rota 108 ya cae la noche.\nIrse a la cama sería un derroche.\c\nA la competencia hay que eliminar.\nEn salario extra no quiero pensar.\c\nEn busca de energía voy a perforar.\n¡Por ti lo daré todo, grandiosa Sea Mauville!”.
+Es una foto de trabajadores bien bronceados y en mono.\nCada uno está posando a su manera.
+En la foto se ve a un hombre con una gran panza y un\nbigote bien lustroso junto a muchos otros que visten\r\nuniformes de trabajo, posando frente a Sea Mauville.
+Hay una carpeta de archivos confidenciales. Los informes\nque contiene están fechados de mucho antes de que tú\r\nnacieras, y el paso del tiempo ha hecho que apenas\r\nresulten legibles:\c\n“¦Inf... de inves... int... de De...\nConfir... el descub... de una nueva e...\r\ndeno... Energ... obtenida a... de la\r\nfuerza v... de los Po...\c\n¦Inf... de segu... de las ac... de Er...\nConfir... la serie de ac... que ha resul...\r\nen la can... del proy... Malval...\c\nEs preciso ocuparse de forma urgente de todo\nelemento subversivo en el seno de nuestro grupo.\c\nFirm... Mué...\nJefe de se... constr... Gru...”.
+Hay una carpeta de archivos confidenciales. Los informes\nque contiene están fechados de mucho antes de que tú\r\nnacieras, y el paso del tiempo ha hecho que apenas\r\nresulten legibles:\c\n“¦...orme ...tigación ...erna ...von.\n...mado ...rimiento ...nergía\r\n...minada ...ía Infinita, ...partir\r\n...ital ...kémon.\c\n¦...orme ...imiento ...tividades ...ico.\n...mada ...ontecimientos ...tado\r\n...celación ...ecto ...anova.\c\nEs preciso ocuparse de forma urgente de todo\nelemento subversivo en el seno de nuestro grupo.\c\n...ado: ...llez.\n...cción 0: ...ucción, ...po 0”.
+En la taquilla hay un uniforme de trabajo deshilachado,\ncomo si lo hubiera mordisqueado un Pokémon.
+Es un viejo armario... Dentro hay una taza rota en la que\npuede leerse la palabra “Adversidad”.
+En la taquilla hay un ordenador enorme. La pantalla está\nresquebrajada y el musgo se abre paso entre las grietas.
+Hay una tarjeta sobre una silla con las patas torcidas.\nEstá medio rota y algunas partes resultan ilegibles.\c\n“Tarjeta de identificación de personal de Sea Mauville\nSección 11: gestión de inventario, grupo 9.\r\nMiembro: Dédalo Cozmo”.
+Hay un pico apoyado frente a una vieja máquina.\c\nEs grande como el cuerno de un Heracross, pero\nmalogrado y cubierto de óxido.
+Una taquilla con la puerta abollada. Por mucho que se tire\no se empuje, no se mueve.
+Hay un montón de cómics amontonados.\nCabe preguntarse de dónde sacarían tiempo para leerlos.
+~~~~~~~~~~~~~~~
+Text File : 365
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+[~ 2]
+¿A que es superdivertido? ¡Solo estando aquí ya me lo\npaso pipa!\c\n¡Además, dicen que un Pokémon increíble vive por aquí!
+Snif, snif...\nPor aquí hay escondido un Pokémon raro, te lo digo yo.\c\n¡Las chicas tenemos un olfato muy sensible para estas\ncosas y no nos equivocamos nunca!
+Yo trabajaba aquí cuando era joven y no permitíamos el\nacceso a los Pokémon.\c\nSin embargo, visto el estado en el que está el lugar,\nnadie lo diría.
+Ya no puedo seguir...\c\nSi tuviera un Pokémon que conociera el movimiento\n[VAR COLOR(0002)]Buceo[VAR COLOR(0000)], podría continuar, pero...
+¡Eh! ¡Pero si tienes Buceo! Yo, con mi flotador, no me\nsumerjo ni a la de tres...\c\nPero es que me da miedo quitármelo. ¿Y si me ahogo?\n¿Y si me comen los monstruos? Da igual, cosas mías...
+¡Eh! ¡Pero si tienes Buceo! Yo, con mi flotador, no me\nsumerjo ni a la de tres...\c\nPero es que me da miedo quitármelo. ¿Y si me ahogo?\n¿Y si me comen los monstruos? Da igual, cosas mías...
+La puerta está cerrada con llave.\nHay un letrero donde se puede leer “Habitación 1”.
+La puerta está cerrada con llave.\nHay un letrero donde se puede leer “Habitación 2”.
+La puerta está cerrada con llave.\nHay un letrero donde se puede leer “Habitación 4”.
+La puerta está cerrada con llave.\nHay un letrero donde se puede leer “Habitación 6”.
+[VAR TRNAME(0000)] ha usado [VAR ITEM2(0001)].\nLa llave se ha atascado, pero la puerta se ha abierto.
+¡Eh, tú, chavalot[VAR GENDBR(00FF,0101)]ea!
+Mi primo, el Charlie, me ha dicho que en este sitio hay\nunos tesoros de agárrate y no te menees.\c\n¿Tú sabes algo? ¿Ein?\c\nHmmm... Bah, claro que no. ¿Qué va a saber un[VAR GENDBR(00FF,0605)] críoa cría\ncomo tú?\c\nPero cuidao, que como me entere de que sabes algo\ny no me lo dices, te caneo. ¿Ta quedao claro?
+Tesoros de agárrate y no te menees...\c\nNunca he entendido bien esa frase... ¿Pa qué iba a\nagarrarme a mí y no al tesoro? ¿Y qué tendrá de malo\r\nmenearse? Yo qué sé, pero lo digo porque queda guay.\c\nJe, je, je...\nFíjate que parla tengo y lo niquelao que voy pa tener la\r\nedad que tengo. Si es que soy de lo que no hay...
+¡Este lugar es un paraíso para quien le guste explorar!\c\n¡Y encima corre el rumor de que hay un tesoro escondido\npor aquí cerca!
+No sé de dónde será esta llave, pero la he cogido\nporque parece misteriosa.\c\nTan misteriosa que no sé qué hacer con ella, así que\nsi quieres te la puedes quedar tú. ¿Vale?
+¡Pues toma!
+¿Y para qué la quiero yo?\n¡Hala, para ti!
+¿De dónde será esa llave? Je, je.\nSi lo descubres, dímelo, ¿vale?
+¿La Ll. Habitación 1, dices? ¡O sea que era la llave de\nuna habitación! Es que no veía bien lo que ponía...\c\nMmm, pues ahora que lo sé, casi era mejor no saberlo...\nTenía más misterio. Dicho así, es como más cutre...\r\n¡Ay, te lo podrías haber callado!
+Hace muchos años, este lugar era una planta para\nalmacenar energía.
+Snif, snif... ¡Lo huelo! ¡Lo huelo!\c\nMe da en la nariz que tú has encontrado al Pokémon raro\nque andaba por aquí y lo has capturado.\c\nPero atiende... ¡Me huelo que este Pokémon no es de\nHoenn!
+Es un cartel bastante deteriorado.\c\n“Las 10 pautas para hacer de Sea Mauville un lugar\nde trabajo próspero y feliz:\c\n1. Dar los buenos días con mucha energía por la mañana.\n2. No traer Pokémon.\c\n3. Los retrasos deben compensarse con horas extras.\n4. Respetar las normas de seguridad por encima de todo.\c\n5. Trabajo en equipe y responsabilidad colectiva.\n6. Obedecer a rajatabla a tus superiores.\c\n7. La calidad está por encima de la razón.\n8. Respetar y elogiar a los fundadores.\c\n9. Trabajar sin tomarse vacaciones hasta la jubilación.\n10. Menos pensar y más trabajar.”
+~~~~~~~~~~~~~~~

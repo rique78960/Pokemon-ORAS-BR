@@ -1,0 +1,110 @@
+~~~~~~~~~~~~~~~
+Text File : 624
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+¡Ah, hola, [VAR TRNAME(0000)]!\nMe daba en la nariz que te encontraría por aquí...
+Sí, tu padre también me ha dado un billete a mí.\nAcabo de llegar hace nada.\c\nAsí que esto es el famoso Resort Batalla...\nEl paraíso para unos pocos Treinadores elegidos.
+¡Juo, juo!\nDeje que nosotros nos ocupemos de todo, jefe.
+¡A luchar!
+Bien.
+¡Aaah!
+¡¿Eh?!
+Señor, señora...\nLo siento muchísimo...
+¡¿Qué...?!
+¡¿Cómo que señora?!
+...
+¡Brrr!\c\n¡Apenas tengo veintisiete años recién cumplidos, así que\nni señor ni narices! ¡De eso nada!\c\n¡Esta me la apunto! ¡Te vas a acordar!
+Qué ignorancia... Qué golpe tan bajo...
+¡...!
+¿Jefe? Est[VAR GENDBR(00FF,0808)]e mocosoa mocosa es...
+Exacto.\c\n[VAR GENDBR(00FF,0A08)]El héroeLa heroína que ha derrotado al Equipe Aqua y salvado\nel mundo.
+No esperaba encontrarte aquí.
+¿Conoces al chico que acaba de pasar?\nTiene un espíritu de lucha como pocos he visto...\r\nSin duda es un muchacho excepcional.
+Si ese chico y tú estáis aquí...\c\n¡Ja, ja! Creo que voy a disfrutar de mi estancia en la isla,\nal fin y al cabo.
+Hay algo a lo que le llevo dando vueltas desde lo que\nocurrió en Sootopolis...\c\nMe martillea un pensamiento... La posibilidad de que\nquizás, en otro mundo o en otro tiempo paralelo al\r\nnuestro... nosotros, el Equipe Magma, pudiéramos\r\nhabernos enfrentado a ti.\c\nQue tal vez podríamos haber sido nosotros quienes\nhubieran intentado despertar a Groudon y hacerse con\r\nsu enorme poder...\c\nQuizás...
+Pero bueno, al fin y al cabo, la posibilidad de mundos\nparalelos no es más que una quimera sin sentido.\c\nUn sueño inalcanzable para quienes vivimos en la\nrealidad. Ja, ja, ja...
+Oh, casi lo olvido...\c\nPara celebrar nuestro feliz reencuentro, te daré esto.
+Courtney...
+Ah...
+Cuídala... con mucho mimo...
+Ardo en deseos de que llegue el día en que mis Pokémon\npuedan batirse contra los tuyos.\c\nHasta otra...
+Bueno, nosotros también nos marchamos.\n¡Ya nos veremos!
+Tú...\n?Tienes algo especial...?\c\nNo te quitaré el ojo de encima.
+?Ja, ja...?
+No te preocupes, Archie.\nNosotros nos ocuparemos.
+¡Ánimo, jefe!
+¡Confío en vosotros durante mi ausencia!
+[~ 34]
+¡¿Eh?!
+Señor, señora...\n¡Les ofrezco mis más sinceras disculpas!
+¿Señora...?
+¿Me quieres tocar la fibra o qué?
+Ajá...
+¿Pero de qué va el niñato este?\c\n¡¿Tienes ojos o un par de piedras?!\n¡Si podría ser tu hermana, merluzo!
+Ya sabes que los niños siempre dicen la verdad...
+¡...!
+¿Eh?\nArchie, est[VAR GENDBR(00FF,0606)]e niñoa niña...
+¡Claro!\c\nEs [VAR GENDBR(00FF,0202)]ella que arruinó los planes del Equipe Magma, derrotó\na Groudon y salvó el mundo.
+¡Vaya, qué sorpresa verte aquí!
+Tú no conocerás por casualidad al crío ese que acaba\nde pasar corriendo como una exhalación, ¿verdad?\c\nApenas lo hemos visto un momento, pero ha sido\nsuficiente para saber que posee un poder fenomenal.\c\nApunta maneras de gran Treinador...
+Si sigo combatiendo por aquí, llegará el día en que podré\ndaros vuestro merecido a ti y a ese...\c\n¡Ja, ja, ja!\n¡Ha sido una buena idea dejarme caer por este lugar!
+Cuando pasó todo aquello de Sootopolis, estuve\ndándole vueltas a una cosa...\c\nSi el mundo hubiese sido solo un pelín distinto, quién\nsabe si a quienes hubieras tenido que enfrentarte\r\naquella vez habríamos sido nosotros, el Equipe Aqua.\c\nTal vez hubiéramos intentado despertar a Kyogre para\nhacernos con su descomunal poder...\c\n¿Quién sabe?
+¡Ja, ja, ja!\c\nBobadas, ¿no te parece? Eso de pensar en mundos\nparalelos y cosas por el estilo...\c\nSon meros sueños... y los sueños, sueños son...\nPorque si no, serían otra cosa, ¿no? ¡Ja, ja, ja!
+En cualquier caso, me alegro mucho de volverte a ver.\nQuisiera darte algo...
+¡Matt!
+¡A sus órdenes, jefe!
+Es un regalo de parte del jefe.\n¡Cuídalo bien!
+¡Espero ansioso el día en que nuestros Pokémon se\nenfrenten entre sí! ¡Hasta entonces!
+Míralo qué cara...\c\nCada vez que encuentra un Treinador fuerte, le brillan\nlos ojos de felicidad...\c\nBueno, creo que es un rasgo positivo de su carácter.
+¡Mua, ja, ja, ja!\c\n¡Eres un[VAR GENDBR(00FF,0D0B)] Treinadora Treinadora genial, mocos[VAR GENDBR(00FF,0101)]oa!\c\n¡No hace falta combatir contra ti para sentirlo!
+¡Espero con muchísimas ganas el día en que mi jefe y yo\nte aplastemos!
+Je, je. Ya me gustaría a mí ir a un lugar así... si tal mundo\nexistiera.
+¡Ja, ja, ja! ¡Eso sería increíble!
+Ajá... Eso parece muy profundo...
+Hmmm...\n?Podría ser interesante...?
+Eso suena emocionante... No sé qué hacemos aquí\nplantados. ¡Vamos a echar un vistazo!
+~~~~~~~~~~~~~~~
+Text File : 625
+~~~~~~~~~~~~~~~
+Una réplica de la Mansión Batalla de Kalos.\n¡Igualita a la de verdad!
+¡Luz verde para el proyecto Frente de Batalla!\c\nUna maqueta de la Torre Batalla, el edificio que inaugura\nel recinto.
+¡Eh! Tú has venido a esta isla para combatir, ¿a que sí?\n¡Pues venga, antes de que me salgan telarañas!
+¡A mí los Pokémon de tipo Tierra no me duran ni medio\nasalto!\c\nSi te dan miedo mis Pokémon de tipo Bicho, echo el\ncombate contra otro y tan pancho; a mí me da igual.\c\nContra est[VAR GENDBR(00FF,0707)]e chicoa chica, por ejemplo. ¿Hace?
+¡Eh, así me gusta!\c\n¡Te vas a ver en un follón que no vas a saber ni dónde\nte has metido! ¡Adelante, Pokémon míos!
+Di que sí, rajándote antes de empezar... ¡Qué arte!
+Vale, sí, me he tirado a la piscina sin mirar si había agua.\nEres fuerte... Me habría ido mejor contra el equipe de\r\ntipo Tierra del Pokémaníaco este.\c\n¡Pero mañana te gano fijo! ¡Te espero para la revancha,\ny no te me escaquees, que me he quedado con tu cara!
+¿A que lo adivino? Me has retado a un combate porque\nsabes que uso Pokémon de tipo Tierra, ¿verdad?
+(Aaay... Este Treinador de Pokémon de tipo Bicho se\npasa de borde. Me da miedooo...)\c\nPerdona, pero ya he quedado para combatir con otra\npersona. ¿Insistes?
+¡Vale, vale! ¡Si insistes, no te diré que no!\n¡En guardia!
+Tienes horchata en las venas, maj[VAR GENDBR(00FF,0101)]oa, y menos intuición\nque una piedra...\c\nAsí no te vas a echar novi[VAR GENDBR(00FF,0101)]ao en la vida, ¿sabes?
+¡Gracias, me has salvado de una buena! Y además, me lo\nhe pasado pipa. ¡Cuando quieras, repetimos!
+¿Has visto ese letrero?\c\nEl Resort Batalla sigue siendo un destino popular entre\nlos Treinadores, pero ahora quieren reformarlo de arriba\r\nabajo para darle un toque más moderno.\c\nLo quieren llamar Frente de Batalla.
+Aquí se pueden echar acalorados combates mientras\ndisfrutas del calor en cualquier época del año.\c\nQuien construyó el Resort Batalla tuvo muy buen ojo,\n¿no te parece?
+Normalmente, procuro guardar las apariencias.\nPero, aquí, ¡un Treinador está en su salsa!
+El sol radiante, la arena impoluta, el agua cristalina...\n¡Me traen sin cuidado! ¡Son un rollazo!\c\n¡A mí lo que me interesa de verdad es echar combates\nde esos que te hacen vibrar! ¡Si tengo eso, soy feliz!
+¡Este lugar es el no va más! ¡Increíble!\c\n¿Te puedes creer que hasta hay una Guardería Pokémon\nen plena playa? ¡Si es que piensan en todo!
+¿Quieres ver el famosísimo Show de los Whismur en el\nResort Batalla?
+¡Claro que sí! ¡Se te van a quedar los ojos como platos!\n¡Jur, jur!
+Oh, bueno... Ya volverás.\nNo sabes lo que te pierdes.
+¡Adelante, mis Whismur! ¡Todos a una!
+Fíjate bien, porque el Whismur al que tienes que seguir\nes...
+¡Este, el que no cierra los ojos ni en una piscina con\ncloro!
+¡Este, el que parece que se haya lavado las orejas con\nsuavizante!
+¡Este, el de los mofletes blanditos que dan ganas de\npellizcarlos!
+¡Este, el de las manos bonitas!
+Tu Whismur lleva [VAR 1702(0000)][VAR ITEM2(0000)].\n¿Todos listos? ¡Pues a bailar!
+?¡Muuur!?
+¡Fantástico! Ahora dime, ¿cuál de todos es tu Whismur?
+Así que este de aquí, ¿eh? ¿Será el que lleva [VAR 1702(0000)]\n[VAR ITEM2(0000)]?
+La respuesta es...\c\nEmoción...\nTensión...\r\nSuspense...\r\n...
+¡Correctísima!\c\n¡Y ahora, Whismur te entregará [VAR ITEM2(0000)]\ncomo premio!
+¡Incorrecta!\nOooh, se siente...
+¡Y hasta aquí el Show de los Whismur!\n¡Muchas gracias por participar! ¡Agur!
+Ahora mis Whismur están cansados, y el espectáculo\nrequiere de una gran preparación, así que...\r\nvuelve mañana.
+Muuur.
+Cuando veo moverse a esos Whismur... ¡se me van\nlos pies solos!
+¡Ja, ja, ja!\nEres un bailongo, ¿eh?
+¡Voy a presentarme al [VAR COLOR(0002)]Pokémon World Championships[VAR COLOR(0000)]!\n¡Que tiemblen todos!\c\n¡Me comeré el mundo con mis Pokémon de tipo Dragón!
+He acumulado 197 Puntos de Batalla...\nTres más y mi Druddigon podrá cambiar de habilidad.
+~~~~~~~~~~~~~~~

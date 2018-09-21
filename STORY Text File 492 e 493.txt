@@ -1,0 +1,259 @@
+~~~~~~~~~~~~~~~
+Text File : 492
+~~~~~~~~~~~~~~~
+¿Tú quién eres?
+Esta es la Cueva Ancestral.\c\nSe dice que aquí reviven los espíritus de los Pokémon\nque reposan en el Monte Pira.
+Te ruego que te vayas.
+...
+El Equipe Magma y el Equipe Aqua...
+¡Te hemos estado esperando, mocos[VAR GENDBR(00FF,0101)]oa!
+Maxie...\c\n¿Le damos entonces a[VAR GENDBR(00FF,0D0B)]l niño este la niña esta el...?
+Sí.
+Te vamos a dar esto.\c\nEs un traje protector de alta gama creado a partir de la\ntecnología conjunta del Equipe Magma y Devon S. A.\c\nRepresenta el pináculo de la conjunción entre la ciencia\ny la tecnología de Hoenn.
+En realidad lo habíamos diseñado para preparar nuestro\nencuentro con Groudon...\c\nPero a estas alturas ya hemos abandonado toda\nesperanza al respecto, por lo que no nos queda\r\nmás remedio que entregártelo.
+Sin embargo...\c\nAunque lleves puesto este traje, me pregunto si serás\ncapaz de atravesar el magma, ahora más impenetrable\r\nsi cabe debido a la influencia que ejerce sobre él la\r\nenergía de la naturaleza.
+Desde luego, es muy probable que su temperatura supere\nincluso nuestros propios cálculos.
+De todas formas, no hay nada que temer.
+El Prisma Azul que porta...\c\nSu fuerza milenaria debería bastar para proteger a este\nchico y a su equipe Pokémon.
+El Prisma Azul que porta...\c\nSu fuerza milenaria debería bastar para proteger a esta\nchica y a su equipe Pokémon.
+¡Tú lo has dicho!\c\nLa verdad es que los viejales del Monte Pira sí dijeron\nalgo al respecto...\c\nQue el Prisma Rojo puede liberar la fuerza de Groudon...\nO, dicho de otra forma, provocar la Regresión Primigenia.\c\nY que el Prisma Azul, al contrario, puede detener\nese proceso...
+Así es. La energía que rezuma la Cueva Ancestral es la\nmisma que insufla fuerzas a Groudon.\c\nSi disponemos de ese Prisma Azul, que posee la facultad\nde detener esa fuerza, seremos capaces de rebajar la\r\nintensidad del magma.
+Lógicamente, el poder que atesora el Prisma Azul no\nbasta para alcanzar el Abismo de Hoenn, donde yace\r\nGroudon.
+[VAR TRNAME(0000)], no esperaba que tuvieras el Prisma\nAzul...
+[VAR TRNAME(0000)], no esperaba que tuvieras el Prisma\nAzul...
+No te preocupes. Con la ayuda de tu equipe Pokémon\nlograrás lo que te propongas.
+Estoy convencido.
+Nosotros, los habitantes de Sootopolis, tenemos vetada\nla entrada a la Cueva Ancestral.
+Pero tú debes partir sin dilación hacía allí, con tu Prisma\nAzul.
+No importa lo que te aguarde o lo que pueda ocurrir en el\ninterior de esa cueva.
+Nosotros también movilizaremos a los miembros de\nnuestro equipe para ofrecer asistencia a toda la gente\r\ny Pokémon afectados.
+Pequeñ[VAR GENDBR(00FF,0101)]oa...\c\nNo, de pequeñ[VAR GENDBR(00FF,0101)]oa ya no tienes nada, has madurado.\c\nSiento tener que ponerte en un brete de este calibre.\c\nPero me temo que tan solo tu equipe Pokémon y tú\nestáis a la altura de enfrentaros a Groudon.
+¡[VAR TRNAME(0000)]!
+¡[VAR TRNAME(0000)]!
+He oído que la situación en Sootopolis y sus alrededores\nes bastante grave, y cuando te vi en el VideoNav, me dije\r\na mí misma que no podía quedarme de brazos cruzados\r\nni de broma, ¡así que vine aquí pitando!
+Cuando te vi aparecer en las noticias sobre Sootopolis\ndel VideoNav, me dije: “¡Tengo que ir como una bala a\r\nreunirme con [VAR TRNAME(0000)]!”.\c\n¡Menudo alivio comprobar que estás bien!
+¡¿Co-cómooo?! ¡Pero qué ven mis ojos! El Equipe\nMagma y el Equipe Aqua... ¿juntos pero no revueltos?\c\nEstoy tan sorprendida en todos los sentidos que no\nencuentro siquiera las palabras para expresar mi asombro.
+¡¿Eeeh?! ¿El Equipe Magma y el Equipe Aqua?\c\nEs realmente... Cómo lo diría yo... Sorprendente.
+Lo que está sucediendo supera incluso los límites de mi\npropia imaginación...\c\nAsí que me voy a ahorrar las preguntas.
+Lo que está sucediendo supera incluso los límites de mi\npropia imaginación...\c\nAsí que me voy a ahorrar las preguntas.
+En cuanto averigüe de qué forma podría ayudaros, podéis\ncontar conmigo también.\c\nEspero y deseo de todo corazón que no te pase nada y\npuedas regresar sano y salvo, [VAR TRNAME(0000)].
+En cuanto averigüe de qué forma podría echaros una\nmano, yo también pienso dejarme la piel en el intento.\c\n¡Valor y al Tauros, [VAR TRNAME(0000)]!
+Tú debes entrar. Junto con el Prisma Azul.\c\nY ni siquiera pienses en lo que te espera dentro de la\ncueva...
+No te preocupes. Con la ayuda de tu equipe Pokémon\nlograrás lo que te propongas.\c\n¡Estoy convencido!
+Nosotros también movilizaremos a los miembros de\nnuestro equipe para ofrecer asistencia a toda la gente\r\ny Pokémon afectados.\c\nY tú, mocos[VAR GENDBR(00FF,0101)]oa...\c\nMe joroba que te veas en la obligación de cargar con\ntoda esta responsabilidad, pero se siente.\c\n¡Tú puedes, chaval[VAR GENDBR(00FF,0100)]a!
+Siento tener que ponerte en un brete de este calibre.\c\nPero me temo que tan solo tu equipe Pokémon y tú\nestáis a la altura de enfrentaros a Groudon.\c\nEl sino de este mundo... de nuestro mundo... ¡descansa\nen tus manos!
+¡Adelante!\c\n¡Ha llegado la hora de escribir nuestro propio destino\nde la mano de nuestros conocimientos científicos!\c\nEn nombre del Equipe Magma, ¡lucharemos hasta el\nfinal!
+En cuanto averigüe de qué forma podría ayudaros, podéis\ncontar conmigo también.\c\nEspero y deseo de todo corazón que no te pase nada y\npuedas regresar sano y salvo, [VAR TRNAME(0000)].\c\n¡Ánimo!
+En cuanto averigüe de qué forma podría echaros una\nmano, yo también pienso dejarme la piel en el intento.\c\n¡Valor y al Tauros, [VAR TRNAME(0000)]!\c\nMi apoyo incondicional ya te lo has ganado.\c\nComo amiga mía que eres.
+¡[VAR TRNAME(0000)]!
+¡[VAR TRNAME(0000)]!
+Todo ha terminado...
+Se acabó...
+[VAR TRNAME(0000)], estamos en deuda contigo.
+[VAR TRNAME(0000)], estamos en deuda contigo.
+Alza la vista.\c\nEl cielo de Sootopolis ha recobrado su aspecto habitual.
+No sé por qué... de repente siento una gran serenidad.
+¿Acaso la energía que se ha ido acumulando en las\ninmensidades de la Cueva Ancestral está comenzando\r\na fluir hacia nuestro mundo?
+El miedo y la inquietud que tenía hasta hace un momento\nparecen ahora una mera ilusión...\c\nEs como si me hubiese quitado un peso de encima...
+...\c\nMar o tierra...\c\nPokémon o seres humanos...\c\nNos emperrábamos en hacer feliz a uno de los bandos\na costa de aplastar al otro.
+...\c\nSupongo que sí.
+Pero en mi caso...
+Hay determinados errores que no es posible enmendar,\npor mucho que el causante persevere.\c\nInducido por mi propia estulticia, yo cometí un dislate\nde tales proporciones que a punto estuvo de provocar\r\nun auténtico apocalipsis.\c\nEn esta tesitura, no creo ser merecedor de ninguna\noportunidad para pasar página.
+Jefe...\c\nEs verdad que ha cometido un error imperdonable.\c\nNo solo por lo que respecta a nosotros, los miembros\ndel Equipe Magma, sino también a todos los seres vivos\r\nque pueblan este planeta.
+Pero precisamente por eso debe reconsiderar su postura.\c\nNo debe cejar en el empeño de enmendar los errores que\nha causado, aunque para ello tenga que poner en riesgo\r\nsu propia vida.
+Tatiano...
+...\c\nGracias.
+Aquí, los carrozas como nosotros tenemos el deber de\ndejar el mundo en buen estado por el bien de las\r\ngeneraciones futuras de mocosos, como la vuestra.\c\nPero claro, ¿de qué clase de mundo estoy hablando si ni\nsiquiera lo tenemos claro nosotros mismos?\c\n¿Será un mundo al que daremos forma colaborando entre\ntodos? ¿O bien el resultado de una competición feroz en\r\ndonde cada uno irá por su lado?\c\nLo que debemos hacer ante todo es reflexionar con la\nmayor de las calmas posibles.\c\nY con esto me refiero a todos, sin importar que fulanito\nsea del Equipe Aqua y menganito del Equipe Magma.
+Si alguien como tú ha podido usar el Prisma Azul, estoy\nseguro de que el funcionamiento de este otro no tendrá\r\nsecretos para ti.\c\nSi se lo das a Groudon, deberías ser capaz de controlar el\npoder de la Regresión Primigenia durante un breve lapso\r\nde tiempo, como por ejemplo durante un combate.
+Pues hala, andando.\n¡Adiós, mocos[VAR GENDBR(00FF,0101)]oa!
+Hasta la vista.
+...\c\nMe pregunto si los polos opuestos como el Equipe Aqua\ny el Equipe Magma, de mentalidades y objetivos tan\r\ndispares, serán capaces de ceder poco a poco hasta\r\nalcanzar posturas afines.
+Ya sé que solo se puede calificar de utopía el esperar\nque todo cambie de repente.
+Aun así, me daría con un canto en los dientes si este\nincidente pudiese servir como acicate para dar al menos\r\nel primer paso en la dirección correcta.
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+Me imagino que en estos momentos se están produciendo\nmuchos cambios en toda la región de Hoenn.\c\nSolo espero que tú puedas disfrutar el placer que supone\nver esa metamorfosis con tus propios ojos, experimentarla\r\nen primera persona e imbuirte de ella.
+Ah, pero lo primero es lo primero: te recomiendo que\nempieces por retar al Líder de Ginásio de esta ciudad.\c\nWallace, quien ha estado con nosotros al pie del cañón,\nte debería estar esperando.\c\nTen cuidado, porque es bastante fuerte.\c\nDicho esto, creo que a estas alturas ya eres capaz de\nluchar en igualdad de condiciones contra él.
+Las personas, los Pokémon y la naturaleza...\c\nPara poder seguir viviendo en armonía en este planeta,\nse me antoja necesario que todos muestren un respeto\r\nrecíproco. Esa es, al menos, la sensación que tengo.\c\nMe hace mucha ilusión comprobar cómo cambiará el\nmundo a partir de ahora.
+[VAR TRNAME(0000)]...
+[VAR TRNAME(0000)]...
+Me pregunto qué te pasaría por la cabeza al vivir en un\nmundo así, y cuáles serían los ideales que perseguirías\r\njunto a tus Pokémon.
+Hasta entonces.
+Buf.\c\nPor fin estamos de nuevo a solas, [VAR TRNAME(0000)].\c\nQuería aprovechar la ocasión para agradecerte de nuevo\ntu ayuda de todo corazón.
+Buf, por fin.\c\nVaya alivio, ¿eh?\nPor cierto, quería darte las gracias de nuevo.
+La cuestión es que has hecho algo que pasará a los\nanales de la historia. ¡Te mereces un descanso!
+En fin, la verdad es que te has lucido, tía. Yo que tú me\ntomaba unas “vacas” después de tanto ajetreo.
+¡Hasta luego!
+¡Nos vemos!
+Toda vida comienza en la Cueva Ancestral y acaba en el\nMonte Pira.\c\n¿De dónde venimos nosotros y los Pokémon? ¿Adónde\nvamos?
+La leyenda que contaba el anciano en el Monte Pira\nno era una quimera...
+El equilibrio natural de Hoenn está atravesando un\nmomento dramático...
+Vaya... Es una historia realmente increíble...
+¿Verdad? Jo, jo, jo. ¿A que sí?
+Y pensar que este árbol enorme es un regalo de un\nhombre altísimo que nos visitó desde la región de Kalos...
+Madre mía...\nGracias por iluminarme con su sabiduría, maestro.
+Jo, jo, jo. No hay de qué, don Wallace.\nJo, jo, jo.
+Uy, no soy digno de merecer tamaño respeto.\nJa, ja, ja.\c\nBueno...
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa de nuevo a Sootopolis, Campe[VAR GENDBR(00FF,0302)]ónona!\c\nSteven ya me ha puesto al corriente. Deseas ir al Pilar\nCeleste, ¿no es así?
+Cierto es que la entrada a la cueva que conduce al Pilar\nCeleste solo la podemos abrir quienes pertenecemos al\r\nClan Sootopolis...
+O bien los miembros del Clan Meteoro, habitantes de\nHoenn desde tiempos inmemoriales.
+El Pilar Celeste es un altar erigido para propiciar el\nadvenimiento de Rayquaza, el Pokémon legendario\r\nconsiderado también la deidad protectora de Hoenn.
+Solo los integrantes del Clan Meteoro conocen la manera\nde invocar a Rayquaza para que aparezca en el Pilar\r\nCeleste.\c\nSteven me ha hablado de una chica llamada Tristana, que\nse propone resucitar a Rayquaza por algún motivo.
+En fin, no hay tiempo que perder. Será mejor que me\nadelante.\c\nCuando estés preparad[VAR GENDBR(00FF,0101)]oa, ven a buscarme.\c\nEl Pilar Celeste se alza sobre un [VAR COLOR(0002)]islote[VAR COLOR(0000)] ubicado en\nla [VAR COLOR(0002)]Rota 131[VAR COLOR(0000)].
+Don Wallace ya ha partido hacia el Pilar Celeste.\c\nDicho pilar se encuentra en un [VAR COLOR(0002)]islote[VAR COLOR(0000)] ubicado en\nla [VAR COLOR(0002)]Rota 131[VAR COLOR(0000)].
+¡Oh! ¡Pero si tú...!\c\nEres es[VAR GENDBR(00FF,0707)]e chicoa chica que ha salvado Sootopolis... ¡No, más\nbien a toda la región de Hoenn!\c\nNo encuentro las palabras adecuadas para expresarte mi\nagradecimiento.\c\nPienso disfrutar al máximo cada uno de los momentos\nque me quedan de vida.
+Esto te será de gran ayuda en tus viajes alrededor del\nmundo.\c\nEs una de mis flautas favoritas.
+La [VAR COLOR(0002)]Flauta Eón [VAR COLOR(0000)]es la prueba fehaciente del vínculo que te\nune a Latios.
+No importa lo lejos que os encontréis. En cuanto toques\nuna melodía con esta flauta, Latios se plantará ante ti en\r\nun abrir y cerrar de ojos.
+Montad[VAR GENDBR(00FF,0101)]oa en su lomo, podrás surcar el firmamento, tal y\ncomo hiciste cuando fuiste a parar a esa remota isla en el\r\nsur.
+Ahora que el mundo está recobrando su equilibrio\nhabitual, creo que ha llegado el momento de hacer\r\nborrón y cuenta nueva.\c\n¿No te parece, Maxie?
+No rehuir los problemas y dar la cara, asumiendo la\nresponsabilidad de sus actos... ¿No es así como debería\r\ncomportarse todo adulto que se precie?
+Si es capaz de hallar la determinación necesaria, yo...
+Permaneceré siempre a su lado.
+Me alegraría que nos revelases la respuesta tanto a mi\nequipe Pokémon como a mí la próxima vez que nos\r\nencontremos.
+Se suponía que íbamos a emprender viajes paralelos\ndesde que partimos de Villa Raíz, pero cada vez me\r\ntomabas más la delantera...\c\nHasta que llegó el momento en el que parecías estar a\naños luz...
+La verdad es que me sentía bastante sola, snif...
+Je, je, je. ¡Es bromaaa!
+Pensaba que nuestros viajes irían a la par desde que\npartimos de Villa Raíz, pero me fuiste cogiendo una\r\nventaja criminal.\c\nHasta el punto de que parecías estar ya en el quinto pino.
+Y claro, me empecé a poner algo triste...
+¡Je, te estoy vacilando! ¿Por quién me tomas?
+Pero si lo combinas con ese traje que te acaban de\nentregar, serás capaz de hacer frente a los desafíos que\r\nte imponga la madre naturaleza.
+Y tú, mocos[VAR GENDBR(00FF,0101)]oa...\c\nMe joroba que te veas obligado a cargar con toda esta\nresponsabilidad, pero se siente.\c\n¡Tú puedes, chaval[VAR GENDBR(00FF,0100)]a!
+El sino de este mundo... de nuestro mundo... ¡descansa\nen tus manos!
+Porque...
+¡Porque eres mi mejor amigo!
+Mi apoyo incondicional ya te lo has ganado.
+¡Porque eres mi mejor amiga!
+~~~~~~~~~~~~~~~
+Text File : 493
+~~~~~~~~~~~~~~~
+¿Tú quién eres?
+Esta es la Cueva Ancestral.\c\nSe dice que aquí reviven los espíritus de los Pokémon\nque reposan en el Monte Pira.
+Te ruego que te vayas.
+...
+El Equipe Aqua y el Equipe Magma...
+Te hemos estado esperando.
+Archie...\c\nLe voy a dar a est[VAR GENDBR(00FF,0A0A)]e muchachoa muchacha eso que hemos\ndesarrollado nosotros, ¿vale?
+Vale.
+Toma, este es el Traje Aqua...
+Es un traje protector de alta gama creado a partir de la\ntecnología conjunta del Equipe Aqua y Devon S. A.\c\nEn realidad lo diseñamos con vistas a nuestro encuentro\ncon Kyogre, pero bueno...\c\nVamos a dártelo a ti.
+Sin embargo...\c\nAunque lo lleves puesto, me pregunto si serás capaz de\nalcanzar las profundidades marinas en donde se halla\r\nKyogre.
+Desde luego, la energía que rezuma esta cueva supera\nincluso nuestros propios cálculos.\c\nIncluso la corriente parece haberse visto influenciada por\ntamaña fuerza, a tenor del impulso que muestra.
+De todas formas, no hay nada que temer.
+El Prisma Rojo que porta...\c\nSu fuerza milenaria debería bastar para proteger a este\nchico y a su equipe Pokémon.
+El Prisma Rojo que porta...\c\nSu fuerza milenaria debería bastar para proteger a esta\nchica y a su equipe Pokémon.
+Hmmm, ¡no te falta razón!\c\nAhora que lo dices, recuerdo que los ancianos del Monte\nPira decían algo al respecto...\c\nQue el Prisma Azul puede liberar la fuerza de Kyogre...\nO, dicho de otra forma, propiciar la Regresión Primigenia.\c\nY que el Prisma Rojo, en contraposición, puede detener\nese mismo proceso...
+Así es. La energía que abunda en la Cueva Ancestral es\nla misma que insufla fuerzas a Kyogre.\c\nCon ese Prisma Rojo, que posee la facultad de detener\ndicha fuerza, seremos capaces de hacer que las aguas\r\nvuelvan a su cauce.
+Lógicamente, el poder que atesora el Prisma Rojo no\nbasta para alcanzar el Abismo de Hoenn, donde yace\r\nKyogre.
+[VAR TRNAME(0000)], no esperaba que tuvieras el Prisma\nRojo...
+[VAR TRNAME(0000)], no esperaba que tuvieras el Prisma\nRojo...
+No te preocupes. Con la ayuda de tu equipe Pokémon\nlograrás lo que te propongas.
+Estoy convencido.
+Nosotros, los habitantes de Sootopolis, tenemos vetada\nla entrada a la Cueva Ancestral.
+Pero tú debes partir sin dilación hacía allí, con tu Prisma\nRojo.
+No importa lo que te aguarde o lo que pueda ocurrir en el\ninterior de esa cueva.
+Nosotros también movilizaremos a los miembros de\nnuestro equipe para ofrecer asistencia a todas aquellas\r\npersonas y Pokémon que se hayan visto afectados.\c\nNo tenemos elección: cada uno de nosotros debe\naportar su granito de arena y dar lo mejor de sí mismo.\c\nY tú, pequeñ[VAR GENDBR(00FF,0101)]oa...
+...\c\nLo siento.
+¡[VAR TRNAME(0000)]!
+¡[VAR TRNAME(0000)]!
+He oído que la situación en Sootopolis y sus alrededores\nes bastante grave, y cuando te vi en el VideoNav, me dije\r\na mí misma que no podía quedarme de brazos cruzados\r\nni de broma, ¡así que vine aquí pitando!
+Cuando te vi aparecer en las noticias sobre Sootopolis en\nel VideoNav, me dije: “¡Tengo que ir a echarle un cable\r\npero ya!”.\c\n¡Menudo alivio comprobar que estás vivita y coleando!
+¡¿Co-cómooo?! ¡Pero qué ven mis ojos! El Equipe Aqua\ny el Equipe Magma... ¿juntos pero no revueltos?\c\nEstoy tan sorprendida en todos los sentidos que no\nencuentro siquiera las palabras para expresar mi asombro.
+¡¿Eeeh?! ¿El Equipe Aqua y el Equipe Magma?\c\nEs realmente... Cómo lo diría yo... Sorprendente.
+Lo que está sucediendo supera incluso los límites de mi\npropia imaginación...\c\nAsí que me voy a ahorrar las preguntas.
+Lo que está sucediendo supera incluso los límites de mi\npropia imaginación...\c\nAsí que me voy a ahorrar las preguntas.
+En cuanto averigüe de qué forma podría ayudaros, podéis\ncontar conmigo también.\c\nEspero y deseo de todo corazón que no te pase nada y\npuedas regresar sano y salvo, [VAR TRNAME(0000)].
+En cuanto averigüe de qué forma podría echaros una\nmano, yo también pienso dejarme la piel en el intento.\c\n¡Valor y al Tauros, [VAR TRNAME(0000)]!
+Tú debes entrar... Y con el Prisma Rojo.\c\nY ni siquiera pienses en lo que te espera dentro de la\ncueva...
+No te preocupes. Con la ayuda de tu equipe Pokémon\nlograrás lo que te propongas.\c\n¡Estoy convencido!
+Nosotros también movilizaremos a los miembros de\nnuestro equipe para ofrecer asistencia a todas aquellas\r\npersonas y Pokémon que se hayan visto afectados.\c\nNo tenemos elección: cada uno de nosotros debe\naportar su granito de arena y dar lo mejor de sí mismo.\c\nLamento tener que encomendarme a ti de esta manera\npara un asunto de tamaña importancia.\c\nPero confío en ti.
+Tú puedes...\c\nSalva al mundo... detén a Kyogre...
+Con el Traje Aqua serás capaz de perseguir a Kyogre\nhasta el mismísimo lecho marino.\c\n¡Contamos contigo!
+En cuanto averigüe de qué forma podría ayudaros, podéis\ncontar conmigo también.\c\nEspero y deseo de todo corazón que no te pase nada y\npuedas regresar sano y salvo, [VAR TRNAME(0000)].\c\n¡Ánimo!
+En cuanto averigüe de qué forma podría echaros una\nmano, yo también pienso dejarme la piel en el intento.\c\n¡Valor y al Tauros, [VAR TRNAME(0000)]!\c\nMi apoyo incondicional ya te lo has ganado.\c\nComo amiga mía que eres.
+¡[VAR TRNAME(0000)]!
+¡[VAR TRNAME(0000)]!
+Todo ha terminado...
+Se acabó...
+[VAR TRNAME(0000)], estamos en deuda contigo.
+[VAR TRNAME(0000)], estamos en deuda contigo.
+Alza la vista.\c\nEl cielo de Sootopolis ha recobrado su aspecto habitual.
+La energía que se ha ido acumulando en el interior de la\nCueva Ancestral está comenzando a fluir hacia nuestro\r\nmundo...
+...\c\nVaya calorcito...
+Hasta hace un momento sentía como si el temor y la\nincertidumbre se estuviesen adueñando de mí...\c\nPero esas sensaciones se desvanecen poco a poco para\ndar paso a un sosiego reconfortante...
+...\c\nTierra o mar...\c\nSeres humanos o Pokémon...\c\nNos empeñábamos en hacer feliz a uno de los bandos\na costa de erradicar al otro...
+...\c\nSupongo que tienes razón.
+Maxie...\c\nLo que dices tiene todo el sentido del mundo, pero...
+Uno no puede cambiar de la noche a la mañana.\c\nYo tenía mi propia visión para este mundo...\c\nY ahora ya es tarde para cambiar mi concepción de un\nmundo ideal en el que poder convivir con mis queridos\r\nPokémon.\c\nAhora bien, soy consciente de que no tengo derecho a\nobjetar nada después de haber causado tantas molestias.
+Efectivamente.\c\nCausaste un estropicio de tales dimensiones que llevaste\neste mundo al borde del colapso, ¡zopenco!\c\nLa gente no va a perdonarte ni aunque se lo supliques\nde rodillas.
+De todas formas, no necesitas su perdón.\c\nAunque seas un tonto redomado al que nadie en todo el\nmundo perdone...
+Shelly...
+Lo siento.
+Hmm...\c\nNosotros, como adultos, tenemos el deber de legar este\nmundo a las siguientes generaciones.\c\n¿Pero cómo podemos arreglárnoslas para crear un mundo\nque ellos puedan heredar en condiciones?\c\n¿Debemos colaborar codo con codo o, tal y como hemos\nhecho hasta ahora, competir por ese objetivo?\c\nCreo que es hora de juntarnos con nuestros respectivos\ncompañeros y tratar de limar asperezas entre el Equipe\r\nAqua y el Equipe Magma para derribar el muro que nos\r\nsepara.
+Muy bien, mocos[VAR GENDBR(00FF,0101)]oa. Si alguien como tú ha podido usar el\nPrisma Rojo, estoy seguro de que el funcionamiento de\r\neste otro no tendrá secretos para ti.\c\nSi se lo das a Kyogre, deberías ser capaz de controlar el\npoder de la Regresión Primigenia.
+Adiós.
+Hasta la vista.
+...\c\nMe pregunto si los polos opuestos como el Equipe Aqua\ny el Equipe Magma, de mentalidades y objetivos tan\r\ndispares, serán capaces de ceder poco a poco hasta\r\nalcanzar posturas afines.
+Ya sé que solo se puede calificar de utopía el esperar\nque todo cambie de repente.
+Aun así, me daría con un canto en los dientes si este\nincidente pudiese servir como acicate para dar al menos\r\nel primer paso en la dirección correcta.
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+Me imagino que en estos momentos se están produciendo\nmuchos cambios en toda la región de Hoenn.\c\nSolo espero que tú puedas disfrutar el placer que supone\nver esa metamorfosis con tus propios ojos, experimentarla\r\nen primera persona e imbuirte de ella.
+Ah, pero lo primero es lo primero: te recomiendo que\nempieces por retar al Líder de Ginásio de esta ciudad.\c\nWallace, quien ha estado con nosotros al pie del cañón,\nte debería estar esperando.\c\nTen cuidado, porque es bastante fuerte.\c\nDicho esto, creo que a estas alturas ya eres capaz de\nluchar en igualdad de condiciones contra él.
+Las personas, los Pokémon y la naturaleza...\c\nPara poder seguir viviendo en armonía en este planeta,\nse me antoja necesario que todos muestren un respeto\r\nrecíproco. Esa es, al menos, la sensación que tengo.\c\nMe hace mucha ilusión comprobar cómo cambiará el\nmundo a partir de ahora.
+[VAR TRNAME(0000)]...
+[VAR TRNAME(0000)]...
+Me pregunto qué te pasaría por la cabeza al vivir en un\nmundo así, y cuáles serían los ideales que perseguirías\r\njunto a tus Pokémon.
+Hasta entonces.
+Buf.\c\nPor fin estamos de nuevo a solas, [VAR TRNAME(0000)].\c\nQuería aprovechar la ocasión para agradecerte de nuevo\ntu ayuda de todo corazón.
+Buf, por fin.\c\nVaya alivio, ¿eh?\nPor cierto, quería darte las gracias de nuevo.
+La cuestión es que has hecho algo que pasará a los\nanales de la historia. ¡Te mereces un descanso!
+En fin, la verdad es que te has lucido, tía. Yo que tú me\ntomaba unas “vacas” después de tanto ajetreo.
+¡Hasta luego!
+¡Nos vemos!
+Toda vida comienza en la Cueva Ancestral y acaba en el\nMonte Pira.\c\n¿De dónde venimos nosotros y los Pokémon? ¿Adónde\nvamos?
+La leyenda que contaba el anciano en el Monte Pira\nno era una quimera...
+El equilibrio natural de Hoenn está atravesando un\nmomento dramático...
+Vaya... Es una historia realmente increíble...
+¿Verdad? Jo, jo, jo. ¿A que sí?
+Y pensar que este árbol enorme es un regalo de un\nhombre altísimo que nos visitó desde la región de Kalos...
+Madre mía...\nGracias por iluminarme con su sabiduría, maestro.
+Jo, jo, jo. No hay de qué, don Wallace.\nJo, jo, jo.
+Uy, no soy digno de merecer tamaño respeto.\nJa, ja, ja.\c\nBueno...
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa de nuevo a Sootopolis, Campe[VAR GENDBR(00FF,0302)]ónona!\c\nSteven ya me ha puesto al corriente. Deseas ir al Pilar\nCeleste, ¿no es así?
+Cierto es que la entrada a la cueva que conduce al Pilar\nCeleste solo la podemos abrir quienes pertenecemos al\r\nClan Sootopolis...
+O bien los miembros del Clan Meteoro, habitantes de\nHoenn desde tiempos inmemoriales.
+El Pilar Celeste es un altar erigido para propiciar el\nadvenimiento de Rayquaza, el Pokémon legendario\r\nconsiderado también la deidad protectora de Hoenn.
+Solo los integrantes del Clan Meteoro conocen la manera\nde invocar a Rayquaza para que aparezca en el Pilar\r\nCeleste.\c\nSteven me ha hablado de una chica llamada Tristana, que\nse propone resucitar a Rayquaza por algún motivo.
+En fin, no hay tiempo que perder. Será mejor que me\nadelante.\c\nCuando estés preparad[VAR GENDBR(00FF,0101)]oa, ven a buscarme.\c\nEl Pilar Celeste se encuentra ubicado en lo alto de un\n[VAR COLOR(0002)]islote ubicado en la Rota 131[VAR COLOR(0000)].
+Don Wallace ya ha partido hacia el Pilar Celeste.\c\nDicho pilar se encuentra en un [VAR COLOR(0002)]islote de la Rota 131[VAR COLOR(0000)].
+¡Oh! ¡Pero si tú...!\c\nEres es[VAR GENDBR(00FF,0707)]e chicoa chica que ha salvado Sootopolis... ¡No, más\nbien a toda la región de Hoenn!\c\nNo encuentro las palabras adecuadas para expresarte mi\nagradecimiento.\c\nPienso disfrutar al máximo cada uno de los momentos\nque me quedan de vida.
+Esto te será de gran ayuda en tus viajes alrededor del\nmundo.\c\nEs una de mis flautas favoritas.
+La [VAR COLOR(0002)]Flauta Eón [VAR COLOR(0000)]es la prueba fehaciente del vínculo que te\nune a Latias.
+No importa lo lejos que os encontréis. En cuanto toques\nuna melodía con esta flauta, Latias se plantará ante ti en\r\nun abrir y cerrar de ojos.
+Montad[VAR GENDBR(00FF,0101)]oa en su lomo, podrás surcar el firmamento, tal y\ncomo hiciste cuando fuiste a parar a esa remota isla en el\r\nsur.
+Ahora que el mundo está recobrando poco a poco el\nequilibrio que le caracteriza, creo que ha llegado el\r\nmomento de replantearnos seriamente nuestras metas.\c\n¿No te parece, Archie?...
+Yo...\n¡Yo permaneceré a tu lado! ¡Siempre estaré contigo!
+Así que deja de ir a tu bola y hacer barbaridades...
+Porque eres nuestro líder... el Líder del Equipe Aqua.\nY nosotros, al fin y al cabo, somos tus compañeros...
+Me alegraría que nos revelases la respuesta tanto a mi\nequipe Pokémon como a mí la próxima vez que nos\r\nencontremos.
+Se suponía que íbamos a emprender viajes paralelos\ndesde que partimos de Villa Raíz, pero cada vez me\r\ntomabas más la delantera...\c\nHasta que llegó el momento en el que parecías estar a\naños luz...
+La verdad es que me sentía bastante sola, snif...
+Je, je, je. ¡Es bromaaa!
+Pensaba que nuestros viajes irían a la par desde que\npartimos de Villa Raíz, pero me fuiste cogiendo una\r\nventaja criminal.\c\nHasta el punto de que parecías estar ya en el quinto pino.
+Y claro, me empecé a poner algo triste...
+¡Je, te estoy vacilando! ¿Por quién me tomas?
+Pero si lo combinas con ese traje que te acaban de\nentregar, serás capaz de hacer frente a los desafíos que\r\nte imponga la madre naturaleza.
+No, de pequeñ[VAR GENDBR(00FF,0101)]oa ya no tienes nada, has madurado.\c\nLamento tener que encomendarme a ti de esta manera\npara un asunto de tamaña importancia.\c\nPero confío en ti.
+Tú puedes...\c\nSalva al mundo... detén a Kyogre...
+Porque...
+¡Porque eres mi mejor amigo!
+Mi apoyo incondicional ya te lo has ganado.
+¡Porque eres mi mejor amiga!
+~~~~~~~~~~~~~~~

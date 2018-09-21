@@ -1,0 +1,210 @@
+~~~~~~~~~~~~~~~
+Text File : 567
+~~~~~~~~~~~~~~~
+¡He aquí la MO Golpe Roca!\c\nSi alguna piedra se interpone en tu camino, podrás\nhacerla añicos con este movimiento.\c\nHmmm... ¿Un cambio de entonación?\n¡He aquí la MO Golpe Roca!\c\nSi alguna piedra se interpone en tu camino, podrás\nhacerla añicos con este movimiento.\c\nA ver así... ¡He aquí la MO Golpe Roca!\c\nSi alguna piedra se interpone en tu camino, podrás\nhacerla añicos con...
+Ese señor de ahí lleva mucho tiempo esperando poder\nentregarle la MO Golpe Roca a algún Treinador como tú.\c\nComo tiene miedo a equivocarse cuando llegue el gran\nmomento, se pasa el día ensayando su discurso una y\r\notra vez.
+¡Slak, slak!
+Una vez a la semana, llamo a Slakoth para que venga a\ncasa.\c\nDe vez en cuando necesito estar con alguien que se toma\nlas cosas con calma.
+~~~~~~~~~~~~~~~
+Text File : 568
+~~~~~~~~~~~~~~~
+?Helado, lado, lado...?\n?Helado congelado...?\c\n?Helado de puro hielo...?\n?¡Helado de caramelooo!?
+¡Anda! ¡Tienes a Regice! ¡Es mi favorito!\n¡Mira, te vendo un Porcehelado a un precio especial!\c\n¡Solo 200 $ porque tienes a Regice!
+?¡Toma, que te aproveche!?
+?No tienes bastante dinerito.?
+?Con lo fresquitos que están...?
+?¡Hasta mañana!?
+?¡No puedes llevar tantos!?
+~~~~~~~~~~~~~~~
+Text File : 569
+~~~~~~~~~~~~~~~
+¡Ah, gracias por venir, maj[VAR GENDBR(00FF,0101)]oa!\nPerdona que te haya hecho acercarte hasta aquí, pero es\r\nque quería pedirte que me ayudaras con un problemilla.\c\n¿Te acuerdas de lo que te dije sobre esa luz tan intensa\nque parpadea en el Monumento Prisma?\c\nPues quiere decir que algo no anda bien en Malvalanova.\nQuería pedirte que te pasaras por allí a echar un vistazo.
+Lo que pasa es que la entrada a Malvalanova está\nrestringida.\c\nAntes bastaba con tener la llave para entrar, pero ahora\nlas medidas de seguridad son mucho más avanzadas.
+A ver... Mírame y no te muevas.
+Ya está. He sacado una foto del iris de tu ojo y ahora la\nvoy a guardar en el ordenador para enviarla.
+Ahora, si vas a Malvalanova, la puerta se abrirá\nautomáticamente cuando te pongas delante.\c\nHace un tiempo instalamos un sistema de reconocimiento\nocular para remplazar la antigua Llave del Sótano.\c\nCuando estés dentro, busca el ordenador que hay al\nfondo, pulsa el botón y comprueba si vuelve a funcionar\r\ncorrectamente. Luego ven a contarme cómo ha ido todo.\c\nSiento molestarte con esto, pero de verdad que me\nviene muy bien tu ayuda.
+Cuento contigo para investigar la situación en\nMalvalanova.\c\nPuedes usar [VAR COLOR(0002)]Surf[VAR COLOR(0000)] en la [VAR COLOR(0002)]Rota 110[VAR COLOR(0000)] para llegar hasta\nallí.
+Tú eres [VAR TRNAME(0000)], ¿no?\nQuiero darte las gracias por ayudar a mi marido.\c\nEspero que no te esté entreteniendo demasiado.
+Pluuus, plus, pluuus...
+Nuuun, miiin, minuuun...
+Hola, [VAR TRNAME(0000)].\nGracias por pasarte por Malvalanova.
+He recibido los resultados de tu inspección en mi\nordenador.\c\nA simple vista, parece que todo está bajo control.\c\nToma, quiero darte esto para agradecerte el favor que me\nhas hecho.
+Por cierto, habrás visto que Malvalanova está desierta,\n¿verdad?\c\nSe proyectó con la idea de crear una nueva ciudad\nsubterránea... Iba a tener túneles enormes que se\r\nadentrarían a gran profundidad.
+Pero, por diversas razones, hubo que cancelar el proyecto\ny las instalaciones quedaron abandonadas.\c\nToda la maquinaria y equipes que se quedaron allí deben\nestar bastante deteriorados.
+Durante un buen tiempo, el proyecto de desarrollo de\nMalvalanova marchaba viento en popa.\c\nPero poco antes de que se completara, surgió el\nproblema.\c\nNos dimos cuenta de que, si construíamos una ciudad\npara los humanos, tendría un grave impacto para los\r\nPokémon que habitaban allí.\c\nPor eso decidimos cancelar el proyecto y Malvalanova\nha permanecido abandonada desde entonces.
+~~~~~~~~~~~~~~~
+Text File : 570
+~~~~~~~~~~~~~~~
+Yo soy el Charlatán.\c\nMientras haya gente que quiera escuchar mis historias,\nyo soy más feliz que una perdiz.
+Yo soy el Fardón y molo un montón.\c\nNo hay nadie más moderno que yo. Siempre voy un paso\npor delante.\c\n¡Yo ya criaba Pokémon antes de que estuvieran en la\nonda! ¡Si hubiera un tipo más moderno que yo, estaría\r\ncriticando cosas en la tele!
+Yo soy el Bardo.\c\nTú tuviste el gusto de escuchar una de mis canciones\nhace poco, ¿verdad?\c\n¿Conoces a alguien más que quiera escucharla?
+Yo soy el Canjeador.\c\nMe gusta intercambiar artículos con la gente, pero...\nAlgún día me gustaría intercambiar algo más interesante...
+Yo soy el Cuentaleyendas.\c\nMe gustaría narrarle al mundo la historia de los cinco\nabueletes...\c\nY nos gustaría compartir nuestro poder con el prójimo...
+Yo soy el Cuentaleyendas.\c\nMe gustaría narrarle al mundo la historia de los cinco\nabueletes...\c\nY nos gustaría compartir nuestro poder con el prójimo...\n¿Conoces a alguien que esté interesado?
+¿En serio...?\n¿Dices que hay un tipo así de nulo que vive ahí enfrente?\c\n¡Presiento que este podría ser el nacimiento de toda una\nleyenda!\c\n¿Podrías hacernos el favor de traer a ese hombre hasta\naquí?
+¡Por favor, preséntanos al infeliz que vive ahí enfrente!
+¿Qué...? ¿Qué quieren ustedes?
+Soy el Charlatán.
+¡Y yo el Fardón!
+?Yo soy el Baardooo.?
+Y yo el Canjeador.
+Y yo soy el Cuentaleyendas. ¡Je, je, je!\c\n¿Cómo te llamas tú, piltrafilla?
+¿Cómo me llamo yo?...\nPues... tenía un nombre... pero lo olvidé hace tiempo.\c\nAunque no creo que fuera gran cosa. Igual que yo...
+¡Es perfecto!
+¿No creéis que es el candidato ideal para recibir nuestro\npoder?
+¿Recibir su poder?\nNo sé qué quiere decir...\c\nNo tenía ni idea de que todos ustedes vivían aquí\nenfrente...\c\n¿Quiénes son ustedes en realidad?
+¡Eso da igual! ¡Lo que importa ahora es que nos hemos\nconocido!
+¡Eso, eso! ¡Mola cantidubi!
+¡Ahora escúchame bien!\c\n¡Nosotros, los cinco abueletes, hemos recorrido Hoenn\nde cabo a rabo repartiendo Poderes O, sueños y\r\nesperanzas!
+Pero ya estamos muy mayores y va siendo hora de que\nnos jubilemos...
+Por eso estábamos buscando a nuestro sucesor...\n¡Y te hemos encontrado a ti!\c\n¡Esto ha sido cosa del destino! Está claro que serás tú\nquien tome el relevo.
+Pe-pero... yo no sé nada de todo eso...\nSe equivoca...
+¡Piénsalo bien! ¡Es tu oportunidad de comenzar una vida\nnueva y ser un tipo lleno de carisma, desbordante de\r\nenergía!\c\nSales ganando con el trato.
+...
+¡Por favor! ¡Tienes que llevar sueños y Poderes O a la\ngente!
+Qué... ¿Qué tengo que hacer?
+¡Ah! ¡¿Significa eso que aceptas?!\c\nNo te preocupes. Es muy sencillo. Solo tienes que\nrelajarte y dejar que nuestro poder fluya hacia ti.\c\nManos a la obra.
+¡Es tan bonito que nos ayudemos los unos a los otros!\n¡Y gracias a ti también, por supuesto!
+Venga, empecemos.
+¡Quiero ver puestas de sol por todo el mundo!\n¡Así que te toca visitar muchas regiones!
+¡Ah...! ¡Uaaah!
+¡Diles a todos que yo ya te conocía antes de que fueras\nguay!
+Ugh...
+¡Recuerda que los Poderes O son una forma de arte!
+Ah... Ah...
+Gracias a nuestro poder, personas de todo el mundo\nintercambian sonrisas. ¿No es maravilloso?
+Oooh...
+¡Muy bien! ¡Vamos allá! ¡Conviértete en una leyenda!\n¡Máxima potenciaaa!
+Uf, uf... Ah... Ah...\nUh...
+¡Uooooh!
+¡Oooh!\n¡Qué fuerte!\c\n¡Siento un poder inmenso recorriendo todo mi cuerpo!\n¡Y es como si, de alguna manera, estuviera conectado a\r\nlos cinco abueletes!\c\n¡Me siento renovado, como si fuera una persona\ntotalmente distinta!
+¡¿Qué pasa, colega?!\n¡Soy Mr. Buen Rollo, el que se dedica a repartir alegría\r\npor el mundo con los Poderes O!\c\n¡Soy un hombre nuevo! ¿Quieres poner a prueba mi\npoder?
+¡Pues hala, buen rollito para todos!
+¡Je, je! ¡Muchas gracias, colega!\nVoy a emprender mi viaje para entregarles mis Poderes O\r\na Treinadores de todo el mundo.\c\nY ahora me piro, vampiro...\n¡Ya nos veremos por ahí, donde sea!
+¡[VAR TRNAME(0000)] ha recibido un Poder O!
+Ahora puedes usar el [VAR OPOWER(0000)].
+~~~~~~~~~~~~~~~
+Text File : 571
+~~~~~~~~~~~~~~~
+Soy un tipo bastante aburrido...\c\nNo tengo ningún talento especial...\nNada destacable...\c\nNo pierdas el tiempo hablando conmigo.
+No tengo ningún talento especial...
+¿...?\c\n¿Qué dices? ¿Que quieren hablar conmigo? ¿Cinco\nseñores?\c\nNo tengo ni idea de qué se trata, pero al menos estaré\nentretenido.
+~~~~~~~~~~~~~~~
+Text File : 572
+~~~~~~~~~~~~~~~
+¡Oye, Treinador[VAR GENDBR(00FF,0100)]a!\n¿Es la primera vez que vienes?\c\nEsta área de restaurantes es un poco especial.\nAquí tienes que cumplir unas normas para poder comer.\c\n¡Como yo vengo mucho por aquí, me sé todas las normas\nde memoria y te las puedo enseñar!
+¡Primera!\c\nLa comida se pide en la barra.\c\nTienes tres platos para elegir y puedes pedir el que más\nte apetezca.\c\nCuando hayas pedido, el camarero te entregará una\nespecie de busca.\c\n¡Segunda!\c\nSiéntate donde quieras y espera a que la comida esté\nlista.\c\nComo tardarán un poco en prepararte lo que has pedido,\ntendrás que buscar una silla que esté libre y esperar.\c\nPero... ¡no es tan fácil como parece!\c\n¡Cuando vayas a sentarte, tendrás que enfrentarte a otros\nclientes que también quieran la misma silla que tú!\c\n¡O sea que, si quieres zampar, tendrás que pelear!\c\n¡Tercera!\c\n¡A comer!\c\nCuando suena el busca, significa que tu comida está lista.\nVe a buscarla a la barra y vuelve a tu sitio para disfrutar\r\nde tu festín.\c\n¿Lo has entendido todo?\n
+¡Ya sé! ¿Por qué no pides algo para comer y así lo\npruebas?\c\nComo es la primera vez, te recomiendo un Menú Sándwich\nVilla para empezar.\c\nSon una especialidad de la región de Unova y hace poco\nque han empezado a servirlos aquí.\c\nEs un menú bastante popular entre los niños que se pirran\npor los Combates Individuales.
+Yo tengo que irme ya. ¡Espero que te guste Mauville\nGourmet tanto como a mí!
+¡Anda, Treinador[VAR GENDBR(00FF,0100)]a! ¿Cómo te va?\nOye, ¿tienes un momento?
+Últimamente hay mucha menos gente que hace cola para\nlas Magnebóndigas. ¿Será que se ha pasado la novedad?\c\nLas Magnebóndigas son un plato picante típico de\nCidade Mauville.\c\nPara hacerlas se mezclan semillas de distintas clases con\nuna masa especiada y se fríen hasta que quedan bien\r\nesponjosas. Luego se acompañan con una salsa agridulce\r\nriquísima que es una especialidad de Johto.\c\nSon un plato rápido superpopular entre los jóvenes y las\nparejas amantes de los Combates Dobles.
+Tienes que probarlas, ¿eh?\nYa me dirás si te gustan. ¡Hasta luego!
+¡Anda, Treinador[VAR GENDBR(00FF,0100)]a! ¿Cómo te va?\nOye, ¿tienes un momento?
+Cuando empezaron a servir los Malvaguetis todo el mundo\niba loco por probarlos, pero últimamente las colas ya no\r\nson tan exageradas.\c\nLos Malvaguetis se hacen con una pasta tan blandita\ncomo los mofletes de un Jigglypuff, un caldo dorado\r\ncomo el sol y una pila de ingredientes tan alta que parece\r\nel Monte Chaminé.\c\nSon el plato más fuerte de Mauville y hacen sudar hasta\na los expertos más curtidos en Combates Triples.\c\nEstos Malvaguetis son todo un clásico en la oferta\ngastronómica de Mauville Gourmet.
+Pruébalos y dime qué te parecen.\c\nPero, si vas a comerte un plato de Malvaguetis, prepárate\nbien para lo que te espera...\c\nBueno, yo tengo que irme ya.\n¡Nos vemos por aquí!
+He perdido...\c\nMi silla...\c\nEsa silla es el único lugar donde me he sentido a gusto...\nNi en casa, ni en el colegio ni en la academia he\r\nencontrado nunca un sitio que considerara mío...\c\nPor eso siempre me he enfrentado a quien tuviera la\nintención de sentarse ahí, hasta que al final me convertí\r\nen el Rey Gourmet, el que corta el bacalao en este\r\nlugar... Hasta hoy.\c\nPero tras perder contra ti he aprendido una valiosa\nlección...\c\n¡No basta solo con defender mi sitio, sino que tengo que\nconstruirlo desde los cimientos!
+Has demostrado que te mereces ser mi sucesor,\npor eso en el día de hoy ¡yo te nombro Rey Gourmet II!\c\n¡Y yo me dedicaré a construir mi propio sitio, un lugar\nsolo para mí, hecho a mi medida!
+Has demostrado que te mereces el título de rey... bueno,\nde reina, mejor dicho. Por eso en el día de hoy ¡yo te\r\nnombro Reina Gourmet!\c\n¡Y yo me dedicaré a construir mi propio sitio, un lugar\nsolo para mí, hecho a mi medida!
+Re[VAR GENDBR(00FF,0B0C)]y Gourmet IIina Gourmet...\nTe confío mis dominios. Mauville Gourmet es ahora tu\r\nreino.\c\nEspero que nuestros caminos vuelvan a cruzarse algún\ndía... ¡Cuídate!
+¡Está sonando el busca!\nVe a buscar tu comida.
+¿Quieres un Menú Sándwich Villa?\nSon [VAR NUM5(0000,E07F)] $.
+Es un menú muy económico compuesto de un sándwich\nde bayas acompañado de bayas fritas.\c\n¡Los niños fans de los Combates Individuales no quieren\notra cosa!
+¡Marchando! Tu menú estará listo en [VAR NUM1(0000)] turno[VAR NUMBRNCH(0000,0100)]s.\nToma este busca. Siéntate y espera hasta que suene.
+Lo siento, pero no tienes suficiente dinero.
+Lo siento, pero para pedir aquí necesitas llevar al menos\n[VAR NUM1(0000)] Pokémon en tu equipe.
+Gracias por esperar. Aquí tienes tu Menú Sándwich Villa.\nQue aproveche.
+¡Con el pan bien tierno, recién salido del horno!\n¡No podías haber venido a buscarlo en un momento\r\nmejor!\c\n¡El dueño ha decidido que a este invita la casa!
+Lo siento, pero me temo que el pan está un poco seco y\nno va a saber tan rico como debería.
+Lo siento mucho, pero hoy ya lo hemos vendido todo.\nPor favor, vuelve mañana.
+Muy bien.\nVuelve pronto.
+¡Oye, tú, que esa silla la he visto yo primero!
+Pues voy a tener que buscarme otro sitio donde\nsentarme...
+¡Aquí para sentarte en una silla, primero tienes que\nganártela!\c\n¡Hay que ver cómo está el mundo de la restauración!
+Ahora me quedo sin comer por haber perdido.\nNos han fastidiado pero bien con las nuevas tendencias.
+¡Esta silla lleva mi nombre! ¡Y si no lo quieres entender\npor las buenas, será por las malas!
+Pues llevaba mi nombre pero no mi apellido...
+¡Déjame sentarme o prepárate a luchar!
+No pensaba que fueras a ganar...\nTendré que buscarme otra silla.
+¡Soy una princesa y este es mi trono!\nSal de aquí ahora mismo o...\c\n¡En nombre de las hadas, te castigaré!
+Ah... Mi trono real...\nMancillado por alguien de tu calaña...
+¡Hola! ¿Te apetecen unas Magnebóndigas?\n¡Son solo [VAR NUM5(0000,E07F)] $!
+Como su nombre indica, las Magnebóndigas son unas\nbolas de masa con forma de Magnemite.\c\n¡Este plato rápido triunfa entre los jóvenes entusiastas\nde los Combates Dobles!
+¡Muy bien! ¡Marchando una de Magnebóndigas!\nEstarán listas en [VAR NUM1(0000)] turno[VAR NUMBRNCH(0000,0100)]s.\c\nToma este busca. Siéntate y espera hasta que suene.
+Estarás de broma, ¿no?\n¡Te falta dinero!
+Perdona, pero las Magnebóndigas hay que comérselas\ncon al menos [VAR NUM1(0000)] Pokémon. Es la costumbre.
+¡Aquí tienes tus Magnebóndigas!
+Vienes en el momento justo. ¡Están en su punto!\nCómetelas antes de que se enfríen y no te preocupes\r\npor el dinero. ¡Invita la casa!
+Has tardado un poco... Creo que se han enfriado.
+¡Lo siento, pero hoy ya lo hemos vendido todo!\c\nVuelve mañana, por favor.
+Como quieras. Vuelve pronto.
+Aquí se sienta una servidora. ¡Y si no te parece bien,\ntendrás que vértelas conmigo!
+Vale, hoy te dejo que te sientes, pero la próxima vez\nno tendrás tanta suerte.
+¡Eh, eh! ¡Espera, que esta silla es mía!
+¡Buaaa! Mira que eres abus[VAR GENDBR(00FF,0302)]ónona.\nYo creo que mejor lo dejo ya por hoy...
+¡Oye! ¿Pero tú qué te has creído?\n¡Esa silla ni tocarla!
+¡Ah! ¡Mecachis en la mar!\n¡Se me van a enfriar las Magnebóndigas!
+Me parece que te equivocas.\nClaramente, esa silla no te corresponde.
+Me has vencido...\nNo me digas que tú eres...
+¡Ja!\n¿Tienes lo que hace falta para defender tu asiento?
+Pues vale. Por mí puedes comer hasta reventar.
+Cuando comes en la silla que le has quitado a otro,\nparece que la comida está mucho más rica.
+Puedes ir calentándome la silla por ahora... Cuando\nmenos te lo esperes, volveré y te la quitaré.
+¿Malvaguetis?\nCuestan [VAR NUM5(0000,E07F)] $.
+Aquí solo servimos Malvaguetis... Y los que frecuentan\nesta barra suelen ser amantes de los Combates Triples.
+Estarán listos en [VAR NUM1(0000)] turno[VAR NUMBRNCH(0000,0100)]s.\nToma el busca y siéntate a esperar.
+No tienes bastante dinero.
+Yo no le sirvo a nadie que lleve menos de [VAR NUM1(0000)] Pokémon.
+Hale, ahí tienes los Malvaguetis.
+Eh... Espera un momento...\c\nA ti te gusta el buen comer, ¿eh?\nAnda, toma esto también.
+¿Tú has podido con ese?\c\nY además has calculado el tiempo exacto de cocción de\nla pasta...
+Has tardado mucho y se te han quedado como el chicle...
+Hoy ya lo he vendido todo. Si quieres papear, vuelve\nmañana.
+Pues vale.
+Chaval[VAR GENDBR(00FF,0300)]ita, has cometido un grave error sentándote en\nesa silla.
+No tienes ni idea de dónde te estás metiendo.\nAquí es el Rey Gourmet el que corta el bacalao.
+Me estaba preguntando quién había sido capaz de ganar\na mi colega... y resulta que ha sido un[VAR GENDBR(00FF,0807)] mocosoa mocosa.
+Maldita sea... Y yo que pensaba que no eras más que\nun[VAR GENDBR(00FF,0100)]a niñat[VAR GENDBR(00FF,0101)]oa... Me has dado pero bien.
+¡Hoy es mi día de suerte!\c\n¡Un plato de Malvaguetis bien calentito y la silla perfecta\npara aguantarme el trasero mientras me los zampo!
+¡No puede ser! ¡Tengo que encontrar otro sitio ya mismo!\n¡Se me van a pasar los Malvaguetis!
+¡Mi jefe me ha prestado sus Pokémon expresamente para\neste día y por eso no pienso perder!\c\n¡Hoy esa silla por fin será mía!
+Pe-pero... Los Pokémon del jefe...\nMira lo que has hecho...
+No quiero perder el tiempo luchando contra un[VAR GENDBR(00FF,0B0A)] chiquilloa chiquilla.\c\n¿Por qué no te portas bien y te das el piro antes de que\nla cosa se ponga fea?
+Pero qué fuerza tienes...\n¿No serás tú es[VAR GENDBR(00FF,0705)]e dela de la que hablan todos?
+¡Prepárate!
+¡El jefe no me había avisado de esto!\n¿Pero tú de dónde has salido?
+¿Tú eres mi adversari[VAR GENDBR(00FF,0101)]oa?\n¿Me tomas el pelo?
+Me-me rindo. Eres increíble.
+Ya veo que has ido acumulando victorias...\c\nDesde la primera vez que te vi, sabía que este momento\niba a llegar.\c\nPero debes saber que haberte sentado en esa silla ha\nsido un error imperdonable.\c\nSolo el Rey Gourmet es digno de ocuparla...\nY ese soy yo, el único que corta el bacalao en Mauville\r\nGourmet, ¿entiendes?\c\nAsí que prepárate para conocer la fuerza de todo un rey.\nJa, ja... Me pregunto qué haré desaparecer primero...\c\n¿Este plato de Malvaguetis... o a ti?
+¡Venga! ¡Mueve el trasero!
+Uh... Uh, uh, uh...
+El título de rey... y esa silla...\n¡serán solo míos!
+Uf... Esta vez has ganado...\nPero volveremos a vernos las caras...
+Pedir
+Escuchar explicación
+Cancelar
+¡Qué buenos los Sándwiches Villa de Unova!\n¡Mi Pokémon y yo nos chupamos los dedos!
+Con el pan blandito y el saborcito ácido de las bayas...\n¡Es como una fiesta para mis papilas gustativas!
+¡Bieeen! ¡Hoy he pillado una silla!\n¡Qué suerte que papá me haya prestado sus Pokémon!
+En este lugar el que manda es un rey. ¿Lo sabías?
+Ñam, ñam, ñam... ¡Qué rico!
+Estas bayas están un poco amargas.\nMe parece que se las voy a dar a mi Pokémon...
+Esto es Mauville Gourmet, y como aquí los\nTreinadores deciden quién se sienta en las sillas\r\na base de combates Pokémon, su eslogan es de lo\r\nmás acertado: “¿Almuerzas o combates?”.
+Espero que suene pronto el busca...\c\nAsí podré comer tranquila sin que nadie me dé la brasa...
+Ah... ¡Qué bueno! No sé qué lleva esta salsa pero...\n¡qué vicio!
+Voy a contarte una cosa.\nAquí cada plato tiene su tiempo justo de preparación.\c\nSi vas a buscarlo tras los turnos indicados, te pasará\nalgo bueno.
+¿Aquí no hacen comida para llevar?\c\nYo quería llevarle algo a mi Pokémon para que lo probara\nen casa y viera lo bueno que está todo.
+Aprovecha el momento y come rápido, que ahora no está\npor aquí ya sabes quién...
+Slurp, slurp, slurp... ¡Slurrrp!\n¡Ah, pero qué bueno está esto!
+¿Sabes quién es Nívea del Alto Mando?\nPues un día la vi por aquí metiéndose un buen plato de\r\nMalvaguetis entre pecho y espalda.\c\n¡No veas a qué ritmo zampaba! Y no le importaba que\nestuvieran ardiendo. ¡Hasta le corría el sudor por la\r\nfrente!
+¿Ahora te pones a hacer cola?\nYo creo que lo han vendido todo.
+Llevo tres horas haciendo cola.\nMe parece que hoy me quedo con hambre...
+¡Eh! ¡Ni se te ocurra colarte!
+Ay... Ya no me siento las piernas...\nNo voy a tener fuerzas ni para coger un tenedor.
+¿Te has fijado en que aquí te sirven la comida con una\nespecie de tapa de hierro?\c\nSon unos accesorios que usan en un restaurante de la\nregión de Kalos.\c\nAl dueño le encanta todo lo que venga de Kalos y hace\nque se las traigan de importación.
+[VAR TRNAME(0000)] ha consultado el busca.\n“Su pedido estará listo en [VAR NUM1(0001)] turno[VAR NUMBRNCH(0001,0100)]s”.
+Ñam, ñam...\nHoy se les ha ido la mano con la sal...
+A ver... ¿Qué voy a comer hoy...?
+Hay una placa que dice: “Solo personal autorizado”.
+Aquí es donde se ponen los platos cuando los clientes\nhan terminado de comer.
+Larga vida a la reina... Te confío mis dominios. Mauville\nGourmet es ahora tu reino.\c\nEspero que nuestros caminos vuelvan a cruzarse algún\ndía... ¡Cuídate!
+~~~~~~~~~~~~~~~

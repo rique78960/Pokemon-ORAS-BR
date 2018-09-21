@@ -1,0 +1,107 @@
+~~~~~~~~~~~~~~~
+Text File : 627
+~~~~~~~~~~~~~~~
+Soy el conserje del Resort Batalla.\c\nAunque, aparte de sacar la basura por la mañana, no hago\ngran cosa.\c\nTodo eso de ahí lo he recogido mientras limpiaba.\nAsí la gente puede quedarse con lo que considere útil y\r\nreciclamos entre todos.
+~~~~~~~~~~~~~~~
+Text File : 628
+~~~~~~~~~~~~~~~
+Ah, eres tú...
+Siento lo de antes... Lo cierto es que... no sé cómo\nhe llegado hasta aquí...\c\nY tampoco tengo ni idea de quién soy...
+Cuando me desperté, me encontré tendido en la playa...\nEstaba confuso y no comprendía qué había ocurrido.\c\nEntonces llegaste tú...
+Tengo la impresión de que estoy aquí para hacer algo en\nconcreto...\c\nPero no consigo recordar el qué.
+Disculpa... No hago más que hablar de mí mismo.\nPero lo cierto es que... estoy un poco asustado.
+En fin... Supongo que debería darte las gracias como te\nmereces por haberme encontrado.
+Tenía esto en uno de los bolsillos de mi gabardina.\c\nEs todo lo que llevaba encima. No estoy muy seguro\nde para qué sirve, pero me gustaría que lo aceptaras.
+¿Quién soy yo...?
+Pobrecillo... Se ve que tiene amnesia.
+~~~~~~~~~~~~~~~
+Text File : 629
+~~~~~~~~~~~~~~~
+Veo que tú también eres un[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a.\c\n¿Quieres enseñarme lo bien que has entrenado a tus\nPokémon con cariño y esmero?
+Anda, así que eres más bien timidill[VAR GENDBR(00FF,0101)]oa, ¿eh?
+¿Qué Pokémon quieres enseñarme?
+[~ 3]
+¿Eh? Es difícil determinar el crecimiento de un Huevo, la\nverdad.
+¡Oh! ¡Conociste a [VAR PKNAME(0001)] cuando tenía\nNivel [VAR NUM3(0002)]! ¡Ahora su Nivel es [VAR NUM3(0003)]!
+¡Esto es impresionante! Tanta dedicación y entrenamiento\nhan dado sus frutos: ¡mira hasta dónde ha llegado!\c\nLo vuestro es verdadera amistad...\n¡Habría que estar ciego para no verlo!
+Lo has entrenado bastante, y se percibe claramente el\ncariño que os profesáis el uno por el otro.
+Lo has entrenado un poquito... Percibo cierto afecto\nmutuo.
+Vaya, no lo has entrenado casi nada...\c\nPero no te preocupes; a partir de ahora, llévalo siempre\ncontigo en tu viaje, y verás como eso cambia enseguida.
+¡Desde luego, viajar fortalece a los Pokémon!\nTe doy esto como agradecimiento por haberme mostrado\r\nlo que significa el verdadero amor.
+[VAR TRNAME(0000)] ganhou una [VAR BD00(0007,0000,0000)]Cinta Huella[VAR BD01].
+[VAR TRNAME(0000)] le ha puesto la Cinta Huella a\n[VAR PKNAME(0001)].
+La brillante Cinta Huella muestra el afecto con el que has\nentrenado a [VAR PKNAME(0001)].
+Cuanto mayor sea el afecto que demuestres hacia tu\nPokémon, más huellas verás.\c\nMuchas gracias por haberme mostrado tan hermosos\nlazos de amistad.
+¡Lucaaar!
+¿Te suena el chaval de pelo verde del que habla todo el\nmundo? ¿El que es un as con su Gallade?\c\nPues parece que últimamente está causando furor en la\nMansión Batalla.\c\n¡Tanto que no hace más que acumular victorias y batir\nrécords con un equipe formado minuciosamente!\c\n¡El corazón me va a cien por hora solo de pensar que hay\npor ahí un Treinador digno de convertirse en mi rival!
+Oye, ¿qué tal se te dan a ti los combates Pokémon?\n¿Eres fuerte?\c\nPues mira, esto es para ti. ¡Aquí tienes!
+El Quitalímites es uno de los numerosos objetos\ndecorativos para tu Base Secreta.\c\nTe preguntarás para qué sirve, ¿no? Pues su nombre te\nlo dice todo: cuando lo actives, anularás cualquier tipo\r\nde restricción en los combates.
+Ufff... Es que me imagino un combate sin cuartel en la\nBase Secreta y en el que no haya restricciones y...\c\n¡Se me pone la piel de gallina de la emoción! ¡Kiaaa!
+~~~~~~~~~~~~~~~
+Text File : 630
+~~~~~~~~~~~~~~~
+¡Aaah! ¡¿Qué haces tú aquí?!
+¡Leñe! ¿Al final has logrado llegar hasta aquí?
+Pues no me dejas más remedio...
+¡Ten cuidado, rosquillita mía!
+No te preocupes, cari, esto lo finiquito yo en un plis.\nTú aprovecha la ocasión y ponte a salvo.
+¡¿Pero qué dices, rosquillita?! ¡No puedo dejarte aquí\nsola!\c\n¡Yo te prometí que, contigo, pan y cebolla! ¡Juntos hasta\nel final!
+Cariño...
+¡No me separaré de ti! ¡Si caemos, caeremos juntos!\n¡Y no me importa lo que nos pase por traicionar a\r\nnuestros equipes mientras permanezcamos juntos!
+Ya no tenéis que preocuparos por eso.
+¡Ah! ¿Qué haces tú aquí? ¿A qué te refieres?
+El Equipe Magma... y el Equipe Aqua... ambos hemos\ncambiado.\c\nTodo gracias a[VAR GENDBR(00FF,0C09)]l Campeón la Campeona que tengo junto a mí.
+Así es.
+¿Tú...? Pero...
+Nadie os perseguirá si huis.
+Pero... ¿cómo nos habéis encontrado?
+Te conozco bien...\nAdemás, nuestro líder Maxie también ha venido hasta\r\naquí y supongo que está tramando algo.\c\nYa sabes que nunca se le escapa ni el más mínimo\ndetalle, así que seguro que está al corriente de lo que\r\nhas hecho.
+Igual que Archie. Lo único que le importa ahora mismo\nes medir sus fuerzas contra los contendientes más\r\ncurtidos de la Mansión Batalla.\c\nDudo mucho que un par de fugitivos como vosotros vaya\na quitarle el sueño.
+Ah... ¿En serio...?
+A decir verdad, he venido para llevarte de vuelta conmigo,\npero veo que no tendría que haberme molestado.\c\nCuida bien de ella, ¿entendido?
+Gracias...
+Vaya, quién iba a pensar que esta señorita Magma y yo\ncoincidiríamos en algo...\c\nPero así es. Por lo que a mí respecta, vosotros dos sois\nlibres de ir adonde os dé la gana.\c\nEspero que seas feliz junto a tu tortolito.
+Será tontorrón... Casi me hace llorar.
+Lo siento, pero aún estoy un poco confundido por todo\nlo que ha pasado.\c\n¿Te importaría volver en otro momento? Necesito pensar.
+Perdona, pero...\c\nTengo demasiadas cosas en la cabeza ahora mismo.\nYa hablaremos más tarde, ¿de acuerdo?
+¡Ah, nuestr[VAR GENDBR(00FF,0A09)]o Campeóna Campeona! Te estábamos esperando.
+Te estábamos esperando, Campe[VAR GENDBR(00FF,0302)]ónona.
+Hemos estado dándole muchas vueltas al asunto y\nfinalmente hemos decidido que lo mejor es regresar a\r\nnuestros respectivos equipes.
+Queremos servir de puente entre el Equipe Aqua y el\nEquipe Magma.
+Si dos Reclutas rivales pueden llegar a entenderse así de\nbien, ¿por qué no puede ocurrir lo mismo con el resto?
+Ahora que los dos equipes han dado el primer paso para\ncambiar, podemos plantearnos nuevas ideas.\c\nY todo es gracias a ti.
+Y, tras pensarlo detenidamente, hay algo que queríamos\npedirte.
+Algo para lo que tú eres la persona más indicada.
+Como miembro del Equipe Magma, me gustaría que te\nquedaras con mi Camerupt.
+Lo he criado hasta ahora por la admiración que sentía\nhacia nuestro líder, Maxie, pero me haría muy feliz que\r\naceptaras quedarte con él.
+Tu equipe está al completo... Ven a verme cuando tengas\nsitio para otro Pokémon.
+Muchas gracias. Cuida bien de Camerupt, por favor.\nLe encanta corretear por todas partes.\c\nEspero que lo lleves contigo a menudo.
+Te ruego que reconsideres tu respuesta.\nHasta entonces, no pienso moverme de aquí.
+Como miembro del Equipe Aqua, me gustaría que te\nquedaras con mi Sharpedo.
+Lo he criado hasta ahora por la admiración que sentía\nhacia nuestro líder, Archie, pero me haría muy feliz que\r\naceptaras quedarte con él.
+Tu equipe está al completo... Ven a verme cuando tengas\nsitio para otro Pokémon.
+Muchas gracias. Cuida bien de Sharpedo, por favor.\nLe encanta llevar a gente a cuestas haciendo Surf.\c\nEspero que te acompañe en tus aventuras a menudo.
+¡Por favor! ¡Te lo ruego!\nNo pienso moverme de aquí hasta que cambies de idea.
+Si he decidido desprenderme de Camerupt es para poder\npasar página.\c\nEs hora de forjar un nuevo futuro para el Equipe Magma\ncon la ayuda de mi rosquillita.
+Si he decidido desprenderme de Sharpedo es para poder\npasar página.\c\nEs hora de forjar un nuevo futuro para el Equipe Aqua\ncon la ayuda de mi cariñito.
+¡Has recibido a Camerupt!
+¡Has recibido a Sharpedo!
+¿Quieres ponerle un mote a Camerupt?
+¿Quieres ponerle un mote a Sharpedo?
+[~ 48]
+[~ 49]
+~~~~~~~~~~~~~~~
+Text File : 631
+~~~~~~~~~~~~~~~
+Tú eres un[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a, ¿me equivoco?\n¡No me digas que has llegado hasta aquí tú sol[VAR GENDBR(00FF,0101)]oa!\c\nYo vivo en este recóndito lugar, apartada del trajín del\nmundo. Dedico todo mi tiempo al cultivo de bayas.
+Sé que los buenos Treinadores van detrás de estas\nbayas, y tú lo pareces, así que te daré alguna.
+¡Si te pasas mañana, te daré parte de mi recolección del\ndía!
+Lo siento, pero es que no tengo muchas...\nVen mañana; igual tengo alguna más.
+Mi sueño es conseguir 100 victorias seguidas en la\nMansión Batalla, ji, ji. De todas formas, como aún soy\r\npeque, te dejo que lo intentes tú por mí, ¿vale? ¡Suerte!
+¡Guaaau! ¿Has conseguido ganar 100 veces seguidas?\c\n¡Eres requeteguay! Hale, te voy a regalar algo, que te lo\nmereces.
+A ver si a la próxima logras 200 victorias seguidas.\n¡Es broma!
+¿Cómooo? ¡Qué pasada! ¿Has logrado ganar 200 veces\nseguidas? ¡Alucinante!\c\nToma, ¡te lo mereces como recompensa!
+Yo también me voy a esforzar al máximo para llegar a ser\nuna Treinadora tan fuerte como tú.
+I see. I can tell just by looking at you that\nyou’re not a run-of-the-mill trainer.\c\nI recommend that you keep on training and\nthen compete with the world’s best at\r\n[VAR COLOR(0002)]Pokémon World Championships[VAR COLOR(0000)].
+Ese caballero es un Treinador muy famoso en su país.\n¡Y parece que le has caído en gracia! Menudo piropo que\r\nte ha echado en su idioma...
+~~~~~~~~~~~~~~~
