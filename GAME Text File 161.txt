@@ -1,0 +1,136 @@
+~~~~~~~~~~~~~~~
+Text File : 161
+~~~~~~~~~~~~~~~
+Área de Combate
+Combate Libre
+Combate por Puntos
+Individual
+Doble
+Triple
+Rotatorio
+Especial
+Torneo en Línea
+Aquí podrás combatir en línea con jogadores de todo\nel mundo.\n\nSi se interrumpe a conexão durante el combate,\nserás declarado perdedor del mismo. Por este motivo,\nte aconsejamos que juegues en un lugar donde la señal\nsea lo suficientemente fuerte y puedas conectarte sin\nproblemas.
+Puedes participar en un Combate Libre cuando quieras.\n\nPara participar en los Combates por Puntos, debes\nregistrarte en el sitio web de Pokémon Global Link:\n[VAR COLOR(0002)]http://www.pokemon-gl.com[VAR COLOR(0000)]
+Cualquier Pokémon puede participar libremente.\n\nTodos los Pokémon que elijas deberán ser de especies\ndiferentes.\n\nTampoco podrán repetirse los objetos que lleven los\nPokémon de tu equipe.
+Ciertos Pokémon no pueden participar.\nTodos los Pokémon que elijas deberán ser de especies\ndiferentes.\nTampoco podrán repetirse los objetos que lleven los\nPokémon de tu equipe.\n\nLos Combates Especiales son combates cuyas reglas\nvarían según a temporada.
+Para poder participar en Torneos en Línea es necessário\nque te registres en Pokémon Global Link.\n\nPara obtener más informação sobre las competiciones\ny conocer su reglamento, visita el sitio web de\nPokémon Global Link:\nhttp://www.pokemon-gl.com
+¡Te damos la bienvenida al Área de Combate!\nEscolha la modalidad que desees.
+[~ 15]
+Emparejamiento Aleatorio\n¿En qué tipo de combate quieres participar?
+¡Has elegido Combate Libre!\nSelecione una modalidad de combate.
+¡Has elegido Combate por Puntos!\n¿Qué reglas quieres aplicar?
+¿Con qué Pokémon quieres participar?
+¡Estos serán tus Pokémon!
+Conectando...\nPor favor, espera.
+Buscando contrincante...\nPor favor, espera.
+¡Se ha encontrado un contrincante!\nEl combate comenzará en breve.
+¿Quieres continuar combatiendo?
+No se ha encontrado ningún contrincante.
+Deja que transcurra algo de tiempo antes de\nvolver a intentarlo.
+¡Acabas de entrar en el Torneo en Línea!
+Para poder participar en Combates por Puntos\ntendrás que registrarte en el sitio web de\r\nPokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01]
+Foi produzido um erro de conexão.\nRepite el proceso desde el principio.
+Va a llevar unos instantes actualizar los\nresultados.\c\nTambién puedes consultar los resultados en el\nsitio web de Pokémon Global Link.\c\n¿Quieres continuar combatiendo?
+No puedes participar en el combate con tu\nCaja de Combate bloqueada.
+Emparejamiento Aleatorio
+Torneo en Línea
+Salir
+[~ 35]
+[~ 36]
+Combate Libre
+Combate por Puntos
+Individual
+Doble
+Triple
+Rotatorio
+Especial
+Atrás
+Caja de Combate
+Equipo Pokémon
+Aceptar el desafío
+Sim
+Não
+Historial de combates
+Puntos Clasificatorios:
+Número de combates:
+Victorias:
+Derrotas:
+[VAR NUM4(0000,0000)]
+[VAR NUM7(0000,E07F)]
+[~ 57]
+Pt. Clasif.:
+[VAR NUM4(0000,0000)]
+[~ 60]
+[~ 61]
+[~ 62]
+Los Huevos no pueden participar.
+No está permitido combatir con alguno de los\nPokémon elegidos.\c\nPara obtener más informação, visita el sitio\nweb de Pokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01].
+Algunos Pokémon llevan el mismo objeto.
+No pueden participar dos Pokémon de la\nmisma especie.
+No tienes suficientes Pokémon para este\ncombate.
+Tienes demasiados Pokémon en tu equipe\npara este combate.
+Alguno de tus Pokémon lleva un objeto\nno permitido.
+Alguno de tus Pokémon conoce un movimento\nque no está permitido.
+Te falta algún Pokémon de los necessários para\neste combate.
+Has elegido más Pokémon especiales de los\npermitidos.
+Existe algún problema con los Pokémon que\nestás usando para participar.
+L
+[VAR NUM3(0000)]
+[VAR COLOR(0002)]?[VAR COLOR(0000)]
+[VAR COLOR(0001)]?[VAR COLOR(0000)]
+[~ 78]
+La temporada ha finalizado.
+Necesitas registrar los dados de tu consola\nNintendo 3DS para poder participar en un\r\nCombate por Puntos.\c\n¿Deseas registrar esta consola Nintendo 3DS?
+Registrando la consola Nintendo 3DS...
+Se ha registrado con éxito esta consola\nNintendo 3DS.\c\n¡Atenção!\c\nSi utilizas una consola diferente para participar\nen Combates por Puntos, tus resultados\r\nse apagarán.
+Estás intentando participar con una consola\nNintendo 3DS diferente a la que registraste.\c\nTus resultados actuales se apagarán.\n¿Seguro que quieres seguir adelante?
+Borrando tus resultados y registrando\nesta consola Nintendo 3DS...
+Tus resultados se han borrado y se ha\nregistrado esta consola Nintendo 3DS.
+Comprobando la cartão SD...\nNão desligue o console.
+Se ha actualizado el reglamento.
+Los dados del reglamento están dañados.\nRepite el proceso desde el principio.
+Se han recuperado los dados dañados del\nreglamento.
+Los dados del reglamento no se han podido\nguardar porque la cartão SD está llena.
+Después de librar Combates por Puntos, es posible que\nel Vídeo de Combate se envíe automáticamente al\nservidor y pueda aparecer en el sitio web oficial de\nPokémon Global Link.\n\nPodrás participar en Combates por Puntos aunque no\ndes tu consentimiento al envío automático de Vídeos de\nCombate.
+¿Deseas autorizar el envío automático de\nVídeos de Combate?
+Sim
+Não
+Participar
+Combatir
+Certificado Digital de Jogador
+Torneos anteriores
+Cancelar la participação
+Atrás
+Informação del torneo
+Registrarse
+Cancelar
+Torneo en curso.
+Torneo en el que has participado.
+Torneo abandonado antes de que concluyera.
+No puedes participar en este torneo.
+Comprobando el estado del torneo...
+Para poder participar en un torneo oficial,\nes necessário registrarse en el sitio web\r\nde Pokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01]
+En este momento no hay ningún torneo oficial\nen el que puedas participar.
+El torneo oficial en el que estabas participando\nha finalizado.
+El torneo oficial en el que estabas participando\nha finalizado.\c\nLa Caja de Combate ya no está bloqueada.
+Descargando el Certificado Digital de\nJogador...
+Ha finalizado la descarga del Certificado Digital\nde Jogador.
+¿Quieres registrar los Pokémon de la Caja de\nCombate en el torneo?
+Se ha bloqueado la Caja de Combate y se ha\nsincronizado el juego.
+Has abandonado este torneo.
+Los combates de este torneo aún no han\ncomenzado.\c\nPara comprobar las fechas del torneo, visita\nel sitio web de Pokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01]
+Esta consola Nintendo 3DS no es la misma\nque usaste para registrarte en el torneo.\c\nComprueba la consola.\n
+En estos momentos no puedes combatir aquí.\c\nPara ver a qué hora puedes hacerlo, visita el\nsitio web de Pokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01]
+Has alcanzado el número máximo de\ncombates por hoy.\c\nHoy ya no podrás librar ninguno más.
+Vas a cancelar tu participação en esta\ncompetição:\r\n[VAR 01AF(0000)].\r\n¿Estás de acuerdo?
+No podrás volver a participar en esta\ncompetição:\r\n[VAR 01AF(0000)].\r\n¿Seguro que quieres abandonar?
+Has abandonado el torneo.\nTu Caja de Combate ya no está bloqueada.
+No puedes participar en este torneo.\c\nPara obtener más informação, visita el sitio\nweb de Pokémon Global Link:\r\n[VAR BD00(0006,0000,0000)]http://www.pokemon-gl.com[VAR BD01]
+Número de combates:
+Caja de Combate registrada:
+Los Pokémon participantes se\nregistran antes del primer combate.
+Se ha cancelado el registro de la Caja de\nCombate.
+Não foi possível abrir el navegador de\ninternet.\c\nRealiza una actualização de tu consola\nNintendo 3DS desde las opciones de\r\nconfiguração de la misma.
+¿Quieres ver la informação sobre este torneo\nen el navegador de internet?
+~~~~~~~~~~~~~~~

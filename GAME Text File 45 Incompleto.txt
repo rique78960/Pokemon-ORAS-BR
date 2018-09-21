@@ -1,0 +1,173 @@
+~~~~~~~~~~~~~~~
+Text File : 45
+~~~~~~~~~~~~~~~
+Supertreinamento de teste
+Supertreinamento de Nv. 1
+Supertreinamento de Nv. 2
+Supertreinamento de Nv. 3
+Supertreinamento Secreto 1
+Supertreinamento Secreto 2
+Supertreinamento por distribução
+[VAR NUM1(0000)]/[VAR NUM1(0001)]
+× [VAR NUM2(0000)]
+Nv. (?)
+Nv. 1
+Nv. 2
+Nv. 3
+Nv. 4
+Nv. 5
+Nv. 6
+Nv. 7
+Nv. 8
+Nv. 9
+Nv. X
+Pratique contra Scatterbug!
+Atire com ímpeto contra Spewpa!
+Melhore seu Ataque Especial contra Magnemite!
+Melhore seu HP contra Wailmer!
+Melhore seu Ataque contra Axew!
+Melhore sua Defesa Especial contra Tentacool!
+Melhore sua Velocidade contra Noibat!
+Melhore sua Defesa contra Geodude!
+Os tiros rastreadores de Magneton!
+O objetivo da oportunidade de Relicanth!
+Explosão de tiros de Fraxure!
+Tentacruel e seus pequenos balões!
+Acerte o Aerodactyl com tiros rápidos!
+Destrua a barreira de Graveler!
+Livre-se de Magnezone!
+Encare o gigantesco Wailord!
+Evite os terríveis ataques de Haxorus!
+Derrote Dragalge!
+Mais rápido que o vento contra Noivern!
+Penetrar a linha defensiva de Golem!
+Uma dificuldade após a outra!
+Competir pela Pedra Folha!
+Competir pela Pedra Fogo!
+Competir pela Pedra Água!
+Acerte os objetivos evasivos!
+Contra-ataque no segundo tempo!
+Agilidade no primeiro tempo!
+Rajada de balões a torto e direito!
+A vingança de Scatterbug!
+Bombardeio de balões de bits!
+Tudo ou nada contra Hydreigon!
+Quem é o mais forte?
+As terríveis mandíbulas gêmeas!
+O zíper proibido abre
+Grampos de aço sem trégua!
+Confusão! Dança de colheres!
+O retorno de Magikarp!
+Megaevoluções em série!
+Quem é o mais forte?
+Pontos de base adicionais obtidos:
+Pontos de base adicionais obtidos:
+Sacos de areia obtidos:
+Objeto obtido:
+[VAR sTRBAG(0003)]
+[VAR ITEM2(0003)]
+HP
+Ataque
+Defesa
+At. Esp.
+Def. Esp.
+Velocidade
++ [VAR NUM2(0000)]
+Objetivo:
+Record:
+[VAR NUM1(0000)]:[VAR NUM2(0001)],[VAR NUM1(0002)]
+¡Quédate con lo básico de este entrenamiento\ny acierta a las porterías del robô inflável!
+¡Ataca con toda tu energía!\n¡Prueba el tiro con ímpetu!
+Aumenta tu Ataque Especial y tus tiros serán\nmás potentes.
+Aumenta tus PS para perder menos puntos y\nefectuar tiros mucho más precisos.
+Aumenta tu Ataque y tus tiros serán más\npotentes.
+Aumenta tu Defesa Especial y acumularás\nímpetu mucho más deprisa.
+Aumenta tu Velocidad para desplazarte más\ndeprisa y efectuar tiros más rápidos.
+Aumenta tu Defesa y acumularás ímpetu\nmucho más deprisa.
+¡Evita los tiros rastreadores!\n¿Cómo los esquivarás? ¿A la izquierda o a la\nderecha? ¿Arriba o abajo?
+Para que aparezcan las porterías de\noportunidad rojas, asegúrate de no dejarte\nni una portería blanca sin acertar.
+¡Haz frente a intensas ráfagas de tiros!\n¿Serás capaz de esquivarlos todos?
+Alrededor del robô inflável Pokémon hay\nunos misteriosos objetos voladores.\n¿Qué serán esos globos de bits?
+¡Un robô inflável que asciende sin parar!\n¡Mantén la calma y apunta con mucho tino!
+Todos los tiros rebotan...\n¿Qué será esa barrera impenetrable?
+Esquiva los tiros verticales moviéndote a los\nlados y los horizontales, de arriba abajo.\n¡Haz lo posible para evitar que te alcancen!
+Algunos balones irán derechos a por tu\nPokémon... mientras que outros, no.\n¿Sabrás diferenciarlos?
+Hasta los ataques más virulentos obedecen\nalgún tipo de patrón. ¡Descúbrelo para tener\nla situação bajo control!
+Deshacerte primero de esos globos de bits\npuede ser una buena estrategia.
+Para esquivar las ráfagas de tiros rápidos\nmuévete justo cuando el robot las lance.
+¡Acierta a la diana amarilla que se mueve por\nla barrera para derribarla!
+Aunque consigas acabar con un robot\nhinchable, no bajes la guardia, ya que...\n¡aún hay más de camino!
+Supera la sesión en el tiempo marcado.\n¡La recompensa podría ser ni más ni menos\nque una Piedra Hoja!
+Supera la sesión en el tiempo marcado.\n¡La recompensa podría ser ni más ni menos\nque una Piedra Fuego!
+Supera la sesión en el tiempo marcado.\n¡La recompensa podría ser ni más ni menos\nque una Piedra Agua!
+Las porterías cambian de posição en un abrir y\ncerrar de ojos, pero no desesperes: ¡descubre\nel patrón que siguen y anticipa su movimento!
+¡La situação cambia por completo en\nsegundos! ¿Pensabas que tenías a tu objetivo\nacorralado y ahora se han vuelto las tornas?
+¡Encuentra fuerza en la dificultad! Afronta la\nadversidad y sé capaz de darle la vuelta a la\nsituação para hacerte con la victoria.
+Observa bien los lanzamientos de tu objetivo\npara decidir en qué direção moverte.\n¡Esquivarlos es posible!
+Ha llegado la hora...\n¡El robô inflável del Supertreinamento\nde prueba quiere la revancha!
+Acierta a las porterías que no dejan de\nmoverse mientras esquivas los tiros del robot.\n¡Es la prueba definitiva para tu concentração!
+¡Un solo descuido puede costarte muy caro!\n¡Evita los tiros letales y consigue alzarte con\nla victoria sin que te acierte ni uno solo!
+¡La última sesión del Treinamento Secreto!\n¡Supera el reto definitivo!
+El robot te lanzará los balones cuando se\nponga de espaldas.\n¡Prepárate para el ataque!
+¡Busca tu oportunidad! ¡Contraataca en el\ninstante en el que sus alas se ralentizan\njusto tras haber lanzado su ataque!
+¡Haz frente a los tiros con forma de cruz\nmoviéndote en diagonal! ¡Y no te olvides de\nutilizar tu barrera si lo necesitas!
+¡Presta atenção a los balones de gran tamaño\ny a los rastreadores! ¡Y tampoco pierdas de\nvista a los que lanzan los globos de bits!
+¡Consigue objetos que podrás vender a muy\nbuen precio y sácale provecho económico al\nSupertreinamento!
+¡Las pautas de movimento de esos robots\nson completamente diferentes! ¡Da lo mejor\nque tienes en estos duelos sucesivos!
+[~ 113]
+[~ 114]
+[~ 115]
+[~ 116]
+[~ 117]
+[~ 118]
+[~ 119]
+[~ 120]
+[~ 121]
+[~ 122]
+[~ 123]
+¡La última sesión del Treinamento Secreto!\n¡Supera el reto definitivo!
+¡Has conseguido terminar la anterior sesión\ndel Supertreinamento!\c\n[VAR 0197(0000)]\nestá ahora disponible.
+¡Has conseguido terminar la anterior sesión\ndel Supertreinamento!\c\n[VAR 0197(0000)]\ny [VAR NUM2(0001)] sesi[VAR NUMBRNCH(0001,0402)]ónones más está[VAR NUMBRNCH(0001,0100)]n ahora disponible[VAR NUMBRNCH(0001,0100)]s.
+No has logrado completar esta sesión de\nSupertreinamento.
+Has abandonado la sesión de\nSupertreinamento.
+Aún no puedes acceder a esa sesión de\nSupertreinamento.
+Tiempo restante:
+Te falta algo de práctica...\n¿Por qué no entrenas con sacos de arena y lo\nintentas de nuevo?
+¡Eso es! ¡Así se hace!\n¡Has entrenado a tu Pokémon y ahora seguro\nque es mucho más fuerte que antes!
+¡Eso es! ¡Así se hace!\nEstá visto que no hay nadie que pueda hacerte\nfrente, ¿eh?
+¿Es posible? ¿De verdad has logrado superar\nesta fase tan deprisa? ¡Increíble! ¡Tienes un\ntalento innato para el entrenamiento!
+¡Sí! ¡Has batido el récord! ¡Genial!\nDebes de ser una especie de genio, eso está\nclaro.
+¡Ánimo! ¡Tienes que lograr el objetivo!
+¡Objetivo logrado!
+¡Has conseguido una condecoração!
+¡Has logrado un récord!
+[VAR PKNICK(0000)] ha mejorado su resistencia y\naumentado sus [VAR EVSTAT(0001)].
+[VAR PKNICK(0000)] ha aumentado su\n[VAR EVSTAT(0001)] y mejorado la potencia\r\nde sus tiros.
+[VAR PKNICK(0000)] ha aumentado su\n[VAR EVSTAT(0001)] y mejorado su capacidad\r\npara acumular ímpetu.
+[VAR PKNICK(0000)] ha aumentado su\n[VAR EVSTAT(0001)] y mejorado su agilidad.
+[VAR PKNICK(0000)] se ha sometido a un\nentrenamiento muy equilibrado y ha reforzado\r\ntodas sus características.
+[VAR 1701(0001)][VAR EVSTAT(0001)] de base de\n[VAR PKNICK(0000)] ya no puede[VAR NUMBRNCH(0001,0100)]n aumentar más!\c\nLo cual quiere decir que...\n¡es un experto en [VAR EVSTAT(0001)]!
+¡Los puntos de base de [VAR PKNICK(0000)]\nestán al máximo! ¡No pueden aumentar más!\c\nLo cual quiere decir que...\n¡es un Pokémon Perfecto!
+¡Los puntos de base de [VAR PKNICK(0000)] están\nal máximo! ¡No pueden aumentar más!\c\nAdemás, ¡ha logrado conseguir todas las\ncondecoraciones posibles!\c\nLo cual quiere decir que... ¡es un Pokémon\nUltraperfecto!
+¡Es tan fuerte que no se echa atrás ni ante la\ndificultad de los Treinamentos Secretos!
+Fortalece a tu Pokémon a base de\nSupertreinamento para convertirlo\r\nen un Pokémon Perfecto.
+Está claro: ¡tu Pokémon es sensacional!\c\nSus puntos de base están al máximo, lo cual\nquiere decir que... ¡es un Pokémon Perfecto!\c\n¡Enhorabuena! ¡Lo has logrado!
+¡Enhorabuena! ¡Fantástico! ¡No cabía esperar\nmenos de un Pokémon Perfecto!
+Logra que tu Pokémon obtenga todas las\ncondecoraciones del Supertreinamento y\r\nvaya aún más allá... al pasar de un Pokémon\r\nPerfecto a uno ¡Ultraperfecto!
+Está claro: ¡tu Pokémon es espectacular!\c\nHa conseguido todas las condecoraciones\ndel Supertreinamento, lo cual quiere\r\ndecir que... ¡es un Pokémon Ultraperfecto!\c\n¡Enhorabuena! ¡Lo has logrado!
+¡Enhorabuena! ¡Fantástico! ¡No cabía esperar\nmenos de un Pokémon Ultraperfecto!
+¡Pon a tus Pokémon en forma con el\nSupertreinamento!\c\nToca el disco que aparece en el centro de\nla pantalla táctil y ¡prepárate para empezar!
+[~ 156]
+¡Enhorabuena! ¡Lo has hecho muy bien!\c\nAl completar una sesión de\nSupertreinamento, tu Pokémon aumenta\r\nlos puntos de base, lo que lo hará más fuerte.
+¡Ay! ¡Casi!\n¡Te ha faltado muy poco!\c\nCompleta una sesión de Supertreinamento\npara aumentar los puntos de base de tu\r\nPokémon y hacerlo más fuerte.
+Al participar en los Supertreinamentos,\nreceberás sacos de arena.\c\n¡Utilízalos para que tu Pokémon lleve a cabo\nun Treinamento Base!
+¡Utiliza el saco que has obtenido en un\nTreinamento Base con tu Pokémon!
+Es comprensible que quieras participar en más\nSupertreinamentos...\c\nPero ahora es el momento de usar el saco de\narena que has obtenido con tu Pokémon para\r\nque se ejercite en el Treinamento Base.
+¿Tienes ganas de más?\nComo ya has jugado al Supertreinamento\r\nde prueba, te hemos preparado outro que\r\nrequiere algo más de destreza.\c\n¡Supera esta sesión y ya no tendrás que\ncodearte con los novatos!
+No te queda espacio para más sacos de arena.
+No te queda espacio para más\n[VAR ITEMPLUR1][VAR ITEM2(0000)].
+¡Has conseguido una recompensa por\nparticipar en un Supertreinamento!
+Ha llegado el momento de conocer los\nresultados...
+Sacos de arena: [VAR NUM2(0000)]
+Los Pokémon Perfectos pueden someterse a\nlas duras sesiones del Treinamento Secreto.
+~~~~~~~~~~~~~~~

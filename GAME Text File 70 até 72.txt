@@ -1,0 +1,418 @@
+~~~~~~~~~~~~~~~
+Text File : 70
+~~~~~~~~~~~~~~~
+Amigos
+Conhecidos
+Transitorio
+[~ 3]
+Establecer as regras
+Deixar que o rival escolha as regras
+Foi mudado de console.\nAtualizando a lista de contatos do PSS...
+[VAR 0124(0000)]
+[VAR 0124(0000)]...
+[VAR TRNAME(0000)]
+Batalhar com alguém junto a você
+Batalhar com alguém próximo a você
+Batalhar com alguém longe de você
+Trocar com alguém junto a você
+Trocar com alguém próximo a você
+Trocar com alguém longe de você
+Com. por infravermelhos
+Comunicação local
+Internet
+[~ 19]
+[~ 20]
+Sim
+Não
+[~ 23]
+Você quer transmitir uma menssagem para os\noutros jogadores?
+Você enviou para os outros a seguinte menssagem:\n“[VAR SHOUTOUT(0000)]”.
+Você quer mudar a mensagem atual:\n“[VAR SHOUTOUT(0000)]”?
+Por favor, espera.
+Quando a outra pessoa estiver pronta, coloque\nseu transmissor de infravermelho na frente do seu.
+As regras que você estabeleceu não coincidem\ncom as escolhidas pelos outros participantes.
+Um dos jogadores tem que estabelecer\nas regras!
+Você pode separar os transmissores de infravermelho.\nAguarde um momento, por favor.
+[~ 32]
+[~ 33]
+[~ 34]
+[~ 35]
+[~ 36]
+Se ha excedido el número de participantes,\npor lo que no podréis jugar juntos.
+[~ 38]
+¿A quién quieres elegir?
+[~ 40]
+Invitar a amigos o conocidos
+[~ 42]
+[~ 43]
+Vas a invitar a estos jogadores.\n¿Estás de acuerdo?
+Retando a un combate a tu amig[VAR GENDBR(0000,0101)]oa\n[VAR TRNAME(0000)]...
+Retando a un combate a [VAR TRNAME(0000)], de\nla lista de conocidos...
+Retando a un combate a [VAR TRNAME(0000)], de\nla lista de transeúntes...
+Buscando adversarios para un combate...
+¿Quieres cancelar la solicitud de combate?
+Jugar con [VAR TRNAME(0000)]
+¿Quieres proponer un Combate Individual con\nreglas normales?
+¿Quieres proponer un Combate Individual con\nrestricciones?
+¿Quieres proponer un Combate Individual sin\nrestricciones?
+¿Quieres proponer un Combate Doble con\nreglas normales?
+¿Quieres proponer un Combate Doble con\nrestricciones?
+¿Quieres proponer un Combate Doble sin\nrestricciones?
+¿Quieres proponer un Combate Triple con\nreglas normales?
+¿Quieres proponer un Combate Triple con\nrestricciones?
+¿Quieres proponer un Combate Triple sin\nrestricciones?
+¿Quieres proponer un Combate Rotatorio con\nreglas normales?
+¿Quieres proponer un Combate Rotatorio con\nrestricciones?
+¿Quieres proponer un Combate Rotatorio sin\nrestricciones?
+[~ 63]
+[~ 64]
+[~ 65]
+Has recibido un [VAR OPOWER(0001)] de tu\namig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)].
+Has recibido un [VAR OPOWER(0001)] de\n[VAR TRNAME(0000)], de tu lista de conocidos.
+Has recibido un [VAR OPOWER(0001)] de\n[VAR TRNAME(0000)], de la lista de transeúntes.
+¡Has usado un [VAR OPOWER(0001)]!
+[VAR TRNAME(0000)] usou\n[VAR OPOWER(0001)]!
+[~ 71]
+¿Quieres usarlo con [VAR TRNAME(0000)]?
+¡El nivel del [VAR OPOWER(0001)]\nha aumentado!
+[VAR TRNAME(0000)] ha adquirido\n[VAR OPOWER(0001)]!
+¿Quieres receber el poder de [VAR TRNAME(0000)]?
+Escolha la clase de combate que quieres\ndisputar.
+Combate
+Número de jogadores
+Dos
+Cuatro
+Modalidad
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Combate Múltiple
+Reglas
+Reglas normales
+Con restricciones
+Sin restricciones
+[~ 91]
+Con hándicap
+Sin hándicap
+Vale
+[~ 95]
+[~ 96]
+[~ 97]
+[~ 98]
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha retado a\nun combate!
+[VAR TRNAME(0000)], de tu lista de conocidos,\nte ha retado a un combate!
+[VAR TRNAME(0000)], de la lista de transeúntes,\nte ha retado a un combate.
+El combate se disputará con estas reglas.\n¿Estás de acuerdo?
+El combate se ha cancelado porque falta\nalguno de los participantes.
+No puedes participar porque no reúnes los\nrequisitos necessários.
+[~ 105]
+[~ 106]
+¿Te apetece disputar un Combate Individual\ncon reglas normales?
+¿Te apetece disputar un Combate Individual\ncon restricciones?
+¿Te apetece disputar un Combate Individual\nsin restricciones?
+¿Te apetece disputar un Combate Doble con\nreglas normales?
+¿Te apetece disputar un Combate Doble con\nrestricciones?
+¿Te apetece disputar un Combate Doble sin\nrestricciones?
+¿Te apetece disputar un Combate Triple con\nreglas normales?
+¿Te apetece disputar un Combate Triple con\nrestricciones?
+¿Te apetece disputar un Combate Triple sin\nrestricciones?
+¿Te apetece disputar un Combate Rotatorio\ncon reglas normales?
+¿Te apetece disputar un Combate Rotatorio\ncon restricciones?
+¿Te apetece disputar un Combate Rotatorio sin\nrestricciones?
+¿Te apetece disputar un Combate Múltiple con\nreglas normales?
+¿Te apetece disputar un Combate Múltiple con\nrestricciones?
+¿Te apetece disputar un Combate Múltiple sin\nrestricciones?
+Ultimando los preparativos...\nEspera un momento, por favor.
+[~ 123]
+[VAR TRNAME(0000)] está buscando contrincantes.
+Buscando jogadores para Comb. Múltiple.
+[~ 126]
+[VAR TRNAME(0000)]
+Líder
+Respuesta pendiente
+Esperando...
+Número de Pokémon:
+Sin restricciones
+Al menos 2
+Al menos 3
+[~ 135]
+3
+4
+6
+De 1 a 3
+Nivel de los Pokémon:
+Todos al Nivel 50
+Nivel 50 como máximo
+Sin restricciones
+Pokémon especiales:
+Permitidos
+No permitidos
+Mismos objetos:
+Permitidos
+No permitidos
+Mismos Pokémon:
+Permitidos
+No permitidos
+Hándicap:
+Sim
+Não
+[~ 156]
+[~ 157]
+Proponiendo un intercambio a tu amig[VAR GENDBR(0000,0101)]oa\n[VAR TRNAME(0000)]...
+Proponiendo un intercambio a\n[VAR TRNAME(0000)], de la lista de conocidos...
+Proponiendo un intercambio a\n[VAR TRNAME(0000)], de la lista de transeúntes...
+Buscando jogadores para un intercambio...
+¿Quieres cancelar la solicitud de\nintercambio?
+[~ 163]
+[~ 164]
+¿Quieres intercambiar Pokémon?
+[~ 166]
+[~ 167]
+Necesitas al menos dos Pokémon si quieres\nhacer intercambios.
+Tanto tus caixas como tu equipe están llenos.\nEl intercambio no se puede llevar a cabo.
+Tienes al menos un Pokémon que no se puede\nseleccionar.
+El intercambio se ha cancelado debido a que\nel outro jogador no está disponible.
+Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te propone un\nintercambio.
+[VAR TRNAME(0000)], de la lista de conocidos, te\npropone un intercambio.
+[VAR TRNAME(0000)], de la lista de transeúntes, te\npropone un intercambio.
+[VAR TRNAME(0000)] está buscando jogadores para\nintercambiar Pokémon.
+¿Te apetece intercambiar Pokémon?
+Charlar con [VAR TRNAME(0000)]
+¿Quieres iniciar un chat de voz?
+Proponiendo un chat de voz a tu amig[VAR GENDBR(0000,0101)]oa\n[VAR TRNAME(0000)]...
+[~ 180]
+[~ 181]
+¿Quieres cancelar la solicitud de chat de\nvoz?
+[~ 183]
+Chat de voz con [VAR TRNAME(0000)]
+¿Quieres finalizar este chat de voz?
+Finalizando el chat de voz...
+[VAR TRNAME(0000)] ha finalizado el chat de voz.
+[VAR TRNAME(0000)] te ha invitado a un chat de\nvoz!
+¿Te apetece un chat de voz?
+Ultimando preparativos...\nEspera un momento, por favor.
+El chat de voz se ha cancelado porque el outro\njogador no está disponible.
+[VAR TRNAME(0000)] está difundiendo su vídeo de\npresentação.
+¿Quieres ver su vídeo de presentação?
+Solicitando permiso a tu amig[VAR GENDBR(0000,0101)]oa\n[VAR TRNAME(0000)]...
+Solicitando permiso a [VAR TRNAME(0000)], de la\nlista de conocidos...
+Solicitando permiso a [VAR TRNAME(0000)], de la\nlista de transeúntes...
+¿Quieres cancelar la solicitud de permiso para\nver el vídeo de presentação?
+[~ 198]
+[~ 199]
+No se ha recibido la autorização necesaria por\nparte de la otra persona.
+Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] quiere ver tu vídeo\nde presentação.
+[VAR TRNAME(0000)], de la lista de conocidos,\nquiere ver tu vídeo de presentação.
+[VAR TRNAME(0000)], de la lista de transeúntes,\nquiere ver tu vídeo de presentação.
+¿Quieres enseñarle tu vídeo de presentação?
+Has enviado tu vídeo de presentação.
+Se ha cancelado el proceso porque el outro\njogador no está disponible.
+[VAR TRNAME(0000)] y los Poderes O
+Enviarle un Poder O
+Recibir un Poder O
+Salir
+No puedes utilizar el Poder O porque no tienes\nningún Pokémon.
+[VAR SHOUTOUT(0000)]
+¿Quieres registrar a [VAR TRNAME(0000)] en tu\nlista de favoritos?
+¡Tu lista de favoritos está llena!
+¿Quieres eliminar a [VAR TRNAME(0000)] de tu lista\nde favoritos?
+N.º de favoritos: [VAR NUM3(0000)]/100
+Tu lista de favoritos no contiene entradas.\nPara añadir uno a la lista, registra su perfil.
+Batería baja
+¡La batería de la consola está a\npunto de agotarse!
+Interactuar con outros jogadores
+Conéctate a internet o ve a sitios\nrepletos de gente para interactuar\ncon más jogadores.
+Elegir jogadores
+Si tocas el icono de una persona,\npodrás jugar con ella.\nSi alguien despierta tu interés,\n¡no lo dudes y toca su icono!
+Amigos
+Tus amigos son aquellos jogadores\nque has registrado en la lista de\namigos de tu Nintendo 3DS.\n¡Pásalo bomba con tus amistades!
+Conocidos
+Se definen como conocidos aquellas\npersonas con las que hayas jugado.\nSi juegas otra vez con ellos, podrás\nregistrarlos en tu lista de amigos.\n¡Pásalo pipa con tus conocidos!
+Transeúntes
+Los transeúntes son jogadores que\nse hallan en cualquier parte del\nmundo. Si juegas con ellos, pasarán\na incluirse en la lista de conocidos.
+Elegir modos de juego
+Si tocas el icono de menú situado en\nla parte superior de la pantalla táctil,\npodrás elegir a qué quieres jugar.\nLos combates o intercambios son\ndos de las opciones disponibles.
+Intercambios en conexão
+Mediante la conexão semfio\npuedes intercambiar Pokémon con\nmuchos outros jogadores.\n¿Quieres hacer un intercambio en\nconexão?
+Combates en conexão
+Mediante la conexão semfio\npuedes combatir con muchos outros\njogadores.\n¿Quieres disputar un combate en\nconexão?
+Chat de voz
+Si el outro jogador está en tu lista de\namigos, podrás mantener un chat de\nvoz con esa persona.\nAsí podréis hablar mientras combatís\no realizáis intercambios.
+GTS
+Utiliza la GTS para intercambiar\nPokémon con jogadores ubicados\nen cualquier parte del mundo.\n\n¿Quieres utilizar la GTS?
+Vídeo de presentação
+Toca el icono de cualquier jogador\npara ver su vídeo de presentação.
+[~ 242]
+[~ 243]
+Poder O
+¡Has acumulado Poder O!\n\nEl Poder O puede resultar útil en la\naventura, tanto para ti como para\noutro jogador. ¿Quieres utilizarlo?
+Favoritos
+Puedes registrar un máximo de 100\njogadores en tu lista de favoritos.\n\n¿Quieres consultar tu lista?
+Saludo
+Si quieres gritar a los cuatro vientos\nlo feliz que te sientes o simplemente\nsaludar a los jogadores, toca el\nicono de saludo y envía un mensaje.\n¿Quieres decirles algo?
+Jugar a través de internet
+Si te conectas a internet, podrás\njugar con gente de cualquier parte\ndel mundo.\n\n¿Quieres conectarte a internet?
+Sincronizar Juego
+Mediante esta função, podrás\nutilizar los servicios de PGL si\nte conectas a internet.\n\n¿Quieres usar Sincronizar Juego?
+[~ 254]
+[~ 255]
+[~ 256]
+[~ 257]
+Área de Combate
+Aquí es donde se reúne la flor y nata\nde los Treinadores procedentes de\ntodas partes del mundo.\n¿Quieres acceder al Área de\nCombate?
+Perfil
+Hay un cuestionario listo para ti.\n¿Te gustaría responder unas cuantas\npreguntas para añadir la informação\na tu perfil?
+Configuração del PSS
+Utiliza esta opção para cambiar los\najustes de la comunicação del PSS.\n\n¿Deseas comprobar la configuração\nactual?
+Holomisor
+¡Tienes un mensaje nuevo!\n\n¿Quieres activar el Holomisor\npara verlo?
+Intercambio prodigioso
+Intercambia Pokémon con un jogador\nde cualquier lugar del mundo.\nNo sabrás qué Pokémon te tocará\nhasta que lo recibas.\n¿Te gustaría probar fortuna?
+[~ 268]
+[~ 269]
+[~ 270]
+[~ 271]
+[~ 272]
+[~ 273]
+[~ 274]
+[~ 275]
+[~ 276]
+[~ 277]
+[~ 278]
+¿Deseas eliminar a [VAR TRNAME(0000)] de tu\nlista de conocidos?
+Se ha eliminado a [VAR TRNAME(0000)] de tu\nlista de conocidos.
+[~ 281]
+[~ 282]
+Combate
+Troca
+Área de Combate
+Perfil
+Favoritos
+Saudação
+GTS
+Poder O
+Holomisor
+Sincronizar Jogo
+Troca\nprodigiosa
+Configuração\ndo PSS
+Chat de voz
+Vídeo de\napresentação
+Que legal!
+Parabéns
+Seu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] parabenizou você pelo seu aniversário!
+[VAR TRNAME(0000)], da lista de conhecidos, parabenizou você pelo seu aniversário!
+[VAR TRNAME(0000)], da lista de transitorios, parabenizou você pelo seu aniversário!
+Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha dicho: “¡Qué chulo!”.
+[VAR TRNAME(0000)], de la lista de conocidos, te ha dicho: “¡Qué chulo!”.
+[VAR TRNAME(0000)], de la lista de transeúntes, te ha dicho: “¡Qué chulo!”.
+[~ 305]
+Configuração do PSS
+Configurar permissões de conexão
+[~ 308]
+Desativar a conexão do PSS
+Mostrar vídeo de apresentação: [VAR COLOR(0002)]Sí[VAR COLOR(0000)]
+Mostrar vídeo de apresentação: [VAR COLOR(0001)]No[VAR COLOR(0000)]
+Chat de voz: [VAR COLOR(0002)]Activado[VAR COLOR(0000)]
+Chat de voz: [VAR COLOR(0001)]Desactivado[VAR COLOR(0000)]
+Toca las opciones para decidir con qué\ncategoría de usuarios quieres jugar.
+¿Deseas receber solicitudes de tus amigos?
+¿Deseas dejar de receber solicitudes de tus\namigos?
+¿Deseas receber solicitudes de jogadores en\nla lista de conocidos?
+¿Deseas dejar de receber solicitudes de\njogadores en la lista de conocidos?
+¿Deseas receber solicitudes de jogadores en\nla lista de transeúntes?
+¿Deseas dejar de receber solicitudes de\njogadores en la lista de transeúntes?
+Si desactivas la conexão del PSS, no podrás\nutilizar esta função para jugar con los demás.\n¿Seguro que quieres desactivarla?
+Se ha desactivado la conexão del PSS.\nLa comunicação semfio de la consola\nNintendo 3DS está ahora activa.
+Reactivar la conexão del PSS
+¿Quieres mostrar tu vídeo de presentação a\nlos demás jogadores?
+Sim
+Não
+El chat de voz te permite hablar con\njogadores que se encuentren lejos.\n¿Quieres activarlo?
+Sim
+Não
+¿Quieres activar el chat de voz mientras\njuegas con esta persona?
+¿Quieres desactivar el chat de voz mientras\njuegas con esta persona?
+El control parental no permite cambiar la\nconfiguração del chat de voz.
+Le has dicho “¡Qué chulo!” a [VAR TRNAME(0000)].
+Le has dicho “Felicidades” a [VAR TRNAME(0000)].
+La conexão semfio está desactivada.
+¿Quieres utilizar el chat de voz?
+¿Deseas activar el chat de voz cuando\nun amigo acepte tu solicitud?
+El chat de voz se desactivará, ya que el outro\njogador no puede utilizarlo.
+El control parental no permite conectarse a\ninternet.
+(?)
+Digite el código de seguridad para\ndesactivar el control parental.
+Para usar esta função, los padres o tutores\nlegales deben configurar la proteção de\nprivacidad en línea para los menores a través\nde las opciones de control parental.
+[~ 343]
+El código de seguridad es incorrecto.\nNo puedes utilizar el chat de voz.
+Si te enfrentas a este usuario, se establecerá\nel Reglamento de Kalos. ¿Te parece bien?
+Reglamento de Kalos
+Es el reglamento que rige los combates contra\njogadores de Pokémon X y Pokémon Y.\n\nSegún se indica, no es posible utilizar los\nnuevos objetos o movimentos añadidos en las\nediciones de Pokémon Rubí Omega y\nPokémon Zafiro Alfa.
+Tienes un objeto o un movimento que no se\npermite según el Reglamento de Kalos.
+Ver detalhes
+Voltar
+Caixa de Combate
+Equipe Pokémon
+Não permitidos
+Não permitidos
+No puedes participar por incumplir las\ncondiciones del Reglamento de Kalos.
+Coloca tu transmisor de infrarrojos frente al\ndel anfitrión del combate.
+Ultimando los preparativos...\nEspera un momento, por favor.
+Coloca tu transmisor de infrarrojos frente a\nlos de los outros miembros del grupo.
+Coloca tu transmisor de infrarrojos frente al\nde [VAR NUM1(0000)] persona[VAR NUMBRNCH(0000,0100)]s más.
+Clave de amigo:
+Si combates contra esta persona, seguiréis el\nReglamento de Kalos. ¿Deseas continuar?
+No tienes suficientes.
+~~~~~~~~~~~~~~~
+Text File : 71
+~~~~~~~~~~~~~~~
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha retado a un combate!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está buscando adversarios!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está buscando adversarios!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha retado a un combate!
+[VAR TRNAME(0000)], con quien te has cruzado, te ha retado a un combate!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] quiere realizar un intercambio contigo!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está buscando a alguien con quien intercambiar Pokémon!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está buscando a alguien con quien intercambiar Pokémon!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] quiere realizar un intercambio contigo!
+[VAR TRNAME(0000)], con quien te has cruzado, quiere realizar un intercambio contigo!
+[~ 10]
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha invitado a un chat de voz!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] quiere ver tu vídeo de presentação!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] quiere ver tu vídeo de presentação!
+[VAR TRNAME(0000)], con quien te has cruzado, quiere ver tu vídeo de presentação!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está cerca!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está en línea!
+¡Hoy es el cumpleaños de tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)]!
+¡Hoy es el cumpleaños de tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)]!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha dicho “¡Qué chulo!”!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha dicho “¡Qué chulo!”!
+[VAR TRNAME(0000)], con quien te has cruzado, te ha dicho “¡Qué chulo!”!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha felicitado por tu cumpleaños!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha felicitado por tu cumpleaños!
+[VAR TRNAME(0000)], con quien te has cruzado, te ha felicitado por tu cumpleaños!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está utilizando un Poder O!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] está utilizando un Poder O!
+[VAR TRNAME(0000)], con quien te has cruzado, está utilizando un Poder O!
+¡Tu amig[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha enviado [VAR OPOWER(0001)]!
+¡Tu conocid[VAR GENDBR(0000,0101)]oa [VAR TRNAME(0000)] te ha enviado [VAR OPOWER(0001)]!
+[VAR TRNAME(0000)], con quien te has cruzado, te ha enviado [VAR OPOWER(0001)]!
+¡Ha llegado [VAR TRNAME(0000)], que está en tu lista de favoritos!
+~~~~~~~~~~~~~~~
+Text File : 72
+~~~~~~~~~~~~~~~
+Seleção de avatar
+Imagen de tu perfil
+Avatar público
+Aquí puedes registrar qué avatar quieres\nmostrarles a diferentes personas en el PSS.
+Escolha la imagen que quieres que tus amigos\nvean en tu perfil.
+¿Qué avatar quieres que vean las personas\nconectadas al PSS?
+El control parental está activado, así que no\npuedes usar una fotografía.
+La cartão SD insertada en la ranura para\ncartãos SD no se puede utilizar.
+No se han podido leer los dados de\nla cartão SD.
+Si eliges una foto para que sea tu imagen de perfil,\nenviarás esa informação cuando participes en combates\no realices intercambios con tus amigos.
+Digite el código de seguridad para\ndesactivar el control parental.
+Para usar esta função, los padres o tutores\nlegales deben configurar la proteção de\nprivacidad en línea para los menores a través\nde las opciones de control parental.
+El código de seguridad es incorrecto.\nNo puedes elegir una foto.
+~~~~~~~~~~~~~~~

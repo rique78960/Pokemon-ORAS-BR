@@ -1,0 +1,258 @@
+~~~~~~~~~~~~~~~
+Text File : 120
+~~~~~~~~~~~~~~~
+
+Não há dados no Videomisor.
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+[~ 19]
+[~ 20]
+[~ 21]
+[~ 22]
+[~ 23]
+[~ 24]
+[~ 25]
+[~ 26]
+[~ 27]
+[~ 28]
+[~ 29]
+[~ 30]
+[~ 31]
+[~ 32]
+[~ 33]
+[~ 34]
+[~ 35]
+[~ 36]
+[~ 37]
+[~ 38]
+[~ 39]
+[~ 40]
+[~ 41]
+[~ 42]
+[~ 43]
+[~ 44]
+[~ 45]
+[~ 46]
+[~ 47]
+[~ 48]
+[~ 49]
+[~ 50]
+[~ 51]
+[~ 52]
+[~ 53]
+[~ 54]
+[~ 55]
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[~ 60]
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+Con el Holomisor, puedes receber mensajes\nde vídeo de tus amigos u otras personas\r\ny reproducirlos siempre que quieras.\c
+[~ 73]
+[~ 74]
+Comprobando dados de StreetPass...\nNão desligue o console.
+Para usar StreetPass, debes aceptar los\ntérminos del Contrato de Uso de los Servicios\r\nde Nintendo 3DS.
+Por favor, acepta los términos del Contrato\nde Uso de los Servicios de Nintendo 3DS.
+Por favor, acepta los términos del Contrato\nde Uso de los Servicios de Nintendo 3DS.\c\nDe lo contrario, no podrás usar SpotPass.
+Para usar StreetPass, debes aceptar los\ntérminos del Contrato de Uso de los Servicios\r\nde Nintendo 3DS.\c\nAccede a la Configuração de la consola y\nselecciona “Configuração de internet”,\r\n“Informação adicional” y, por último, “Contrato\r\nde uso” para aceptar los términos más\r\nrecientes.
+Para usar SpotPass, debes aceptar los\ntérminos del Contrato de Uso de los Servicios\r\nde Nintendo 3DS.\c\nAccede a la Configuração de la consola y\nselecciona “Configuração de internet”,\r\n“Informação adicional” y, por último, “Contrato\r\nde uso” para aceptar los términos más\r\nrecientes.
+Activando StreetPass...\nPor favor, no apagues la consola.
+Se ha activado la função StreetPass.\c\nStreetPass permanecerá activo aunque\ntermines la partida y salgas del juego.\c\nCuando recibas un mensaje de StreetPass,\naparecerá un indicador de notificação en el\r\nicono del juego en el menú HOME.\c\nCuando veas el indicador, enciende el\nHolomisor y examina su contenido.
+No se puede activar StreetPass para más\nprogramas en esta consola Nintendo 3DS.\c\nDesactiva esta função para outros programas\ndesde la Gestión de StreetPass en\r\nla Configuração de la consola.
+Todavía no se ha activado StreetPass para\nPokémon X o Pokémon Y.\c\n¿Quieres activar StreetPass?
+Leyendo dados de StreetPass...\nNão desligue o console.
+No se han podido leer los dados de\nStreetPass.
+Cuando vayas a receber dados de StreetPass,\nse guardará la partida.\c\n¿Quieres comprobar los resultados de\nStreetPass?
+Sim
+Não
+Ver notificaciones
+Actualizar
+Activar SpotPass
+Desactivar SpotPass
+[~ 94]
+[~ 95]
+Salir
+Buscar notificaciones especiales
+Instrucciones
+Comprobando dados de SpotPass...\nNo extraigas la cartão SD.
+Actualizando el Holomisor...\nPor favor, espera.
+Guardando...\nNão desligue o console.
+¿Quieres actualizar los dados?
+¿Quieres conectarte a internet?
+Guardando dados en la cartão SD...\nNão desligue o console.
+SpotPass está desactivado.\nSelecione “Activar SpotPass” en el menú.
+¿Quieres receber notificaciones (incluyendo\npublicidad de productos de Pokémon) y dados\r\nmediante SpotPass?
+¿Quieres receber notificaciones (incluyendo\npublicidad de productos de Pokémon) y dados\r\nde este juego mediante SpotPass?
+¿Quieres receber notificaciones (incluyendo\npublicidad de productos de Pokémon) y dados\r\nmediante SpotPass?
+¿Quieres receber notificaciones y dados de este\njuego mediante SpotPass?
+¿Quieres receber notificaciones y dados de este\njuego mediante SpotPass?
+Activando SpotPass...\nNo extraigas la cartão SD ni apagues\nla consola.
+Se ha activado la função SpotPass.\c\nCuando recibas dados del Holomisor,\naparecerá un indicador de notificação en\r\nel icono del juego en el menú HOME.\c\nCuando veas este tipo de indicador,\nactiva el Holomisor y examina su contenido.
+La função SpotPass está actualmente\nactivada.\c\nSe receberán dados y notificaciones (publicidad\nincluida).\c\n¿Quieres cambiar la configuração y desactivar\nSpotPass?
+Desactivando SpotPass...\nNo extraigas la cartão SD ni apagues\nla consola.
+Se ha desactivado SpotPass.
+[~ 116]
+Buscando dados en internet...\nEspera un momento, por favor.
+No se han encontrado dados nuevos.
+Interrumpiendo la conexão a internet...\nPor favor, espera un momento.
+[~ 120]
+Error de conexão.\nInténtalo de nuevo más tarde.
+Solo puedes actualizar los dados una vez al\ndía. Ya has actualizado los dados hoy.
+Comprobando dados...\nNo extraigas la cartão SD ni apagues\nla consola.
+No hay notificaciones.
+El uso de StreetPass con outros usuarios está\nrestringido por el control parental.\r\nNo se puede utilizar StreetPass.
+[~ 126]
+Estos dados contienen un enlace al sitio web:\n[VAR WEBSITE(0000)]\c\n¿Quieres abrir el navegador de internet y\nacceder a este sitio web?
+Não foi possível abrir el navegador\nde internet.\c\nAccede al menú de Configuração de la\nconsola para actualizar tu consola\r\nNintendo 3DS.\c
+La comunicação semfio está desactivada.\nActiva la comunicação semfio.\c
+Si se está produciendo un evento de\ndistribução especial en el lugar donde te\r\nencuentras, podrás receber los dados.\c\n¿Quieres buscar eventos de distribução\nespeciales?
+Sim
+Não
+¡Noticias de StreetPass!
+El [VAR NUM2(0002)]-[VAR NUM2(0001)]-20[VAR NUM2(0000)], te topaste con [VAR NUM2(0003)] jogador[VAR NUMBRNCH(0003,0200)]es\nde Pokémon.\c\nPara celebrarlo, has recibido [VAR NUM6(0004,E07F)] Poké Millas.\c\nHasta el momento, te has topado con un total\nde [VAR NUM6(0005,0000)] persona[VAR NUMBRNCH(0005,0100)]s usando StreetPass.\c\nEl número total de Poké Millas conseguidas desde\nel inicio del juego asciende a [VAR NUM9(0006,E07F)].\c
+La cartão SD contiene dados dañados.\nBorrando los dados...\nNo extraigas la cartão SD.
+No se pueden receber los dados porque no hay\nsuficiente espacio libre en la cartão SD.\c\nApaga la consola y libera espacio en la cartão.\c
+[~ 137]
+[~ 138]
+El evento de distribução mediante SpotPass\npara el Holomisor ha finalizado.\r\nGracias por usar este servicio.
+El evento de distribução mediante SpotPass\npara el Holomisor ha finalizado.
+Activa la função SpotPass para este juego\ny podrás receber notificaciones sobre eventos\r\ny outros mensajes mediante el Holomisor.\c\nCuando veas un indicador de notificação en\nel icono del juego en el menú HOME de tu\r\nconsola Nintendo 3DS, abre el Holomisor.\c\nSi tiene lugar un evento de distribução\nespecial, podrás receber los dados si\r\nseleccionas Buscar notificaciones especiales.
+~~~~~~~~~~~~~~~
+Text File : 121
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+Pokémon Rubí Omega: Episodio Delta
+Pokémon Zafiro Alfa: Episodio Delta
+Pokémon Rubí Omega: Episodio Delta\nFIN
+Pokémon Zafiro Alfa: Episodio Delta\nFIN
+~~~~~~~~~~~~~~~
+Text File : 122
+~~~~~~~~~~~~~~~
+Comprobando el servidor de la GTS...
+¡Se ha intercambiado el Pokémon que habías\nofrecido!
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la GTS!\n¿Qué quieres hacer?
+Buscar un Pokémon
+Dejar un Pokémon
+Ver los dados de [VAR PKNICK(0000)]
+Salir de la GTS
+Buscar un Pokémon
+Pokémon deseado
+Sexo
+Nivel
+Buscar con estos criterios
+Opciones
+Atrás
+
+Si realizas una búsqueda por nombre, no\npuedes elegir el sexo.
+Buscando el Pokémon que quieres...
+¿Qué Pokémon estás buscando?
+Indicar nombre
+???????????????????????????????\n
+???????????????????????????????
+????????????????????????????????????????????
+[VAR PKNAME(0001)]
+Escolha el sexo.
+Cualquiera
+[VAR COLOR(0002)]?[VAR COLOR(0000)]
+[VAR COLOR(0001)]?[VAR COLOR(0000)]
+Escolha el nivel.
+Cualquiera
+Del 1 al 10
+Del 11 al 20
+Del 21 al 30
+Del 31 al 40
+Del 41 al 50
+Del 51 al 60
+Del 61 al 70
+Del 71 al 80
+Del 81 al 90
+Del 91 al 100
+Escolha las opciones.
+¿Deseas incluir a personas que buscan\nPokémon especiales?
+Sim
+Não
+Escolha con quién quieres intercambiar Pokémon.
+Nv.
+Ampliando la búsqueda...\nPor favor, espera.
+Escolha los criterios de búsqueda.
+Pokémon buscados por outros jogadores:
+Zona geográfica:
+Filtrar con estos criterios de búsqueda
+Atrás
+No se ha encontrado nada con estos criterios.
+Filtra por Pokémon deseados por los demás.
+Cualquiera
+Pokémon que ofreces
+Atrás
+Filtra por zona geográfica.
+Cualquiera
+Mi zona geográfica
+Una zona geográfica diferente
+Atrás
+[~ 61]
+[~ 62]
+[~ 63]
+[~ 64]
+[~ 65]
+[~ 66]
+[~ 67]
+[~ 68]
+[~ 69]
+[~ 70]
+[~ 71]
+[~ 72]
+[~ 73]
+Mensaje
+Dejarlo con estos criterios
+Atrás
+Escolha el Pokémon que quieres.
+¿Quieres recuperar a [VAR PKNICK(0000)]?
+Recuperar
+[VAR NUM3(0000)]
+[VAR ITEM2(0000)]
+Se están llevando a cabo operaciones de\nmantenimiento de la GTS.
+La GTS tiene un volumen de visitas muy\nelevado en este momento.\c\nVolte a tentar más tarde.
+Não foi possível realizar la búsqueda.
+Error de conexão.
+Não foi possível conectar con la GTS.
+Se ha interrumpido la conexão con la GTS.
+No se ha encontrado ningún resultado para\nesta búsqueda.
+No puedes dejar un Pokémon sin haber\ndecidido cuál quieres tú.
+Escolha el Pokémon que quieres.
+[~ 91]
+Ese Pokémon ya se ha intercambiado.
+¡El Pokémon que has dejado está de vuelta!
+Este Pokémon no se puede intercambiar.
+~~~~~~~~~~~~~~~

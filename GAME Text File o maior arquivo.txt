@@ -1,0 +1,2852 @@
+~~~~~~~~~~~~~~~
+Text File : 23
+~~~~~~~~~~~~~~~
+[~ 0]
+Vaya, [VAR TRNAME(0000)], no eres lo que se dice\nuna nulidad, precisamente...
+[~ 2]
+[~ 3]
+Vaya, [VAR TRNAME(0000)], no eres lo que se dice\nuna nulidad, precisamente...
+[~ 5]
+[~ 6]
+Vaya, [VAR TRNAME(0000)], no eres lo que se dice\nuna nulidad, precisamente...
+[~ 8]
+[~ 9]
+¡Guau, genial! [VAR TRNAME(0000)], se te da bien!
+[~ 11]
+[~ 12]
+¡Guau, genial! [VAR TRNAME(0000)], se te da bien!
+[~ 14]
+[~ 15]
+¡Guau, genial! [VAR TRNAME(0000)], se te da bien!
+[~ 17]
+Si llevas algún Pokémon contigo, oficialmente entrenas\nPokémon.\r\n¡No puedes negarte a luchar conmigo!
+Aaargh, he perdido... Debería haber entrenado más...
+Vamos a ver, si eras tan fuerte, ¡deberías habérmelo dicho\nantes!
+Desde que me derrotaste, he estado entrenando sin\nparar.\r\n¡No puedes negarte a luchar conmigo!
+Aaargh, he perdido...\n¿Hay algún problema con mi método de entrenamiento\r\no qué?
+Pues si tú vas a hacerte cada vez más fuerte, yo también.
+¡Gracias a ti me he vuelto más fuerte!\n¡Toma, un regalito para ti!
+¡Ajajá! ¡Me estabas mirando!\n¡Te desafío con un Pokémon de tipo Bicho!
+¡Oooh! ¡Me has noqueado!
+Si miras a los ojos a un Treinador, ¡le estás desafiando!\n¡Son las reglas!
+Eu capturei um montão de Pokémon!\c\nVamos lá, acredito em vocês!\nViva os Pokémon Inseto!
+A pesar de tener todos estos Pokémon, he perdido\nmiserablemente...
+Como he atrapado tantísimos Pokémon, ya no me queda\nni una Poké Ball.
+Voy a seguir con mi racha de victorias hasta ser la mejor\nTreinadora.\c\n¡Y tú vas a ayudarme!
+Vaya, menudo parón. Espero no quedarme estancada.
+Para seguir avanzando, tengo que atrapar más Pokémon.
+¿Te ha atraído el dulce y relajante aroma que emanamos?
+Pues no ha debido de ser el aroma...
+La aromaterapia es una técnica de curação mediante el\nuso de fragancias.
+Yo soy Ali. Y esta es mi hermana, Lía.\n¡Luchamos juntas, como buenas hermanas!
+Somos dos, ¡pero combatimos como si fuésemos una\nsola persona!
+Ali: ¡Jobar, hemos perdido!\nLía: ¡Jopé, hemos perdido, hermanita!
+Cuando combates contra dos rivales, hay que darle\nmuchas vueltas a la cabeza, ¿verdad?
+Mira que mi hermana y yo nos compenetramos a la\nperfeção, pero aun así hemos perdido. Jolines...
+¿Eh? ¡Pero si solo tienes un Pokémon!\n¡Así vas list[VAR GENDBR(00FF,0101)]oa si quieres combatir contra nosotras!
+¡Si quieres que disputemos un combate tienes que llevar\nen tu equipe al menos dos Pokémon!\r\nEs que si no, ¡vaya churro de combate!
+¡Brrrr! ¡Mi hilo de pescar está todo enredado!\n¡Qué fastidio tan gordo!\c\n¡La voy a pagar contigo!
+¡Brrrr! ¡He perdido! ¡Ahora estoy aún más mosqueado!
+¡Brrrr! ¡Qué mosqueo más tonto tengo! ¡Brrrrrrrrrr!
+¿Por qué negarlo? ¡Soy un experto en Pokémon de tipo\nAgua!\c\n¿Eh?\n¿Que no sabes quién soy?
+Pensaba que no era muy malo, pero me temo que debo\nmejorar...
+He estado pescando demasiado. Debería haber entrenado\na mis Pokémon.
+En una competição de pesca, no tendrías ni una\noportunidad...\r\nA ver, ¡enséñame tu equipe Pokémon!
+En una competição de pesca, te hubiera dado mil\nvueltas...
+Creo que voy a probar suerte en la Cachoeira Meteoro,\na ver si pican.\c\nEstoy convencido de que haría una buena captura por\nallí...
+¡Dejar huellas en la arena es tan divertido!
+¡Aaah! ¡Tengo arena en los zapatos!\n¡Es la mar de desagradable!
+Estoy dejando muchas huellas en la arena, pero\nenseguida desaparecen...
+¿Debería...? ¿O no debería...?\n¡Venga, sí, vamos a luchar!
+No hubiera debido...
+Si te enfrentas a una decisión y dejas que alguien la tome\npor ti, siempre te arrepentirás del resultado...
+Vamos, ¡enfréntate a mí!
+Oooh... Pensé que podía ganar...
+Decidí luchar, así que debo aceptar la derrota con espíritu\ndeportivo. Aun así, hubiera preferido ganar...
+Me da rabia perder, pero a pesar de todo te agradezco\nque hayas combatido contra mí. ¡Toma!
+Aprendemos un montón de teoría en la Escuela de\nTreinadores. ¡Ha llegado la hora de ponerla en práctica!
+He estado ganduleando en clase, por eso he perdido...
+Voy a tener que repetir curso en la Escuela de\nTreinadores. Si no, Petra va a echar humo...
+He estado empollando un montón en la Escuela de\nTreinadores. Esta vez no voy a perder...
+Pero... Pero... ¡Pero si he estudiado mogollón!
+Voy a tener que repetir curso en la Escuela de\nTreinadores. Si no, Petra va a echar humo...
+Toma, te doy esto con una condição: si Petra te\npregunta sobre este combate, ¡no digas ni mu!
+Yo estudio en la escuela, en casa, en el camino de la\nescuela a casa...
+No me lo puedo creer... ¿He perdido?
+Aaah... ¡Así nunca llegaré a ser una gran Treinadora,\ncomo Petra!
+¡He hincado bien los codos desde la última vez!\n¡Ahora vas a ver!
+No me lo puedo creer... ¿He perdido? ¿Otra vez?
+¿Has vencido a Petra? Pues entonces es normal que no\nte gane... Al menos por ahora.
+El chasco que me he llevado foi antológico, pero\nno hay mal que por bien no venga: ¡esto me espolea\r\ntodavía más! Toma, espero que te sea útil.
+[~ 77]
+¡Esto tiene que ser una broma!\n¡Eres muy fuerte!
+[~ 79]
+¡Aaah!\n¡No te me acerques! ¡Vete!
+¡Victoria por KO! ¡A dormir que me voy!
+¿Eh? ¿No estás con esa mujer que usa Pokémon de\ntipo Dragón?\c\nVaya, hombre... ¡De haberlo sabido, no habría tenido\ntanto miedo y no me habrías ganado!
+¡Si no puedes vencerme a mí, ya puedes olvidarte de\nderrotar a Petra!
+Vaya, se diría que tienes potencial...
+Petra tiene una fuerza que está a años luz de la mía.\nMejor no confiarse... ¡Tendré que seguir entrenando!
+¡Mis Pokémon son lo más! ¡Ahora vas a ver!
+¡Ay! ¡Me he hecho un arañazo!\n¿Dónde hay tiritas por aquí?
+Las tiritas son una señal de todo lo que se ha luchado.\n¡Mira mi coleção!
+Mis Pokémon de tipo Bicho son duros como ellos solos...\n¡Ahora verás!
+¡He perdido! ¡Y mira que me parecía pan comido!
+Los Pokémon de tipo Bicho evolucionan muy rápido y,\npor tanto, mejoran mucho enseguida.
+¡Déjame mostrarte lo fuerte que es mi Pokémon del alma!
+Eres un pelín mejor que yo...
+Los Pokémon que son tiernos a la par que fuertes son\nlos mejores en mi opinión.
+¡Uy! Cuando te vi pensé que te estabas ahogando...\c\nComo pareces estar bien, ¿qué piensas de echar un\ncombate?
+Glu... Glu... Glu...
+¡Menuda fuerza para tu edad! ¡Es increíble!\c\nCuando crezcas un poco más, te quiero conmigo en el\nequipe de vigilantes de la playa.
+Nadar entre las olas del mar...\n¡Mucho mejor que en una piscina!
+He perdido... Qué depre...
+¿Por qué el mar es azul?\c\nLeí la explicação en el museo de Cidade Portual, pero no\nme acuerdo...
+Mi cuerpo es más ligero en el agua.\n¡Es como si no pesara nada!
+Me has dejado flotando...
+El peso de tu cuerpo es diez veces más ligero en el\nagua... ¡Es normal que puedas saltar y moverte como\r\nsi nada!
+El cielo azul...\nEl ancho mar...\r\nQué tranquilidad...
+¡No estaba lista para el combate!
+Me gusta que me digan que soy como un mar en calma,\nji, ji, ji.
+¡Ja, ja, ja! Corriendo soy una tortuga, ¡pero en el agua\nsoy un pez!
+¡Me rindo!
+Seguro que no pierdo en una carrera a nado...
+En el mar soy un as. ¡No te lo voy a poner nada fácil solo\nporque seas tan joven!
+Tú no me tomas en serio, ¿verdad?
+Deslizarse entre las olas... Qué placer...\n¿Por qué no lo pruebas?
+¿Qué prefieres? ¿La pesca en agua dulce o en el mar?
+Los Pokémon se me dan tan mal como la pesca en alta\nmar...
+La pesca es un deporte genial, ya sea en un río o en el\nmar...\r\n¿A que piensas igual?
+He atrapado un montón de Pokémon pescando.\nVas a ver un señor combate.
+He perdido con todas las de la ley...
+Da igual que pierdas o ganes, los Pokémon son lo mejor\nque hay.\r\n¿A que piensas igual?
+Toma. ¡A Stunfisk regalado, no le mires el dentado!
+¿Qué puede hacer un Pescador cuando tiene que ir al\nservicio?\c\n¿Qué pasaría si un pez gordo pica en mi caña justo\ncuando estoy en el servicio? Tendré que aguantarme...
+He perdido porque tengo ganas de ir al servicio y me\nestoy aguantando...
+¡Yo no me muevo! ¡Tengo la corazonada de que va a\npicar uno gordo de verdad!
+Tengo una personalidad tan electrificante que te voy a\nchamuscar. ¡Jua, jua, jua!
+Nunca había visto una actuação tan subida de voltios,\noye. ¡Me has puesto los pelos de punta!
+Los Pokémon son como el rock: ¡tienes que poner el\ncorazón!
+¡Yo me he formado con Erico y rocanroleo mejor que\nnadie! ¡No puedo perder!
+Me has desenchufado...
+Nuestro Líder de Gimnasio, Erico, lleva siglos aquí.\c\nCuando empezó a combatir, tu padre aún no había\nni nacido, imagínate.
+Auaaa...\c\nDebo de haberme dormido mientras hacía el muerto entre\nlas olas...
+Bueno, he perdido... Pues nada, a dormir otra vez...
+Flotar entre las olas arrullado por el mar es como dormir\nen una cama muy cómoda y blandita...
+En el mar soy un as. ¡Vamos a ver si me puedes!
+He perdido en casa... ¡No me lo puedo creer!
+Nado en el mar con muchas ganas. ¡Nunca me canso!\nDe hecho, voy a nadar un poco más.
+Gracias a haber nadado tanto en el mar, mi equipe\nPokémon ha mejorado un montón.
+¡No me lo puedo creer!\c\nMi equipe Pokémon es más fuerte, pero yo aún tengo\nque mejorar como Treinador.
+Lo que aprendes en los combates te hace mejorar como\nTreinador. Es una leção muy valiosa.
+He perdido, ¡qué se le va a hacer! Aun así, te voy a dar\nun pequeño regalito. ¡Que no se diga, porras!
+¿Conoces un pueblecito llamado Azuliza?
+¡Esto no estaba previsto!
+Hay un dicho rarísimo que está haciendo furor en el Club\nde Azuliza.
+¿Buscas pelea? ¡Pues encantada!
+No he estado a la altura...
+Apuesto lo que sea a que vas a seguir mejorando...\n¡Y yo también!
+Mi sueño es nadar en los siete mares.
+Así no llego ni al río de la esquina...
+Lo mejor de nadar es que puedes jugar con los Pokémon\nmarinos.
+¡Hola, hola! ¿Tú también vas a Malvamar?
+Yo... no sé... si me las apañaré para... llegar.
+Malvamar queda por aquí... pero es un lugar turístico que\nno todo el mundo es capaz de encontrar.
+No hay nada más cómodo que un bikini para ir a la playa.
+¡Oh, no!
+Bueno, quizás esté bien para tomar el sol, pero no para\ncombatir...
+¡Me encanta el mar!\n¡Cuando nado se me olvidan todos mis problemas!
+Perder combates me estresa una barbaridad...\n¡Me voy a nadar!
+Combate el estrés nadando. ¡No hay remedio mejor!
+¡Mira mis abdominales! ¡Plaf, plaf!\n¡Y todo es gracias a la natação!
+¡La he pifiado! ¡Plaf!
+¡Plaf, plaf!\c\n¡Mis abdominales son de nadar, no de luchar en combates\nPokémon!
+¿Te has puesto crema protectora antes de exponerte\nal sol?
+¡Ay, ay, ay!
+¡La zona de la nariz es la que se quema primero!
+He anclado en puertos de todo el mundo, pero el mejor\nes el de Cidade Portual.
+¡Tú también eres lo más!
+Quien mejor sabe entrenar Pokémon está en el mejor\npuerto de todos...
+Ayyy...\n¿Combate? ¿Tú y yo?
+Ay... Ooooooh...\nAyyyyyyy...
+Normalmente soy más fuerte...\nPero tengo un mareo... Ayyy...\c\nYa sé que soy Marinero, ya...
+¿A que las sombrillas de playa parecen flores gigantes?
+¡Aaah!
+¡Si miras a la playa desde el cielo, parece un jardín de\nflores!
+¡No pienso volver a perder ante ti!\n¡Por eso tengo mi flotador!
+¡Aaah!
+Gracias al flotador, tanto yo como mi Pokémon estamos\nmejorando una barbaridad.
+No te puedo dar el flotador. ¡Pero te daré esto para\ncompensarte!
+¡Eh! ¡Cuidado! ¡Se ve que no sueles hacer carreras de\nbicis!
+¡Aaah! ¡Me han fallado los frenos!
+Cuando las ruedas están desinfladas o hay problemas de\nfrenos, puedes tener un accidente. ¡Revisa tu bici!
+¡Eh, tú! ¿Puedes alcanzarme?
+¡Me has dejado atrás del todo!
+No basta solo la velocidad para ganar en los combates\nPokémon, está claro...
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+[~ 191]
+¿Puedo ver tus Pokémon? Solo una miradita...
+Yo solo quería completar mi coleção...
+Cuando veo un Pokémon que no conozco, mi pasión de\ncoleccionista sale a flote.
+Hola, ¿has atrapado nuevos Pokémon?\c\n¿Puedo verlos? Solo una miradita...
+Qué Pokémon tan molones tienes...\nQué envidia...
+Oh, cómo quisiera que todos los Pokémon raros que\nexisten fueran míos...
+Los combates Pokémon son así, no hay rival pequeño...\nToma, te presente un ejemplar de mi propia coleção.
+¡Pero bueno, tú! ¡Vete a darle la lata a outro!\n¿No ves que estoy pescando?
+¡Aaargh!\n¡He perdido!
+La pesca requiere concentração. Tienes que estar\npendiente del corcho para ver si ha picado algo.
+Yo soy Ali. Y esta es mi hermana, Lía.\n¡Luchamos juntas, como buenas hermanas!
+Somos dos, ¡pero combatimos como si fuésemos una\nsola persona!
+Ali: ¡Jo, qué rabia! Otra victoria a la porra...\nLía: ¡Jopé, hemos vuelto a perder, hermanita!
+Cuando combates contra dos rivales, hay que darle\nmuchas vueltas a la cabeza, ¿verdad?
+Mi hermana y yo nos compenetramos a la perfeção...\n¿Cómo es posible que hayamos perdido de nuevo?
+¿Eh? ¡Pero si solo tienes un Pokémon!\n¡Así vas list[VAR GENDBR(00FF,0101)]oa si quieres combatir contra nosotras!
+¡Si quieres que disputemos un combate tienes que llevar\nen tu equipe al menos dos Pokémon!\r\nEs que si no, ¡vaya churro de combate!
+¡Querer es poder!\n¡Quiero derrotarte!
+Tendría que haberlo querido más...
+Tu ingenio supera mi fuerza brota.\n¡Tu técnica es insuperable!
+Tú entrenas Pokémon. No digas nada. Solo pelea.
+Eh... Esto... Mejor me callo...
+Te he desafiado yo y sin embargo he perdido.\nUna vergüenza...
+Estoy con mis Pokémon las 24 horas del día.\n¿Cómo pretendes que pierda?
+¿He perdido?\nVaya ridículo que he hecho...
+Brrr... Tú eres un[VAR GENDBR(00FF,0100)]a fan de los Pokémon, ¿eh?\nTú sí que pasas cada segundo del día con tus Pokémon,\r\n¿eh?
+No es necessário molestar a Marcial...\c\n¡Te voy a aplastar!
+Pero... ¿cómo?\n¿Cómo he podido perder tan rápido?
+No me voy a hundir por esto...\n¡Me motiva para seguir entrenando!\c\nUn día seré Líder de Gimnasio...\c\nNo, ¡seré Campeona de la Liga Pokémon!
+¡No me lleves la contraria!\n¡Vas a perder porque lo digo yo!
+¡Buaaa!\n¡No es justooo!
+Antiguamente, el Gimnasio de Pueblo Azuliza siempre\nestaba oscuro por dentro.\c\n¡Y gracias a combatir en la penumbra he podido quitarme\ntodos los miedos!
+[~ 224]
+[~ 225]
+[~ 226]
+[~ 227]
+[~ 228]
+[~ 229]
+[~ 230]
+¡foi un gran combate!
+[~ 232]
+[~ 233]
+Las habilidades de mi Pokémon son muchas, pero\nhe perdido...
+[~ 235]
+[~ 236]
+No conseguí restaurar suficientes PS...\c\nVaya potencia de Ataque...
+[~ 238]
+[~ 239]
+Qué fuerza...\nEres el no va más.
+[~ 241]
+[~ 242]
+Eres muy superior a mí...
+[~ 244]
+[~ 245]
+Nuestras defesas no han sido suficientes...
+[~ 247]
+[~ 248]
+Pero si... ¡me has vencido!
+[~ 250]
+[~ 251]
+[~ 252]
+[~ 253]
+[~ 254]
+[~ 255]
+[~ 256]
+[~ 257]
+[~ 258]
+[~ 259]
+[~ 260]
+[~ 261]
+[~ 262]
+¡Mi pasión por las bicis es lo que me ha hecho venir a\neste lugar!
+Eh, tu bicicleta no está nada mal...
+Me encantan las bicis, pero no estoy muy en forma,\nque digamos...\c\nPor eso, en lugar de montar, me pongo aquí a ver pasar\na los ciclistas.
+Por fin he llegado al Monte Chaminé.\n¡Y ahora quiero un combate Pokémon!
+Tu manera de luchar...\n¡Es como una erupção volcánica!
+Pues sí, por fin he llegado al Monte Chaminé y no me voy\na dedicar solo a hacer visitas...\c\nTambién quiero luchar un poquito y comprar galletas de\nrecuerdo.
+[~ 269]
+Pero... ¿he perdido?
+[~ 271]
+¡Ja, ja, ja, ja!\n¿Qué tal si luchamos un poco?\c\n¡Tú y yo!\n¡Ja, ja, ja, ja!
+¡He perdido!\n¡Ja, ja, ja, ja!
+¡Ja, ja, ja, ja!\c\nNo me hace ni pizca de gracia... pero es que no puedo\nparar de reírme.\c\nJi, ji, ji, ji...
+Tengo las piernas fuertes como un roble de tanto subir y\nbajar montañas.\c\n¡No van a flaquear tan fácilmente!
+¡Ay! ¡Me ha dado un calambre!
+Prueba a caminar en serio por estos senderos de montaña\ncon una mochila bien cargada, y verás.\c\n¡Por fuerza te pones en forma!
+Me mantengo en forma gracias al senderismo.\n¡Estoy hecho un toro!
+¿Estaré hecho un ternero?
+Me han dicho que hay Treinadores muy fuertes\nen la cima del Monte Chaminé.\c\n¡Voy a ir allí a desafiarlos a todos!
+Toma, llévate esto. Te lo mereces.\c\nLos Montañeros como yo tenemos una amplitud de miras\ntan considerable que sabemos valorar las aptitudes de\r\nlos ganadores tal y como se merecen.
+Soy fuerte psicológicamente.\nPerder no me supone ningún trauma.
+¡Buaaaa!
+¡No estoy llorando! ¡Es que me ha entrado algo en el\nojo!
+Cuando sales de picnic, tienes que cantar a pleno\npulmón.\r\n¡Venga, canta conmigo!
+¡Guau, qué fuerte eres!
+No importa lo bueno que seas cantando o entrenando\nPokémon.\c\n¡La cosa está en divertirse!
+¡Jo, jo, jo, jo! ¡Esto está que arde!
+He acabado chamuscado...
+Los baños sientan genial y, además, son buenos para\ncurar el dolor de las articulaciones.
+[~ 291]
+[~ 292]
+[~ 293]
+Estoy intentando quitarme el estrés.\n¡Deja de estresarme con tu presencia!
+¡Espero que Candela te queme bien por los dos lados!
+Aaah... Oooh...\nDespués de un buen baño, te quedas en la gloria.
+[~ 297]
+[~ 298]
+[~ 299]
+Todo esto ha debido de cansarte.\n¿Quieres darte un baño para relajarte un poco?\c\nAunque debes saber que tener voluntad y resistencia es\nvital para todo Treinador.
+Si juegas con fuego, te quemas...
+Tienes talento... pero nuestra Líder, Candela, es muy\nfuerte.\c\nSi no tienes cuidado, acabarás tostándote de lo lindo...
+¿Sabes por qué es tan chachi estar por aquí?
+¡Aaah! ¡Esto no es nada chachi!
+La ceniza volcánica no absorbe los rayos del sol, así que\nno se calienta.\c\nPor mí, chachi piruli... ¡No soporto el calor!
+Cuando un volcán entra en erupção, te das cuenta de\nque la tierra está viva.
+¡Tienes la potencia de un volcán!
+Me has extinguido...\c\n¿Lo pillas? Tú eres un volcán activo y yo uno extinguido,\nje, je, je.\c\nVale, sí, no tiene gracia...
+[~ 309]
+[~ 310]
+[~ 311]
+Perdona, pero quisiera ver si sabes entrenar a tu\nequipe Pokémon como se debe.
+Pues sí, entrenas muy bien a tu equipe Pokémon.
+Si das Pokécubos a tus Pokémon, potenciarás los\naspectos singulares de su personalidad.
+Déjame comprobar que sigues entrenando Pokémon\ncomo se debe.
+¡Tu equipe Pokémon está creciendo que da gusto!
+Al parecer, según su naturaleza, los Pokémon prefieren\nun Pokécubo u outro.
+Te mereces un obsequio por el primor con el que estás\ncuidando y entrenando a tu equipe. ¡Helo aquí!
+¡Yodelei-yodelei-yo-iu!\c\nComo aquí no hay eco, me pongo a cantar al estilo tirolés\npara divertirme.
+¡Yodelei-yodelei-yo-iu!
+¡Cuando era pequeño, creía que el eco era alguien\nescondido que repetía todo lo que yo decía!
+Si no te preparas bien antes, ni se te ocurra hacer\nmontañismo.
+Las montañas son traicioneras...
+En invierno las montañas encierran trampas mortales:\ntormentas de nieve, avalanchas...
+¡Acampar es la caña!\n¡Puedes pescar, asar patatas y contar historias de terror!\c\n¡Pero lo mejor son los combates Pokémon!
+¡Eres mucho más fuerte que yo!
+Me encanta ir de acampada con mis Pokémon.
+Me apetece un combate para bajar la comida.\n¿Qué me dices?
+¡Oh, no!
+Creo que he comido demasiado...\nMe está entrando sueño...
+¡Jua, jua, jua, jua!\n¿Quieres luchar contra mi Pokémon?
+Mi pobre Pokémon...
+Yo sé muy bien qué Pokémon quiero...\c\n¡Uno con la piel dura y llena de bultos, cuernos enormes\ny colmillos afilados!
+¡Jua, jua, jua, jua!\n¡Vamos, lucha contra mi equipe Pokémon!
+Qué afortunado soy de poder ver a tu magnífico\nequipe Pokémon...
+¡Jua, jua, jua, jua!\c\n¡Cuando veo un combate Pokémon, me emociono tanto\nque me pongo a temblar!
+¡Jua, jua, jua, jua!\n¿Quieres esto, eeeh? ¡Si lo sabré yooo!
+Mmmm...\nPareces capaz...\r\n¡Comprobemos si además lo eres!
+¡Pues lo eres mucho más de lo que lo pareces!
+Nadie nace sabiendo.\n¡Hay que esforzarse!\r\nEsa es una gran verdad.
+Mmmm... Una vez más, pareces de lo más capaz.\c\n¡Comprobemos si lo sigues siendo!
+¡Tan capaz como siempre!
+¡Hay que esforzarse y sudar!\c\nYo he perdido porque no le he echado bastantes ganas.
+Me veo obligado a asumir mi condição de perdedor y\nhacerte entrega de este presente por tu victoria.
+¡Tú!\c\n¡Mis Machop!\c\n¡Pelead! ¡Ahora!
+¡Ay, uy, oy!
+¡Mis Machop!\c\n¡Mientras sigan motivados, yo seguiré mejorando con\nellos!
+¡Mi mayor habilidad es romper ladrillos con la frente!
+¡Ayyy! ¡Qué dolor de cabeza más malooo!
+Estoy enseñando kárate a mi Pokémon.\c\nCreo que acabará siendo mucho mejor que yo.\n¡Qué emoção!
+Desde que me derrotaste, hemos estado entrenando duro\npara mejorar.\r\n¡Venga! ¡Es la hora de la revancha!
+¡Ayyy!\n¡Hemos vuelto a perder!
+¡Mi equipe Pokémon va a ser el mejor!\n¡Voy a entrenarlo como un loco!
+Qué se le va a hacer... Unas veces se gana y otras se\npierde. Acepta este presente que te doy de todo corazón.
+Esta playa es mi campo de entrenamiento secreto.\n¡Ya te puedes ir a otra parte!
+¡No he entrenado bastante!
+Me gusta entrenarme aquí porque la arena amortigua las\ncaídas y así no te haces tanto daño.
+Muy bien, vamos a entrar en faena.
+Yo soy buenísima, pero mi equipe Pokémon...
+No me importa perder. Me gustan tanto los combates\nPokémon que me divierto sea cual sea el resultado.
+¡Bien hecho, figura! Toma, te voy a dar un regalito bien\nmajo para darte las gracias.
+Tengo un Pokémon rarísimo. ¿A que quieres verlo?
+Tú... ¡Tú quieres quedarte con mi Pokémon! ¿A que sí?
+Tengo un Pokémon raro y eso es lo único que necesito\npara ser feliz.
+El aroma de las flores es casi mágico. Te purifica el\ncuerpo y el espíritu.
+Uy, mira tú por dónde... Parece que he perdido...
+Las flores, los Pokémon... Me gusta todo lo que huele\nbien.\c\nPaso de cosas apestosas...
+¿Te ha atraído mi embriagador aroma?
+El poder de mi aroma no ha funcionado esta vez...
+Si sabes usar la fragancia adecuada, atraerás a los\nPokémon.
+Ji, ji, ji. He aquí un pequeño obsequio para ti.\nMira a ver si desprende la fragancia que buscas.
+Los Pokémon pájaro vuelan con elegancia en el cielo.\n¡Qué bonito!
+Argh... He caído en picado...
+Tu equipe Pokémon es muy bueno.\nYo tengo que entrenar más al mío.
+¡Somos el Círculo de Imitadores!\n¡Imitamos todo lo que haces!
+¡Mira tú por dónde! ¡He perdido!
+¿Que por qué mola imitar a la gente?\c\nJe, je, je... Nunca lo entenderías, mequetrefe...
+¡Por fin nos conocemos!\n¡Mi Pokémon de tipo Bicho no cabe en sí de gozo!
+Ojalá no te hubiera conocido nunca...
+Quiero seguir imitando a gente...\c\n¿Te quieres pirar ya de una vez?
+Si tú avanzas, nosoutros avanzamos.\c\nSi retrocedes, nosoutros también.
+Pero si tú ganas, nosoutros perdemos...
+No puedo imitarte ganando un combate, es imposible.\nQué frustrante es esto...
+¡Sí, por fin me has encontrado!\n¿O más bien querías evitarme?
+¡Guau, qué buen combate!
+¡Somos el Círculo de Imitadores!\nEspero que hayas disfrotado de nuestra actuação.
+No sabes quién soy, ¿verdad?\c\nPero yo tampoco sé quién eres tú y no me importa.\n¡Te desafío!
+¡Eres bastante fuerte!
+Hasta que te vayas de aquí, seguiremos imitando cada\nuno de tus movimentos.
+El Círculo de Imitadores lo fundó gente a la que le gusta\nimitar a los demás.\c\nBasta de charlas. ¡A luchar!
+¡Me rindo!
+¿No quieres formar parte del Círculo de Imitadores?
+¿Quién sabe todo lo que hay que saber para sobrevivir?\c\n¡Pues los Pokémon Rangers, por supuestísimo!
+Todavía tengo mucho que aprender sobre los Pokémon,\npor lo que se ve.
+Tenemos un sueño...\c\nAlejarnos de la civilização y despertar el espíritu salvaje\nque llevamos dentro.
+Voy a despertar mi espíritu salvaje con la ayuda de mis\nPokémon.
+¡Sigues fuerte como un Tauros!
+Ten confianza en tus Pokémon. Ten confianza en ti.\nAsí conseguirás todo lo que te propongas.
+¿Podrás despertar tu espíritu salvaje con esto?\n¡Depende de la voluntad que le pongas!
+Uy, qué curioso...\c\nPara ser alguien que se va de aventura, llevas poco\nequipaje contigo.
+Las cosas malas pasan cuando no vas preparado para\ncualquier eventualidad.
+Tú no llevas mucho equipaje, pero te has preparado bien.\c\nY también tienes una buena preparação física y\npsicológica. Te felicito.
+¿Qué tal te va en tu viaje con los Pokémon?
+Sigo sin estar preparada... ¿Pero qué me falta? ¿Qué?
+Del mismo modo que un Treinador confía en sus\nPokémon, los Pokémon confían en su Treinador.
+Espero que pueda resultarte útil en las aventuras que\ncompartas con tus Pokémon...
+¡El cielo infinito encierra todo tipo de promesas y sueños!\nNo hay nada más hermoso que volar.
+He caído en picado...
+¡Gracias a mi Pokémon pájaro, mi sueño de surcar los\naires se ha hecho realidad!
+¡Te voy a enseñar el poderío de mi Pokémon pájaro!
+Todavía nos falta un hervor...
+Desde que era pequeñito, siempre he querido tener\nPokémon pájaro...
+Acechar entre las sombras, vivir en la oscuridad...\nEse es mi destino...\c\n¡Y ahora salgo a la luz para retarte!
+¡Acepto mi derrota!
+Aquellos que pierden un combate han de volver\nsilenciosos a las sombras...\r\nEl destino lo quiere así...
+¡Si no estás en guardia, te espera una buena tunda!
+¡Me has dejado patidifuso!
+Mi ataque sorpresa foi un fiasco...
+¡Los Pokémon pájaro derrochan elegancia!\nY mi equipe es una muestra.
+Tú... eres muy fuerte...
+Un Treinador ha de ser listo y saber reaccionar ante\ncualquier situação.\c\n¿Y tú? ¿Tienes el ingenio que hace falta para estar a\nla altura de nuestra Líder?
+[~ 422]
+[~ 423]
+[~ 424]
+[~ 425]
+[~ 426]
+[~ 427]
+Los amantes de los Pokémon pájaro desean ser\nmiembros de este gimnasio.\c\nY los que somos miembros ya... ¡no podemos\npermitirnos perder!
+Era una carga demasiado pesada para mí...
+El mundo es enorme y hay montones de Treinadores\nmuy fuertes.\c\nPor eso debo seguir entrenando y mejorando cada vez\nmás.
+¿Tienes algún movimento capaz de atacar a un Pokémon\nque esté usando Vuelo?
+¡Vuelas más alto que yo!
+El movimento Vuelo es muy práctico, ¿a que sí?\c\nCuando un Pokémon vuela, puede escapar de casi\ncualquier ataque.
+Mi Pokémon es fuerte. ¿Y tu equipe?
+Tu equipe Pokémon es más fuerte...
+Se puede confiar en los Pokémon que crecen de forma\ncontinua.
+Se puede confiar en los Pokémon que crecen de forma\ncontinua.
+Tu equipe Pokémon es imparable.
+Mi equipe Pokémon se está fortaleciendo mucho.\nYo también debería hacerlo...
+¡Yo también quiero volar tan alto como tú algún día!\nToma, para que veas que te tengo en gran estima.
+[~ 441]
+[~ 442]
+[~ 443]
+[~ 444]
+[~ 445]
+[~ 446]
+Voy a ver si tu equipe Pokémon está preparado para\nvivir al aire libre...
+¡Con un equipe Pokémon tan fuerte, no necesitas que\nnadie te rescate!
+Viajar a donde tu corazón te lleve en compañía de tus\nPokémon...\r\n¡Es lo mejor de ser Treinador!
+¿Estás en forma?\nSi no es así, podrías pasarlo mal cuando un combate se\r\ncomplique.
+Yo estaba en forma, pero...
+Salgo a correr cada día para estar en forma, ¡siempre con\nmis Pokémon!
+Eh...\nMmm...\r\n¿Quieres luchar?
+Eh...\nMmm...\r\nHe perdido, creo...
+Eh...\nMmm...\r\nEntrenaré más...
+Eh...\nMmm...\r\n¿Quieres volver a luchar?
+Eh...\nMmm...\r\nHe vuelto a perder, creo...
+Eh...\nMmm...\r\nEntrenaré más...\c\nPor mi querido equipe Pokémon...\n¡Que vivan los Pokémon de tipo Bicho!
+Eh...\nMmm...\r\nToma. Para ti...
+Dime, ¿quieres luchar contra los Pokémon que estoy\nentrenando?
+Tu equipe Pokémon sí que ha recibido un buen\nentrenamiento...
+No todo es cuestión de fuerza en lo que respecta a los\nPokémon.\c\nTambién hay que preocuparse de potenciar algún aspecto\nconcreto de su personalidad.
+Los Pokémon que estoy entrenando tienen buen aspecto,\ncomo la otra vez.
+Sabes cómo cuidar de tus Pokémon. Podrías trabajar en\nla Guardería...
+Tu equipe Pokémon está muy en forma. Deberías\nparticipar en el Gran Concurso Pokémon.
+Igual te viene bien esto para entrenar a tus Pokémon.
+[~ 467]
+[~ 468]
+[~ 469]
+[~ 470]
+[~ 471]
+[~ 472]
+Aquí es donde entrenamos los amantes de los dragones.\c\nA veces viene el Campeón de visita.\n¿Ves como somos algo especial?
+¡Uf! ¡No esperaba que fueras tan fuerte!
+Te aguarda un camino largo y difícil.\c\n¿Cuándo lograré llegar yo triunfante hasta el final con mi\nPokémon?
+Desde que nos conocimos, hemos entrenado duro para\nser los mejores.\c\n¡Veamos cuánto hemos mejorado!
+¡Uf! ¡No esperaba que fueras tan fuerte!
+Se ve que has estado entrenando mucho con tus\nPokémon.\c\n¡Pero yo también puedo mejorar!
+Tu fuerza supera a la de los del tipo Dragón.\n¡Toma, te lo has ganado!
+Oye, ¿te has perdido?\c\nSi logras vencer a mis Pokémon, te ayudaré a encontrar\nel norte.
+¡Yo sí que he perdido el norte!
+Mucha gente se pierde en el mar.\c\nSi es tu caso, deberías consultar el CartoNav\nmientras avanzas por el agua.
+¡Anda! ¡Como montas un Pokémon, no tienes que nadar!\c\n¡Qué envidia!
+Oh... Así no vale...\nLuchar nadando es más difícil...
+Me estoy quedando arrugado...\nLlevo demasiado tiempo en el agua...\c\nSi pudiera montar un Pokémon como tú...
+Te estaba esperando...\n¡Voy a por ti!
+¡Piedaaad!
+El sonido viaja más rápido en el agua que en el aire.\nInteresante, ¿eh?
+¡Hola, hola!\n¡Mira qué Pokémon tan chulo tengo!
+No he luchado con ganas...
+Me dejé engatusar por el encanto de Horsea, por eso\nempecé a nadar.
+La natação es el deporte más completo. ¡Te pones súper\nen forma!
+¡Vale, vale, sí! ¡Has ganado!
+Como me hago largos cada día... ¡mírame!\n¡Estoy hecho un figurín!
+Esa alta montaña de roca blanca es Sootopolis.
+¡Me has hecho polvo!
+No encuentro la entrada a Sootopolis. ¿Dónde estará?
+¡Qué sorpresa! ¡No sabía que los Treinadores salían al\nmar!\c\n¡Luchemos para celebrarlo!
+Uf... Eres fuerte, ya lo creo...
+Tus ojos tienen ese brillo propio de los que están\nacostumbrados a aceptar retos y salir airosos.\r\n¡Te va muy bien!
+El mar está plagado de Pokémon.\nAsí no hay quien nade, uf...
+Los Pokémon que entrenas tú mismo siempre son los más\nfuertes...
+Uf... Uf... No puedo ni con mi alma...\c\nLa ida fue fácil, pero la vuelta... ¡se me va a salir el\nhigadillo!\c\n¿Tendré fuerzas para llegar hasta la costa?
+El mar... La mar... El mar...\nEl mar es grande hasta aburrir...\r\n¡Y yo estoy hasta las narices!
+¡Noooo!
+Estoy aburridísimo, pero debo seguir...\c\n¡Soy un nadador nato! ¡No sé hacer otra cosa!
+Cuando era pequeñito, me resfriaba cada dos por tres,\npero desde que nado, no pillo ni uno.
+Cambiaría un resfriado de vez en cuando por ser\ninvencible en los combates.
+Los Treinadores viajan por valles y montañas.\n¡Deben estar en forma!
+¿Te ha arrastrado la corriente hasta aquí? Es el destino...\n¡A luchar!
+¡Eres fuerte! ¡Puede que incluso demasiado!
+Solo a mí me tenía que tocar alguien tan fuerte como tú\nen un combate... Estoy gafado...
+Incluso los Pokémon que saben nadar son arrastrados por\nlas corrientes.
+¡La marea me arrastra!
+Los Pokémon disfrotan en los rápidos, pero las corrientes\nson peligrosas...
+[~ 516]
+[~ 517]
+[~ 518]
+Si te quedas flotando en el mar así, los Pokémon vienen\na jugar contigo.
+Oh... Perdida en el mar...
+Nadando, nadando, me he dado cuenta de que hay\nPokémon que atacan, mientras que outros solo miran...\c\nSe ve que cada Pokémon tiene una personalidad\ndiferente.
+Si te quedas flotando en el mar así, ¡los Treinadores te\ndesafían!
+Esto es rarísimo... He vuelto a perder...
+No es que tenga nada que ver, pero creo que voy a ir a la\nCasa Treta.
+Jolín, qué rabia me dan las derrotas.\n¡Toma, anda!
+Estoy harta de nadar. ¿Y si luchamos un rato?
+¡Si hubiera sabido que eras tan fuerte, no habría dicho\nnada!
+Te esfuerzas tanto que esa debe de ser la razón de que\nseas tan fuerte.
+Estoy hasta las narices de nadar. ¿Te apetece luchar\ncontra mí?
+¡Eres impresionante!
+Da igual... ¿Cómo se llega hasta Cidade Mossdeep?
+¿Estás de humor para enfrentarte a mis Pokémon de tipo\nAgua?
+He perdido...
+Qué fuerza... No he visto nada igual...\n¡Estoy impresionada!
+¡Ji, ji, ji, ji! ¡Nado como una sirena!
+Me has dejado más chafada que un Stunfisk...\nGlu, glu, glu...
+Vaya paliza me has dado... Quisiera que me tragara el\nmar...
+¡Hola, mequetrefe! ¿Luchas contra mí?
+¡Oh, nooo!
+Me encanta jugar con los Pokémon saltando entre las\nolas...
+Mi corazón se regocija cuando floto entre las suaves olas\ndel ancho y profundo mar...
+La amplitud de mi derrota se pierde en el horizonte...
+Todos los niños del mundo sueñan con convertirse en\nCampeones Pokémon algún día. ¡Lógico!
+¡Hola, hola, hola! ¿Te hace un combatito?
+¡No pareces gran cosa, pero das mucha guerra!
+¿Has hablado con este chico que no para de quejarse\ntodo el rato?\c\nEs todo de boquilla. ¡En realidad le gusta el mar más que\na un niño una piruleta!
+¿Por qué me mirará tanto todo el mundo?\c\n¿Será por mi gran estilo nadando?
+¡Me he quedado sin aliento!
+Pues si no es por mi fabuloso estilo, ¡será por mi brillante\npersonalidad!
+Nunca nado en los sitios donde hay demasiada corriente.
+¡Qué requetemal!
+Si se me llevara la corriente, creo que pasaría un mal\nrato...
+Llevo una vida de trotamundos... Al final he acabado en\neste lugar...
+Vaya, me has derrotado...
+Vagando, siempre vagando... ¡Creo que voy a asentarme\nde una vez!
+¡Hola! ¡Te estaba esperando!
+¡Ya vale! ¡Déjame en paz!
+Alguien tan joven y tan fuerte... Me entra la depre...
+Las mareas son tan impetuosas que sus corrientes logran\narrastrar incluso a los Pokémon que saben nadar.
+¡La marea me arrastra!
+Los Pokémon disfrotan en los rápidos, pero las corrientes\nson peligrosas...
+Mis Luvdisc buscan un rival divertido. ¿Serás tú?
+¡Oy, oy, oy!
+Hay un coleccionista que busca escamas de Luvdisc,\n¿sabías?
+El resultado del combate depende de tu fuerza de\nvoluntad. ¡Nunca te rindas!
+¡Mi fuerza de voluntad ha flaqueado! ¡Y yo he perdido!
+Los indecisos siempre pierden. Tenlo en cuenta.
+¡Demuéstrame lo que vales!
+¡Tú sí que vales!
+Las maravillas humanas de este mundo son los Líderes de\nGimnasio.\c\nPero es posible que puedas demostrar que vales incluso\nmás que ellos...
+Ommm... Mira cómo hago levitar una Poké Ball mediante\ntelequinesia.\c\nUy, uy, uy...\n¡Aaah!\c\nEjem... A veces no controlo muy bien mis poderes.\nJe, je, je.
+¡Pues vaya, mi Pokémon tampoco controla muy bien sus\nhabilidades de combate!
+La Poké Ball de antes pesaba mucho, ¡pero ya verás con\nesta pelusa!\c\nOmmm...\c\n¡Que no! ¡Que no he hecho trampa! ¡No he soplado, de\nverdad! Je, je, je.
+Cuando pierdas contra mí, no te deprimas demasiado...\c\nNo es que seas débil, ¡es que YO soy superfuerte!
+Ejem... TÚ eres superfuerte...
+Pero no pienso deprimirme por esta derrota, voy a\nentrenarme más.\c\n¡Hay que ser positivos! ¡Y a mí eso se me da requetebién!
+Puedo verlo... Puedo verlo claro como el agua...\c\n¿Quién vencerá en este combate? ¡No pienso decírtelo!
+¡Esto no estaba previsto!
+Puedo ver que librarás un terrible combate con nuestros\nLíderes... Y ganará...\c\n¡No pienso decírtelo!
+Has viajado mucho y has vivido todo tipo de\nexperiencias...\c\n¡Enséñame ahora qué es lo que has aprendido!
+¡Has viajado por el camino de los grandes!
+A aquellos que trabajan duro les aguarda un futuro\nbrillante.\c\nA aquellos que gandulean solo les esperan bastantes\npalos...\c\n¡Siempre se recoge lo que se siembra!
+Se te ve en la cara. Tú quieres desafiarme...
+Uy, ay, uy, ay, uy...
+Cuando un combate foi bueno, me quedo la mar de\na gusto...
+[~ 586]
+[~ 587]
+[~ 588]
+Cidade Colosalia todavía está muy lejos...
+Mi primera victoria también parece estar muy lejos...
+Creo que no he ganado nunca ni de casualidad, pero yo\nsigo dando el callo.
+Me siento estupendamente. Voy a seguir nadando hasta\nCidade Colosalia.
+Sigo sin haber saboreado la victoria...
+Algún día llegaré a Cidade Colosalia y entonces seguro\nque gano...
+Oye, esto te puede venir de perlas para tu viaje a\nCidade Colosalia, ¿no?
+[~ 596]
+[~ 597]
+[~ 598]
+Este es mi primer triatlón. Uy, qué nervioso estoy...
+¡Buaaa! ¡He perdido!
+Estoy tan tan nervioso que no voy a poder dar lo mejor\nde mí...
+[~ 602]
+[~ 603]
+[~ 604]
+[~ 605]
+[~ 606]
+[~ 607]
+[~ 608]
+[~ 609]
+[~ 610]
+[~ 611]
+[~ 612]
+[~ 613]
+[~ 614]
+[~ 615]
+[~ 616]
+[~ 617]
+[~ 618]
+[~ 619]
+[~ 620]
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+[~ 626]
+Estaba claro... ¡Puf!
+[~ 628]
+¡Personaje sospechoso a la vista!
+Brrr... ¡He perdido!
+Habré perdido, pero he hecho todo lo que he podido por\nel equipe...
+Si quieres conocer el secreto de nuestra guarida,\n¡derrótame!
+Qué desastre...
+¿Nuestra guarida secreta?\c\nBueno, digamos... ¡que hay un submarino de por medio!\c\nPero no te diré más... ¡Je, je, je!
+Carga de combustible terminada.\nCarga de víveres terminada.\c\nZarparemos en cuanto hayamos terminado con ciert[VAR GENDBR(00FF,0101)]oa\nentrometid[VAR GENDBR(00FF,0101)]oa que anda pululando por ahí.
+¡Me has dado una buena paliza!
+¡No importa! ¡Yo ya me lo esperaba!\c\n¡Total, solo tenía que entretenerte un rato!
+¡Jua, jua, jua! ¡Estoy harto de esperar! ¡Me debes un\ncombate!
+Para esto, podía haberme quedado esperando...
+El jefe no va a estar satisfecho...
+[~ 641]
+¡Eeepaleee!
+[~ 643]
+[~ 644]
+¡Lo mío es luchar en el agua, no en tierra firme!
+[~ 646]
+¡No queremos enan[VAR GENDBR(00FF,0101)]oas por aquí! ¡Vete a casita con mamá!
+Aaah, quiero irme a casa...
+Quiero que me asciendan para poner firmes a los\nRecrutas...
+Ese submarino es enanísimo... Me duele todo de estar ahí\nencogido...
+¡Me duele aún más perder!
+Ese submarino que robamos es lo peor: ¡no se cabe\ndentro!
+¿Quién eres? ¿De dónde vienes?
+¿He perdido?
+¡No consigo salir de aquí!\c\nAunque no estoy nada pero que nada nervioso...
+[~ 656]
+[~ 657]
+[~ 658]
+¡El fresco aire de la montaña ha potenciado mis poderes\npsíquicos!\c\nAlguien tan pequeño como tú... No tienes ni medio\nmovimento...
+Qué vergüenza más grande...
+Quizás todavía pueda potenciar mis poderes psíquicos una\npizquita...
+[~ 662]
+[~ 663]
+[~ 664]
+¡Eh! ¿Buscas Pokémon? ¡Me has estado siguiendo!\c\n¡Eso no se hace!
+¡Vale, vale, lo he entendido! ¡No me estabas siguiendo,\nperdón!
+Aquí hay poca gente, así que pensé que encontraría\nPokémon raros...
+[~ 668]
+[~ 669]
+[~ 670]
+Ja, ja, ja... Buceo hasta el fondo para que nadie me vea.\n¡Soy un as del buceo!
+Oye... ¡que tú no eres un profesional del buceo!
+Sé de buena tinta que hay un lugar por aquí donde se\npuede usar Buceo.\c\nMe están entrando ganas de ir...
+¡Ah del barco! Soy un Marinero muy curtido.\n¡Un lobo de mar!
+¡Grrr! ¡No he logrado derrotarte!
+La marea sube y baja en el interior de la Cueva\nCardumen.\c\nAh, ¿sabías que hay seis horas de diferencia entre la\nmarea alta y la baja?
+Ya va siendo hora de que me tome la revancha.\n¡Ven aquí!
+He perdido estrepitosamente...\nEso es, lisa y llanamente...
+La Cueva Cardumen...\c\nHay lugares a los que puedes acceder o no según el\nestado de la marea.\c\nAh, recuerda que hay seis horas de diferencia entre la\nmarea alta y la baja.
+Aquí tienes. Un humilde obsequio de un fuera de serie\ncomo yo.
+[~ 681]
+[~ 682]
+[~ 683]
+[~ 684]
+[~ 685]
+[~ 686]
+[~ 687]
+[~ 688]
+[~ 689]
+[~ 690]
+[~ 691]
+[~ 692]
+[~ 693]
+[~ 694]
+[~ 695]
+[~ 696]
+[~ 697]
+[~ 698]
+[~ 699]
+[~ 700]
+[~ 701]
+[~ 702]
+[~ 703]
+[~ 704]
+[~ 705]
+[~ 706]
+[~ 707]
+[~ 708]
+[~ 709]
+[~ 710]
+[~ 711]
+[~ 712]
+[~ 713]
+La mujer de antes me ha derrotado.\n¡Pero no pienso dejar que se convierta en una costumbre!
+Dicen que no hay dos sin tres...\n¿Significa que la próxima vez también perderé?
+Ahora que me fijo, tú eres [VAR GENDBR(00FF,0808)]el chicola chica del outro día, ¿verdad?\n¡Por favor, tienes que ayudar a Aquiles y a Silvina!\c\nViéndola luchar... ¡esa mujer podría superarlos a ambos\nsin dificultad!
+¡Se acabó el dejar que la gente me pase por delante de\nlas narices! ¡Hombre ya!
+¡Venga, festival del humor!\n¡Otr[VAR GENDBR(00FF,0101)]oa que me pasa por delante de las narices!
+Ese Whismur de antes... daba miedo verlo.\nLa mujer era buena, sí, pero es que su Whismur...\r\nme ha helado la sangre.
+¡Si buscas combates en alta mar, yo soy el Treinador\nadecuado, grumete!
+¡Este foi un señor combate!\n¡Acepto la derrota, grumete!
+Ir a Cidade Portual es sinónimo de combates al rojo vivo\ny Refrescos helados. ¡Todo un contraste!
+Te voy a demostrar que mi Pokémon no tiene rival.\n¡Luego no te quejes!
+He perdido, pero no me quejo...
+Si mi Pokémon supiera el movimento que te transporta\npor el agua, podría olvidarme del flotador...
+He llegado hasta esta casa tan rara sin querer...
+Y encima voy y pierdo...
+Me he perdido, he perdido luchando y ahora... ¡no sé ni\ncómo volver a casa!
+Me voy a hacer con la victoria gracias al movimento\nCorte que acabo de enseñarle a mi Pokémon.
+Vaya, contigo no funciona...
+Este nuevo movimento es estupendo. ¡No me canso de\nusarlo!
+¿Pero quién es ese Maestro Treta?
+¡Has vencido porque estaba sumida en mis pensamientos,\nque conste!
+¡Qué fuerte eres! ¿De dónde sales?
+Me duele la cabeza de pensar... ¡Luchar cuesta menos\ntrabajo!
+Me da igual haber perdido... ¡Luchar sigue siendo lo\nmejor!
+Luchar me pirra. Iría a cualquier sitio donde hubiera un\nTreinador con quien medir fuerzas.
+[~ 738]
+[~ 739]
+[~ 740]
+No veo nada... ¿Qué les costaba poner unas ventanas?\nO un candelabro aunque fuera...
+¿A quién se le ocurre combatir en un sitio donde no se ve\nun pimiento?
+¿Por qué lo llaman Casa Treta?\n¡Tendría que ser la Casa Jugarreta! ¡O la Casa Puñeta!
+[~ 744]
+[~ 745]
+[~ 746]
+Quiero tener mi propio gimnasio algún día, por eso me\ndedico a estudiar estas trampas.
+¡Debería haber aprendido tácticas de combate en vez de\nchorradas!
+Eres fuerte, sí... ¡Quizás tú también llegues a ser Líder\nalgún día!
+[~ 750]
+[~ 751]
+[~ 752]
+¡Estoy buscando por aquí a ver si encuentro un\nLugar Secreto!
+Yo no quería combatir...
+Oye, ¿tú también estás buscando Lugares Secretos?\n¡Entonces somos rivales!
+[~ 756]
+[~ 757]
+[~ 758]
+¡Eh, tú! ¿Ves estas rocas tan gordas?\n¡Pues yo las muevo con el dedo meñique!
+Puedo destrozar rocas, pero no me abro camino...
+No basta con ser musculoso, ¡también hay que ser\ningenioso!
+Uh... De tanto golpe contra las rocas, mi equipe\nPokémon y yo estamos hechos polvo.
+Hechos polvo, no... polvísimo.
+No entiendo... Tu equipe y tú estáis más panchos que\nyo qué sé... ¿O estás poniendo cara de póquer?
+Cuando oí que había una casa rara por aquí, vine a ver\ncómo era.
+¡Y me encontré con alguien que me ha dado una paliza!
+Me lo paso de miedo cotilleando por la casa.\c\n¡Es un reto que no dudo en repetir!
+[~ 768]
+[~ 769]
+[~ 770]
+Hmm... Siento una perturbação en la fuerza.\nUna presencia ominosa... ¡La tuya!
+¡Sabía que me derrotarías!\nEsto es una mala señal...
+Espero que Vito y Leti estén bien.
+Me encanta este gimnasio. ¡Es como estar flotando en\nuna nube!
+Seguro que tenía la cabeza en las nubes...
+¿Por qué flotamos? ¿Será cosa de magia o simple\ntecnología?
+[~ 777]
+[~ 778]
+[~ 779]
+¡No me he perdido! ¡Estoy justo donde quiero estar!
+Oh, no...\nNo puedo combatir con el estómago vacío.
+Me entreno en plan supervivencia de fin de semana por si\nalgún día me veo en una situação chunga...
+[~ 783]
+[~ 784]
+[~ 785]
+[~ 786]
+[~ 787]
+[~ 788]
+[~ 789]
+¡La leche! ¡Estás que te sales, eh!
+[~ 791]
+[~ 792]
+[~ 793]
+[~ 794]
+Nosoutros, los del Equipo Aqua, estamos trabajando duro\nen beneficio de todos.\c\n¡Porque, si hay más agua, los Pokémon de tipo Agua\nserán más felices y la gente tendrá más sitios donde\r\nnadar!
+¿Eh? ¿Qué quieres decir con que he perdido?
+Nuestro jefe dice que todo el mundo será más feliz...\c\n¿Pero por qué todo el mundo parece llevarnos la\ncontraria?
+¿Qué es esto?\n¿Más intrusos en la guarida?
+Será que es jornada de puertas abiertas...
+¿Eh? ¿No pretendías irrumpir? Entonces, ¿no vas con\nla mujer del Whismur?
+[~ 801]
+¡Caray, pues va a ser cierto que eres un[VAR GENDBR(00FF,0100)]a fiera!\n¡Has hecho gala de una fuerza superior incluso a la mía!
+[~ 803]
+[~ 804]
+Eres dur[VAR GENDBR(00FF,0101)]oa de pelar, ¿eh?\nNo te has inmutado lo más mínimo.
+[~ 806]
+¡Uy, uy, uy! ¡Personaje sospechoso a la vista!
+¡Ay, ay, ay! ¡He perdido!
+El equipe no estará satisfecho, pero yo he hecho lo que\nhe podido...
+Si quieres conocer el secreto de nuestra guarida,\n¡derrótame!
+Qué desastre...
+¿Nuestra guarida secreta?\c\nBueno, digamos... ¡que hay un submarino de por medio!\c\nPero no te diré más... ¡Ju, ju, ju!
+Carga de energía terminada.\nCarga de víveres terminada.\c\nZarparemos en cuanto hayamos terminado con ciert[VAR GENDBR(00FF,0101)]oa\nentrometid[VAR GENDBR(00FF,0101)]oa que anda pululando por ahí.
+¡Me has dado una buena paliza!
+¡No importa! ¡Yo ya me lo esperaba!\c\n¡Total, solo tenía que entretenerte un rato, palurd[VAR GENDBR(00FF,0101)]oa!
+¡Jua, jua, jua! ¡Estoy harto de esperar!\n¡Me debes un combate!
+Total, podía haberme quedado esperando...
+El jefe no se va a quedar nada satisfecho...
+[~ 819]
+¡Me has aplastado!
+[~ 821]
+¡L[VAR GENDBR(00FF,0101)]oas enan[VAR GENDBR(00FF,0101)]oas como tú no pintan nada aquí!\n¡Vete a casita con mamá!
+Aaah, quiero irme a casa...
+Bah, al final no era más que un vulgar combate Pokémon\ncontra un[VAR GENDBR(00FF,0100)]a pequeñaj[VAR GENDBR(00FF,0101)]oa.
+Ese submarino es tan pequeño que viajamos en él como\nsardinas enlatadas. Me duelen hasta las pestañas.\c\n¡Pero no me quejo, eh! Aquí estoy, al pie del cañón.
+¡Me duele aún más perder!\nY, aun así, tampoco me quejo. Qué estoico soy...
+En ese submarino que robamos se está como un marajá,\n¡es la mar de acogedor!\c\nEs tan maravillosamente estrecho...
+¿Quién eres? ¿De dónde vienes?
+foi una derrota sin paliativos...
+¡No consigo encontrar la salida! Ay, ay, ay...\c\n¡Pero no tengo miedo, eh! Ni pizca, vamos.\n¡No me malinterpretes!
+[~ 831]
+[~ 832]
+[~ 833]
+[~ 834]
+[~ 835]
+[~ 836]
+[~ 837]
+¡Esto tiene que ser una broma!\n¡Eres muy fuerte!
+[~ 839]
+¡Brrr!\n¡Ni te acerques! ¡Largo, largo!
+¡Me has dejado para el arrastre! A dormir que me voy.
+¿Eh? ¿No estás con esa mujer que usa Pokémon de\ntipo Dragón?\c\nVaya, hombre... ¡De haberlo sabido, no habría tenido\ntanto miedo y no me habrías ganado!
+Esa mujer me habrá ganado, ¡pero tú no!\n¡El ganar se va a acabar!
+De mal en peor y tiro porque me toca.\nNo estoy hecho para este curro...
+Ahora que me fijo, tú eres [VAR GENDBR(00FF,0808)]el chicola chica del outro día, ¿verdad?\n¡Por favor, el jefe y Tatiano corren un grave peligro!\c\nViéndola luchar... Esa mujer vencerá a Tatiano sin\nproblemas... ¡Y al jefe, si me apuras!
+¡Se acabó el dejar que la gente me tome por el pito del\nsereno! ¡Hombre ya!
+¡Venga, festival del humor!\n¡Otr[VAR GENDBR(00FF,0101)]oa con pitorreos!
+Ese Whismur de antes sí que me ha dejado de piedra.\nLa mujer que va con él es buena, pero, si te digo la\r\nverdad, el Whismur es mucho más terrorífico.
+[~ 849]
+Je, je, jeejem, ejem...
+[~ 851]
+Nosoutros, los del Equipo Magma, estamos trabajando\nduro en beneficio de todos.\c\nPorque, si hay más tierra, habrá más sitios donde vivir.\n¡Todo el mundo será más feliz!
+¿Eh? ¿Qué quieres decir con que he perdido?
+Nuestro jefe dice que todo el mundo será más feliz...\c\n¿Pero por qué todo el mundo parece llevarnos la\ncontraria?
+¡Alto ahí, intrus[VAR GENDBR(00FF,0101)]oa!\n¡Si dos Treinadores cruzan la mirada, deben combatir!
+Me habría salido más a cuenta mirar hacia outro lado.
+Desde los cambios en la organização del equipe, no\nhabíamos tenido intrusos...\c\n¿Será cosa del Equipo Aqua? ¿Y a qué viene esto ahora?
+[~ 858]
+¡Brrrr! ¡Mi brillante carrera criminal ha llegado a su fin!
+[~ 860]
+[~ 861]
+¡Brrrr! ¡Mi brillante carrera criminal ha llegado a su fin!
+[~ 863]
+Silvina está interesada en la investigação que están\nrealizando aquí, por eso nos ha enviado.\c\n¡Quítate de en medio!
+No me lo creo... Me has vencido, mequetrefe...
+No hay nada que Aquiles no sepa...\c\nPero yo solo soy un Recruta. ¿Cómo voy a saber lo que\ntiene en mente?\c\nMe pregunto si Silvina sentirá lo mismo...
+Hemos venido aquí porque hemos sabido que en este\ninstituto se investiga la relação entre el tiempo y los\r\nPokémon ancestrales.
+¡¿Semejante niñat[VAR GENDBR(00FF,0101)]oa nos está chafando el plan?!
+Si los Pokémon ancestrales pueden controlar el tiempo\na voluntad, ¡el Equipo Aqua los necesita a toda costa!
+¡Somos el Equipo Aqua! ¡Aparecemos allí donde hay\nalgo extraordinario!
+¡Me has parado los pies!
+¡No tienes ni idea de lo que los del Equipo Aqua estamos\nplaneando! ¡Fuera de mi camino!
+¿Eh? ¿Qué haces tú aquí?
+¿Yo? ¿He perdido? ¡¿Yo?!
+Oh, no... Qué bronca me va a caer...\c\nCreo que voy a echarme una siesta para olvidar todo\nesto...
+[~ 876]
+[~ 877]
+[~ 878]
+Tatiano está interesado en la investigação que están\nrealizando aquí, por eso nos ha enviado.\c\n¡Quítate de en medio!
+No me lo creo... He perdido contra un[VAR GENDBR(00FF,0100)]a niñat[VAR GENDBR(00FF,0101)]oa.
+No hay nada que Magno no sepa...\c\nPero yo solo soy un Recruta. ¿Cómo voy a saber lo que\ntiene en mente?\c\nMe pregunto si Tatiano sentirá lo mismo...
+El instituto ha creado un tipo de Pokémon que tiene algo\nque ver con el tiempo. ¡Venimos a por unos cuantos!
+¡¿Semejante mequetrefe nos está chafando el plan?!
+Si los Pokémon ancestrales pueden controlar el tiempo\na voluntad, ¡sin duda el Equipo Magma los necesita!
+¡Somos el Equipo Magma! ¡Aparecemos allí donde hay\nalgo extraordinario!
+¡Me has parado los pies!
+¡No tienes ni idea de lo que los del Equipo Magma\nestamos planeando! ¡Fuera de mi camino!
+¿Eh? ¿Qué haces tú aquí?
+¿Yo? ¿He perdido? ¡¿Yo?!
+Vaya ridículo... Perder contra un[VAR GENDBR(00FF,0100)]a mocos[VAR GENDBR(00FF,0101)]oa como tú es el\npeor fracaso de toda mi vida.\c\nCreo que voy a echarme una siesta para olvidar todo\nesto...
+[~ 891]
+[~ 892]
+[~ 893]
+[~ 894]
+[~ 895]
+[~ 896]
+[~ 897]
+¡Uaaah!
+[~ 899]
+[~ 900]
+¿Pero qué...?
+[~ 902]
+[~ 903]
+¡Será posible!
+[~ 905]
+[~ 906]
+¡¿Eeeh?!
+[~ 908]
+[~ 909]
+[~ 910]
+[~ 911]
+Me gusta pescar, ¡pero también me gusta luchar!\c\nSi alguien me reta, no puedo decir que no, aunque esté\npescando.
+Me gusta luchar, pero eso no quiere decir que se me dé\nbien en absoluto...
+¡La próxima vez verás!\c\nEs lo que siempre digo, para animarme a seguir con los\ncombates Pokémon.
+Si no acaban el túnel, no importa: en vez de atravesar la\nmontaña, la escalaré.
+Uf... Uf... Me he quedado sin aliento...
+¡Qué más da que haya túnel o no! Los Montañeros lo\ntenemos chupado.
+¡No tengas miedo si tu bici corre mucho!
+No sé por qué tengo miedo en los combates Pokémon...
+No hay por qué tener miedo de nada. Tómate las cosas\ncon calma...
+¿No vas muy rápido? Para un rato y lucha conmigo.
+Estaba tranquilo, pero aun así he perdido.
+No hay por qué tener miedo de nada. Tómate las cosas\ncon calma...
+Con calma y sin precipitarse... Toma, usa esto como te\nvenga en gana.
+¡Venga, combate contra nuestros Pokémon!
+Como somos gemelas, lo hacemos todo juntas.\n¡Y los combates Pokémon no van a ser una excepção!
+Gina: Me da una rabia tremenda perder.\nMía: Hemos perdido a pesar de aunar fuerzas...
+Guau, ¡eres requetefuerte! Y nosotras estamos verdes\ntodavía; tenemos que entrenar más.
+Tenemos que entrenar aún más a nuestros Pokémon para\nllegar a tener una fuerza como la tuya.
+¿Eh? ¿Solo tienes un Pokémon? ¡Pues entonces no\npuedes combatir contra nosotras!\c\nAdemás, si llevas solamente un Pokémon, se va a sentir\ncompletamente desamparado. ¡Pobrecito!
+¿Quieres luchar contra nosotras?\c\nPues vas a necesitar al menos dos Pokémon, ¡porque\nsomos un dúo temible!
+Oye, si tus Pokémon pierden, compórtate y no te eches\na llorar, ¿vale?
+¡Venga! ¡Vamos a darles para el pelo a tus Pokémon!
+Maru: Derrota al canto...\nYola: ¡Y tanto!
+Tus Pokémon son fuertes porque se llevan de maravilla.
+¿Pero por qué tienes esa fuerza tan descomunal?\n¡Es la primera vez que perdemos luchando juntas!
+Si no tienes al menos dos Pokémon, ¿cómo vamos a\ncombatir? ¡Sería un aburrimiento!
+Si no tienes al menos dos Pokémon, ¿cómo vamos a\ncombatir? ¡Sería un aburrimiento!
+[~ 939]
+[~ 940]
+[~ 941]
+[~ 942]
+[~ 943]
+[~ 944]
+El Desfiladero del Monte Chaminé...\c\nSiempre he querido encontrar una montaña como esta.\c\nEsta superficie irregular... ¡Me hace dar botes de alegría!
+Perder me deja hecho polvo...
+Sí, he perdido en el combate Pokémon...\c\n¡Pero seguro que llego a cualquier cima antes que tú!
+Es difícil caminar por el Desfiladero, pero es lo mejor para\nentrenarse.
+¡Oye, no es justo, que todavía estaba intentando\nmantener el equilibrio!
+Si tuviera una Bici Acrobática, podría saltar sobre\ncualquier desnivel...
+Me he acostumbrado a estos baches y ahora son pan\ncomido.
+Sigue sin ser fácil luchar en este terreno tan irregular...
+Debería comprarle a Anacleto una Bici Acrobática en\nCidade Mauville...
+¡Toma! He mantenido esto a buen recaudo mientras\natravesaba este terreno tan escarpado.
+Este lugar no es el típico al que viene la gente a hacer\npicnics.
+¡Oooh, no! ¡El terreno es demasiado irregular!
+¿Sabes una cosa?\c\nHay gente muy habilidosa que sube en bici por este\nhorrible camino lleno de baches.
+Los picnics son siempre divertidos, ¡pero los Pokémon lo\nson aún más!
+¡He perdido, pero solo porque he metido el pie en un\nbache!
+Mejor no pienso en la derrota y disfruto de este paseo\naccidentado, ja, ja, ja.
+¡Quiero olvidar esta derrota lo antes posible!\nToma, llévate esto y déjame sola con mis pensamientos.
+[~ 962]
+[~ 963]
+[~ 964]
+¡Vas a ver el miedo que puede dar el Equipo Aqua!
+¿Crees que podrás derrotar sin ayuda al Equipo Aqua?\nQué ingenu[VAR GENDBR(00FF,0101)]oa...
+Sí, eres fuerte... ¡pero nosoutros somos más!
+¡Pero bueno! ¿Me estás vacilando? ¿En serio crees que\npuedes conmigo?
+Uf... Vaya fuerza...
+Vale, he sido un poco borde.\nPero tú aquí no pintas nada. ¡Deja de molestarnos!
+Eh, recuerdo haberte visto en el Monte Chaminé. ¡Es la\nrevancha!
+¡Grrrr! ¡Me has vuelto a vencer!
+¡No importa! ¡Hemos ganado algo de tiempo!\c\nEl jefe debe de haberse apoderado de lo que andaba\nbuscando.
+¡Vas a ver el miedo que puede dar el Equipo Magma!
+Si crees que puedes derrotar sin ayuda al poderoso\nEquipo Magma, lo llevas claro.
+Eres fuerte, lo admito...\n¡Pero nosoutros somos más!
+¿Tú a mí? ¿Tú a mí? ¿De verdad crees que podrás\nconmigo?
+Uf... Pues sí que has podido...
+¡Vale, te he vacilado!\nPero tú aquí no pintas nada. ¡Deja de molestarnos!
+Eh, recuerdo haberte visto en el Monte Chaminé. ¡Es la\nrevancha!
+¡Brrr! ¡Me has vuelto a vencer!
+¡No importa! ¡Hemos ganado algo de tiempo!\c\nEl jefe debe de haberse apoderado de lo que andaba\nbuscando.
+[~ 983]
+¡Guau! No se te da nada mal.
+[~ 985]
+[~ 986]
+¡Guau! No se te da nada mal.
+[~ 988]
+[~ 989]
+¡Guau! No se te da nada mal.
+[~ 991]
+[~ 992]
+Caray, [VAR TRNAME(0000)]... Has avanzado un buen trecho,\nsí...
+[~ 994]
+[~ 995]
+Caray, [VAR TRNAME(0000)]... Has avanzado un buen trecho,\nsí...
+[~ 997]
+[~ 998]
+Caray, [VAR TRNAME(0000)]... Has avanzado un buen trecho,\nsí...
+[~ 1000]
+[~ 1001]
+¡Vaya! ¡Eres mejor de lo que esperaba!
+[~ 1003]
+[~ 1004]
+¡Vaya! ¡Eres mejor de lo que esperaba!
+[~ 1006]
+[~ 1007]
+¡Vaya! ¡Eres mejor de lo que esperaba!
+[~ 1009]
+[~ 1010]
+¡Aaah! ¡Pues sí que eres fuerte, sí, [VAR TRNAME(0000)]!
+[~ 1012]
+[~ 1013]
+¡Aaah! ¡Pues sí que eres fuerte, sí, [VAR TRNAME(0000)]!
+[~ 1015]
+[~ 1016]
+¡Aaah! ¡Pues sí que eres fuerte, sí, [VAR TRNAME(0000)]!
+[~ 1018]
+¿Acabas de empezar a entrenar Pokémon?\n¡Yo también!
+Te he desafiado porque pensé que podría vencerte\nfácilmente...
+Todavía no he ganado ni una vez... Ojalá gane algún\ncombate pronto...
+Si llevas Pokémon de tipo Bicho a la escuela, te haces\ncon un club de fans.
+¡Si quiero conservar mi club de fans, no puedo perder!
+Si tienes un Pokémon de tipo Bicho grande, la gente\nparece que te respeta más.
+¡Menuda evolução de mi equipe Pokémon!\n¡Tipo Bicho al poder! ¡Ahora recuperaré mi club de fans!
+¡Si quiero conservar mi club de fans, no puedo perder!
+Consigues un club de fans si tus Pokémon son fuertes,\n¿no es así? Por eso me he entrenado mucho.
+Si esto que te voy a dar te sirve de ayuda para tener tu\npropio club de fans, pues habrá merecido la pena.
+[~ 1029]
+[~ 1030]
+[~ 1031]
+[~ 1032]
+[~ 1033]
+[~ 1034]
+He encontrado algunos Pokémon carismáticos entre la\nhierba.
+Que tengan carisma no basta para ganar...
+Lo que pasa es que cuesta controlar a los Pokémon que\nacabas de atrapar...
+Yo antes era un Cazabichos. Ahora soy un Bichomaníaco.\c\n¡Pero los Pokémon me siguen gustando tanto como\nsiempre!
+Y sigo siendo un inepto total, como siempre...
+Algunos piensan que un Bichomaníaco es un chalado de\nla vida...\c\nPero yo soy un experto en Pokémon de tipo Bicho, así\nque es lógico que me llamen Bichomaníaco, ¿o no?
+¿Cómo se llama a los hombres que pasan todo el tiempo\nen las montañas? Montañeros, ¿verdad?\c\nEntonces ¿por qué no llaman a los Pokémon que viven en\nlas montañas Pokémontañeros?
+Mis Pokémon... se han quedado sin fuerzas...
+Aquí decidieron detener el avance del progreso para\nproteger a los Pokémon.\r\n¡Esta sí que es una historia bonita!
+No sé quién eres ni adónde vas, pero sé que vamos a\nenfrentarnos...
+Tu técnica es tan buena que estoy muerta de envidia...
+Pensaba yo que debería ir al Monte Chaminé a disfrotar de\nlas vistas, pero aquí tampoco se está mal...
+¡Estoy en racha! ¡Y mi Pokémon también!
+Mi Pokémon ya no va a querer salir ni a la vuelta de la\nesquina...
+Cuando veo a un Treinador que está en racha, tengo\nque desafiarle...
+Muéstrame lo bueno que es tu equipe Pokémon, anda.
+Pues sí que es muy bueno, sí.
+Los Pokémon y los Treinadores aprenden mucho en\ncada combate.\c\nLo que importa no es ganar, sino intentarlo y seguir\nesforzándose.
+Estamos entrenándonos para pasar al siguiente nivel.\n¡Ven a entrenarte con nosoutros!
+¡No se te da nada mal!
+Visto tu potencial, deberías ir a la Liga Pokémon.
+Toma esto como recuerdo de nuestro entrenamiento\njuntos.
+Eh, tu equipe Pokémon tiene pinta de tomarse esto\nmuy en serio.\r\nEnfrentémonos a ver qué pasa...
+No es que tenga pinta de tomárselo muy en serio, ¡es\nque de verdad que lo hace!
+Yo pensaba que me estaba tomando en serio entrenar a\nmis Pokémon, pero está visto que me queda mucho que\r\naprender.
+Puedes fortalecer o debilitar tus Pokémon según los\nmovimentos que les enseñes.\c\nVeamos qué movimentos han aprendido tus Pokémon...
+¡Les has enseñado movimentos buenos de verdad!
+Quizás debería haber impedido que mis Pokémon\nevolucionaran hasta que hubieran aprendido mejores\r\nataques...
+¡Toma esto como agradecimiento por haberme enseñado\nnuevos movimentos!\r\nLa próxima vez, me enseñas más, ¿vale?
+¡Hay que entrenar, así que desafío a todo lo que se\nmueve!
+¡Vale, vale, me rindo!
+Lo único que puedo hacer es seguir entrenando hasta que\nsea capaz de derrotar a Treinadores como tú.
+Desde que me di una vuelta por los baños termales, me\nsiento como nueva. ¡Seguro que te gano!
+¡Achís! ¡Creo que he pillado frío!
+Con los nervios del combate me han caído unas gotas de\nsudor frío que pa qué. ¡Mejor me vuelvo a los baños!
+¡Has sabido encontrarme!\n¡Pero ahora debes derrotarme!
+Voy a usar el poder del ninjutsu...\n¡“Remolino de sombras volcánico”!\c\n¿Que “yatá”?\n¿Cómo que “yatá”?
+¿Sabes lo más chungo de camuflarse? Que, si nadie te\nencuentra, te aburres.
+Tengo un Pokémon rarísimo. ¿A que quieres verlo?
+Tú... ¡Tú quieres quedarte con mi Pokémon! ¿A que sí?
+Tengo un Pokémon raro y eso es lo único que necesito\npara ser feliz.
+Soy Pescador, además de Treinador. Atrapo Pokémon y\nlos entreno yo mismo.
+Creía que mi método de entrenamiento era infalible...
+Entrenar Pokémon no es fácil cuando estás ocupado\npescándolos...\c\n¿Habré pecado de hacer las cosas a medias?
+Cuando eres Pescador, tienes que estar bien equipado.\c\nPero cuando eres Treinador, tienes que tener buen\ncorazón y amor por los Pokémon, por supuesto.
+¿Mi corazón no es lo bastante noble?
+Ahora que lo pienso, la pesca es un combate entre\nPescadores y Pokémon.
+¡Pokémon pájaro! ¡Alzad el vuelo!
+Se han largado volando...
+Si mis Pokémon fueran más fuertes, podrían volar con más\nlibertad...
+Dicen que muchos buenos recuerdos están asociados a\naromas.
+Puaj... Huelo el amargo aroma de la derrota...
+El jardín del Bayólogo está repleto de aromas\nvigorizantes.
+El Monte Pírico... Donde duermen los espíritus de los\nPokémon que han partido...\r\n¿Los tuyos también duermen?
+Qué tremendo poder...
+El Monte Pírico, donde duermen los espíritus de los\nPokémon que han partido, rebosa de un poder psíquico\r\ny fantasmal.
+Los poderes psíquicos dependen mucho de la fuerza de\nvoluntad.\c\nYo no tengo ninguna voluntad de perder, ¡por eso soy\nfuerte!
+Qué tristeza más grande...
+Los poderes psíquicos dependen mucho de la fuerza de\nvoluntad.\r\nNunca creí que perdería...
+Me he autoconvencido de que no puedo volver a perder,\n¡por eso soy fuerte!
+Qué tristeza más grande...
+Debería entrenarme en el Monte Pírico. Si sigo así, no\nvoy a ganar en la vida...
+¡Toma, uno de mis valiosos tesoros como autocastigo por\nhaber perdido! Merezco todo lo malo que me pase.
+[~ 1098]
+[~ 1099]
+[~ 1100]
+Los Pokémon tienen muchas habilidades.\c\nSi quieres estar entre los grandes Treinadores,\nestúdialas bien.
+Se ve que has estado hincando los codos...
+Las habilidades de los Pokémon pueden cambiar el\nresultado de un combate.
+Quiero volver a estudiarlo todo desde cero para\nconvertirme en la Treinadora más guay del mundo.
+Aún está lejos el día en que sea tan guay como tú.
+¡Voy a volver a empezar mis estudios desde cero!\c\nHay muchas formas de hacer las cosas; tantas como\nhabilidades Pokémon.
+Toma, por ser un poquito más guay que yo.
+¿Que por qué llevo este parasol?\c\nTe lo diré si me vences.
+Un parasol no puede parar los ataques Pokémon...
+No creo que este sol tan fuerte sea bueno para mis\nPokémon...\r\nPor eso los cubro con este parasol.
+Mi Pokémon, mi parasol y yo... Juntos formamos el\ncuadro perfecto.
+¡Has arruinado esta preciosa escena!
+A ti no te sientan bien los parasoles.\c\nY además seguro que te entorpecerían en el combate,\nmás que otra cosa.
+En este mundo hay poderes que sobrepasan nuestro\nentendimiento...
+Me han derrotado...
+El Monte Pírico...\nAllí se siente la presencia de un poder muy misterioso.
+Me he recorrido el mundo de cabo a rabo en compañía de\nmi Pokémon.\c\nTe imaginarás que confío bastante en mis posibilidades.
+Has luchado muy bien...
+Creo que voy a volver a dar la vuelta al mundo con mi\nPokémon.
+Me he recorrido el mundo de cabo a rabo en compañía de\nmi equipe Pokémon.\c\nTe imaginarás que confío bastante en mis posibilidades.
+Bien jugado...
+Tu equipe Pokémon y tú sois tremendos.\c\nCreo que hablarán de vuestras proezas incluso en los\npueblos de ultramar.
+¡Absolutamente espectacular!\n¡Esto es para conmemorar tan espléndido combate!
+[~ 1124]
+¡Vaya! ¡Ahora me van a degradar por haber perdido!
+[~ 1126]
+[~ 1127]
+¡¿Pero qué...?!\n¡¿Cómo puede ser?!
+[~ 1129]
+Cuando estoy aquí... siento un extraño poder dentro de\nmí.
+Pues esta vez no lo he sentido mucho...
+Quizás provenga del espíritu de los Pokémon que a veces\nacuden aquí...
+¡Detrás de ti! ¿Qué es eso?
+Pues juraría que había algo...
+Los Pokémon que descansan aquí pueden ser muy\njuguetones.
+Toma, esto lo he conseguido de un Pokémon que duerme\nen este lugar.
+Me encanta pasar miedo... No puedo evitarlo.\c\nY estar en este lugar... ¡me pone la carne de gallina!
+Odio perder...
+Quiero ver algo terrorífico... No puedo irme de aquí\ntodavía...\c\nPero, mientras tanto, ¿te quedarías a hacerme compañía?
+Mi chica me ha lanzado un reto.\c\nJe, je, je... Tengo que demostrarle lo fuerte que soy\nderrotándote.\c\n¡Esto está hecho! La voy a dejar impresionada.
+Le he lanzado un desafío.\c\nQuizás no debería ponerle a prueba, pero me gusta verle\nen ação.\c\nEs que ni me preocupo, ¡mi chico se encarga de ti en un\nsantiamén!
+Leo: Ejem, ejem...\nDulce: Pues qué decepção...
+Vale, he perdido, pero da igual. Tengo muchas otras\ncualidades... ¡Y pronto seré más fuerte que tú!
+Qué más da ganar o perder... Lo importante es quererse\nmucho.
+Si quieres enfrentarte a nosoutros, trae más Pokémon.\c\n¡Si no lo haces, no podré fardar delante de mi chica!
+Si quieres desafiarnos, tendrás que traer al menos dos\nPokémon.\c\nCon lo fuerte que es mi chico, un Pokémon no basta.
+El espíritu de mi maestro me observa... ¡y verá que he\nmejorado una burrada!
+El espíritu de mi maestro me observa... Y me has dejado\nhecho un guiñapo...
+Debo mejorar para que el espíritu de mi maestro pueda\ndescansar en paz...
+Huaaa... Vigilar la guarida me aburre tantísimo... Mola\nmás luchar contigo.
+Huaaaa... He perdido...
+Si sigues metiéndote donde no te llaman, outros miembros\ndel Equipo Aqua irán a por ti.
+Baldosas teletransportadoras: ¡el orgullo de la guarida!\c\nNo tienes ni idea de dónde estás, ¿verdad?\c\nAturullar al enemigo para luego abalanzarse sobre él.\n¡Ese es nuestro plan!
+¿Y tú qué desayunas? ¿Cómo es que no te cansas?
+Esto me recuerda... que no me acuerdo de dónde puse\nla Master Ball.\c\nSi no la protejo bien, el jefe me va a machacar...
+Huaaa... Vigilar la guarida me aburre tantísimo... Mola\nmás luchar contigo.
+Huaaaa... He perdido...
+Si sigues metiéndote donde no te llaman, outros miembros\ndel Equipo Magma irán a por ti.
+Baldosas teletransportadoras: ¡el orgullo de la guarida!\c\nNo tienes ni idea de dónde estás, ¿verdad?\c\nAturullar al enemigo para luego abalanzarse sobre él.\n¡Ese es nuestro plan!
+¿Y tú qué desayunas? ¿Cómo es que no te cansas?
+Esto me recuerda... que no me acuerdo de dónde puse\nla Master Ball.\c\nSi no la protejo bien, el jefe me va a machacar...
+Vas a aprender lo duro que puede ser un combate...
+Ejem... Más bien lo he aprendido yo...
+Te voy a decir algo...\c\nSi quieres llegar hasta Plubio, debes caminar sobre cada\nbaldosa de la sala, pero solo una vez sobre cada una.
+El Gimnasio Pokémon de mayor nivel en toda la región de\nHoenn es...\c\n¡el Gimnasio de Sootopolis!
+¡Tu nivel de combate es superior!
+Yo creo que no hay que anclarse en ningún Gimnasio,\naunque sea bueno.\c\nSe mejora mucho más entrenando en varios sitios.\n¡Y es más divertido!
+¿Imaginas deslizarte grácilmente por el hielo sin caer ni\nuna vez?\c\n¡Un Treinador capaz de hacer eso es el colmo de la\nelegancia!
+Eh... ¿Qué ha pasado aquí?
+Voy a decir una perogrullada, pero está claro que ganar\no perder no depende de la edad... Y ese es tu caso.
+Te voy a enseñar una muestra de todo lo que he\naprendido con Plubio.
+Plubio no va a estar contento...
+Te sugiero que pruebes a caminar sobre todas las\nbaldosas. Pero todas, toditas, todas. Podría pasar\r\nalgo interesante...
+Has venido desde muy lejos, pero no creas que llegarás\nhasta Plubio.\c\n¡No si depende de mí!
+¡Qué fuerte eres! Me he dejado engañar por tu aspecto...
+Puede que tú sí seas capaz de poner a Plubio en un\nbrete.
+He llegado hasta aquí un par de veces, pero el último\ntramo es tan difícil...
+Hala, otra vez he perdido...
+Has llegado muy lejos. Sigue así y llegarás a la cima del\nCampeonato.\r\n¡Si alguien puede, eres tú!
+¡No he llegado hasta aquí para perder ahora!\n¡Eso no es una opção!
+No puede ser... He perdido...
+He perdido este combate...\c\nEso quiere decir que no estoy cualificado para ser\nCampeón...
+Solo de pensar que estoy cada vez más cerca de la Liga\nPokémon...\c\nMe entra miedo escénico...
+No me he dado ni cuenta...
+La Liga Pokémon vuelve a estar lejos, lejos...\nQué depresión...
+He entrenado con toda mi familia, toda enterita.\n¡No voy a perder!
+¡¿Mejor que mi familia?! ¡¿Cómo puede ser?!
+Logré superar a toda mi familia. Nunca había perdido...\c\nVaya palo... Me voy a casa a entrenar más.
+Me han dicho que por aquí había un[VAR GENDBR(00FF,0100)]a chiquill[VAR GENDBR(00FF,0101)]oa que daba\nmucha guerra.\r\n¿Eres tú?
+¡No hay que fiarse de tu juventud, está claro!
+Y, según los rumores, vienes de Cidade Petalia, ¿no?
+El camino hasta la victoria es largo y tortuoso, como esta\ncalle...
+¡Tú sí que sabes combatir!
+Parece que tienes madera. Creo que puedes hacerte con\nel Campeonato.
+Para ganar en la Liga Pokémon, debes contar con la\nconfianza de tus Pokémon.
+Se nota que vuestra relação se basa en la confianza\nmutua.
+Cuanto más tiempo pasan juntos, más crece la confianza\nentre Pokémon y Treinadores.
+Este no es el objetivo final, solo un paso más hacia la\nLiga Pokémon.
+¡Tú avanzas rápido!
+¡Seguro que lo haces muy bien! ¡Tus Pokémon parecen\nemocionados!
+Yo creo que ya debes de estar cansándote con tanta\nlucha...
+¡Pues no!
+Tanto la Calle Victoria como la Liga Pokémon son\ndesafíos largos y duros.\r\n¡Procura no fatigarte demasiado!
+No deberías dormirte en los laureles solo porque tengas\nun montón de Medallas de Gimnasio.\c\n¡Siempre puedes encontrar a alguien que sea mejor que\ntú!
+¡Eres mejor que yo!
+Mira todas tus medallas y acuérdate de los Treinadores\na los que te has enfrentado.
+¡Qué agobio! ¡Hasta el fondo del mar nos tienes que\nseguir! ¡Pero esto se acaba ya!
+¡Buf! ¡Hasta tu forma de combatir me agobia!
+Por más que lo intentes, no te servirá de nada.\nAquiles está a punto de... ¡Ja, ja, ja!
+¡Qué agobio! ¡Hasta el fondo del mar nos tienes que\nseguir! ¡Pero te voy a parar los pies ahora mismo!
+¡Buf! ¡Hasta tu forma de combatir me agobia!
+Por más que lo intentes, no te servirá de nada.\nEl jefe está a punto de... ¡Ja, ja, ja!
+¿Tus amigos son fuertes?
+Sí, de hecho son muy fuertes...
+Los amigos suelen ser personas, pero los Pokémon\ntambién pueden ser muy buenos amigos...
+Joven, ¿has llamado a la puerta?
+Se ha de aceptar la derrota con deportividad y\ncaballerosidad.
+El lema de cualquier Aristócrata que se precie es:\n“Nunca perder la calma”.
+Me da un poco de vergüenza, pero... ¡vas a ver el poder\nde nuestro amor!
+Me da un poco de cosa, pero... ¡vas a ver nuestro dúo\nde lucha!
+Joel: Ay...\nLiz: Oh, no...
+Es la primera vez que el poder de nuestro amor nos\nha fallado... ¡Debes de ser excepcional!
+¡No me lo puedo creer! El poder de nuestro amor ha sido\nderrotado... ¡Debes de ser excepcional!
+¿Solo tienes un Pokémon? ¿Y no es un rollo patatero?
+Me encantaría luchar, pero ni siquiera tienes dos\nPokémon...
+¡Aaargh! ¡Estoy hasta las narices de no acabar nunca\nde limpiar esto!\c\n¡Vamos a luchar para desfogarme!
+Je, je... Pues he perdido...
+¡Somos los Hermanos Fregona!\c\nEl mayor echa jabón en el suelo y el joven fregotea por\ntodas partes.
+Este es el nivel inferior del casco. Aquí hay un montón\nde sitio.\r\nSe puede luchar sin agobios...
+Je, je... Pues he perdido...
+¡Somos los Hermanos Fregona!\c\nEl mayor echa jabón en el suelo y el joven fregotea por\ntodas partes.
+No puedo nadar sin mi flotador, ¡pero a los Pokémon no\nme ganan!
+¿Habré perdido por culpa del flotador?
+Mi flotador está muy de moda. ¡Yo es que tengo mucho\nestilo!
+¡Jua, jua, jua! ¡Mi menda lerenda te va a dar una buena\nleção!
+Ejem... Mi menda se ha dado un buen batacazo...
+Mi menda lerenda opina que llegarás lejos, muy lejos...\n¡Algún día!
+¡Hola! ¿Te apetece luchar conmigo?
+¡Qué fuerte eres!
+¿Cómo has hecho para ser tan fuerte?
+¡Uala! Esto es... ¡superenorme!\nY... y... ¡superinclinado!
+¡Uala! Eres... ¡superfuerte!
+Este sitio es... ¡superguay!
+Lo natural y lo artificial en plena armonía... ¡Aaah!\nSi me dices que a ti no te parece estupendo, no te creo.
+Hablando de cosas estupendas... ¡me da la impresión de\nque te he subestimado!
+Para poder explorar a fondo todos estos rincones van de\nmaravilla los Pokémon que pueden sumergirse en el agua.
+¡Estábamos buscando tesoros y nos encontramos con\nun[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a!
+¡Anda! Buscábamos tesoros y nos encontramos con\nun[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a.
+Fito: A pesar de luchar a dúo, hemos perdido...\nLuci: ¡Guau, qué fuerte eres!
+Por mucho que se rumoree que por aquí hay un tesoro,\nno somos capaces de encontrarlo.\c\n¿Se lo habrá llevado alguien ya?
+No dejo de darle vueltas a qué será el tesoro que anda\nescondido por aquí...\c\nBueno, en el fondo me da un poco igual... ¡ya sé lo que\nme voy a comprar cuando lo encontremos!
+Pero si no tienes dos Pokémon... Así no ganas ni en\nsueños...
+¿No tienes dos Pokémon? ¡Pues lo dejamos para outro\ndía!
+Todavía estamos buscando tesoros por aquí.\c\nEntretanto, nuestros Pokémon han mejorado. ¿Quieres\nverlo?
+¡Hola de nuevo!\nYa se ve que tú tampoco has dejado de buscar el tesoro.\c\n¿Qué te parece si luchamos y quien pierda deja de\nbuscar?
+Fito: Nada, sigues siendo tan fuerte como siempre.\nLuci: Oh, perdimos otra vez...
+No encontramos ningún tesoro, perdemos en los\ncombates Pokémon...\c\nYo me voy a casa... Bueno, quiero irme, pero no creo\nque ella me deje...
+Entrenaremos mejor a nuestros Pokémon.\n¡Pero no nos iremos hasta encontrar algún tesoro!
+Pero si no tienes dos Pokémon... Así no ganas ni en\nsueños...
+¿No tienes dos Pokémon? ¡Pues lo dejamos para outro\ndía!
+No podemos entregarte ningún tesoro, pero sí darte esto.
+No podemos entregarte ningún tesoro, pero sí darte esto.
+He estado en unos baños termales y he descansado mis\npobres huesos.\c\n¡Ahora me siento fuerte como un Tauros!
+Vaya, vaya, vaya... Tienes un estilo increíble luchando.
+Soy una Pokéabu con mucha experiencia, pero aún me\npueden dar una leção...
+Si eres capaz de fundir tu corazón con los de tus\nPokémon, sin duda lograrás todo lo que te propongas.
+Vaya, vaya, vaya... Tienes un estilo increíble luchando.
+Tu equipe Pokémon y tú parecéis latir al unísono.
+Toma este presente de mi parte para ti y para tus Pokémon,\nque sois uno solo en el corazón.
+Si vas a encender una fogata, ten agua cerca por si\nacaso...
+¿Ves? ¡Casi me quemo la mano!
+Tienes que tener muitíssimo cuidado cuando haces\nfogatas en el bosque... ¡El fuego es peligroso!
+¿Te aseguras siempre de tener agua a mano para apagar\nlas fogatas?
+Me siento como si me hubieran echado un cubo de agua\nfría encima...
+Tienes que tener muitíssimo cuidado cuando haces\nfogatas en el bosque... ¡El fuego es peligroso!
+Sé que no he echado toda la leña al fuego, pero una\nderrota es una derrota. ¡Toma, te lo has ganado!
+¡Te voy a hacer mover los pies a mi ritmo!
+Ejem... La, la, la...
+Una guitarra eléctrica no tiene por qué hacer siempre\nruido.\c\nSi la tocas con delicadeza, puedes arrancarle melodías\nconmovedoras.
+Mis Pokémon y yo queremos regalarte una canção...\n¡guerrera!
+Ejem... La, la, la...
+Cuando toco mi guitarra, pongo el alma en cada nota.
+Y ahora, que este objeto llegue hasta la palma de tu\nmano acompañado por mi melodía.
+[~ 1284]
+[~ 1285]
+[~ 1286]
+[~ 1287]
+[~ 1288]
+[~ 1289]
+[~ 1290]
+[~ 1291]
+[~ 1292]
+[~ 1293]
+[~ 1294]
+[~ 1295]
+[~ 1296]
+[~ 1297]
+[~ 1298]
+[~ 1299]
+[~ 1300]
+[~ 1301]
+[~ 1302]
+[~ 1303]
+[~ 1304]
+[~ 1305]
+[~ 1306]
+[~ 1307]
+[~ 1308]
+[~ 1309]
+[~ 1310]
+[~ 1311]
+[~ 1312]
+[~ 1313]
+[~ 1314]
+[~ 1315]
+[~ 1316]
+[~ 1317]
+[~ 1318]
+[~ 1319]
+[~ 1320]
+[~ 1321]
+[~ 1322]
+[~ 1323]
+[~ 1324]
+[~ 1325]
+[~ 1326]
+[~ 1327]
+[~ 1328]
+[~ 1329]
+[~ 1330]
+[~ 1331]
+[~ 1332]
+[~ 1333]
+[~ 1334]
+[~ 1335]
+[~ 1336]
+[~ 1337]
+[~ 1338]
+[~ 1339]
+[~ 1340]
+[~ 1341]
+[~ 1342]
+[~ 1343]
+[~ 1344]
+[~ 1345]
+[~ 1346]
+[~ 1347]
+[~ 1348]
+[~ 1349]
+[~ 1350]
+[~ 1351]
+[~ 1352]
+[~ 1353]
+[~ 1354]
+[~ 1355]
+[~ 1356]
+[~ 1357]
+[~ 1358]
+[~ 1359]
+[~ 1360]
+[~ 1361]
+[~ 1362]
+[~ 1363]
+[~ 1364]
+[~ 1365]
+[~ 1366]
+[~ 1367]
+[~ 1368]
+[~ 1369]
+[~ 1370]
+[~ 1371]
+[~ 1372]
+[~ 1373]
+[~ 1374]
+[~ 1375]
+[~ 1376]
+[~ 1377]
+[~ 1378]
+[~ 1379]
+[~ 1380]
+[~ 1381]
+[~ 1382]
+[~ 1383]
+[~ 1384]
+[~ 1385]
+[~ 1386]
+[~ 1387]
+[~ 1388]
+[~ 1389]
+[~ 1390]
+[~ 1391]
+[~ 1392]
+[~ 1393]
+[~ 1394]
+[~ 1395]
+[~ 1396]
+[~ 1397]
+[~ 1398]
+[~ 1399]
+[~ 1400]
+[~ 1401]
+[~ 1402]
+[~ 1403]
+[~ 1404]
+[~ 1405]
+[~ 1406]
+[~ 1407]
+[~ 1408]
+[~ 1409]
+[~ 1410]
+[~ 1411]
+[~ 1412]
+[~ 1413]
+[~ 1414]
+[~ 1415]
+[~ 1416]
+[~ 1417]
+[~ 1418]
+[~ 1419]
+[~ 1420]
+[~ 1421]
+[~ 1422]
+[~ 1423]
+[~ 1424]
+[~ 1425]
+[~ 1426]
+[~ 1427]
+[~ 1428]
+[~ 1429]
+[~ 1430]
+[~ 1431]
+[~ 1432]
+[~ 1433]
+[~ 1434]
+[~ 1435]
+[~ 1436]
+[~ 1437]
+[~ 1438]
+[~ 1439]
+[~ 1440]
+[~ 1441]
+[~ 1442]
+[~ 1443]
+[~ 1444]
+[~ 1445]
+[~ 1446]
+[~ 1447]
+[~ 1448]
+[~ 1449]
+[~ 1450]
+[~ 1451]
+[~ 1452]
+[~ 1453]
+[~ 1454]
+[~ 1455]
+[~ 1456]
+[~ 1457]
+[~ 1458]
+[~ 1459]
+[~ 1460]
+[~ 1461]
+[~ 1462]
+[~ 1463]
+[~ 1464]
+[~ 1465]
+[~ 1466]
+[~ 1467]
+[~ 1468]
+[~ 1469]
+[~ 1470]
+[~ 1471]
+[~ 1472]
+[~ 1473]
+[~ 1474]
+[~ 1475]
+[~ 1476]
+[~ 1477]
+[~ 1478]
+[~ 1479]
+[~ 1480]
+[~ 1481]
+[~ 1482]
+[~ 1483]
+[~ 1484]
+[~ 1485]
+[~ 1486]
+[~ 1487]
+[~ 1488]
+[~ 1489]
+[~ 1490]
+[~ 1491]
+[~ 1492]
+[~ 1493]
+[~ 1494]
+[~ 1495]
+[~ 1496]
+[~ 1497]
+[~ 1498]
+[~ 1499]
+[~ 1500]
+[~ 1501]
+[~ 1502]
+[~ 1503]
+[~ 1504]
+[~ 1505]
+[~ 1506]
+[~ 1507]
+[~ 1508]
+[~ 1509]
+[~ 1510]
+[~ 1511]
+[~ 1512]
+[~ 1513]
+[~ 1514]
+[~ 1515]
+[~ 1516]
+[~ 1517]
+[~ 1518]
+[~ 1519]
+[~ 1520]
+[~ 1521]
+[~ 1522]
+[~ 1523]
+[~ 1524]
+[~ 1525]
+[~ 1526]
+[~ 1527]
+[~ 1528]
+[~ 1529]
+[~ 1530]
+[~ 1531]
+[~ 1532]
+[~ 1533]
+[~ 1534]
+[~ 1535]
+[~ 1536]
+[~ 1537]
+[~ 1538]
+[~ 1539]
+[~ 1540]
+[~ 1541]
+[~ 1542]
+[~ 1543]
+[~ 1544]
+[~ 1545]
+[~ 1546]
+[~ 1547]
+[~ 1548]
+[~ 1549]
+[~ 1550]
+[~ 1551]
+[~ 1552]
+[~ 1553]
+[~ 1554]
+[~ 1555]
+[~ 1556]
+[~ 1557]
+[~ 1558]
+[~ 1559]
+[~ 1560]
+[~ 1561]
+[~ 1562]
+[~ 1563]
+[~ 1564]
+[~ 1565]
+[~ 1566]
+[~ 1567]
+[~ 1568]
+[~ 1569]
+[~ 1570]
+[~ 1571]
+[~ 1572]
+[~ 1573]
+[~ 1574]
+[~ 1575]
+[~ 1576]
+[~ 1577]
+[~ 1578]
+[~ 1579]
+[~ 1580]
+[~ 1581]
+[~ 1582]
+[~ 1583]
+[~ 1584]
+[~ 1585]
+[~ 1586]
+[~ 1587]
+[~ 1588]
+[~ 1589]
+[~ 1590]
+[~ 1591]
+[~ 1592]
+[~ 1593]
+[~ 1594]
+[~ 1595]
+[~ 1596]
+[~ 1597]
+[~ 1598]
+[~ 1599]
+[~ 1600]
+[~ 1601]
+[~ 1602]
+[~ 1603]
+[~ 1604]
+[~ 1605]
+[~ 1606]
+[~ 1607]
+[~ 1608]
+[~ 1609]
+[~ 1610]
+[~ 1611]
+[~ 1612]
+[~ 1613]
+[~ 1614]
+[~ 1615]
+[~ 1616]
+[~ 1617]
+[~ 1618]
+[~ 1619]
+[~ 1620]
+[~ 1621]
+[~ 1622]
+[~ 1623]
+[~ 1624]
+[~ 1625]
+[~ 1626]
+[~ 1627]
+[~ 1628]
+[~ 1629]
+[~ 1630]
+[~ 1631]
+[~ 1632]
+[~ 1633]
+[~ 1634]
+[~ 1635]
+[~ 1636]
+[~ 1637]
+[~ 1638]
+[~ 1639]
+[~ 1640]
+[~ 1641]
+[~ 1642]
+[~ 1643]
+[~ 1644]
+[~ 1645]
+[~ 1646]
+[~ 1647]
+[~ 1648]
+[~ 1649]
+[~ 1650]
+[~ 1651]
+[~ 1652]
+[~ 1653]
+[~ 1654]
+[~ 1655]
+Estoy en medio de una competição de triatlón, pero\npuedo luchar contigo.
+¡No me quedan fuerzas!
+Esta vez la he pifiado...\c\nCreo que voy a quedar el último en la carrera por culpa\nde este combate...
+Estoy en medio de una competição de triatlón, pero llevo\nventaja, así que vamos a echarnos un combate.
+¡Vuelvo a estar sin fuerzas!
+He conseguido ganar en natação y en ciclismo, pero no\nen Pokémon...
+Creo que te voy a dar este premio que gané hace tiempo\nen un triatlón.
+[~ 1663]
+[~ 1664]
+[~ 1665]
+[~ 1666]
+[~ 1667]
+[~ 1668]
+[~ 1669]
+[~ 1670]
+[~ 1671]
+[~ 1672]
+[~ 1673]
+[~ 1674]
+[~ 1675]
+[~ 1676]
+[~ 1677]
+[~ 1678]
+[~ 1679]
+[~ 1680]
+[~ 1681]
+[~ 1682]
+[~ 1683]
+[~ 1684]
+[~ 1685]
+[~ 1686]
+[~ 1687]
+[~ 1688]
+[~ 1689]
+[~ 1690]
+[~ 1691]
+[~ 1692]
+[~ 1693]
+Victoria o derrota... ¡Si no lo intentas, no sabrás el\nresultado!
+¡Aaah! ¡Me hundo en la derrota!
+Nunca lucho si tengo claro que voy a ganar. Lo que me\ngusta es la emoção de la incertidumbre...
+Yo nado como todo quisqui, pero soy el más original\nentrenando Pokémon.
+¡Jarl! ¡Estoy en la cuerda floja!
+Es mucho más original hacer las cosas a tu modo en vez\nde como todo el mundo.\r\n¡Qué perogrullada acabo de soltar!
+¡Okey, makey! ¡Ya vale de gandulear!\n¡Hay que ponerse a luchar!
+Me han dejado para el arrastre...
+Mi Pokémon pájaro se cansa mucho cada vez que vuela\nuna gran distancia...
+La fuerte marea de esta zona te ayuda a ser cada vez más\nfuerte.
+Sí, ya sé, he perdido.
+Iremos a entrenarnos en serio a la Cachoeira Meteoro.\c\nQuizás incluso a ti te vendría bien. ¡Seguro que te haces\nmás fuerte!
+He llegado hasta aquí montado en mi Pokémon pájaro.
+Tu estilo... ¡es asombrosamente guay!
+Quisiera volver a Arborada, pero le he cogido cariño a\neste lugar.
+[~ 1709]
+[~ 1710]
+[~ 1711]
+[~ 1712]
+[~ 1713]
+[~ 1714]
+[~ 1715]
+[~ 1716]
+[~ 1717]
+[~ 1718]
+[~ 1719]
+[~ 1720]
+[~ 1721]
+[~ 1722]
+[~ 1723]
+[~ 1724]
+[~ 1725]
+[~ 1726]
+[~ 1727]
+[~ 1728]
+[~ 1729]
+[~ 1730]
+[~ 1731]
+[~ 1732]
+Las peleas aburridas no valen la pena.\c\nLos combates feroces sí que hacen mejorar a\nTreinadores y Pokémon.
+¡Más feroz que el lobo de Caperucita!
+Bueno, tengo una sed que me muero. Voy a comprarme\nun Refresco.
+¡Alana, nuestra Líder de Gimnasio, no tiene por qué\nperder tiempo contigo!\c\n¡Yo me sobro para vencerte!
+Qué dirá Alana... ¡He perdido!
+Alana es la Líder definitiva: ¡tiene fuerza y carácter!\c\nEs la mejor...
+Alana me enseñó todo lo que sé, no te pienses que será\ntan fácil...
+Me han derrotado...
+La gente de Arborada vive mucho más tranquila desde\nque está Alana.
+[~ 1742]
+¡Guau! Pues sí que eres fuerte, [VAR TRNAME(0000)].
+[~ 1744]
+[~ 1745]
+[~ 1746]
+[~ 1747]
+[~ 1748]
+[~ 1749]
+[~ 1750]
+[~ 1751]
+[~ 1752]
+[~ 1753]
+[~ 1754]
+[~ 1755]
+[~ 1756]
+[~ 1757]
+[~ 1758]
+[~ 1759]
+[~ 1760]
+[~ 1761]
+[~ 1762]
+[~ 1763]
+[~ 1764]
+[~ 1765]
+[~ 1766]
+[~ 1767]
+[~ 1768]
+[~ 1769]
+Sí, sí... Has mejorado mucho.
+[~ 1771]
+[~ 1772]
+Sí, sí... Has mejorado mucho.
+[~ 1774]
+[~ 1775]
+Sí, sí... Has mejorado mucho.
+[~ 1777]
+[~ 1778]
+...
+[~ 1780]
+[~ 1781]
+...
+[~ 1783]
+[~ 1784]
+...
+[~ 1786]
+Pescar me da una paz y una serenidad increíbles...\nMira, vas a ver...
+Vale, he perdido, pero sigo tan “zen” como siempre...
+Me importa un pepino si pesco algo o no, yo sigo\nintentándolo...
+¡Hala! ¡No me digas que ha picado nada menos que un\nPokémon que hace Surf!
+¡No puedo con estos Pokémon!
+Tus Pokémon parecen bastante fuertes. Me vendría de\nvicio pescar unos así...
+¡Eh, tú! ¡Este es un reto entre un fan de los Pokémon y\nun apasionado de la pesca!
+¡Oh, no! ¡Se me ha enredado el sedal! ¡Se acabó la\ndiversión!
+¡El sedal se ha puesto a bailar! ¡El baile del enredo!\n¡Ja, ja, ja!
+Hemos estado trabajando duro para organizar una Liga\nPokémon...\c\n¡No podemos perder ahora!
+¡Pero...!\n¡¿Cómo ha podido pasar?!
+Después de todo lo que he hecho para llegar hasta aquí,\nno pienso rendirme.
+¡No hay Treinador mejor que mi menda lerenda!
+¡Esto no ha pasado de verdad!
+Probablemente no hay Treinador que pueda compararse\ncontigo...
+Te voy a mostrar lo que he aprendido en el Gimnasio\nPokémon de Azuliza.
+¿Yo he dicho algo?
+Marcial, el Líder del Gimnasio de Azuliza, entrenaba con\nun tal Bruno en Kanto, según me han dicho.
+Quiero visitar Colosalia, así que he atrapado un Pokémon\nque conoce el movimento Cascada...
+¡Me la he pegado buena!
+¡Aaay! ¿Por qué yooo?\c\n¡Mi Pokémon conoce Cascada, pero no tengo la Medalla\ndel Gimnasio de Sootopolis!
+Los Pokémon pájaro son capaces de ver a sus presas\ndesde gran altura.
+Uf... Me rindo...
+Hay un montón de sitios donde bucear por aquí cerca.\c\nSe reconocen rápido por el color del agua, que es más\noscura que el resto.
+¡Hola, caracola! ¡Vamos derechos al asunto!
+Vencido. Me han vencido. ¡Estoy acabado!
+Paso de perder más tiempo. ¡Me voy a casa a olvidarme\nde todo!
+¿A qué viene tanta prisa? Las cosas se hacen despacito y\ncon calma...
+Vaya... Yo que estaba aquí tan a gustito...
+¿No te fastidia hacer las cosas deprisa y mal?\nPor eso me tomo mi tiempo...
+[~ 1817]
+[~ 1818]
+[~ 1819]
+[~ 1820]
+[~ 1821]
+[~ 1822]
+[~ 1823]
+¿Qué te parece si recurrimos a nuestra fuerza fraternal\npara darlo todo en un buen combate?
+Pues sí, ¡vamos a recurrir a nuestra fuerza fraternal para\nechar el resto en un combate Pokémon!
+Ígor: Ni siquiera poniendo toda la carne en el asador\ncon mi hermana he podido cantar victoria.\c\nRuth: A pesar de nuestra fuerza fraternal, al final no\nhemos ganado.
+Los habitantes de Oromar viven en plena armonía con el\nmar y los Pokémon desde el día de su nacimiento.
+Oromar es un pueblo que flota sobre el mar, ¿verdad?\c\nVamos, que mientras haya mar, ¡siempre habrá Oromar!
+¿No tienes ni siquiera dos Pokémon? En ese caso no\npodemos disputar un combate propiamente dicho.
+¡Si tuvieses al menos dos Pokémon podríamos echar un\ncombate!
+Aaah...\c\nCon la ilusión que me hacía venir a la costa para ver el\nmar, y tengo que cargar con mi hermano menor...\c\nOye, ¿qué tal si echamos un combate Pokémon para\ncambiar el chip y entretenernos un rato?
+¡Mi hermana es la caña entrenando Pokémon!\n¡Luego no te pongas a lloriquear si pierdes!
+Rita: ¡Hemos perdido por tu culpa, Saúl! Prepárate,\nporque el castigo que te espera es de campeonato.\c\nSaúl: Nooo... ¡Jolín, lo siento, hermanita!
+Aaah...\c\nOjalá tuviera como compañía a un novio maravilloso, en\nlugar del pelma de mi hermano pequeño.
+Cuando mi hermana mayor se enfada, mete más miedo\nque yo qué sé...\c\nPor eso no tiene novio.
+¿Acaso pretendes luchar contra nosoutros?\nPues o tienes al menos dos Pokémon, ¡o nanay!
+¿Quieres luchar contra nosoutros?\n¡Pues tráete dos Pokémon, porras!
+Aaah...\c\nCon la ilusión que me hacía venir a la costa para ver el\nmar, y tengo que cargar con mi hermano menor...\c\n¿Eh? Yo a ti te conozco. Cuánto tiempo, ¿no?\n¿Te apetece un combate Pokémon para pasar el rato?
+Si pierdo, mi hermana se va a poner hecha una fiera,\n¡así que me pienso poner las pilas!
+Rita: ¡Serás inútil, Saúl! Hemos vuelto a perder por tu\nculpa. Prepárate, porque te voy a dar un curso intensivo\r\nde cómo no hacer el garrulo en un combate Pokémon.\c\nSaúl: Jooo... No seas tan mala, hermanita...
+Aaah...\c\nOjalá tuviera como compañía a un novio maravilloso.\n¡Formaríamos un dúo tan estupendo que no se nos\r\nresistiría ningún rival!
+Cuando mi hermana mayor se enfada, asusta al más\npintado.\c\nUn curso, dice... No quiero ni pensar en el calvario que\nnos espera a mis Pokémon y a mí.
+¿Acaso pretendes luchar contra nosoutros?\nPues o tienes al menos dos Pokémon, ¡o nanay!
+¿Quieres luchar contra nosoutros?\n¡Pues tráete dos Pokémon, leñe!
+Qué remedio...\n¡Te doy esto y no acepto negativas!
+¡Hala! Encima que pierdo, tengo que darte un premio.
+[~ 1847]
+[~ 1848]
+[~ 1849]
+[~ 1850]
+[~ 1851]
+[~ 1852]
+[~ 1853]
+[~ 1854]
+[~ 1855]
+[~ 1856]
+[~ 1857]
+[~ 1858]
+Somos hermanos y queremos combatir juntos. ¿Qué tal\nun combate de dos contra dos?
+¡Siempre disputamos nuestros combates Pokémon\nluchando codo con codo, como buenos hermanos!\c\nEn los Combates Individuales no doy pie con bola, pero\nen un dos contra dos, ¡te gano fijo!
+Rui: ¡Buaaah! ¡Estás a años luz!\c\nMacu: ¡Impresionante! Desde luego, estás a outro nivel\ncomo Treinador[VAR GENDBR(00FF,0100)]a.
+Me pregunto si tienes algún amigo con el que ir de\nexcursión al mar.
+Este Pokémon es mi compañero inseparable. Le tengo\nmucho cariño porque me lo dio mi hermana y lo he\r\nestado entrenando desde entonces. ¡Somos uña y carne!
+Oye, si quieres luchar contra nosoutros, vas a tener que\nllevar en tu equipe algún Pokémon más.
+Si quieres combatir contra nosoutros, ¡tráete más\nPokémon!
+Me has dirigido la palabra... ¡así que buscas pelea!\c\n¡Perfecto! ¡Te voy a atacar con los Pokémon que atrapé\nhaciendo Surf!
+No tengo ni idea de qué hay que hacer para ganar.
+Haz Surf sobre un Pokémon...\c\ny pesca desde su lomo...\c\n¡Es bestial! ¡Te lo recomiendo!
+[~ 1869]
+Vito: ¡¿Pe-pero...?! Los dos juntos...\nLeti: ¡Nos hemos dejado derrotar!
+[~ 1871]
+[~ 1872]
+Bueno, ¿qué te parece? He perdido... Pero al menos me\nlo he pasado bien.
+[~ 1874]
+[~ 1875]
+Qué palo... Me han derrotado...
+[~ 1877]
+[~ 1878]
+¡Tus Pokémon y tú tenéis espíritus que hierven de\nvitalidad! ¡Qué derroche de energía!\c\n¡Hasta el hielo parece derretirse!
+[~ 1880]
+[~ 1881]
+foi grandioso, debo reconocerlo.
+[~ 1883]
+[~ 1884]
+Yo, el Campeón, he sido derrotado...
+[~ 1886]
+Yo me dedico a ir de Lilycove a Cidade Portual y\nviceversa.\c\nEs como mejor me lo paso. Así puedo ver todos los\nGrandes Concursos Pokémon.
+¡Qué combate tan bueno!
+Yo es que me emociono solo imaginando los tipos de\nPokémon a los que me enfrentaré en el siguiente\r\nGran Concurso Pokémon...
+[~ 1890]
+[~ 1891]
+[~ 1892]
+[~ 1893]
+[~ 1894]
+[~ 1895]
+[~ 1896]
+[~ 1897]
+[~ 1898]
+[~ 1899]
+Pues... he perdido...\c\nParece que aún no he aprendido bastante...
+[~ 1901]
+A los Treinadores no debes tomarnos a la ligera...\n¡Ahora verás por qué!
+Me has dejado a cuadros...
+¡Todavía no has visto ni una pizca del terrible poder del\ntipo Roca!
+[~ 1905]
+¡Guau y doble guau! ¡Eres peor que un maremoto!\nNo lo esperaba... ¡Estoy hundido en la miseria!
+[~ 1907]
+Qué sed tengo... Creo que iré a por un Refresco a la Casa\nde la Playa.
+Aaargh...
+Me muero de hambre... Hasta el flotador tiene buena\npinta...
+Qué hambre tengo... ¡Pero todavía me quedan energías\npara un combate!
+He perdido... Seguro que es por el hambre que tengo...
+Cuando haces un picnic en la playa, todo parece saber\nmejor...
+Toma, como agradecimiento por el combate.\nAunque ahora me ha entrado hambre...
+Sé lo que piensas hacer... ¡No puedo perder!
+No he sabido predecir mi propia derrota...
+Puedo ver tu futuro...\c\nVeo, veo... Mmm... Una luz muy brillante...
+[~ 1918]
+[~ 1919]
+[~ 1920]
+[~ 1921]
+¡Jua, jua, jua! ¡Vale, he perdido!
+[~ 1923]
+Este gimnasio está lleno de trampas. ¿A que mola?
+Soy muy mal perdedor...
+Erico dice que le encanta poner trampas con\ninterruptores.
+[~ 1927]
+Oooh... Creo que no estaba preparada...
+[~ 1929]
+[~ 1930]
+Hala...\c\nIncreíble...
+[~ 1932]
+[~ 1933]
+Nunca antes había visto a ningún Treinador capaz de\ndirigir a sus Pokémon con más arte que yo...
+[~ 1935]
+[~ 1936]
+Excelente...
+[~ 1938]
+Ay, si tuviera unas Gafas Aislantes...\c\n¡Me pican los ojos!
+Mis ojos... No veo...
+Las Gafas Aislantes te permiten atravesar las tormentas de\narena. ¡Son superprácticas!
+Me pican los ojos una barbaridad, pero aun así\nhe decidido hacer un picnic en el desierto.\c\nEsto está lleno de Treinadores, así que también\npuedo luchar si me apetece.
+¡Oooh! ¿Por qué eres así?
+Cuando luchas en medio de una tormenta de arena,\ndebes vigilar los PS de tu Pokémon.\c\n¡Si no, puede que hasta se debilite!
+Seguro que si llevas Gafas Aislantes, ¡te sientes como\nun defensor de la justicia!
+He perdido en un combate justo.
+Soy más pobre que un Rattata, así que no puedo\npermitirme unas Gafas Aislantes.
+¡Ay, cómo me pican los ojos! Ojalá tuviera unas Gafas\nAislantes...\c\nPor cierto, me han dicho que se pueden encontrar fósiles\nen el desierto. ¿Tú sabes dónde?
+¿Cómo voy a ganar con estos picores?
+Si hay fósiles en el desierto, entonces antes debía de\nhaber un mar aquí. Aunque lo que más me inquieta es...\c\n¡Que me pican los ojos!
+He buscado restos arqueológicos durante más de 30\naños. Estoy tan acostumbrado a las tormentas de arena\r\nque no me hacen falta ni Gafas Aislantes, fíjate tú.\r\n¿Qué tal un combate?
+Tanto buscar restos arqueológicos...\nMás bien debería haber buscado Pokémon fuertes...
+He buscado restos arqueológicos durante más de 30\naños...\c\n¿O han sido 40 años? He perdido la cuenta...
+He buscado restos arqueológicos durante más de 30\naños... ¿O han sido 40 años?\c\nDa igual, ¿buscas pelea?
+Hasta ahora no he encontrado ni restos arqueológicos, ni\nPokémon fuertes, ni nada de nada...
+He buscado restos arqueológicos durante más de 30\naños... ¿O han sido 40 años?\c\nPuede que hayan sido incluso 50 años... Ay, me estoy\nagobiando...
+Te voy a dar una cosa que encontré durante mi vigésimo\naño buscando restos arqueológicos.
+[~ 1958]
+¡Jarl! Eres fuerte... Los demás tenían razón...\n
+[~ 1960]
+Uso este parasol para proteger a mi querido Numel de\nesta horrible ceniza volcánica que lo impregna todo.
+Uf, uf... Luchar con parasol es agotador.
+Oye, se te da muy bien esto. Estoy impresionada.
+Hola, hace tiempo que no te veía.\n¿Te apetece que luchemos?
+¡Qué bien lo has hecho!
+¡Se te sigue dando estupendamente! Estoy impresionada.
+Toma, en reconocimiento de tu fuerza.
+¿Quieres averiguar lo fuerte que eres? ¡Yo te lo digo\nahora mismo!
+¡Fuerte como un roble!
+Tu fuerza es impresionante... Me has vencido nada menos\nque a mí...
+Parece que tienes una gran coleção de Medallas de\nGimnasio.\c\n¡Veamos si realmente las mereces!
+¡Sí, te las has ganado con creces!
+¡Has hecho honor a tus medallas en este combate!
+Gabi: Es que tengo una vista... ¡Eres una estrella\nentrenando Pokémon!\c\nTeo: Sí, sin duda hemos encontrado a una estrella.\n¡Vaya notição!
+[~ 1975]
+Pues...\c\nPues...\c\nPues hemos perdido...
+[~ 1977]
+¡Combatiendo juntas no tememos a nadie! Te vamos a\ndemostrar nuestra fuerza en todo su esplendor.
+¡Combatiendo juntas no tememos a nadie! Te vamos a\ndemostrar nuestra fuerza en todo su esplendor.
+Cati: Buf, qué mal he quedado. Y encima delante de mi\ncompañera. Yo que quería dejar patente toda mi gran\r\nexperiencia...\c\nFeli: Lo siento mucho, no he estado a tu altura, Cati.
+No lo puedo remediar. En cuanto alguien necesita mi\napoyo, me entran unas ganas locas de deslumbrar al\r\npersonal y despertar su admiração.
+No te preocupes, ¡es cuestión de seguir dejándose\nla piel en los entrenamientos!
+Veo que solo tienes un Pokémon.\n¡Pues lo llevas crudo si quieres combatir!\c\nLuchar de esta manera sería abusar.
+Si quieres desafiarnos, debes tener en tu equipe al\nmenos dos Pokémon.
+No puedo permitirme hacer el ridículo delante de mi\ncompañera. ¡Con todo lo que me admira y lo adorable\r\nque es!
+¡Con toda la experiencia que tiene mi compañera de\nequipe te vamos a ganar fijo!\c\nSi es que es una fuera de serie...\nHay que ver todo lo que tengo que aprender de ella.
+Ani: ¡Jolín, ya podías haberte dejado ganar! Menudo\nbochorno... ¡Y con la compañera a la que estoy dando\r\nclases de apoyo como testigo!\c\nMati: Jo, ¡lo siento, tengo que aplicarme más y seguir\ntodos tus consejos, Ani!
+¡Tu equipe Pokémon y tú os compenetráis de maravilla!\c\nVamos, que estáis casi casi a nuestro nivel, ¿no te\nparece?
+Me parece que la he pifiado y no he hecho más que\nestorbar a mi compañera que exuda confianza y\r\nexperiencia...\c\nDe lo contrario, ¡no hubieses ganado ni de broma!
+Si quieres combatir contra nosotras, debes llevar al\nmenos a dos Pokémon en tu equipe.
+¿Solo llevas un Pokémon? Pues no hay combate que\nvalga.\c\nNosotras queremos disfrotar de un combate de dos\ncontra dos como mandan los cánones.
+Si vuelvo a perder con la compañera de la que soy\nmentora como testigo de mi derrota, ¡entonces apaga\r\ny vámonos!
+¡De esta vez no pasa! ¡Vas a tener que saborear la\nderrota que te vamos a infligir mi mentora y yo!
+Ani: Estoy más baja de forma que yo qué sé.\nMati: Buf, es demasiado fuerte...
+¡Tu equipe Pokémon y tú os compenetráis de maravilla!\c\nVamos, que estáis casi casi a nuestro nivel, ¿no te\nparece?
+Perder al final aun combatiendo con mi mentora...\n¡menudo bajón!
+Si quieres combatir contra nosotras, debes llevar al\nmenos a dos Pokémon en tu equipe.
+¿Solo llevas un Pokémon? Pues no hay combate que\nvalga.\c\nNosotras queremos disfrotar de un combate de dos\ncontra dos como mandan los cánones.
+No quiero poner en un compromiso a mi compañera, con\ntodo lo que se esfuerza por aprender lo que le explico,\r\nasí que esto es solo de mi parte.
+No quiero poner en un compromiso a mi compañera, con\nla paciencia que tiene conmigo y todo lo que me está\r\nenseñando, así que esto es únicamente de mi parte.
+[~ 2001]
+[~ 2002]
+[~ 2003]
+[~ 2004]
+[~ 2005]
+[~ 2006]
+[~ 2007]
+[~ 2008]
+[~ 2009]
+[~ 2010]
+[~ 2011]
+[~ 2012]
+[~ 2013]
+[~ 2014]
+[~ 2015]
+¡Surjo de entre las cenizas como una sombra! ¡Kiaaa!\n¿Aceptas mi desafío?
+Acepto mi derrota...
+A lo mejor tengo que combatir sin camuflarme.\c\nMe ves o no me ves, esa es la cuestión.
+¡Surjo de entre las cenizas como una sombra! ¡Kiaaa!\n¿Aceptas mi desafío?
+Acepto mi derrota...
+Me camufle o no, está claro que el resultado del combate\ndeja un poco que desear.\c\n¡Ay! La vida de un ninja es muy dura, ¿me oyes?
+Sería un honor que aceptaras mi presente.
+¿Con quién tengo el placer de hablar?\c\n¿Estás buscando antiguas ruinas cuya existencia se\nmenciona solo en las leyendas?
+Qué revés tan desafortunado...
+Esa roca gigantesca... quizás contenga esas ruinas\nlegendarias en su interior.\r\nPero... ¿dónde está la entrada?
+¡Alto ahí! ¡Echa una miradita a mis preciosísimos\nPokémon!
+¡Oh! ¿Cómo osas? ¡No se puede ir arrollando al personal!
+Creo que voy a ir a atrapar más Pokémon a la Zona Safari.
+Mis preciosísimos Pokémon han crecido. ¡Míralos bien\nahora!
+¡Oh! ¿Cómo osas? ¡Sigues abusando de la peña!
+Creo que voy a ir a atrapar más Pokémon a la Zona Safari.
+Qué se le va a hacer... Toma esto; lo he mantenido\ncaliente con mi calor corporal.
+Entreno a mi Pokémon con Plubio.\c\n¡No será tan fácil vencerme!
+Me has dejado pasmada...
+Creo que tienes potencial.\n¿Por qué no te quedas a entrenar en este gimnasio?
+Dicen que hay una roca mística por aquí cerca.\n¿Tú sabes algo?
+Tenía la mente en esa roca y he dejado que mi Pokémon\nse debilitara...
+Me puedo pasar las horas muertas mirando una roca\nbonita sin cansarme.
+[~ 2039]
+[~ 2040]
+[~ 2041]
+[~ 2042]
+[~ 2043]
+[~ 2044]
+[~ 2045]
+[~ 2046]
+[~ 2047]
+[~ 2048]
+[~ 2049]
+[~ 2050]
+[~ 2051]
+[~ 2052]
+[~ 2053]
+[~ 2054]
+[~ 2055]
+[~ 2056]
+[~ 2057]
+[~ 2058]
+[~ 2059]
+[~ 2060]
+[~ 2061]
+[~ 2062]
+[~ 2063]
+[~ 2064]
+[~ 2065]
+[~ 2066]
+[~ 2067]
+[~ 2068]
+[~ 2069]
+[~ 2070]
+[~ 2071]
+[~ 2072]
+[~ 2073]
+[~ 2074]
+[~ 2075]
+[~ 2076]
+[~ 2077]
+[~ 2078]
+[~ 2079]
+[~ 2080]
+[~ 2081]
+[~ 2082]
+[~ 2083]
+[~ 2084]
+[~ 2085]
+[~ 2086]
+[~ 2087]
+[~ 2088]
+[~ 2089]
+¿Podrá soportar tu equipe Pokémon el calor que\ndesprende el mío?
+No me he caldeado lo suficiente...
+Si habéis podido aguantar el calor que emanamos, estoy\nseguro que tus Pokémon pueden sobrevivir en el magma.
+¡Con mi energía y mi Pokémon, te voy a desintegrar!
+¡Tu potencia me ha dejado cortocircuitada!
+Dicen que Erico fundó Mauville.\c\nEra Treinador ya mucho antes de que nosoutros\nllegáramos a serlo. ¡Tiene que saberse todos los trucos!
+Mmmm... Bueno, vale, lucharé contigo.
+No esperaba que fueras tan fuerte...
+Yo de mayor quiero ser tan fuerte y magnífica como\nCandela.
+El mejor lugar para esconder un árbol es... ¡un bosque!
+Me inclino ante tu superioridad en combate...
+El mejor lugar para esconder un árbol es... ¡un bosque!\nY el mejor para esconder un Pokémon es...\r\n¡outro Pokémon!\c\n¿Tú entiendes lo que acabo de decir?\n¡Yo tampoco, ja, ja, ja!
+Crearé nuevas técnicas ninja a partir de los movimentos\nde los Pokémon.
+Me temo que he estado soñando despierto...
+Quizás debería ir a estudiar bajo las órdenes de un\nmaestro ninja...
+Los ninjas somos maestros reconocidos del camuflaje.\n¿A que no sabías dónde estaba?
+¡He perdido! ¿Cómo puedo camuflar esta vergüenza?
+Mi capa de camuflaje está hecha a mano. Bonita, ¿eh?
+¡Hombre, [VAR TRNAME(0000)]!, ¿qué tal te va?\c\nYo he estado entrenando hasta hace un rato y ahora\nme estaba tomando un merecido descanso.\c\nPero bueno, ya que estás aquí, ¡creo que esta es una\noportunidad que ni pintada para comprobar cuánto he\r\nmejorado hasta ahora!
+Arg... Se ve que este es mi límite...
+Claro... seguro que planteé la alineação equivocada.\nEn ese caso, será mejor sustituir a este...\c\nUy, pero entonces voy a quedar expuesto a este tipo...\nNo queda más remedio que cambiar este movimento y...\c\nHmmm, sí, sí, ¡eso debería de funcionar!\c\n¡Ay, perdona! Me he puesto a elucubrar sin querer.\c\n¡En fin, que has estado en tu línea, [VAR TRNAME(0000)]!\nTu estrategia foi impecable.\c\nPero si crees que pretendo asumir siempre el papel de\nperdedor en nuestros combates, ¡te equivocas!\c\nDesde que he llegado al Resort Batalla, he entablado\namistad con muchos outros competidores que me han\r\nrecordado lo divertidos que son los combates Pokémon.\c\n¡Muchas gracias, [VAR TRNAME(0000)]!\n¡Cuando quieras, volvemos a combatir!
+[~ 2111]
+[~ 2112]
+[~ 2113]
+[~ 2114]
+[~ 2115]
+[~ 2116]
+[~ 2117]
+[~ 2118]
+[~ 2119]
+[~ 2120]
+[~ 2121]
+[~ 2122]
+[~ 2123]
+[~ 2124]
+[~ 2125]
+[~ 2126]
+[~ 2127]
+[~ 2128]
+[~ 2129]
+[~ 2130]
+[~ 2131]
+[~ 2132]
+[~ 2133]
+[~ 2134]
+[~ 2135]
+[~ 2136]
+[~ 2137]
+[~ 2138]
+[~ 2139]
+[~ 2140]
+[~ 2141]
+[~ 2142]
+[~ 2143]
+[~ 2144]
+[~ 2145]
+[~ 2146]
+[~ 2147]
+[~ 2148]
+[~ 2149]
+[~ 2150]
+[~ 2151]
+[~ 2152]
+[~ 2153]
+[~ 2154]
+[~ 2155]
+[~ 2156]
+[~ 2157]
+[~ 2158]
+[~ 2159]
+[~ 2160]
+[~ 2161]
+[~ 2162]
+[~ 2163]
+[~ 2164]
+He oído que en la Cueva Cardumen hay un anciano un\npoco rarito. ¿Tú también vas a ir a verlo?
+¿Pero qué habrá en ese sitio?
+Beth: Y eso que parecía tener la victoria en el bolsillo.\nIsis: Estuvimos a puntito a puntito.
+En la Cueva Cardumen hay un anciano rarito, ¿no?\n¿Pues a qué esperamos? ¡Vamos a verlo!
+¿De verdad que quieres entrar en la Cueva Cardumen?\n¡Nos vamos a calar hasta los huesos!
+¡Imposible! Si no tienes al menos dos Pokémon,\nno hay tutía.
+Un combate de dos contra uno no es justo.\nNo vamos a rebajarnos a algo tan rastrero.
+Pues sí, me apetece echar un combatillo. ¿Por qué no?\c\nAsí aprovecho para enseñarte un par de cosillas sobre\nesto de los Pokémon.
+¿Y tú a quién has tenido como profesor para aprender\nsobre los Pokémon?
+Tula: ¡Qué estilo de lucha más impresionante!\nIlda: Me has quitado las palabras de la boca.
+Le he enseñado a Ilda todo lo que sé sobre los\nPokémon.
+Tula fue realmente quien me metió el gusanillo por esto\nde los Pokémon.
+¡Ji, ji, ji! Si quieres luchar contra nosotras, ¡no vengas\ncon un mísero Pokémon!
+¿Tienes únicamente un Pokémon?\nPues se tiene que sentir más solo que la una.
+Ya estamos...\c\nSiempre tiene que haber alg[VAR GENDBR(00FF,0302)]únuna plasta que le corte el\nrollo a una pareja de enamorados.
+Estamos prendados el uno del outro y Hoenn es nuestro\nnidito de amor.
+Lino: Buf, vaya forma de pifiarla...\nMeli: Hemos perdido por mi culpa. No, si encima Lino\r\nme va a odiar a partir de ahora, ya verás.
+Bueno, ¡al menos no le digas a nadie que estamos aquí!\nQueremos que nos dejen solos en nuestro mundo.
+Oye, Lino, no te habrás enfadado conmigo, ¿no?\n¡Porque no lo llevaría nada bien!
+Estamos enamorados y, como tales, somos inseparables.\nAsí que, si quieres combatir contra nosoutros, ¡trae por lo\r\nmenos dos Pokémon!
+Estamos hechos el uno para el outro y yo no me separo de\nmi media naranja así como así. Si quieres combatir contra\r\nnosoutros, ¡trae al menos dos Pokémon!
+Siempre hemos luchado a dúo. Juntos somos más\nfuertes.
+Llevamos 50 años casados. El vínculo que nos une como\npareja es fuerte como un roble.
+Juli: Oh... Hemos perdido, cariño.\nNela: Oh... Hemos perdido, cariño.
+Llevamos 50 años casados. Y ahora que lo\npienso... Todavía no he vencido a mi mujer en combate.
+50 años de matrimonio... Cada vez que\ndiscutíamos, lo resolvíamos con un combate Pokémon.
+¡Vaya, vaya! ¡Qué joven eres!\c\n¿Quieres desafiarnos? Pues entonces tendrás que volver\ncon más Pokémon.
+¡Vaya, vaya! ¡Qué joven eres!\c\n¿Quieres desafiarnos? Pues entonces vuelve con más\nPokémon.
+Siempre hemos luchado a dúo. Juntos somos más\nfuertes.
+Llevamos 50 años casados. El vínculo que nos une como\npareja es fuerte como un roble.
+Juli: Oh... Hemos perdido, cariño.\nNela: Oh... Hemos perdido, cariño.
+Llevamos 50 años casados. Y ahora que lo\npienso... Todavía no he vencido a mi mujer en combate.
+50 años de matrimonio... Cada vez que\ndiscutíamos, lo resolvíamos con un combate Pokémon.
+¡Vaya, vaya! ¡Qué joven eres!\c\n¿Quieres desafiarnos? Pues entonces tendrás que volver\ncon más Pokémon.
+¡Vaya, vaya! ¡Qué joven eres!\c\n¿Quieres desafiarnos? Pues entonces vuelve con más\nPokémon.
+Esto fue un presente de nuestro trigésimo quinto aniversario\nde boda. Toma, para ti.
+No sé si los jóvenes de hoy en día aprecian esta clase\nde detalles.
+[~ 2202]
+[~ 2203]
+[~ 2204]
+[~ 2205]
+[~ 2206]
+[~ 2207]
+[~ 2208]
+[~ 2209]
+[~ 2210]
+[~ 2211]
+[~ 2212]
+[~ 2213]
+Por supuesto que acepto tu reto. ¡Me sobra el dinero!
+¿Por qué no he ganado?
+Hay cosas que el dinero no puede comprar. Por ejemplo,\nlos Pokémon.
+Tras perder contra ti, me puse a estudiarlo todo sobre los\nPokémon.
+¡¿He perdido otra vez?! ¿Por qué no he ganado?
+Soy rico a rabiar, pero no se me dan bien los Pokémon...\c\nEs un mundo tan complejo...
+Como soy tan asquerosamente rico, tengo más cosas de\nlas que podría usar en tres vidas. Toma, esto es para ti.
+El destino ha hecho que nos cruzáramos.\n¿Quieres luchar contra mí?
+Oooh...
+“Hola” siempre precede a “adiós”.\nEspero que volvamos a vernos.
+Hola, volvemos a encontrarnos.\n¿Quieres luchar contra mí?
+Ooh... Lo hice lo mejor que pude...
+“Hola” siempre precede a “adiós”.\nEspero que volvamos a vernos.
+Toma, para celebrar nuestro reencuentro.
+[~ 2228]
+¡Ayyy! ¡Eres más fuerte de lo que pensaba!
+[~ 2230]
+[~ 2231]
+¡Ay! ¡No puedo creer que seas tan fuerte!
+[~ 2233]
+[~ 2234]
+[~ 2235]
+[~ 2236]
+Mi Pokémon es una monada. ¡Mira, te lo voy a enseñar!
+¡Ay, ay, ay, ay! ¡Mi Pokémon bonito!
+Mi querido Pokémon es una monada hasta cuando está\ndebilitado.
+¡Eh, mira! Mi preciosísimo Pokémon es aún más\nencantador que antes.
+¡Ay, ay, ay, ay! ¡Mi Pokémon bonito!
+Cuanto más tiempo paso con él, más mono se vuelve.
+Esto lo compré para mi Pokémon, pero te lo voy a dar.
+¿Quieres jugar con mi Pokémon, que es más bonito que\nun sol?
+¡Yo no me refería a esto!
+Voy a un concurso en Lilycove.\c\nMi Pokémon debería poder superar el Nivel Maestro sin\nproblemas.
+Cuando veo a Plubio luchando... recuerdo por qué quise\nconvertirme en una Treinadora.
+Has luchado con mucha más gracia y elegancia que yo...
+Tu estilo combatiendo es inigualable.\c\nY yo soy tan feliz de poder disfrotar de la belleza de los\nPokémon...
+Cuando miro a Plubio, el tiempo pasa en un pispás.
+No he estado lo suficientemente “apispada”.
+Buf, será mejor correr un tupido velo sobre esta\nderrota para tratar de olvidarla ya “pispo”.
+Oh, qué cosita tan mona que eres... ¿Quieres tomar leche\ncon galletas?\r\n¿O prefieres luchar un ratito?
+Ya sabía yo que a ti te va la marcha...
+Relajarse en un crucero de lujo no está nada mal...\c\nAunque circunnavegar Hoenn en un ferry también tiene su\nencanto.
+Llegas justo a tiempo, o sea.\c\nMe estaba aburriendo como una ostra, de verdad.\n¡Haz algo para entretenerme!
+Esto no mola para nada, o sea...
+Le voy a decir a papi que me compre un yate que he\nvisto, que es ideal.\r\n¡Solo para mí y mis Pokémon!
+¡Ja, ja, ja! ¡Iría al fin del mundo solo para fardar de\nPokémon!
+Esta no era precisamente la idea que tenía yo...
+Quizás debería preparar a mis Pokémon para concursos,\nno para combates...
+¡Ja, ja, ja! ¡Yo es que no me canso de fardar de Pokémon\nlo que haga falta!
+Esta no era precisamente la idea que tenía yo...
+Los concursos están bien, pero también me gusta\ncombatir.
+Hay que saber aceptar la derrota con dignidad.
+[~ 2266]
+[~ 2267]
+[~ 2268]
+[~ 2269]
+[~ 2270]
+[~ 2271]
+[~ 2272]
+[~ 2273]
+[~ 2274]
+[~ 2275]
+[~ 2276]
+[~ 2277]
+[~ 2278]
+[~ 2279]
+[~ 2280]
+[~ 2281]
+[~ 2282]
+[~ 2283]
+[~ 2284]
+[~ 2285]
+[~ 2286]
+[~ 2287]
+[~ 2288]
+[~ 2289]
+[~ 2290]
+[~ 2291]
+[~ 2292]
+[~ 2293]
+[~ 2294]
+[~ 2295]
+[~ 2296]
+[~ 2297]
+[~ 2298]
+[~ 2299]
+[~ 2300]
+[~ 2301]
+[~ 2302]
+[~ 2303]
+[~ 2304]
+[~ 2305]
+[~ 2306]
+[~ 2307]
+[~ 2308]
+[~ 2309]
+[~ 2310]
+[~ 2311]
+[~ 2312]
+[~ 2313]
+¡Te voy a demostrar de lo que es capaz la mismísima\nnúmero dos de esta Escuela de Treinadores!
+Jolín, vaya chasco... Ahora soy la número tres, como\nmucho.
+¡Petra será la número uno por los siglos de los siglos!\c\nPara ella, ganarte es un juego de niños.
+¡Nos!\n¡Has!\r\n¡Ga!\r\n¡Na!\r\n¡Do!
+¡Nos!\n¡Has!\r\n¡Ga!\r\n¡Na!\r\n¡Do!
+¡Nos!\n¡Has!\r\n¡Ga!\r\n¡Na!\r\n¡Do!
+¡Nos!\n¡Has!\r\n¡Ga!\r\n¡Na!\r\n¡Do!
+¡Oh!\n¡No!\r\n¡O!\r\n¡Tra!\r\n¡Vez!
+¡Oh!\n¡No!\r\n¡O!\r\n¡Tra!\r\n¡Vez!
+¿Uh?
+¡¿Quéee?!
+¿Uh? ¡¿Otra vez?!
+Pero... ¡¿Por qué?!
+?Slurp, slurp.?
+¡Jo, jo! ¡Pierdo el combate, pero no la dignidad!
+Arf, arf...\nUh... Uh...
+Uf, arf...\nVaya, esto me ha agotado...
+?¡Qué divertido!?
+¡Jua, ja, ja, ja, ja!\n¡Me has ganado, pero he disfrotado con el combate!
+Arf, arf...\nUh... Arf, arf...
+¡Uh! Sabía que eso iba a doler...
+¡Casi, casi, casi!
+¡Aaarg!
+¡Casi, casi!
+¡Yaaah!
+¡Qué dominio de los Combates Inversos! ¡Superas incluso\na su creador, que soy yo!
+Ya sabía yo que esto iba a pasar...\nLa vida da muchas vueltas.
+¡Gracias! ¡foi un combate genial!
+¡Gracias! ¡foi un combate genial!
+¡Gracias! ¡foi un combate genial!
+¡Qué bien! foi el mejor combate que hemos librado\nhasta la fecha. ¡Gracias!
+¡Qué bien! foi el mejor combate que hemos librado\nhasta la fecha. ¡Gracias!
+¡Qué bien! foi el mejor combate que hemos librado\nhasta la fecha. ¡Gracias!
+¡Buaaah!\n¡No se puede ser más paquete, madre mía!
+¡Buaaah!\n¡No soy más inútil porque no entreno, madre mía!
+¡Buaaah! ¡Más paquete no se puede ser!
+¡Buaaah!\n¡No se puede ser más paquete, madre mía!
+¡Buaaah!\n¡No se puede ser más paquete, madre mía!
+¡Buaaah!\n¡No se puede ser más paquete, madre mía!
+¡Buaaah!\n¡No se puede ser más paquete, madre mía!
+Hala, al final ha perdido el menda.
+Hala, al final ha perdido un servidor.
+Al final, mi gozo en un pozo.
+Hala, al final ha perdido el menda.
+Hala, al final ha perdido el menda.
+Hala, al final ha perdido el menda.
+Hala, al final ha perdido el menda.
+Uy, he perdido.
+Uy, he perdido.
+Uy, he perdido.
+Uy, he perdido.
+Uy, he perdido.
+Uy, he perdido.
+Uy, he perdido.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+Mis Pokémon de tipo Hada han reconocido su derrota.
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+La verdad es que ya lo intuía, pero ahora lo he podido\ncomprobar: eres realmente fuerte, ¿eh?
+En nombre de todos los usuarios de Pokémon pájaro,\njuro solemnemente luchar con garra y tesón en este\r\ncombate que vamos a disputar.
+En nombre de todos los usuarios de Pokémon pájaro,\nacepto solemnemente esta derrota que acabo de encaixar.
+Alana, nuestra carismática Líder de Gimnasio, ha supuesto\ntoda una fuente de inspiração para aquellos Treinadores\r\nque utilizan Pokémon pájaro.\c\nDe hecho, yo ansiaba tanto imitar su estilo de vida que\nacabé haciendo mis primeros pinitos en estas lides.
+¡Jo, jo, jo! ¡Estás completamente a mi merced!\c\nSolo es cuestión de poner en práctica mi técnica ninja\nfavorita para camuflarme: ¡la bomba de vapor!
+¡Cof, cof! Arg, se me ha metido el vapor en los ojos.\n¡Qué escozor!
+La bomba de vapor es una técnica que hemos inventado\nCandela y yo, ¿lo sabías?
+Buf, venga, que empiece el combate cuanto antes,\nque se me están derritiendo los sesos...
+Todo me da vueltas...
+Ufff, seguro que a mi Pokémon y a mí nos ha dado una\nbajada de tensión por este calor sofocante.
+Estoy orgulloso de la resistencia que tiene mi equipe\nPokémon. ¡Podrían nadar todo el día sin parar!
+Glub, tocados y hundidos...
+Puedo nadar todo el día y estar tan pancho, pero la piel\nse me queda toda arrugada y fofa.
+Para mí venir a Hoenn siempre foi todo un sueño,\nporque nací en un pueblo sin mar.
+Vaya, seguro que eres de un pueblo costero.\c\nEn vez de criarte entre algodones, el océano te ha\ncurtido como a un viejo lobo de mar curado de espantos.
+Este olor a salitre y esta brisa marina son sensaciones\nnuevas para mí. Me alegro de haber hecho este viaje.\c\nOjalá combatamos en otra ocasión, porque me gustaría\nseguir llenando mi baúl de los recuerdos.
+¡Hombre, pero si eres tú! ¡Cuánto bueno por aquí!\c\nHas venido a ayudarme a acumular recuerdos que\nllevarme a mi patria, ¿verdad?
+Otro bello recuerdo que permanecerá indeleble en mi\nmemoria...
+He acumulado tantos recuerdos de mi viaje que no\ncabrían en mi mochila si fuesen objetos materiales.
+¡Muchas gracias por hacerme compañía!\nToma, como muestra de mi aprecio.
+¿Hay algún Treinador o Pokémon aquí que se esté\nahogando? Es que soy socorrista por vocação propia.
+¡Socorro, auxilio! ¡Que me ahogo!
+Yo me considero un socorrista más que un atleta.\nSuena mejor y todo, ¿no te parece?
+La corriente me ha llevado en volandas hasta ti.\c\nEstás avisad[VAR GENDBR(00FF,0101)]oa, ¡soy un Treinador Guay!\nTe va a caer encima una oleada de ataques. ¡Chaf!
+Chaf...ado me he quedado yo...
+Soy un Treinador que navega a la deriva.\c\n¡Ojalá la corriente me vuelva a conducir hasta ti en otra\nocasión!
+Ha pasado un tiempo desde que convergieron nuestros\ncauces. ¿Qué tal si navegamos juntos a la deriva?
+Me siento un poco “chof”, fíjate...
+Quiero ir siempre a la deriva, no me importa ni el tiempo\nni el destino.\c\nDejo que el viento y las olas marquen los designios de\nmi vida.
+La corriente arrastró esto hasta mis pies.\n¿Quién mejor que tú para sacarle provecho?
+Los Treinadores Guays como yo nunca elegimos dónde\ncombatir o entrenar. Donde tenga que ser, será.
+Mira que perder aquí...
+Para entrenar mi sentido del equilibrio intento permanecer\nencima de Pokémon en medio de la marejada.
+Glu, glu, glu...\nRá... Rápido... Empecemoglu, glu, glu...
+Glu, glu, glu... Arf, ¡no puedo más!
+Aaah... ¿dónde está la tierra firme?...\nOjalá pueda avistarla...\c\nGlub, glub... Por favor, vuelve a verme cuando puedas,\nque no las tengo todas conmigo.
+Glub, glub, glub...\nQué alivio verte vivit[VAR GENDBR(00FF,0101)]oa y coleando...
+Glub, glub... Mi gozo en un pozo. Ya sabía yo...
+Ug... Moverme solo empeora las cosas...\nJolín, ¿qué debería hacer?
+Glub... Gracias por venir a verme.\nToma. Llévate esto. Es un detallito.
+¡Eh! ¡Qu[VAR GENDBR(00FF,0F0A)]ieto paraoe corra el aire! ¿Crees que no me he coscao?\n¡Seguro que quieres birlarme el granizado, choriz[VAR GENDBR(00FF,0101)]oa!
+¿Pe... Pero tú de dónde sales, chorb[VAR GENDBR(00FF,0101)]oa?
+Nooo...\c\nSe ha derretido...\nMi precioso granizado...
+¡Los Pokémon están mucho más vivarachos cuando\nse encuentran en plena naturaleza!
+He perdido, pero foi una derrota refrescante...
+Si es que está claro: a los Pokémon también les sienta\nmucho mejor el campo que la cidade.
+¿Eh? ¿Pero qué haces tú también por aquí?\n¿Acaso te has perdido como yo?
+He perdido el sentido de la orientação hasta para tomar\ndecisiones en un combate Pokémon.
+Me pierde mi desmedida curiosidad por las huellas que\ndejan los Pokémon.\c\nMe pongo a seguirles el rastro y claro, pasa lo que pasa:\n¡que me pierdo por completo!
+¿Tú también estás buscando Pokémon de esos?
+Jobar, qué Treinador[VAR GENDBR(00FF,0100)]a tan fuerte.
+Creo que aquí hay muchos Pokémon.
+Pedí un plato de pasta hace la tira y aquí la peña pasa de\nmí. ¡Me estoy poniendo de una mala uva que no veas!
+¡Buah, pav[VAR GENDBR(00FF,0101)]oa, tengo un hambre que lo flipas!\nComo no jale algo pero ya, ¡me va a dar un yuyu!
+Zamparse la manduca aquí, encima mismito del mar,\ntiene su punto, ¿que no?\c\nNo es que esté para chuparse los dedos, precisamente,\n¡pero aun así esto de venir aquí es un vicio!
+No soy tan pipiolo como para tomarme a coña el combate\nsolo porque seas un[VAR GENDBR(00FF,0100)]a mocosill[VAR GENDBR(00FF,0101)]oa. ¡Paso!
+Profesional, muy profesional...
+Je, je, je...\nEres un[VAR GENDBR(00FF,0100)]a profesional como la copa de un pino, ¿eh?
+Ten cuidado con los Pokémon de tipo Hada, ¡porque\nse exaltan a la mínima!
+Mis fuerzas se han extinguido por completo.
+Me pica la curiosidad...\c\n¿Cómo podría hacer que los Pokémon de tipo Hada se\nllevasen bien con los Pokémon de tipo Fuego?
+Ji, ji, ji...\n¡No me empañes las gafas!
+Snif, snif...
+Buf, estamos apañados... ¡Con tanta lágrima se me han\nempañado las gafas y no veo un pijo!
+Me pregunto yo si habrá alguna ruina por estos lares\ncapaz de satisfacer mis expectativas...
+¡Oh, qué misterioso!
+Mi afán por recorrer el mundo se debe a motivos\nlaborales. La ingente cantidad de ruinas que había en\r\nSinnoh y otras regiones despertó mi curiosidad.
+Oye, que quede entre nosoutros, ¿vale?\c\nMe compré este bikini el año pasado, pero ahora me\naprieta tanto que no me deja casi ni respirar.
+Qué pesadez siento en el cuerpo...
+Practico natação todos los días con mis Pokémon de\ntipo Agua y estoy a dieta, pero no hay manera...
+¡Me chifla el Poké Recreo que no veas!\n¿Qué pasa? ¿Tienes algún problema?
+A mí los combatitos estos se me dan de pena.
+Me cae gorda la peña que va de tiquismiquis con la moda\no las aficiones de los demás.
+Cuando me meto en la hierba alta, no me salta ni el tato.\n¿Será porque meto miedo con esta jeta que tengo?
+Tiene que ser la caña tener un equipe Pokémon tan\nfardón...
+Capturar Pokémon me estaba resultando chungo de\nnarices, así que he decidido agenciarme un Huevo\r\npara criarlo, ¡y punto pelota!
+¡Ostras, pero si eres tú! ¿Qué tal te va, tronc[VAR GENDBR(00FF,0101)]oa?\n¿Te hace un combataco para celebrar el reencuentro?
+El rollo de siempre: tu equipe Pokémon es la leche de\nfuerte.
+Hmmm...\c\nComo con esta facha que tengo los Pokémon no salen\na mi encuentro ni de coña, quizá debería ponerme una\r\nmáscara o algo...
+Yo flipo, ¡tienes una fuerza que pa qué!\c\nTe voy a dar un regalillo así, de extranjis, sin que se\ncosque el personal. ¡Que te aproveche!
+Oye, que te quede bien clarita una cosa antes de luchar:\n¡soy negada hasta decir basta para esto de los combates!
+¿Ves?
+De fuerza, lo que se dice fuerza, voy sobrada.\nAhora, como Treinadora soy una auténtica manta.\c\nPero oye, lo he pasado de fábula combatiendo contra ti.\n¡Tenemos que repetir alguna vez, chorb[VAR GENDBR(00FF,0101)]oa!
+¡Vaya, pero si eres tú!\c\nHas venido a echarte unos combates Pokémon conmigo,\n¿no? Si es que es un vicio...\c\n¡Pues ojito, que igual he mejorado y todo!
+Tsch, está claro que tienes fuerza de sobra.
+Me mola mogollón esto de combatir contra ti.\n¡Aquí estaré para desafiarte de nuevo cuando te pete!
+¡Gracias por pasarte por aquí, tí[VAR GENDBR(00FF,0101)]oa!\c\nTe voy a dar esto, porque soy así de guay, ya ves.
+Cuando le dije a todo el mundo que podía hablar con los\nPokémon, se empezaron a preocupar por mí...
+¡Mi pobre Pokémon! ¿Te has hecho daño?
+Me parece más divertido hablar con los Pokémon que\ncon la gente...\c\nPero combatir contra Treinadores también tiene su\ngracia.
+Hola, Treinador[VAR GENDBR(00FF,0100)]a.\nSeguro que has venido a disputar un combate, ¿a que sí?
+Esto de los Pokémon parece divertido...
+Cada vez lo tengo más claro: me resulta más entretenida\nla compañía de los Pokémon que la de las personas.\c\nPero tampoco me disgusta combatir, porque veo que\neso también hace felices a los Pokémon.
+Te voy a dar esto de presente, porque lo he pasado muy\nbien...
+Para un viajero empedernido como yo, los Pokémon son\ncompañeros inseparables.
+¿Qué te ha parecido mi Pokémon?
+Lo más duro que puede sucederte en un viaje es\nquedarte solo.\c\nPero mientras me acompañe mi Pokémon, nunca\ntendré que preocuparme por eso.
+Ya tengo 54 tacos, colega. ¡Se dice pronto!\c\nY todos los días dale que te pego a los combates.\n¡Pim, pam, pim, pam!
+Me has pillado en bragas.
+Mi equipe Pokémon y yo somos uña y carne, tronc[VAR GENDBR(00FF,0101)]oa.\nDe toda la vida.
+Uaaah, ¡tienes una pinta de fuerte que tira pa’trás!\nIgual me sale más a cuenta pasar del tema...
+¿Ves? ¡Si es que estaba más claro que el agua!
+¡Eso del Supertreinamento es un peñazo!\nEntrenar Pokémon es megaultrachungo.
+¡Yo trato siempre de pescar la pieza más grande!\nNo tengo tiempo para renacuajos como tú.
+Vaya, por la boca muere el pez.
+Basta con tirar del carrete para apreciar la esencia del arte\nde la pesca.\c\n¡A nuestra estirpe la mera sensação de un sedal tenso\nnos vuelve locos!
+Cuando lanzo la caña, me pongo a filosofar...\c\n¿Qué es realmente un combate Pokémon?
+La pesca es pura filosofía...
+Para encontrar sosiego no hace falta nada más que\ntirar de la caña.
+¡La pesca consiste en un combate entre Pokémon y\npersonas!\r\n¡No es ni una afição ni un deporte ni esas gaitas!
+Esto también es un combate...
+Por lo que tengo entendido, en este mundo hay varios\ntipos de cañas.\c\nMe gustaría capturar Pokémon con cada uno de ellos.
+Glu, glu, glu...\n(¡Ahí va, un combate Pokémon!)
+Glu...
+Glu, glu...\n(¡Me lo he pasado muy bien, tenemos que repetir!)
+Glu, glu, glu...\n(¡Te apetece un combate, eh!)
+Glu...
+Glu, glu...\n(No falla, ¡siempre es divertido!)
+Glu, glu...\n(Toma, me he encontrado esto.)
+¡Glu, glu, glu!\n(Oye, ¿pero de qué vas?)
+¡Glu, glu, glu!
+¡Glu, glu, glu!\n(¡Mi Pokémon se ha dado el piro!)
+Glub, glub...\n(¿Eh? ¿Me estás proponiendo un combate?)
+Glub...
+Glub, glub, glub...\n(¡Lo he pasado pipa! Cuando quieras, repetimos.)
+Glub, glub...\n(¡Cuánto tiempo! Te he estado esperando.)
+Glub...
+Glub, glub, glub...\n(Gracias por hacer el esfuerzo de venir hasta aquí.)
+Glub...\n(Gracias por venir. Toma esta muestra de agradecimiento.)
+Glub, glub...\n(La verdad es que el mar de Hoenn es bien bonito.)
+Glub...
+Glub, glub, glub...\n(Solo con estar bajo el agua me pongo de buen humor.)
+Glub, glub...\n(Estoy buscando un Pokémon llamado Corsola.)
+Glub, glub, glub...
+Glub, glub...\n(Estoy avistando algunos Corsola.)
+Glub, glub...\n(No es que me esté ahogando ni nada. ¡Qué va!)
+¡Glub!
+Glub, glub, glub...\n(Estoy de caza.)
+A los Treinadores Guays los puedes encontrar incluso\nen el mar. ¡Aunque no sepan nadar!
+¡Ay, que me caigooo!
+Fiu, por poco me caigo de mi Pokémon...\nLa vida es dura hasta para los Treinadores Guays.
+En realidad llevo un bikini debajo, pero si me quito este\nuniforme no se notaría que soy una Treinadora Guay.
+Me has salpicado y ahora estoy calada hasta los huesos.
+Halaaa, tengo la ropa empapada...\c\nYa puestos, casi sería mejor hacerme Nadadora.
+¿Quieres combatir contra mí, [VAR GENDBR(00FF,0403)]tíonena?\n¡De buten! Tranqui, que me lo monto de legal.
+Me pican los ojos cosa mala con tanta salpicadura...
+Por mucho que me haya empapado y perdido, sigo\nsiendo un tipo enrollado.
+¡Podría nadar perfectamente aunque no llevase este\nflotador, eh!
+Me ha estorbado el flotador.
+Es que mi madre siempre me está dando la lata con eso\nde ponerme el flotador.\r\n¡No me queda más remedio que llevarlo!
+El flotador este parece una rosquilla.\nSi me lo como, igual hasta está rico y todo.
+Qué hambre me ha entrado...
+¡Me encantan las rosquillas!\nMe pregunto si a los Pokémon también les gustan.
+Cuando me dejo mecer por las olas, siento como si se me\nobnubilase el instinto para los combates y perdiese la sed\r\nde victoria.
+Fíjate, ni siquiera me da rabia perder.
+Al ver a todo el mundo rendido al vaivén de las\nolas, se le olvidan a uno todas las trivialidades.
+Por lo que parece, según cuenta cierta leyenda que se ha\ntransmitido de generação en generação, Hoenn es la\r\nregión de donde es originaria la megaevolução.
+¿Así que megaevolução, eh?
+Para desentrañar el enigma que rodea al fenómeno de la\nmegaevolução, hace falta investigarlo aquí en Hoenn.
+No me metas en el mismo saco que a los Nadadores.\n¡Nosoutros venimos aquí exclusivamente a combatir!
+¿Me hundiré en el mar sin remedio?
+¡El triatlón está considerado como un deporte para\nhombres de hierro!\c\nEntrenarse con los Pokémon es indispensable para\nsalir airoso de esta cruenta batalla.
+¡Glu, glu!\n(Me pillas en plena búsqueda de tesoros.)
+¡Glu!
+¡Glu, glu, glu!\n(Estar bajo el agua: eso sí que es una aventura...)
+¡Glu, glu!\n(Bucear es posible hasta para los que no saben nadar.)
+¡Glub, glub! ¡Gluuub!
+¡Glub, gluuub!\n(Bucear es la mar de sencillo: basta con hundirse.)
+Glu, glu...\n(¿Eh? ¿Tú eres Treinador[VAR GENDBR(00FF,0100)]a o no?)
+Glu...
+Glu, glu, glu...\n(No eres capaz de practicar el buceo libre, ¿verdad?)
+¡Glu, glu, glu!\c\n(Me he convertido en un Pokémon de tipo Agua. ¡Ahí es\nnada!)
+¡Glu, glu!
+¡Glu, glu!\n(He cumplido mi sueño de convertirme en un Pokémon.)
+¡Venga, date prisa y empecemos de una vez!\nEsta brisa marina no es nada buena para mi piel.
+Ya está, se acabó.
+Estos rayos UVA incesantes y el salitre le van a venir fatal\na mi piel...\c\nAy, ¡cómo detesto el mar!
+La clave para usar con tino la caña es una buena postura.\nEjercitar bien las caderas: ¡he ahí el quid de la cuestión!
+¡Sí, señor! ¡Buena postura!
+Para refinar tu destreza como pescador[VAR GENDBR(00FF,0100)]a, ¡no hay nada\nmás importante que una región lumbar en plena forma!\c\nVenga, vamos a ejercitarla juntos. ¡Un, dos, tres!
+Una vez echada la caña, es fundamental no perder de\nvista el cebo y perseverar hasta que piquen.
+Vaya, no has mordido el anzuelo...
+A fuerza de armarse de paciencia y esperar hasta que\npiquen, la pesca acaba mejorando tu resistencia.
+Estaba echando una siestecilla en la playa cuando, de\ngolpe y porrazo, la marea me arrastró y aquí estoy.
+Glu, glu...
+El sonido de las olas es como una nana, ¿verdad?
+En qué estaría pensando yo cuando me dio por la pesca...\nPor muchas ganas que le ponga, se me da fatal.
+Si es que estoy más pez en esto...
+Me dedico a pescar y a combatir porque me divierte.\c\nPor eso, siempre lo paso bien independientemente del\nresultado.
+Y una vez emprendido mi viaje a Hoenn, un[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a\nque me encontré por el camino decidió invitarme a un\r\ncombate.
+Y lo perdí, por desgracia.
+Solo con disputar un combate en mi lugar de destino\nsiento que mi viaje ha tenido sentido.
+Glu, gluuu...\n(El mar de Hoenn es famoso por su belleza.)
+Glu...
+Glu, glu...\n(Muchos buceadores sienten una auténtica devoção por\r\neste mar.)
+Glu, glu...\n(¿Comprendes mis señales?)
+Glu, glu...
+Glu, glu...\n(Con esos gestos te quería decir que es divertido esto de\r\nlos combates.)
+Glu, glu...\n(¿Acaso eres tú mi presa de hoy?)
+Glu...
+¡Glu, glu!\n(Arg, ¡han cambiado las tornas de repente!)
+Glu, glu...\n(Ya han pasado 20 minutos y 14 segundos...)
+Glu...
+Glu...\n(Buf, me estoy quedando sin respiração...)
+¡Que no, que no tengo estas pintas porque me guste!\nEs que soy un Domadragón y... ¡esto es lo que hay!
+Uh... Aquí ha habido un malentendido.
+Este es el uniforme de Domadragón convencional.\c\nPero hay muchos Treinadores a los que les repele tanto\nque han dejado incluso de ser Domadragones.
+Mis músculos me están hablando. Siento como si me\nestuviesen proponiendo que combata contra ti.
+No es que me estén sudando los músculos, más bien\nestán llorando.
+He entrenado tanto mi musculatura interna que he\nacabado por desarrollar la facultad de oír su voz.
+Según parece, las pinturas rupestres que se hallan en\nesta cueva relatan lo acontecido en Hoenn hace un\r\nmontón de años.
+Vaya, se puede decir que me has ayudado a saciar\nmi sed de conocimientos.
+Estudiar la historia nos permite aprender de las personas\nque pasaron a formar parte de ella.
+¡Uehee! Me dirigía al Auditorio ese de los concursos,\npero me he perdío, mire usted. ¡Seré cazurro!
+¡Madre mía! ¿Y ahora qué hago? ¡Que no me pase na!
+Ay, la madre del cordero... Y yo que iba to listo para\nparticipar en el Gran Concurso ese...\c\n¡Se iba a rendir el público a mis pies, fíjese!\nY no por el tufillo a choto que despiden, precisamente.
+Aprovecho que salgo de excursión para capturar\nPokémon.
+Tampoco es que tuviese muchas ganas de combatir...
+Quizá no abundan mucho los Pokémon buenos en esta\nzona...
+[~ 2600]
+[~ 2601]
+No tengo tiempo para cháchara.\c\nTe voy a demostrar esta confianza inquebrantable que\ntengo en mis capacidades.
+Vaya, has hecho añicos mi férrea convição.
+Los perdedores nada tienen que decir.
+Encontrarnos aquí foi cosa del destino.\n¡Y tu derrota ya está escrita!
+¡Cómo te atreves!
+Puf...\c\nQué mal me has hecho quedar. Y eso que ya tenía\npreparada la frase con la que restregarte mi victoria.
+Buah, si un[VAR GENDBR(00FF,0100)]a renacuaj[VAR GENDBR(00FF,0101)]oa como tú va por ahí fardando\nentonces yo, con lo fiera que soy, ¡seguro que arraso!
+Eso me pasa por subestimarte e ir de sobrado.
+Eres la pera limonera, colega. ¡Me has caído bien!\n¿Por qué no te unes a nuestra panda?
+¡Los Pokémon de tipo Dragón son los más fuertes!\n¿No lo sabías? ¡Pues déjame demostrártelo, pardill[VAR GENDBR(00FF,0101)]oa!
+Serás...
+Oye, ¡pues no se te da nada mal esto!\nA partir de ahora te voy a considerar mi archienemig[VAR GENDBR(00FF,0101)]oa.
+¡No te acerques ni un paso más!\n¡Mi hermana es solo para mí!
+Quietecit[VAR GENDBR(00FF,0101)]oa.\nNi se te ocurra tocar a mi hermana.
+Lisa: ¿Estás bien, hermanita?\nNerea: ¡Lisa!
+Por mí podemos volver a combatir cuando quieras, no\nme caen mal los Treinadores fuertes ni nada de eso.\c\n¡Pero mi hermana solo tiene ojos para mí!\n¡No la pienso compartir con nadie!
+Tu fuerza es impresionante.\c\nPero quedas avisad[VAR GENDBR(00FF,0101)]oa: no te acerques a mi hermana ni de\nbroma.
+¡No, no, no y no! ¡Combatir sola es un rollo!\n¡Sin mi hermana no soy nada!
+Imposible.\c\nNo puedo dejar a mi hermana sola.
+¡Ya estabas tratando de llevarte a mi hermana por ahí, eh!\n¡Se ve a leguas!\c\nPues que lo sepas: ¡no se va a separar nunca de mí!
+No puede ser...\c\nTú otra vez...\c\nSerá posible que vuelvas a por mi hermana...
+Lisa: ¡Aguanta, hermanita!\nNerea: ¡Lisa!
+¡Me importa un comino las veces que vengas por aquí!\n¡Mi hermana es mía y solo mía!
+Ni hablar.\c\nNo voy a separarme de mi hermana por nada del mundo.
+¡Odio combatir sola!\n¡Tiene que ser junto a mi hermana!
+No...\c\nNo puedo dejar sola a mi hermana.
+¡Toma, te voy a dar algo guay!\nCon una condição: ¡que no te acerques a mi hermana!
+Llévate esto.\c\nAhora hazme el favor de no volver a acercarte a mi\nhermana, si no te importa.
+¿Te crees capaz de romper el vínculo fraternal que la\nmagia de las hadas ha creado entre nosotras?
+Un colosal sortilegio fantasmagórico ha creado un vínculo\nfraternal entre nosotras. ¡Somos las más fuertes!
+Marga: ¡Nooo! ¡Se ha roto el hechizo!\nEva: ¡Aaah, el sortilegio se ha esfumado!
+Nuestra hermandad se ha disuelto, por así decirlo.\n¡Vuelve a vernos alguna otra vez, Treinador[VAR GENDBR(00FF,0100)]a!
+Es una niña que vive en mi barrio. Tener a una niña como\ncompañera de equipe cansa mucho...
+¿Eh? ¿Solo tienes un Pokémon?\nPues yo solo quiero Combates Dobles. ¡O eso, o nada!
+Creo que mi compañera quiere disputar un Combate\nDoble. Solo necesitas un Pokémon más, ¡así que ya\r\nsabes!
+¡Oh! ¡Eres [VAR GENDBR(00FF,1614)]el primer Treinadorla primera Treinadora a[VAR GENDBR(00FF,0301)]l la que nos vamos a\nenfrentar desde que hemos formado equipe!\c\nSomos la conjunção perfecta de Cuerpo y Mente.\n¡Nos vamos a dejar la piel sobre el terreno de combate!
+¡Fantástico! Eres [VAR GENDBR(00FF,1614)]el primer Treinadorla primera Treinadora que nos desafía\na un combate desde que formamos equipe.\c\nSomos la conjunção perfecta de Cuerpo y Mente.\n¡No vamos a escatimar esfuerzos para derrotarte!
+Manu: ¡Gracias!\nPío: ¡Hemos aprendido mucho!
+Buf, ¡tienes una fuerza de la leche!\n¿Me permites llamarte sensei?
+¡Guau, foi realmente trepidante!\n¿Nos permites ser tus discípulos, porfaaa?
+Se siente, pero nosoutros combatimos en pareja.\nNecesitamos que la modalidad sea el Combate Doble.
+Nosoutros queremos disputar Combates Dobles.\nNo nos obligues a enfrentarnos en un uno contra uno.
+¡Buenos días, sensei!\nEstamos listos para entrenar a conciencia. ¡Ilústrenos!
+¡Buenos días, maestr[VAR GENDBR(00FF,0101)]oa!\nPor favor, ¡corrija nuestras técnicas!
+Manu: ¡Gracias, sensei!\nPío: ¡Muchas gracias, maestr[VAR GENDBR(00FF,0101)]oa!
+¡Es usted impresionante, sensei!\c\nNuestro objetivo como equipe es llegar a tener algún día\nuna técnica tan refinada como la suya.
+¡Muchas gracias por todo, maestr[VAR GENDBR(00FF,0101)]oa!\c\nSiempre aprendemos un sinfín de cosas combatiendo\ncontra usted. ¡Esperamos volver a verl[VAR GENDBR(00FF,0101)]oa!
+Lo siento de veras, sensei...\c\nMe disgusta tener que llevarle la contraria, pero me temo\nque nos resulta imposible disputar Combates Individuales.\c\n¡Es que nosoutros queremos luchar en equipe!
+Le ruego que me perdone, maestr[VAR GENDBR(00FF,0101)]oa...\c\nAunque sean sus órdenes, me temo que no podemos\nenfrentarnos en un Combate Individual.\c\nPor favor, ¡déjeme combatir con mi compañero!
+Sensei, esto no es más que un humilde presente, pero...\n¡acéptelo como muestra de nuestro agradecimiento!
+Maestr[VAR GENDBR(00FF,0101)]oa, esto no es más que un humilde presente, pero...\n¡acéptelo como muestra de nuestro agradecimiento!
+¡Oye, tú! ¡Me acaba de abordar un[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a!\n¡Venga, espabila! El burro delante, pa que no se espante.
+¡Eh, tú! ¡Me está hablando un[VAR GENDBR(00FF,0100)]a Treinador[VAR GENDBR(00FF,0100)]a!\nYa sabes el plan: ¡tú primero, a repartir cera!
+Rich: ¡La has pifiado, mostrenco!\nKiko: ¡Pero si la culpa foi tuya, inútil!
+Disculpe, es que este torpe me estaba estorbando\nsobremanera; no está habituado a los Combates Dobles.\c\n(Bueno, yo tampoco es que sea un hacha...).
+Lamento el bochornoso espectáculo que hemos ofrecido.\nEs que mi compañero no es más que un principiante.\c\n(Bueno, mi técnica tampoco es como para tirar\ncohetes...).
+Esto... Mil perdones por las molestias, pero...\nEs que nosoutros queremos disputar Combates Dobles...
+Esto... Cómo lo diría yo... Es que somos un equipe de\nCuerpo y Mente que se dedica a los Combates Dobles...
+Vaya, mira a quién tenemos por aquí...\c\nComo súbdita del Maestro Treta que soy, atravieso todo\naquello que se interponga en mi camino.
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa, aspirante!\c\nComo súbdito del Maestro Treta que soy, desvío todos\nlos ataques dirigidos contra mí.
+Mona: Maestro Treta...\nLuis: Maestro Treta...
+Soy una súbdita del Maestro Treta...\nBueno, al menos mientras trabaje para él.
+Soy un súbdito del Maestro Treta...\n¡Aunque solo sea un becario de prácticas!
+Si quieres combatir contra dos súbditos del Maestro Treta\ncomo nosoutros, vas a necesitar más Pokémon...
+Si quieres combatir contra dos súbditos del Maestro Treta\ncomo nosoutros, ¡ven preparad[VAR GENDBR(00FF,0101)]oa para un Combate Doble!
+Je, mira qué Treinador[VAR GENDBR(00FF,0100)]a tan mon[VAR GENDBR(00FF,0101)]oa...\nMe pregunto cuánto tiempo podrás aguantar mis ataques.
+Formamos una pareja invencible, ya verás...\n¡Se te va a quedar bien grabadito en la memoria!
+Tara: Brrr, pero qué...\nNico: ¡Lo siento en el alma, señorita!
+Esto no puede quedar así.\nTenemos que volver a vernos las caras en otra ocasión.
+No todas las parejas tienen por qué estar a la par.\nYo solo soy el humilde servidor de esta damisela.\c\nLa derrota que acabamos de sufrir se debe única y\nexclusivamente a los errores que he cometido yo.\c\nVamos, que me espera una buena reprimenda en forma\nde entrenamiento exhaustivo y agotador.
+Vaya, qué lástima.\nNosoutros somos Treinadores de Combates Dobles.
+Lo siento, pero no tienes suficientes Pokémon como para\nenfrentarte a nosoutros.
+Dichosos los ojos, Treinador[VAR GENDBR(00FF,0100)]a.\nEsta vez no pienso perder bajo ningún concepto.
+Este combate impregnará tu memoria, ¡aunque solo sea\npor las horas de entrenamiento invertidas!
+Tara: ¡Menudos errores tan imperdonables!\nNico: ¿Está bien, señorita?
+Pues yo no me doy por vencida tan fácilmente.\c\nEspero que nos volvamos a enfrentar algún día.
+A veces, los miembros de un equipe no están a la par.\nYo solo soy el humilde servidor de esta damisela.\c\nAhora bien, desde la primera vez que nos enfrentamos\na ti he podido ver que la señorita confía cada vez más\r\nen mí, je, je.\c\nAunque las sesiones de entrenamiento a las que me debo\nsometer como castigo también han ido aumentando de\r\ndificultad. Uf...
+¿Pero es que te has olvidado o qué? Pues te lo vuelvo a\nrepetir: somos Treinadores de Combates Dobles.
+¿Pero qué te pasa? Parece que te falte un hervor.\n¡Que no tienes Pokémon suficientes, [VAR GENDBR(00FF,0506)]hombremujer!
+Reconozco mi derrota sin ambages.\nAcepta esto como prueba de ello.
+foi un buen combate.\nToma, acepta sin reparos este pequeño detalle.
+Glu, glu, glu...\n(¡Todo Treinador que se precie combate donde sea!)
+Glu...
+Glu, glu...\n(Mis Pokémon me acompañan dondequiera que vaya.)
+¡Glu, glu, glu!\n(¡Objetivo a la vista! ¡A la cargaaa!)
+¡Glu!
+¡Glu, glu, glu!\n(Qué bochorno... Solo quiero que me trague la tierra...\r\nBueno, más bien el lecho marino.)
+Glu, glu, glu...\n(Oye, ¿tú sabes qué es eso de la nieve marina?)
+Glu...
+Glu, glu...\n(La nieve marina es la prueba fehaciente de lo exuberante\r\nque es el fondo marino.)
+¡Glub, glub!\n(Estoy buscando algún objeto que haya caído por aquí.)
+¡Glu!
+¡Glu, glu!\n(Tsch, no encuentro nada.)
+¿Eh? ¿Esa no es una de las bicis de Anacleto?
+¿Qué se podía esperar de alguien capaz de manejar\nuna de las bicis de Anacleto?
+Bici de Carreras o Bici Acrobática...\c\nTratándose de ti, ¡seguro que manejas cualquiera de las\ndos a la perfeção!
+Mi cometido es poner a prueba a los futuros atletas\nque vienen a este Camino de Bicis.
+¡Está claro que tienes lo que hay que tener para alcanzar\nla meta de este Camino de Bicis!
+No te cortes y da rienda suelta a tu vena ciclista por este\nCamino de Bicis. ¡Pedalea hasta reventar!
+[~ 2701]
+La silla se aleja de mí cada vez más...
+[~ 2703]
+[~ 2704]
+Qué mundo tan cruel...
+[~ 2706]
+[~ 2707]
+¡Jo, qué rabia!
+[~ 2709]
+[~ 2710]
+Qué le vamos a hacer...
+[~ 2712]
+[~ 2713]
+Cuando menos te lo esperes... ¡te castigaré!
+[~ 2715]
+[~ 2716]
+Que te aproveche la silla.
+[~ 2718]
+[~ 2719]
+¡Ya te vale! ¡Abus[VAR GENDBR(00FF,0302)]ónona!
+[~ 2721]
+[~ 2722]
+Las Magnebóndigas frías no valen nada.\nEstarás content[VAR GENDBR(00FF,0101)]oa.
+[~ 2724]
+[~ 2725]
+¡Qué tenacidad!
+[~ 2727]
+[~ 2728]
+Te he subestimado.
+[~ 2730]
+[~ 2731]
+Grrr...
+[~ 2733]
+[~ 2734]
+Tú no le tienes miedo a nada, ¿no?
+[~ 2736]
+[~ 2737]
+Ahora entiendo que ganaras a mi colega.
+[~ 2739]
+[~ 2740]
+Se te da bien esto...
+[~ 2742]
+[~ 2743]
+Espero que el jefe me perdone.
+[~ 2745]
+[~ 2746]
+Pero qué...
+[~ 2748]
+[~ 2749]
+¡¿Pero quién eres tú?!
+[~ 2751]
+[~ 2752]
+Vaya manera de perder.
+[~ 2754]
+[~ 2755]
+...
+[~ 2757]
+[~ 2758]
+Uh...
+[~ 2760]
+[~ 2761]
+¡Me rindo, me rindo!\nGuau, ¡eres la leche de fuerte!
+[~ 2763]
+[~ 2764]
+Buf, ¡ahora te has vuelto un pelo más fuerte y ya no hay\nmanera de ganarte!
+[~ 2766]
+¡Sí, señor! ¡Bien hecho! Has hecho honor a tu fama.
+Mira que derrotar a alguien del Clan Sootopolis como yo\nque ha puesto todo su empeño en el combate...
+¡Una nueva derrota!
+Soy consciente de que no tengo posibilidades, pero\neso no me quita la desazón.
+Ah... Qué hambre tengo...
+¡Una nueva derrota!
+Soy consciente de que no tengo posibilidades, pero\neso no me quita la desazón.
+Ah... Qué hambre tengo...
+Qué... ¡Qué fuerte!
+¡¿Cómo podéis ser tan fuertes si sois solo unos niños?!
+¡Son muy fuertes!
+¡Tu fuerza es digna de menção!\n¡La cabeza me da vueltas!
+Tan fuerte como siempre...
+Sabía que no podría ganar, pero...
+Yo soy Ali. Y esta es mi hermana, Lía.\n¡Luchamos juntas, como buenas hermanas!
+Somos dos, ¡pero siempre combatimos como si fuésemos\nuna sola persona!
+Ali: ¡Jo, qué rabia! Otra victoria a la porra...\nLía: ¡Jopé, hemos vuelto a perder, hermanita!
+Cuando combates contra dos rivales, hay que darle\nmuchas vueltas a la cabeza, ¿verdad?
+Mi hermana y yo nos compenetramos a la perfeção...\n¿Cómo es posible que hayamos perdido de nuevo?
+¿Eh? ¡Pero si solo tienes un Pokémon!\n¡Así vas list[VAR GENDBR(00FF,0101)]oa si quieres combatir contra nosotras!
+¡Si quieres que disputemos un combate tienes que llevar\nen tu equipe al menos dos Pokémon!\r\nEs que si no, ¡vaya churro de combate!
+¡Toma, Treinador[VAR GENDBR(00FF,0100)]a!\nNos da rabia perder, pero te mereces un premio.
+¡Toma, Treinador[VAR GENDBR(00FF,0100)]a!\nNos da rabia perder, pero te mereces un premio.
+Vaya, hombre, he vuelto a perder...
+No esperaba menos de ti.
+Menudo bochorno que hace...
+¡Excelente!
+Buf...
+[VAR TRNAME(0000)]!\c\n¡Déjame mostrarte los frutos de mi entrenamiento!\n¡Esta vez voy a utilizar a mi equipe de gala!
+¡Uaaah!
+Arg... arf...\c\nNo sé si me será mejor hacer borrón y cuenta nueva para\nempezar a entrenarlos desde cero...\c\nPero ¿qué se podía esperar de ti? ¡Has derrotado a mi\nflamante equipe titular, ni más ni menos!\c\nPero bueno, de todas formas eso no quita que me sigan\npareciendo muy divertidos los combates Pokémon.\c\nAl pasar todos los días compaginando entrenamientos\ncon combates, he llegado a esa conclusión.\c\nLo paso tan bien aquí que tengo la sensação de haber\nencontrado mi sitio.\c\n¡Estoy seguro de que me volveré cada vez más fuerte!\nY si no, ¡al tiempo! ¡Dame la oportunidad en un futuro\r\nde combatir contra ti otra vez!
+Arf... ah...\c\n[VAR TRNAME(0000)], arf... Toma esto, un detallito para ti.
+¿Cómo te atreves a entrar en nuestra guarida?\n¡Vas a receber tu castigo!
+¡Me ha salido el tiro por la culata! ¡Y ya van dos veces!
+Entonces, ¿no eres un[VAR GENDBR(00FF,0908)] intrusoa intrusa?\c\nLo siento... Pensaba que eras amig[VAR GENDBR(00FF,0101)]oa de la chica de\nantes...\c\nLa que ha irrumpido en nuestra guarida y nos ha dado\ntantos quebraderos de cabeza.
+Si quieres ver al jefe, tendrás que pasar primero por\nencima de mí.\c\nPero antes criarán pelo los Politoed que vencerme tú\nen combate.
+Peines para Politoed...\nVendo peines para Politoed.
+¿Se puede saber qué os pasa a ti y a la chica de antes?\c\nSé que los adolescentes estáis llenos de energía y que\nos gusta todo lo que está prohibido, pero de eso a\r\ncolaros en guaridas ajenas...\c\n¿Eh? ¿Cómo dices? ¿Que no vais junt[VAR GENDBR(00FF,0101)]oas?\nAh... Vale, retiro lo dicho.
+¡Eh, alto! Así que pretendes irrumpir en nuestra guarida,\n¿eh? ¡Te voy a dar una leção!
+La leção me la he llevado yo.
+¿Eh? ¿No eres un[VAR GENDBR(00FF,0908)] intrusoa intrusa?\nVaya, perdona la confusión.\c\nPensaba que ibas con esa otra que ha entrado antes\ny nos las ha hecho pasar canutas.
+Si quieres enfrentarte a Aquiles, primero tendrás que\nderrotarme a mí...\c\nEn sueños, claro.
+Vaya, ¿estamos soñando?
+¿Se puede saber qué os pasa a ti y a la chica de antes?\c\nSé que sois jóvenes y que no tenéis muy claro el\nconcepto del bien y el mal... ¡Pero colarse en guaridas\r\najenas está mal!\c\n¿Eh? ¿Cómo dices? ¿Que no vais junt[VAR GENDBR(00FF,0101)]oas?\nAh... Vale, retiro lo dicho. Perdona.
+Patrullando por aquí, patrullando por allá...\c\n¿Eh? ¡Alerta! ¡Intrus[VAR GENDBR(00FF,0101)]oa avistad[VAR GENDBR(00FF,0101)]oa!
+Mejor seguimos patrullando como quien no quiere\nla cosa...
+Te recomiendo que sigas todo recto. ¡Seguro que te lo\npasarás en grande! ¡Ji, ji, ji!
+Patrullando por aquí, patrullando por allá...\c\n¿Eh? ¡Alerta! ¡Intrus[VAR GENDBR(00FF,0101)]oa avistad[VAR GENDBR(00FF,0101)]oa!
+Mejor seguimos patrullando como quien no quiere\nla cosa...
+Te recomiendo que sigas todo recto. ¡Seguro que te lo\npasarás en grande! ¡Ji, ji, ji!
+¡No esperaba menos de ti, [VAR TRNAME(0000)]!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+¡No esperaba menos! ¡Tu equipe y tú sois muy fuertes,\naunque me repatee admitirlo!
+~~~~~~~~~~~~~~~

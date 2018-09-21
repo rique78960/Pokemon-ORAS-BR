@@ -1,0 +1,863 @@
+~~~~~~~~~~~~~~~
+Text File : 54
+~~~~~~~~~~~~~~~
+Mesa[VAR NUMBRNCH(00FE,0A08)] Pequenas Pequenas
+Pokémesa[VAR NUMBRNCH(00FE,0100)]s
+Mesa[VAR NUMBRNCH(00FE,0907)] Pesadas Pesadas
+Mesa[VAR NUMBRNCH(00FE,0A08)] Rústicas Rústicas
+Mesa[VAR NUMBRNCH(00FE,0907)] Cômodas Cômodas
+Mesa[VAR NUMBRNCH(00FE,0907)] Bonitas Bonitas
+Mesa[VAR NUMBRNCH(00FE,0100)]s Ladrillo
+Mesa[VAR NUMBRNCH(00FE,0100)]s de Campo
+Mesa[VAR NUMBRNCH(00FE,0907)] Fortes Fortes
+Mesa[VAR NUMBRNCH(00FE,0100)]s Iceberg
+Taburete[VAR NUMBRNCH(00FE,0A08)] Pequenos Pequenos
+Pokétaburete[VAR NUMBRNCH(00FE,0100)]s
+Taburete[VAR NUMBRNCH(00FE,0907)] Pesados Pesados
+Taburete[VAR NUMBRNCH(00FE,0907)] Bonitos Bonitos
+Taburete[VAR NUMBRNCH(00FE,0907)] Cômodos Cômodos
+Taburete[VAR NUMBRNCH(00FE,0A08)] Rústicos Rústicos
+Taburete[VAR NUMBRNCH(00FE,0100)]s Ladrillo
+Taburete[VAR NUMBRNCH(00FE,0100)]s de Campo
+Taburete[VAR NUMBRNCH(00FE,0907)] Fortes Fortes
+Tapete[VAR NUMBRNCH(00FE,0100)]s Agasajo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Agasajo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Agasajo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Agasajo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Agasajo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Surf
+Tapete[VAR NUMBRNCH(00FE,0100)]s Trovão
+Tapet[VAR NUMBRNCH(00FE,0101)]e. Labareda
+Tapete[VAR NUMBRNCH(00FE,0100)]s Neve
+Tapet[VAR NUMBRNCH(00FE,0101)]e. Atração
+Tapete[VAR NUMBRNCH(00FE,0100)]s Fissura
+Tapete[VAR NUMBRNCH(00FE,0100)]s Espinhos
+Tapete[VAR NUMBRNCH(00FE,0806)] Verdes Verdes
+Tapete[VAR NUMBRNCH(00FE,0A08)] Laranjas Laranjas
+Tapete[VAR NUMBRNCH(00FE,0805)] Azuls Azuis
+Tapete[VAR NUMBRNCH(00FE,0A08)] Chafadas Chafadas
+Planta[VAR NUMBRNCH(00FE,0705)] Vermelhas Vermelhas
+Planta[VAR NUMBRNCH(00FE,0C09)] Tropicals Tropicais
+Flores Bonitas[VAR NUMBRNCH(00FE,0000)]
+Planta[VAR NUMBRNCH(00FE,0B09)] Coloridas Coloridas
+Planta[VAR NUMBRNCH(00FE,0907)] Grandes Grandes
+Planta[VAR NUMBRNCH(00FE,0907)] Enormes Enormes
+Árvor[VAR NUMBRNCH(00FE,0200)]es de Frutos
+Ladrillo[VAR NUMBRNCH(00FE,0705)] Rojos Rojos
+Ladr[VAR NUMBRNCH(00FE,0B0D)]illo Amarillo. Amarillos
+Ladrillo[VAR NUMBRNCH(00FE,0805)] Azuls Azules
+Adorno[VAR NUMBRNCH(00FE,0100)]s de Arena
+Escult[VAR NUMBRNCH(00FE,0103)]ura. Gimnasio
+Cama[VAR NUMBRNCH(00FE,0C0A)] Mulliditas Mulliditas
+Valla[VAR NUMBRNCH(00FE,0100)]s
+Tobog[VAR NUMBRNCH(00FE,0402)]ánanes
+Podio[VAR NUMBRNCH(00FE,0100)]s
+Neumático[VAR NUMBRNCH(00FE,0100)]s
+Tabla[VAR NUMBRNCH(00FE,0100)]s
+Escaleras[VAR NUMBRNCH(00FE,0000)]
+Post[VAR NUMBRNCH(00FE,0101)]e. Arte Marcial
+Empujomatic[VAR NUMBRNCH(00FE,0100)]s
+Regulamento[VAR NUMBRNCH(00FE,0100)]s
+Pizarra[VAR NUMBRNCH(00FE,0100)]s
+Bola[VAR NUMBRNCH(00FE,0100)]s de Confeti
+Lámpara[VAR NUMBRNCH(00FE,0100)]s Vela
+Poké Flauta[VAR NUMBRNCH(00FE,0100)]s
+Licuabayas[VAR NUMBRNCH(00FE,0000)]
+Globo[VAR NUMBRNCH(00FE,0C0A)] Terráqueos Terráqueos
+Cajas de Cartón[VAR NUMBRNCH(00FE,0000)]
+Papelera[VAR NUMBRNCH(00FE,0100)]s
+Bloque[VAR NUMBRNCH(00FE,0100)]s de Piedra
+Adorno[VAR NUMBRNCH(00FE,0100)]s de Cristal
+Cand[VAR NUMBRNCH(00FE,0B0E)]elabro Estelar. Estelares
+Foco[VAR NUMBRNCH(00FE,0907)] Propios Propios
+Pisada[VAR NUMBRNCH(00FE,0100)]s Ralentí
+Tienda[VAR NUMBRNCH(00FE,0705)] Rojas Rojas
+Tienda[VAR NUMBRNCH(00FE,0805)] Azuls Azules
+Maqueta[VAR NUMBRNCH(00FE,0100)]s Cidade P
+Maqueta[VAR NUMBRNCH(00FE,0100)]s Cidade L
+Póster[VAR NUMBRNCH(00FE,0100)]s Poké Ball
+Póster[VAR NUMBRNCH(00FE,0806)] Verdes Verdes
+Póster[VAR NUMBRNCH(00FE,0705)] Rojos Rojos
+Póster[VAR NUMBRNCH(00FE,0805)] Azuls Azules
+Póster[VAR NUMBRNCH(00FE,0907)] Bonitos Bonitos
+Póster[VAR NUMBRNCH(00FE,0100)]s Pika
+Póster[VAR NUMBRNCH(00FE,0907)] Grandes Grandes
+Póster[VAR NUMBRNCH(00FE,0100)]s Mar
+Póster[VAR NUMBRNCH(00FE,0100)]s Cielo
+Póster[VAR NUMBRNCH(00FE,0100)]s Beso
+Lámina[VAR NUMBRNCH(00FE,0705)] Rojas Rojas
+Lámina[VAR NUMBRNCH(00FE,0805)] Azuls Azules
+Lámina[VAR NUMBRNCH(00FE,0806)] Verdes Verdes
+Lámina[VAR NUMBRNCH(00FE,0100)]s de Papá
+Infinid[VAR NUMBRNCH(00FE,0A0A)]ad Cósmica. Cósmicas
+Dipl[VAR NUMBRNCH(00FE,0C0C)]oma Regional. Regionales
+Dipl[VAR NUMBRNCH(00FE,0C0C)]oma Nacional. Nacionales
+Diploma[VAR NUMBRNCH(00FE,0100)]s Legado
+Boneco[VAR NUMBRNCH(00FE,0100)]s Pichu
+Boneco[VAR NUMBRNCH(00FE,0100)]s Pikachu
+Boneco[VAR NUMBRNCH(00FE,0100)]s Marill
+Boneco[VAR NUMBRNCH(00FE,0100)]s Togepi
+Boneco[VAR NUMBRNCH(00FE,0100)]s Cyndaquil
+Boneco[VAR NUMBRNCH(00FE,0100)]s Chikorita
+Boneco[VAR NUMBRNCH(00FE,0100)]s Totodile
+Boneco[VAR NUMBRNCH(00FE,0100)]s Jigglypuff
+Boneco[VAR NUMBRNCH(00FE,0100)]s Meowth
+Boneco[VAR NUMBRNCH(00FE,0100)]s Clefairy
+Boneco[VAR NUMBRNCH(00FE,0100)]s Ditto
+Boneco[VAR NUMBRNCH(00FE,0100)]s Smoochum
+Boneco[VAR NUMBRNCH(00FE,0100)]s Treecko
+Boneco[VAR NUMBRNCH(00FE,0100)]s Torchic
+Boneco[VAR NUMBRNCH(00FE,0100)]s Mudkip
+Boneco[VAR NUMBRNCH(00FE,0100)]s Duskull
+Boneco[VAR NUMBRNCH(00FE,0100)]s Wynaut
+Boneco[VAR NUMBRNCH(00FE,0100)]s Baltoy
+Boneco[VAR NUMBRNCH(00FE,0100)]s Kecleon
+Boneco[VAR NUMBRNCH(00FE,0100)]s Azurill
+Boneco[VAR NUMBRNCH(00FE,0100)]s Skitty
+Boneco[VAR NUMBRNCH(00FE,0100)]s Swablu
+Boneco[VAR NUMBRNCH(00FE,0100)]s Gulpin
+Boneco[VAR NUMBRNCH(00FE,0100)]s Lotad
+Boneco[VAR NUMBRNCH(00FE,0100)]s Seedot
+Boneco[VAR NUMBRNCH(00FE,0C0A)] Sustitutos Sustitutos
+Boneco[VAR NUMBRNCH(00FE,0100)]s Snorlax
+Boneco[VAR NUMBRNCH(00FE,0100)]s Rhydon
+Boneco[VAR NUMBRNCH(00FE,0100)]s Lapras
+Boneco[VAR NUMBRNCH(00FE,0100)]s Venusaur
+Boneco[VAR NUMBRNCH(00FE,0100)]s Charizard
+Boneco[VAR NUMBRNCH(00FE,0100)]s Blastoise
+Boneco[VAR NUMBRNCH(00FE,0100)]s Wailmer
+Boneco[VAR NUMBRNCH(00FE,0100)]s Regice
+Boneco[VAR NUMBRNCH(00FE,0100)]s Regirock
+Boneco[VAR NUMBRNCH(00FE,0100)]s Registeel
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Ball
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Pika
+Coj[VAR NUMBRNCH(00FE,0D0A)]ín Redondoines Redondos
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Beso
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Zigzagoon
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Spinda
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Diamante
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Planta
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Fuego
+Coj[VAR NUMBRNCH(00FE,0402)]ínines Agua
+Televisi[VAR NUMBRNCH(00FE,0402)]ónones
+Tele[VAR NUMBRNCH(00FE,0A08)] Redondas Redondas
+Tele[VAR NUMBRNCH(00FE,0907)] Bonitas Bonitas
+Lámpara[VAR NUMBRNCH(00FE,0806)] Viejas Viejas
+Lámpara[VAR NUMBRNCH(00FE,0A08)] Irisadas Irisadas
+Gramola[VAR NUMBRNCH(00FE,0100)]s
+Expendedora[VAR NUMBRNCH(00FE,0100)]s
+Quitalímites[VAR NUMBRNCH(00FE,0000)]
+Globo[VAR NUMBRNCH(00FE,0705)] Rojos Rojos
+Globo[VAR NUMBRNCH(00FE,0B09)] Amarillos Amarillos
+Globo[VAR NUMBRNCH(00FE,0805)] Azuls Azules
+Bola[VAR NUMBRNCH(00FE,0100)]s de Lodo
+Puerta[VAR NUMBRNCH(00FE,0705)] Raras Raras
+Hierba[VAR NUMBRNCH(00FE,0705)] Altas Altas
+Boneco[VAR NUMBRNCH(00FE,0C0A)] Camuflados Camuflados
+Tapete[VAR NUMBRNCH(00FE,0100)]s Brillo
+Tapete[VAR NUMBRNCH(00FE,0100)]s Muelle
+Tapete[VAR NUMBRNCH(00FE,0100)]s Giro
+Tapete[VAR NUMBRNCH(00FE,0100)]s Trampa
+Tapete[VAR NUMBRNCH(00FE,0100)]s Retorno
+Tapete[VAR NUMBRNCH(00FE,0100)]s Do Menor
+Tapete[VAR NUMBRNCH(00FE,0100)]s Re
+Tapete[VAR NUMBRNCH(00FE,0100)]s Mi
+Tapete[VAR NUMBRNCH(00FE,0100)]s Fa
+Tapete[VAR NUMBRNCH(00FE,0100)]s Sol
+Tapete[VAR NUMBRNCH(00FE,0100)]s La
+Tapete[VAR NUMBRNCH(00FE,0100)]s Si
+Tapete[VAR NUMBRNCH(00FE,0100)]s Do Mayor
+Girobaldosa[VAR NUMBRNCH(00FE,0100)]s RO
+Girobaldosa[VAR NUMBRNCH(00FE,0100)]s AZ
+Girobaldosa[VAR NUMBRNCH(00FE,0100)]s AM
+Telepanel[VAR NUMBRNCH(00FE,0200)]es RO
+Telepanel[VAR NUMBRNCH(00FE,0200)]es AZ
+Telepanel[VAR NUMBRNCH(00FE,0200)]es AM
+PC de Pega[VAR NUMBRNCH(00FE,0000)]
+Su[VAR NUMBRNCH(00FE,0D0A)] Ubicaçãos Ubicaciones
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+~~~~~~~~~~~~~~~
+Text File : 55
+~~~~~~~~~~~~~~~
+Mesas Pequeñas
+Pokémesas
+Mesas Pesadas
+Mesas Rústicas
+Mesas Cómodas
+Mesas Bonitas
+Mesas Ladrilho
+Mesas de Campo
+Mesas Fortes
+Mesas Iceberg
+Taburetes Pequenos
+Pokétaburetes
+Taburetes Pesados
+Taburetes Bonitos
+Taburetes Cómodos
+Taburetes Rústicos
+Taburetes Ladrilho
+Taburetes de Campo
+Taburetes Fortes
+Tapetes Agasajo
+Tapetes Agasajo
+Tapetes Agasajo
+Tapetes Agasajo
+Tapetes Agasajo
+Tapetes Surf
+Tapetes Trueno
+Alfombr. Llamarada
+Tapetes Nieve
+Alfombr. Atração
+Tapetes Fisura
+Tapetes Púas
+Tapetes Verdes
+Tapetes Naranjas
+Tapetes Azules
+Tapetes Chafadas
+Plantas Rojas
+Plantas Tropicales
+Flores Bonitas
+Plantas Coloridas
+Plantas Grandes
+Plantas Enormes
+Árboles de Bayas
+Ladrillos Rojos
+Ladr. Amarillos
+Ladrillos Azules
+Adornos de Arena
+Escult. Gimnasio
+Camas Mulliditas
+Vallas
+Toboganes
+Podios
+Neumáticos
+Tablas
+Escaleras
+Post. Arte Marcial
+Empujomatics
+Regulamentos
+Pizarras
+Bolas de Confeti
+Lámparas Vela
+Poké Flautas
+Licuabayas
+Globos Terráqueos
+Cajas de Cartón
+Papeleras
+Bloques de Piedra
+Adornos de Cristal
+Cand. Estelares
+Focos Propios
+Pisadas Ralentí
+Tiendas Rojas
+Tiendas Azules
+Maquetas Cidade P
+Maquetas Cidade L
+Pósters Poké Ball
+Pósters Verdes
+Pósters Rojos
+Pósters Azules
+Pósters Bonitos
+Pósters Pika
+Pósters Grandes
+Pósters Mar
+Pósters Cielo
+Pósters Beso
+Láminas Rojas
+Láminas Azules
+Láminas Verdes
+Láminas de Papá
+Infinid. Cósmicas
+Dipl. Regionales
+Dipl. Nacionales
+Diplomas Legado
+Bonecos Pichu
+Bonecos Pikachu
+Bonecos Marill
+Bonecos Togepi
+Bonecos Cyndaquil
+Bonecos Chikorita
+Bonecos Totodile
+Bonecos Jigglypuff
+Bonecos Meowth
+Bonecos Clefairy
+Bonecos Ditto
+Bonecos Smoochum
+Bonecos Treecko
+Bonecos Torchic
+Bonecos Mudkip
+Bonecos Duskull
+Bonecos Wynaut
+Bonecos Baltoy
+Bonecos Kecleon
+Bonecos Azurill
+Bonecos Skitty
+Bonecos Swablu
+Bonecos Gulpin
+Bonecos Lotad
+Bonecos Seedot
+Bonecos Sustitutos
+Bonecos Snorlax
+Bonecos Rhydon
+Bonecos Lapras
+Bonecos Venusaur
+Bonecos Charizard
+Bonecos Blastoise
+Bonecos Wailmer
+Bonecos Regice
+Bonecos Regirock
+Bonecos Registeel
+Cojines Ball
+Cojines Pika
+Cojines Redondos
+Cojines Beso
+Cojines Zigzagoon
+Cojines Spinda
+Cojines Diamante
+Cojines Planta
+Cojines Fuego
+Cojines Agua
+Televisiones
+Teles Redondas
+Teles Bonitas
+Lámparas Viejas
+Lámparas Irisadas
+Gramolas
+Expendedoras
+Quitalímites
+Globos Rojos
+Globos Amarillos
+Globos Azules
+Bolas de Lodo
+Puertas Raras
+Hierbas Altas
+Bonecos Camuflados
+Tapetes Brillo
+Tapetes Muelle
+Tapetes Giro
+Tapetes Trampa
+Tapetes Retorno
+Tapetes Do Menor
+Tapetes Re
+Tapetes Mi
+Tapetes Fa
+Tapetes Sol
+Tapetes La
+Tapetes Si
+Tapetes Do Mayor
+Girobaldosas RO
+Girobaldosas AZ
+Girobaldosas AM
+Telepaneles RO
+Telepaneles AZ
+Telepaneles AM
+PC de Pega
+Tus Ubicaciones
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+~~~~~~~~~~~~~~~
+Text File : 56
+~~~~~~~~~~~~~~~
+Mesa Pequena
+Pokémesa
+Mesa Pesada
+Mesa Rústica
+Mesa Cômoda
+Mesa Bonita
+Mesa Ladrilho
+Mesa de Campo
+Mesa Forte
+Mesa Iceberg
+Cadeira Pequena
+Pokécadeira
+Cadeira Pesada
+Cadeira Bonita
+Cadeira Cômoda
+Cadeira Rústica
+Cadeira Ladrillo
+Cadeira de Campo
+Cadeira Forte
+Tapete Bem-vindos
+Tapete Bem-vindos
+Tapete Bem-vindos
+Tapete Bem-vindos
+Tapete Bem-vindos
+Tapete Surf
+Tapete Trovão
+Tapete Labareda
+Tapete Neve
+Tapete Atração
+Tapete Fissura
+Tapete Espinhos
+Tapete Verde
+Tapete Laranja
+Tapete Azul
+Tapete Listrado
+Flor Vermelha
+Planta Tropical
+Flores Bonitas
+Planta Colorida
+Planta Grande
+Planta Enorme
+Árvore de Frutos
+Tijolo Vermelho
+Tijolo Amarelo
+Tijolo Azul
+Adorno de Areia
+Escultura de Ginásio
+Cama Confortável
+Vala
+Tobogam
+Pódio
+Pneu
+Tabela
+Escadas
+Poste Arte Marcial
+Boppoyama
+Regulamento
+Quadro Negro
+Bola de Confeti
+Lâmpada Vela
+Poké Flauta
+Processador
+Globo Terrestre
+Caixas de Cartão
+Lixo
+Bloco de Pedra
+Adorno de Cristal
+Candelabro Estrelar
+Foco Próprio
+Pegada Ociosa
+Barraca Vermelha
+Barraca Azul
+Mini Castelia
+Mini Lumiose
+Póster Poké Ball
+Póster Verde
+Póster Vermelho
+Póster Azul
+Póster Bonito
+Póster Pika
+Póster Grande
+Póster Mar
+Póster Céu
+Póster Beijo
+Pergaminho Vermelho
+Pergaminho Azul
+Pergaminho Verde
+Pergaminho do Papai
+Infinito Cósmico
+Diploma Regional
+Diploma Nacional
+Diploma Legado
+Boneco Pichu
+Boneco Pikachu
+Boneco Marill
+Boneco Togepi
+Boneco Cyndaquil
+Boneco Chikorita
+Boneco Totodile
+Boneco Jigglypuff
+Boneco Meowth
+Boneco Clefairy
+Boneco Ditto
+Boneco Smoochum
+Boneco Treecko
+Boneco Torchic
+Boneco Mudkip
+Boneco Duskull
+Boneco Wynaut
+Boneco Baltoy
+Boneco Kecleon
+Boneco Azurill
+Boneco Skitty
+Boneco Swablu
+Boneco Gulpin
+Boneco Lotad
+Boneco Seedot
+Boneco Sustituto
+Boneco Snorlax
+Boneco Rhydon
+Boneco Lapras
+Boneco Venusaur
+Boneco Charizard
+Boneco Blastoise
+Boneco Wailmer
+Boneco Regice
+Boneco Regirock
+Boneco Registeel
+Almofada Bola
+Almofada Pika
+Almofada Redonda
+Almofada Beijo
+Almofada Zigzagoon
+Almofada Spinda
+Almofada Diamante
+Almofada Planta
+Almofada Fogo
+Almofada Água
+Televisão
+TV Redonda
+TV Bonita
+Lâmpada Antiga
+Lâmpada Listrada
+Jukebox
+Máquina Vendedora
+Retiralimites
+Balão Vermelho
+Balão Amarelo
+Balão Azul
+Bola de Lodo
+Porta Falsa
+Grama Alta
+Boneco Camuflado
+Tapete Brilho
+Tapete Mole
+Tapete Giro
+Tapete Armadilha
+Tapete Retorno
+Tapete Dó Menor
+Tapete Ré
+Tapete Mi
+Tapete Fá
+Tapete Sol
+Tapete Lá
+Tapete Si
+Tapete Dó Maior
+Giropedra VERMELHO
+Giropedra AZUL
+Giropedra AMARELO
+Telepainel VERMELHO
+Telepainel AZUL
+Telepainel AMARELO
+PC de Brinquedo
+Sua Localização
+[~ 174]
+[~ 175]
+[~ 176]
+[~ 177]
+[~ 178]
+[~ 179]
+[~ 180]
+[~ 181]
+[~ 182]
+[~ 183]
+[~ 184]
+[~ 185]
+[~ 186]
+[~ 187]
+[~ 188]
+[~ 189]
+[~ 190]
+~~~~~~~~~~~~~~~
+Text File : 57
+~~~~~~~~~~~~~~~
+[~ 0]
+[~ 1]
+[~ 2]
+[~ 3]
+[~ 4]
+[~ 5]
+[~ 6]
+[~ 7]
+[~ 8]
+[~ 9]
+[~ 10]
+[~ 11]
+[~ 12]
+[~ 13]
+[~ 14]
+[~ 15]
+[~ 16]
+[~ 17]
+[~ 18]
+Mesita individual sobre la que se pueden colocar\ncosas.
+Mesa con forma de Poké Ball sobre la que se\npueden colocar cosas.
+Mesa metálica de gran tamaño sobre la que se\npueden colocar cosas.
+Mesa de madera de gran tamaño sobre la que se\npueden colocar cosas.
+Mesa de gran tamaño fabricada con hojas sobre la\nque se pueden colocar cosas.
+Mesa enorme de cristal sobre la que se pueden\ncolocar un montón de cosas.
+Mesa enorme de ladrillos sobre la que se pueden\ncolocar un montón de cosas.
+Mesa enorme hecha de leños sobre la que se\npueden colocar un montón de cosas.
+Mesa de piedra enorme sobre la que se pueden\ncolocar un montón de cosas.
+Mesa enorme y fría como el hielo inspirada en el\nPokémon Avalugg.
+Taburete pequeño con espacio para una sola\npersona.
+Taburete pequeño con forma de Poké Ball.
+Taburete pequeño forjado en hierro.
+Taburete pequeño hecho de cristal.
+Taburete pequeño hecho de hojas.
+Taburete pequeño de madera.
+Taburete pequeño hecho de ladrillos.
+Taburete pequeño hecho con un tronco.
+Taburete pequeño de piedra.
+Tapete con la que agasajar a los Amigos\nSecretos.
+Tapete con la que agasajar a los Amigos\nSecretos.
+Tapete con la que agasajar a los Amigos\nSecretos.
+Tapete con la que agasajar a los Amigos\nSecretos.
+Tapete con la que agasajar a los Amigos\nSecretos.
+Tapete redonda inspirada en el movimento Surf.\nSe pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento\nTrueno. Se pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento\nLlamarada. Se pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento Nieve\nPolvo. Se pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento\nAtração. Se pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento\nFisura. Se pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el movimento Púas.\nSe pueden colocar objetos sobre ella.
+Tapete cuadrada inspirada en el Pokémon\nTurtwig. Se pueden colocar objetos sobre ella.
+Tapete cuadrada inspirada en el Pokémon\nChimchar. Se pueden colocar objetos sobre ella.
+Tapete cuadrada inspirada en el Pokémon Piplup.\nSe pueden colocar objetos sobre ella.
+Tapete redonda inspirada en el Pokémon\nStunfisk. Se pueden colocar objetos sobre ella.
+Planta con flores teñidas de un intenso color rojo.
+Tiesto con una planta tropical.
+Planta con flores monísimas.
+Enorme planta con flores de varios colores.
+Planta enorme con forma de paraguas.
+Planta enorme de preciosa decoração.
+Réplica exacta de los Árboles de Bayas que se\nencuentran en las rotas.
+Ladrillo de color rojo sobre el que se pueden\ncolocar cosas.
+Ladrillo de color amarillo sobre el que se pueden\ncolocar cosas.
+Ladrillo de color azul sobre el que se pueden\ncolocar cosas.
+Objeto decorativo hecho de arena que se deshace\nal tocarlo.
+Réplica de las esculturas que se encuentran frente\na los Gimnasios Pokémon.
+Cama con un diseño fabuloso. Es tan blandita que\nel sueño se apodera de cualquiera al acostarse.
+Pequeña valla imposible de cruzar.
+Para subirse encima y lanzarse desde lo alto.
+Se puede subir a él por las escaleras.
+Antiguo neumático de gran tamaño. Se pueden\ncolocar cosas encima.
+Si se coloca sobre algún hoyo, facilita cruzar al\noutro lado.
+Se pueden situar junto a un barranco para subir un\ntramo más arriba.
+Poste fuertemente armado utilizado por maestros\nespadachines para pulir su técnica.
+Objeto cilíndrico al que se tiene que golpear\ncuanto más mejor en un breve lapso de tiempo.
+Panel que permite cambiar las reglas de los\ncombates Pokémon.
+Enorme pizarra sobre la que se puede garabatear lo\nque te apetezca.
+Gran bola que cuando se abre suelta un mensaje\nescrito en su interior.
+Adorno inspirado en el Pokémon Litwick. Basta\ntocarlo para encender o apagar la luz.
+Réplica exacta de la Poké Flauta que circula por\nalguna región.
+Aparato que antiguamente se utilizaba en esta\nregión para mezclar bayas.
+Globo terráqueo de grandes dimensiones. ¿Cuál\nserá tu próximo destino?
+Cajas vacías.
+Típica papelera que se puede encontrar por todas\npartes. No hace falta mirar; ¡está vacía!
+Parte de un enorme pilar de piedra envuelto en un\nhalo de misterio.
+Réplica de una famosa escultura de cristal que se\nencuentra en un museo.
+Candelabro conmemorativo otorgado a los\nTreinadores con más méritos en los concursos.
+Obra de arte muy original que se puede disfrotar\ncolocándola en el suelo.
+Obra de arte muy original que se puede disfrotar\nextendiéndola en el suelo.
+Tienda de campaña de color rojo. Uno puede\nesconderse en su interior.
+Tienda de campaña de color azul. Uno puede\nesconderse en su interior.
+Modelo creado a imagen de Cidade Porcelana,\nsituada en la región de Teselia.
+Modelo creado a imagen de Cidade Luminalia,\nsituada en la región de Kalos.
+Pequeño póster con la imagen de una Poké Ball\nimpresa.
+Pequeño póster con la imagen de un Treecko\nimpresa.
+Pequeño póster con la imagen de un Torchic\nimpresa.
+Pequeño póster con la imagen de un Mudkip\nimpresa.
+Pequeño póster con la imagen de un Azurill\nimpresa.
+Póster enorme con la imagen de un Pikachu y dos\nPichu.
+Póster enorme con la imagen de un Seviper\nimpresa.
+Póster enorme con la imagen de un Relicanth\nimpresa.
+Póster enorme con la imagen de varios Wingull.
+Póster enorme con la imagen de un Smoochum\nimpresa.
+Preciosa lámina en la que aparece grabado el\nPokémon Groudon.
+Preciosa lámina en la que aparece grabado el\nPokémon Kyogre.
+Preciosa lámina en la que aparece grabado el\nPokémon Rayquaza.
+Lámina igual a la que decora el Gimnasio de Cidade\nPetalia.
+Obra de arte muy original para colgarla en la pared\ny admirarla.
+Certificado especial otorgado al completar la\nPokédex de la región.
+Certificado especial otorgado al completar la\nPokédex Nacional.
+Certificado especial que se recibe al transferir\nPokémon de otras versiones.
+Pichu de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Pikachu de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Marill de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Togepi de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Cyndaquil de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Chikorita de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Totodile de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Jigglypuff de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Meowth de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Clefairy de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Ditto de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Smoochum de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Treecko de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Torchic de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Mudkip de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Duskull de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Wynaut de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Baltoy de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Kecleon de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Azurill de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Skitty de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Swablu de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Gulpin de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Lotad de peluche que se puede colocar sobre una\nmesa o una alfombra.
+Seedot de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Sustituto de peluche que se puede colocar sobre\nuna mesa o una alfombra.
+Enorme Snorlax de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Rhydon de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Lapras de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Venusaur de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Charizard de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Blastoise de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Wailmer de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Regice de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Regirock de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Enorme Registeel de peluche que se puede colocar\nsobre una mesa o una alfombra.
+Cojín con el dibujo de una Poké Ball que se puede\ncolocar sobre una alfombra.
+Cojín inspirado en Pikachu que se puede colocar\nsobre una alfombra.
+Cojín inspirado en Azumarill que se puede colocar\nsobre una alfombra.
+Cojín inspirado en Smoochum que se puede\ncolocar sobre una alfombra.
+Cojín inspirado en Zigzagoon que se puede colocar\nsobre una alfombra.
+Cojín inspirado en Spinda que se puede colocar\nsobre una alfombra.
+Cojín inspirado en Sableye que se puede colocar\nsobre una alfombra.
+Cojín con el dibujo de una planta que se puede\ncolocar sobre una alfombra.
+Cojín con el dibujo de una llama que se puede\ncolocar sobre una alfombra.
+Cojín con el dibujo de una gota de agua que se\npuede colocar sobre una alfombra.
+Tele de juguete exactamente igual que una de\nverdad.
+Tele de juguete inspirada en el Pokémon Seedot.
+Tele de juguete inspirada en el Pokémon Skitty.
+Lámpara que parece a punto de romperse. ¿Se\napagará la luz si se toca?
+Lámpara para crear ambiente en la habitação.\nCambia de color cuando se toca.
+Aparato con el que se puede reproducir la música\nque más le guste a uno en su Base Secreta.
+Máquina expendedora donde comprar refrescos. El\nGremio de Bases Secretas se ocupa de ella.
+Extraño aparato con el que se puede regular el\nnivel de los combates Pokémon.
+Globo de color rojo lleno de agua. Si se pisa,\nrevienta.
+Globo de color amarillo lleno de agua. Si se pisa,\nrevienta.
+Globo de color azul lleno de agua. Si se pisa,\nrevienta.
+Pegote redondo de lodo. Si se pisa, se desparrama\npor todas partes.
+Extraña puerta que puedes atravesar.
+Réplica exacta de la hierba alta que se encuentra\nen las rotas.
+Peluche que se vuelve invisible al colocarlo en\nalgún sitio y aparece de nuevo cuando se examina.
+Alfombra que brilla al pisar sobre ella.
+Alfombra de broma. Cuando se pisa, te hace pegar\nun salto.
+Alfombra de broma que, al pisar sobre ella, te\nenvía lejos rodando.
+Cuando se pisa sin cuidado, uno se cae por sus\nagujeros, aunque el truco solo funciona una vez.
+Si un visitante la pisa sin cuidado, lo envía a la\nentrada, aunque la broma solo funciona una vez.
+Al pisar sobre ella, suena la nota do. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota re. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota mi. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota fa. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota sol. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota la. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota si. La octava\ncambia dependiendo de la direção.
+Al pisar sobre ella, suena la nota do mayor.\nLa octava cambia dependiendo de la direção.
+Al pisar esta baldosa, se empieza a dar vueltas.\nEl efecto solo se produce una vez.
+Al pisar esta baldosa, se empieza a dar vueltas.\nEl efecto se produce tres veces.
+Al pisar esta baldosa, se empieza a dar vueltas.\nEl efecto solo se produce cinco veces.
+Panel misterioso que, cuando se pisa, te\nteletransporta a outro telepanel de color rojo.
+Panel misterioso que, cuando se pisa, te\nteletransporta a outro telepanel de color azul.
+Panel misterioso que, cuando se pisa, te\nteletransporta a outro telepanel de color amarillo.
+PC que parece totalmente auténtico. Se utiliza\nmucho para gastar bromas.
+Indica tu posição en la Base Secreta a la que te\nhas conectado.
+[~ 193]
+[~ 194]
+[~ 195]
+[~ 196]
+[~ 197]
+[~ 198]
+[~ 199]
+[~ 200]
+[~ 201]
+[~ 202]
+[~ 203]
+[~ 204]
+[~ 205]
+[~ 206]
+[~ 207]
+[~ 208]
+[~ 209]
+~~~~~~~~~~~~~~~
+Text File : 58
+~~~~~~~~~~~~~~~
+¡El primer Pokémon que elegí fue un [VAR PKNAME(0000)]!
+No hace mucho desafié a Petra, la Líder del Gimnasio de\nCidade Férrica.\c\n¡Creo que me habría resultado imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Piedra.
+No hace mucho desafié a Marcial, el Líder del Gimnasio\nde Pueblo Azuliza.\c\n¡Creo que me habría resultado imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Puño.
+No hace mucho desafié a Erico, el Líder del Gimnasio de\nCidade Mauville.\c\n¡Creo que me habría resultado imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Dinamo.
+No hace mucho desafié a Candela, la Líder del Gimnasio\nde Pueblo Lavacalda.\c\n¡Creo que me habría resultado imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Calor.
+No hace mucho desafié a Norman, el Líder del Gimnasio\nde Cidade Petalia.\c\n¡Creo que me habría resultado imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Equilibrio.
+No hace mucho desafié a Alana, la Líder del Gimnasio de\nCidade Arborada.\c\n¡Creo que me habría resultado imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Pluma.
+No hace mucho desafié a Leti y Vito, los Líderes del\nGimnasio de Cidade Mossdeep.\c\n¡Creo que me habría resultado imposible derrotarlos\nde no haber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Mente.
+No hace mucho desafié a Plubio, el Líder del Gimnasio de\nSootopolis.\c\n¡Creo que me habría resultado imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Lluvia.
+No hace mucho desafié al Campeón de la Liga Pokémon.\c\n¡Creo que no habría podido derrotarlo de no haber sido\npor mi [VAR PKNAME(0000)]!
+El outro día me acerqué a la Tienda Pokémon de\n[VAR LOCATION(0001)] y... ¡qué derroche!\c\nMe compré nada más y nada menos que [VAR NUM3(0003)]\n[VAR ITEM2(0002)].
+El outro día pasé a recoger al [VAR PKNAME(0000)] que\nhabía dejado en la Guardería Pokémon.\c\n¡Qué alegría me llevé! ¡Había subido a Nv. [VAR NUM3(0004)]!
+El outro día gané a la Lotería Pokémon y me tocó un[VAR GENDBR(0002,0100)]a\n[VAR ITEM2(0002)].
+Inversos Combates Club es un verdadero reto.\c\nEl outro día decidí participar, y creo que no podría haber\nvencido sin la inestimable ayuda de mi [VAR PKNAME(0000)].
+¿Sabes qué es la Leche Mu-Mu?\c\nNormalmente me compro [VAR NUM3(0003)] para no quedarme sin\nprovisiones.
+Me podría pasar las horas muertas cuidando de mis\n[VAR ITEMPLUR1][VAR ITEM2(0002)]. El outro día coseché [VAR NUM3(0003)].\c\n¿Tú también cultivas bayas?
+El outro día compré [VAR NUM3(0003)] unidad[VAR NUMBRNCH(0003,0200)]es de\n[VAR ITEM2(0002)].\c\nPero no se lo digas a nadie, que es un secreto.
+¡He entrado [VAR NUM5(0005,E07F)] ve[VAR NUMBRNCH(0005,0301)]zces en el Hall de la Fama!\n¿No soy increíble?
+¿Sabes qué es la GTS?\c\n¡El outro día recibí un [VAR PKNAME(0000)] mediante un\nintercambio!\c\n¡Va genial!
+¿Has realizado ya algún intercambio prodigioso?\c\n¡No te imaginas la sorpresa que me llevé cuando recibí un\n[VAR PKNAME(0000)]!
+¡Me pregunto cómo [VAR PKNAME(0000)] puede ser tan mono!
+Estoy entrenando a [VAR PKNAME(0000)] para convertirlo en el\nPokémon más fuerte del mundo.
+Creo que mi [VAR PKNAME(0000)] lleva todas las papeletas de\nganar en el [VAR 01A2(0006)].\c\n¿A ti qué te parece?
+¿Sabes lo que son los Parajes Espejismo?\c\n¡Parece que en uno de ellos se esconde un Pokémon\nllamado [VAR PKNAME(0000)]!
+El outro día encontré un [VAR PKNAME(0000)] oculto en un\nlugar llamado “[VAR LOCATION(0001)]”.
+El outro día me pasé por Mauville Gourmet y me pedí\n[VAR 01AE(0006)]. ¡Qué maravilla!\r\n¡Qué delicia! ¡No me extraña que la gente haga cola!\c\nY esperando que me prepararan la comida, me retaron\nnada más y nada menos que [VAR NUM2(0001)] Treinador[VAR NUMBRNCH(0001,0200)]es!
+¿Has intentado batir tus récords en el Camino de Bicis?\n¡Mi mejor marca es de [VAR NUM2(0002)],[VAR NUM2(0003)] segundo[VAR NUMBRNCH(0002,0100)]s!
+El outro día compré un[VAR GENDBR(0002,0100)]a [VAR ITEM2(0002)] en\n[VAR LOCATION(0001)], y ¡me salió otr[VAR GENDBR(0002,0101)]oa gratis!
+¡El primer Pokémon que elegí fue un [VAR PKNAME(0000)]!
+No hace mucho desafié a Petra, la Líder del Gimnasio de\nCidade Férrica.\c\n¡Creo que me habría sido imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Piedra.
+No hace mucho desafié a Marcial, el Líder del Gimnasio\nde Pueblo Azuliza.\c\n¡Creo que me habría sido imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Puño.
+No hace mucho desafié a Erico, el Líder del Gimnasio de\nCidade Mauville.\c\n¡Creo que me habría sido imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Dinamo.
+No hace mucho desafié a Candela, la Líder del Gimnasio\nde Pueblo Lavacalda.\c\n¡Creo que me habría sido imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Calor.
+No hace mucho desafié a Norman, el Líder del Gimnasio\nde Cidade Petalia.\c\n¡Creo que me habría sido imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Equilibrio.
+No hace mucho desafié a Alana, la Líder del Gimnasio de\nCidade Arborada.\c\n¡Creo que me habría sido imposible derrotarla de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Pluma.
+No hace mucho desafié a Leti y Vito, los Líderes del\nGimnasio de Cidade Mossdeep.\c\n¡Creo que me habría sido imposible derrotarlos de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Mente.
+No hace mucho desafié a Plubio, el Líder del Gimnasio de\nSootopolis.\c\n¡Creo que me habría sido imposible derrotarlo de no\nhaber sido por mi [VAR PKNAME(0000)]!\c\nComo puedes ver, recibí la Medalla Lluvia.
+No hace mucho desafié al Campeón de la Liga Pokémon.\c\n¡Creo que no habría podido derrotarlo de no haber sido\npor mi [VAR PKNAME(0000)]!
+El outro día me acerqué a la Tienda Pokémon de\n[VAR LOCATION(0001)] y... ¡qué derroche!\c\nMe compré nada más y nada menos que [VAR NUM3(0003)]\n[VAR ITEM2(0002)].
+El outro día pasé a recoger al [VAR PKNAME(0000)] que\nhabía dejado en la Guardería Pokémon.\c\n¡Qué alegría me llevé! ¡Había subido a Nv. [VAR NUM3(0004)]!
+El outro día gané a la Lotería Pokémon y me tocó un[VAR GENDBR(0002,0100)]a\n[VAR ITEM2(0002)].
+Inversos Combates Club es un verdadero reto.\c\nEl outro día decidí participar, y creo que no podría haber\nvencido sin la inestimable ayuda de mi [VAR PKNAME(0000)].
+¿Sabes qué es la Leche Mu-Mu?\c\nNormalmente me compro [VAR NUM3(0003)] para no quedarme sin\nprovisiones.
+Me encanta cuidar de mis [VAR ITEMPLUR1][VAR ITEM2(0002)].\nEl outro día coseché [VAR NUM3(0003)].\c\n¿Tú también cultivas bayas?
+El outro día compré [VAR NUM3(0003)] unidad[VAR NUMBRNCH(0003,0200)]es de\n[VAR ITEM2(0002)].\c\nPero no se lo digas a nadie, que es un secreto.
+¡He entrado [VAR NUM5(0005,E07F)] ve[VAR NUMBRNCH(0005,0301)]zces en el Hall de la Fama!\n¿No soy increíble?
+¿Sabes qué es la GTS?\c\n¡El outro día recibí un [VAR PKNAME(0000)] mediante un\nintercambio!\c\n¡Va genial!
+¿Has realizado ya algún intercambio prodigioso?\c\n¡No te imaginas la sorpresa que me llevé cuando recibí un\n[VAR PKNAME(0000)]!
+¡Me pregunto cómo [VAR PKNAME(0000)] puede ser tan mono!
+Estoy entrenando a [VAR PKNAME(0000)] para convertirlo en el\nPokémon más fuerte del mundo.
+Creo que mi [VAR PKNAME(0000)] lleva todas las papeletas\nde ganar en el [VAR 01A2(0006)].\c\n¿A ti qué te parece?
+¿Sabes lo que son los Parajes Espejismo?\c\n¡Parece que en uno de ellos se esconde un Pokémon\nllamado [VAR PKNAME(0000)]!
+El outro día encontré un [VAR PKNAME(0000)] oculto en un\nlugar llamado “[VAR LOCATION(0001)]”.
+El outro día me pasé por Mauville Gourmet y me pedí\n[VAR 01AE(0006)]. ¡Qué maravilla!\c\n¡Qué delicia! ¡No me extraña que la gente haga cola!\c\nY mientras esperaba a que me prepararan la comida,\nme retaron [VAR NUM2(0001)] Treinador[VAR NUMBRNCH(0001,0200)]es!
+¿Has intentado batir tus récords en el Camino de Bicis?\n¡Mi mejor marca es de [VAR NUM2(0002)],[VAR NUM2(0003)] segundo[VAR NUMBRNCH(0002,0100)]s!
+El outro día compré un[VAR GENDBR(0002,0100)]a [VAR ITEM2(0002)] en\n[VAR LOCATION(0001)], y ¡me salió otr[VAR GENDBR(0002,0101)]oa gratis!
+Concurso de Carisma
+Concurso de Belleza
+Concurso de Dulzura
+Concurso de Ingenio
+Concurso de Dureza
+un Menú Sándwich Villa
+unas Magnebóndigas
+unos Malvaguetis
+~~~~~~~~~~~~~~~

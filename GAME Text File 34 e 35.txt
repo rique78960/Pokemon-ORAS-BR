@@ -1,0 +1,2239 @@
+~~~~~~~~~~~~~~~
+Text File : 34
+~~~~~~~~~~~~~~~
+¿Es la primera vez que nos vemos?\nNo me acuerdo, así que... ¡mucho gusto!
+¡Ja, ja, ja! ¡Yupi!\n¡He vuelto a ganar!
+Va-vaya...\n¡He vuelto a perder!
+¡Allá voy!\n¡Te vas a enterar de lo que es bueno!
+¿Cómo te has quedado?\nFlipando con la fuerza de mis Pokémon, ¿no?
+¡Vaya, vaya con tus Pokémon!\n¡Son muy fuertes!
+Bo-bo-bonjour?\nB-battle, oui? S’il vous plaît!
+Merci beaucoup!
+Rien de rien!
+¡Ni se te ocurra subestimarme por ser un crío o lo\nlamentarás!
+Aunque sea solo un crío, puedo ganar incluso a\nadultos gracias a los Pokémon.
+Tampoco era para tomárselo tan en serio.\n¿No ves que solo soy un crío?
+¡Qué guay! ¡Echemos un combate Pokémon!
+¡Ji, ji, ji! Cada vez que gano, ¡me pongo\nsupercontenta!
+Parece que te lo has pasado bien, pero a mí\nme has dejado para el arrastre...
+¡Allá voy! Me voy a poner seria, ¡así que será\nmejor que te prepares!
+¡Ganar un combate Pokémon es superguay!\n¡Soy lo más!
+¡Jo! Perder un combate Pokémon es lo peor.\nPero es que tú no lo haces nada mal...
+Pórtate bien y no te pases mucho, ¿vale? ¡Pero\nque sepas que yo no me voy a cortar ni un pelo!
+¡Yupi! ¡Chúpate esa!\nAh, ¿de verdad te has dejado ganar?
+¡Mira que te he dicho que no te pasaras conmigo!\nPero hay que reconocer que eres buen[VAR GENDBR(00FF,0101)]oa.
+¡Oye, oye! ¡Quiero presentarte a mi equipe\nPokémon!
+¡Jooo! Yo tan solo quería que conocieras a mis\namigos Pokémon.
+Me siento superfeliz solo por estar junto a estos\npeques.
+¡Ji, ji, ji! ¡Tengo mucha confianza en mis\nconocimientos matemáticos y analíticos!
+¡Ja, ja, ja! Tal y como lo había planeado.\n¡Estaba cantado que iba a ganar!
+¡No me lo puedo creer!\n¡Mis cálculos estaban equivocados!
+Antes del combate, por lo menos se saluda, ¿eh?
+¡Casi lo logras! De todas maneras, muchas gracias\npor el combate.
+¡Qué rabia! Me dan ganas de llorar, pero, en\ncualquier caso, muchas gracias por todo.
+Me paso todo el día estudiando. Por eso me gusta\ncombatir, así cambio de aires...
+¡Cómo me gustan los Pokémon! ¡Me encantaría\npoder saber más de ellos!
+¡Vaya! ¡He perdido!\nParece que se me da mejor estudiar.
+Cuando sea mayor, ¡quiero ser investigador\nPokémon!
+Me pregunto si en los cursos sobre Pokémon habrá\ntambién lecciones de anatomía...
+¡La próxima vez me emplearé a fondo!\n¡Seguro que así aprenderé mucho más!
+¡Vaya, vaya! Tienes pinta de ser fuerte.\n¡Espero estar a tu altura!
+¡Anda! ¡Pero si he ganado!\n¡Las apariencias engañan! ¿A que sí?
+¡Justo como me esperaba!\n¡Menuda tunda me has dado!
+¡Que sepas que soy una empollona!\n¡Saco sobresaliente en todo!
+¡Has perdido! ¡Ja, ja! ¡Toma ya!\n¡Soy la número uno, como siempre!
+Mira que perder así...\nYa no soy la número uno en todo.
+¿Qué? ¿Te quieres medir conmigo?\nBueno, si insistes...
+¡Te está bien empleado!\nAhora no me eches la culpa, ¿eh?
+¡Madre mía! ¡Impresionante!\n¡Tu equipe Pokémon es muy fuerte!
+¡Ji, ji, ji!\n¡Ju, ju, ju!
+¡Ji, ji, ji!\n¡Anda! ¡Pero si he ganado!
+¡Ji, ji, ji!\n¡Anda! ¡Pero si he perdido!
+¡Ya verás como en el futuro me convierto\nen un Treinador Guay!
+¿Ves la diferencia que hay entre los dos?\nMe pregunto qué va a ser de ti en el futuro...
+Parece que me confié demasiado.\n¡¿Qué va a ser de mí?!
+¿Quieres medirte conmigo?\nMenuda cara de hambre que tienes...
+Oye, ¿estás comiendo bien? Si no comes,\nno esperes ganar ningún combate.
+¡Vaya, vaya! ¡Eres de lo que no hay!\n¿Qué comes para ponerte así?
+Luego te firmo un autógrafo, pero nada de\ncheques... aunque sea un nuevo rico famoso.
+Lo siento en el alma, pero has perdido.\n¡Te toca aflojar pasta!
+He perdido, pero el dinero es todo mío.\n¡Todo, todito, todo!
+Mi mamá me eligió los Pokémon, así que es\nimposible que pierda. ¡Que lo sepas!
+¿Ves? Me va genial porque siempre escucho\nlo que dice mi madre.
+¡Mamá! ¡Mamáaa! ¿Dónde estás?\n¡Ven a consolarme!
+¡Mira tú qué pinta más chula tienes!\n¿Qué te parece si echamos un combate?
+No me puedo creer que hayas perdido\ncontra mí. ¡Qué decepção!
+¡Anda! ¡También eres genial combatiendo!\nNo me puedo comparar contigo.
+¿Qué clase de Pokémon te gusta?\n¡Mira y aprende lo que es bueno!
+Tienes buen gusto para los Pokémon, pero\ntu talento entrenándolos da pena.
+Tienes un gusto horrible para los Pokémon,\npero entrenando eres formidable.
+Disculpa mis mentirijillas, pero no soy\nuna Damisela.
+Cuando te haces pasar por una Damisela,\nla gente te adula, ¿verdad?
+La verdad es que soy la hija de un hombre\nde negocios corrientucho.
+¡Ji, ji, ji!
+¡Ji, ji, ji!
+Y además... ¡Ji, ji, ji!
+¡Soy un Preescolar!\n¡Déjame ser tu oponente!
+¡El nene es un campeón!\n¡Asias! ¡Asias!
+¡La derrota es para el peque de la casa!\nJo... ¡Ahora me enfado y no te hablo!
+¡Soy un Preescolar con mucho talento!\nYa estoy pensando en ir a la universidad.
+¡Acabas de perder contra un pequeñajo\ncomo yo! Pero tú... ¿qué edad tienes?
+Soy un estudiante bastante bueno, pero con\nlos Pokémon todavía soy un principiante...
+¡Soy un héroe! ¡No puedo perder!
+¡Estaba claro que soy un héroe!\n¡He podido con los malos!
+¡El héroe ha perdido! ¡Vas a ir a mi mamá!
+¡Soy muy fuerte! ¡No voy a perder!
+¡Claro! Si es que son los Pokémon que mi\npapá me regaló. ¿A que son fuertes?
+¡Jooo!
+Cuando se pierde, uno no debe quejarse\npor haber perdido.
+Cuando ganas, te sientes superbién.\nA la de una, a la de dos... ¡Que viva yo!
+Snif, snif... ¡He perdido! Me cuesta\nadmitirlo, pero foi por mi culpa.
+¡Mira que meterte con una niñita como yo!
+¡Yupi! Me gustas porque te puedo.\n¡Ji, ji, ji!
+¡Buaaa! ¡Vas a ir a mamá!
+¡Ánimo, mis pequeños Pokémon!
+¡Yupi! ¡Yupiii! ¡Lo habéis hecho muy bien!\n¡Gracias, mis pequeños!
+¡Jooo! ¡Tenéis que esforzaros más,\nmis pequeños!
+¡Tengo cuatro añitos! ¡Te vas a enterar!\nEsfuérzate tú también, ¿vale?
+¡Tengo cuatro añitos! ¡Lo hice fenomenal!\nY tú... ¡no tan bien!
+¡Tengo cuatro añitos! ¡Lo hice fenomenal!\nY tú... ¡tú también!
+¡La, la, la! ¡Tralará!\n¡Voy a donde me lleva el viento!
+¡Tralará! ¡Tralará!\nSoy como una nube al viento...
+¡Tralará! ¡Tralará!\n¡Hasta la próxima!
+No soy un Mochilero corriente,\nsoy un recién casado.
+Ni mi mujer ni yo tenemos ahorros, así que\nno nos queda otra que hacer excursionismo.
+¡Estoy de luna de miel! El caso es que no sé\ndónde he dejado a mi señora esposa.
+Estoy viajando por todo el mundo sin\napenas pasta. ¡Los viajes son lo mío!
+¿Sabes? Creo que lo mejor es viajar\ncuando uno es joven y pobre.
+¡Ay! ¡Pero qué hambre que tengo!\n¿Me das algo de comer?
+He oído que uno pierde todos sus reparos cuando\nestá de viaje. ¡Pues a mí la aventura!
+¡Yujuuu! ¡Y mira que mi viaje, digo... aventura\nno ha hecho más que comenzar!
+Mi viaje no ha terminado. ¡Algún día serás testigo\nde lo que van a dar de sí mis aventuras!
+¿Te cuento un secreto? Soy una viajera del tiempo\ny vengo del futuro... del futuro cercano.
+Aunque hubiera perdido, podría haber vuelto atrás\nunos minutos y... ¡solucionado!
+¡Para lo que he quedado! De viajera del tiempo a\nunirme al grupo “Señoras que pierden el tiempo”...
+¡Madre mía! Hay que ver el precio que tiene\ntodo en esta región... ¡Menudo escándalo!
+Uy, uy, uy... Para escándalo, el nivel que tenéis\nalgunos entrenadorzuchos aquí. ¡Aviados estamos!
+Puf... ¡Me da igual! Yo no podría vivir en una región\ncon estos precios tan escandalosos. ¡Para ti todos!
+Cuando no puedo más, vengo aquí\na relajarme.
+¡Me siento renovado! Desde mañana, ¡me voy\na emplear a fondo en el curro!
+Se supone que debería sentirme mejor, pero\ncreo que me estoy estresando.
+Solo quiero trabajar tranquilo y ahorrar\ndinero.
+Todo el mundo tiene su sueño, ¿no?\nYo solo quiero vivir una vida sencilla.
+Más que perseguir un sueño, prefiero ser\nrealmente feliz.
+¡Hola! ¿Qué pasaaa?\n¡Estoy que me salgo!
+¿Cómo te has quedado? Toma eso...\n¿A qué sabe la derrota?
+¡Muchas gracias! ¿Cómo he estado?\nGuay, ¿a que sí?
+Pero bueno... Has venido a echar\nun combate Pokémon, ¿no?
+¡Aunque tengas miedo, saca pecho y tira\n“palante”, malaje! ¡Seguro que así ganas!
+¡Menuda “guantá”!\n¡Me han salido agujetas y todo!
+¿Ya has decidido qué vas a tomar?\nCuando quieras pedir, házmelo saber.
+Perdón por la espera. ¿Deseas la derrota\npara tomar o para llevar?
+Perdón por la espera. ¿Deseas la victoria\npara tomar o para llevar?
+Miau, miau. ¡Combate Pokémiau!\n(Parezco un poco tonta, la verdad).
+¡Sí! ¡He ganado! ¡Miau!\n(Ya estoy harta de este trabajo).
+¡Miau! ¡He perdido!\n(¡Qué vergüenza!).
+¡Adoro a los Pokémon!\n¡Los quiero tanto que no puedo perder!
+¡Esta victoria simboliza mi amor\npor mis Pokémon!
+Cuando hay amor de por medio, todo es\nposible. Hay que ganar cuando hay amor.
+¡Oh! ¿Tú también quieres ver mis\nPokémon? ¡Soy la envidia del lugar!
+¿Qué te han parecido mis Pokémon?\nSon increíbles, ¿a que sí?
+¡Ay! Pero... ¡¿cómo?! Mis pobres Pokémon...\nNo me lo puedo creer.
+¡Voy a dejar el pabellón bien alto!\n¡Vamos a bailar!
+¡Ja! ¡Le dedico esta victoria a mi Club\nde Fans de Pokémon!
+¡Retirada! ¡Los niños primero!\n¡Te acordarás de esta!
+Los Pokémon me gustan tanto que he dado\ntodo por ellos.
+¡Los Pokémon lo son todo para mí!\nNo como tú...
+Aunque los Pokémon lo son todo para mí,\nno he logrado ganar. ¡Qué mal!
+¡Oye! ¡Los Pokémon son lo más para mí!
+Si volviera a nacer, me gustaría ser\nun Pokémon. ¡Sería genial!
+¡Qué monos que son tus Pokémon!\n¿Me dejas tocarlos?
+Aunque no soy muy buena en los combates,\nes mi deber como miembro del Club...
+¡Qué guay! ¡Le dedico esta victoria a mi Club\nde Fans de Pokémon!
+¡Viva el Club de Fans de Pokémon!\n¡Y viva yo, ya que estamos!
+Al llegar a esta edad, uno se pone un poco fondón,\npero impongo tanto como una montaña, ¿o no?
+¡Uy! ¡Ja, ja, ja! ¡Me da a mí que te harán falta más\ncalorías para poder escalar esta montaña!
+Porque no competimos a calorías, que si no... ¡esta\nmontaña te tumba!
+¡Hola! No me gusta que me llamen\nMontañero. Llámame alpinista, ¿vale?
+Cuando te gustan las montañas tanto como a\nmí, te gusta que la gente te llame alpinista.
+¡La montaña es nuestra especialidad!\nLa de los alpinistas, claro.
+Mis sueños y mis deseos hacen que mi corazón lata\na mil por hora. ¡Así somos los jóvenes!
+¿Que si los sueños son importantes? ¡Y tanto!\n¿Y los deseos? ¡Tres cuartos de lo mismo!
+Algunos sueños y deseos acaban haciéndose\nañicos. ¡También son cosas de la juventud!
+¿Seré o no seré digna de llamarme Treinadora?\n¡La angustia me carcome!
+¡Dignísima! Y mira que tenía dudas... ¡pero quien\ndebería planteárselo tras este combate eres tú!
+¡Mi dignidad en entredicho! Aunque no me ha\npillado de sopetón, si te soy sincera.
+Cualquier persona puede parecer joven si mantiene\nla ilusión en su corazón y el brillo en sus ojos.
+Je, je, no te fíes de mi apariencia... ¡Podría\nser tu abuela!
+El truco está en ignorar la realidad... tanto con la\nedad como con los resultados de los combates.
+Los Pokémon monos y bonitos son lo mío.\n¿Me crees o te parece un cuento?
+Mis Pokémon son fuertes y monos como ellos\nsolos. ¡La combinação ganadora!
+La fragilidad de mis Pokémon también es parte\nde su encanto. ¡Que lo sepas!
+Mis pequeñines me enseñan todo tipo de cosas.
+Siempre aprendo algo nuevo y sorprendente de\nmis pequeñines.
+No sé que les pasa a mis pequeñines que ahora\nno abren la boca.
+No me voy a contener solo porque seas\njoven. ¡Prepárate!
+¡Ja! ¡Si estás temblando de miedo desde\nel principio, le quitas toda la gracia!
+¡Uuuf! Todavía soy un blandengue.\n¡Perdonadme, Pokémon míos!
+La gente me tilda de estúpido, pero los\nPokémon me los tomo muy en serio.
+Solo con estar en compañía de los Pokémon,\nme siento supertranquilo.
+¡Qué bien haber encontrado a alguien que\nse toma los Pokémon tan en serio como yo!
+¡La gente debería tener por norma el\nllevar siempre el pelo superbrillante!
+¡Qué ironía! Te he dado para el pelo.\nNo sé si lo pillas...
+Si quieres hacerte más fuerte, creo que\ndeberías sacarte brillo al pelo.
+¡Eh, tú! ¡Sí, tú! ¿Tengo monos en la cara o qué?\nManda narices que me mires así...
+¡Ja! Yo solita me sobro y me basto para repartir\ncandela. Yo y mis Pokémon, claro.
+¡Tronc[VAR GENDBR(00FF,0101)]oa, estás que te sales! Voy a tener que\njuntarme más contigo para que se me pegue algo.
+Soy Yoli, presidenta de la Alianza de Kalos. Te\ninformo de que... ¡voy a hacerte sudar!
+¡Toma ya! Y eso que tienes unos Pokémon que se\nsalen...
+Me has dejado flipando, colega. Nada, ¡que la\npresidencia de la Alianza es toda tuya!
+El tío que me mola es un tío maloteee...\nSé que le gusto, lo tengo en el boteee...
+Las chicas de Kalos tienen algo especial, las chicas\nson guerreras... ¡Uuuh! ¡Aaah!
+Las chicas de Kalos tienen algo especial, las chicas\nson guerreras... ¡Uuuh! ¡Aaah! ¡Esta me la pagas!
+La derrota es un ingrediente que no se encuentra\nen mi recetario. Pas du tout!
+Sacrebleu... ¡Te falta un poco de salero, criatura!\n¡Así dejas a uno con más hambre que un Skitty!
+Ce n’est pas possible! ¡Con tu ingrediente secreto\nme has hecho probar el sabor de la derrota!
+¿Has venido a ver mi arte con la sartén?\nSi te arrimas, ¡acabaré contigo en vuelta y vuelta!
+Con tan poca maña, ¡me estabas pidiendo a voces\nque te hiciera puré!
+¡No me lo creo! He bajado un poco la guardia y me\nhas pillado empanado. ¡Ahora estoy frito!
+¡Soy el rey de los manjares!\n¡El emperador de las delicatessen!
+¡El emperador de las delicatessen se ha saciado!\n¡Me he rebañado hasta el plato contigo, pequeñ[VAR GENDBR(00FF,0101)]oa!
+¡El emperador de las delicatessen te cede su trono!\n¡Confío en que cuidarás bien de mi imperio!
+¡Oye! ¿Estás dispuest[VAR GENDBR(00FF,0101)]oa a echarme una mano?\n¡Es por el bien de mi futuro!
+¡Tu derrota ha contribuido a que el futuro con el\nque siempre he soñado esté más y más cerca!
+¿Pero es que no has pensado cómo puede afectar\nesto a mi futuro?
+¿El talento de un oponente? ¡Es la excusa perfecta\nde los Treinadores mediocres cuando pierden!
+El talento no es algo que se pueda conseguir, al\nigual que la fuerza malgastada se echa a perder.
+El talento es una ilusión y nada más que eso.\nTu esfuerzo foi lo que te ha dado la victoria.
+Como leí una vez en un libro extranjero: “El camino\ndel Treinador discurre junto al valor y el honor”.
+¿Y ahora qué quieres que haga? Me alejaré para\nno mancillar más tu honor.
+¡Maldit[VAR GENDBR(00FF,0101)]oa seas! ¡Has conseguido que mi camino y el\ndel honor discurran ahora en direcciones opuestas!
+Para mí, lo natural es no bajar la guardia y darlo\ntodo. ¡El resultado del combate hablará por sí solo!
+Cuéntame, ¿qué se siente al perder?\nEs un resultado que aún no conozco.
+El resultado ha hablado por sí solo... y ha dicho\nmucho. ¡Al final mi esfuerzo foi en vano!
+¡Hmmm! Lamento decirle a[VAR GENDBR(00FF,0C0A)]l señorito la señorita que no estoy\naquí para servirl[VAR GENDBR(00FF,0101)]oa. ¡Faltaría más!
+¡Hmmm! ¡Y que quede claro que yo solo estoy aquí\npara servir a mi señor!
+No doy crédito a tanta fuerza...\n¡Sí, señorit[VAR GENDBR(00FF,0101)]oa! ¡A su servicio, señorit[VAR GENDBR(00FF,0101)]oa!
+¿Tiene todo listo [VAR GENDBR(00FF,0B0B)]el señoritola señorita? Pues si me lo\npermite, querría librar un combate contra usted.
+Una fuerza equiparable a la de mi señor... pero\nespero que pueda sacarle un mayor partido.
+¡Menudo desacierto! ¡Mi señor no va a dudar en\ndarme un castigo ejemplar!
+El linaje de mis señores se ha extinguido, así que\nno hay lealtad que valga.
+Ay, si mi señor estuviera aún aquí para presenciar\nesto...
+Un Mayordomo Leal sin su señor no es más que un\nestorbo errante.
+¡Puf! ¡Mira que venirme con el uniforme\ndel trabajo!
+¡Yujuuu! ¡He ganado! ¡No me lo creo! Cuando\ngano, nunca me apetece volver a trabajar.
+¡Jooo! ¡He perdido! ¡No hace gracia!
+Ligo mucho cuando voy vestida así.
+Los cuarentones son tan inocentes...\nEs justo eso lo que me gusta de ellos.
+Aunque me siento bien por ligar tanto,\na veces me siento algo superficial.
+¡Holaaa! Necesitas descansar después\nde un duro día de trabajo.
+¡Trabajas mucho! Ahora, dedícate a\ndescansar, por favor.
+¡Lo has hecho muy bien! ¡Eres muy fuerte!
+Antes era una persona muy importante...\npero ahora nadie quiere combatir conmigo.
+Aunque siempre estés esperando el éxito,\nperderás si no te esfuerzas.
+Con el tiempo, los gustos cambian. He\ntardado mucho tiempo en darme cuenta.
+¡Mira que te gusta hacer poses!\nSi te gano, ¡tendrás que posar para mí!
+No te muevas, por favor.\nQuiero dibujarte con esa cara.
+¡No te muevas! Si haces de modelo, seguro\nque me saldrá una obra de arte.
+Es muy importante tener sensibilidad en\nlos combates. Así que, ¡siéntelo!
+¡Tienes que sentirlo mucho más!\n¡Así nunca vas a ganar ningún combate!
+¡Muy bien! ¡Tienes muy buena sensibilidad!
+¿Arte abstracto? Nah... ¡Eso era novedoso el año\npasado! ¿O tienes predileção por lo “vintage”?
+¿Has visto? ¡Estás desfasad[VAR GENDBR(00FF,0101)]oa! Si lo tuyo es el arte\nabstracto, ¡prueba a juntar unos cuantos Electrode!
+Si al final el arte abstracto sí que se iba a llevar...\n¡Solo hay que ver la cara que se me ha quedado!
+La inspiração no me llega. ¡Necesito estímulos!\n¡Que fluya la creatividad! ¿Me vas a ayudar tú?
+¡Lo estoy viendo! ¡Mi vena artística fluye de nuevo!\n¡Ven a mí, inspiração!
+¡No! ¡No desaparezcas ahora!\nCreatividad, ¡regresa!
+Los pinceles y los combates Pokémon son mi\npasión. ¡Déjame que exprese mi creatividad!
+¡Je, je! Aunque uno pierda puede pasárselo de lo\nlindo, ¿no? ¡Lo importante es quedarse a gusto!
+Creo que me conformaré con mis lienzos. Total,\nahí sí que puedo expresarme con total libertad.
+¡Ha llegado el momento de demostrar de lo\nque soy capaz! ¡Prepárate!
+¿Qué te parece? ¿Cómo han estado\nmis Pokémon? Genial, ¿a que sí?
+¡Qué raro! No entiendo por qué he perdido.
+¡Hola! Me da la impresión de que eres\nbastante fuerte. ¡Veamos!
+¡Toma ya! ¡Chúpate esa!\n¿Qué? ¿Qué te parecen mis Pokémon?
+¡Qué brío! ¡Qué vigor!\n¡Eres muy fuerte!
+La única diversión que tiene un solitario\ncomo yo es ver a los Pokémon combatir.
+¡Yupi! Los momentos como este son los que\nme hacen querer seguir con los Pokémon.
+¡Guau! ¡Me has dejado para el arrastre!
+Los Pokémon son populares en mi trabajo.\n¡A los mayores también nos gustan!
+¿A que no lo hago nada mal para combatir tan solo\ndurante los descansos en el trabajo?
+Los Pokémon nos hacen disfrotar tanto a\nlos jóvenes como a los mayores.
+A patinar se aprende patinando. A combatir,\ncombatiendo. ¡Voy a ser más rápido que el viento!
+Más que un viento, ¡soy un vendaval!\n¡A ver quién se atreve a detenerme!
+De llegar a ser rápido como el viento estoy ahora\nque ni me llega el aire. ¡Cómo cambian las cosas!
+¡Les debo lealtad eterna a mis patines! ¡Son la\nfuerza que me lleva, me empuja y me llena!
+¿Quieres hacer culpables de tu derrota a mis\npatines? ¡Tú mism[VAR GENDBR(00FF,0101)]oa!
+¡Nooo! ¡¡Les he fallado a mis patines!!
+¿Quién ha sido? ¿Quién dice que lo que yo hago\nno es patinar, sino resbalarme sobre ruedas?
+Mis patines lo han dejado bien claro, ¿no?\n¡Soy la victoria sobre ruedas!
+¿Qué ocurre? ¿Ya no puedo ni resbalarme con\ngracia? ¡Mis días de Patinadora llegan a su fin!
+Hoy he pasado por campos, montañas y valles...\n¿No voy a poder pasarte a ti... por encima? ¡Ja!
+¿No lo ves claro aún? Con mis patines, puedo\npasar por-don-de-yo-quie-ra.
+Te has pasado... ¡tres pueblos!
+¡Alto ahí! Yo soy el guardián de los jardines del\ncastillo. Una especie de ninja de las plantas, sí.
+¡Ju, ju, ju! Las técnicas ninja de mis Pokémon no\ntienen rival. ¡Toma ya!
+¡Ahí va la...! ¿Pero qué movimentos son esos?\n¡Ni los he olido! ¿Tú también eres un[VAR GENDBR(00FF,0100)]a ninja?
+¡Alto ahí! ¡No te pases ni un pelo o te lo corto\ncon mis tijeras de podar!
+¡Ay, mi madre! Si lo sé, ni me molesto en sacar\nlas tijeras. ¡No das ni para entrar en calor!
+Te has desenvuelto mejor de lo que esperaba.\n¡Te aguardaré quitándoles el óxido a mis tijeras!
+Un buen equipe Pokémon es el ingrediente\nimprescindible para un buen combate Pokémon.
+Creo que no le sabes sacar partido a los\ningredientes que tienes a mano, maj[VAR GENDBR(00FF,0101)]oa.
+Es un hecho: no he sabido sacarle partido a los\ningredientes que tengo en mi propio equipe.
+Este será mi último combate.\nEstoy mentalizada.
+Volveremos a vernos... O no.
+Me he divertido mucho. Espero poder librar\noutro último combate.
+¡Combatamos con propiedad, como corresponde\na un Propietario propiamente dicho!
+No puedes derrotar a un Propietario en su\npropio terreno.
+El despropietarizador que me despropietarice...\n¡Buen despropietarizador será!
+Tener gente a tu cargo puede acabar resultando...\nuna carga. No todos sirven para Propietario.
+Si es que el éxito no tiene sabor ni olor, cuando te\nacostumbras es como si no existiera.
+Dicen que, una vez cumplidos los 40, sientas la\ncabeza, pero yo aún ando buscando la mía.
+Las mujeres maduras son también las que más\nsaben...
+Ahora tú me dices “Los mayores son un rollo” y yo\n“Cuando seas mayor lo entenderás”. ¡Qué original!
+Con la juventud se fue la inocencia...\nEl tiempo no perdona.
+¡Desde que soy Modelo, mi vida ha dado un giro\ntotal! ¡Soy una mujer nueva!
+Si quieres que tu sueño se haga realidad, tienes\nque dejarte la piel en ello.
+Hace seis meses era Karateka. Quién me ha visto\ny quién me ve, ¿eh?
+Es mi primer día de luna de miel... y ya echo de\nmenos mi casita.
+¡Bueno, basta ya! ¡Me voy a casa!\n¡Mamáaa!
+Snif, snif... Cómo echo de menos el cocido\nde mi madre.
+Turista, turista, ¿dónde está mi hotel?
+Lo perdí anoche con tanto aguamiel.
+¡Yo te daré outro, será de papel!
+¡Estoy de luna de miel! ¡Que lo sepas!\n¡Que yo no me voy sola ni al baño!
+¿Te he dicho que estoy de luna de miel?\n¡Pues eso, que no se te olvide!
+Que sepas que tengo marido, aunque no esté aquí.\nPor cierto... ¿Sabías que estoy de luna de miel?
+¡El dinero está para gastarlo, no para guardarlo\nbajo la almohada! ¡A levantar el país!
+Para poder gastar, primero hay que ganar.\n¿Lo pillas?
+Hace tiempo que no visito a Venancio, el del\ncolmado de la esquina...
+Todo caballero que se precie debe paladear cada\ncombate, ¿no crees?
+Ningún caballero que se precie debe vanagloriarse\ncon el sabor de la victoria.
+Todo caballero que se precie debe aceptar\nel resultado del combate sin rechistar.
+Permítame ayudar a mejorar sus\naptitudes para el combate.
+Permítame decirle que su nivel entrenando\nPokémon equivale al de un Preescolar.
+Permítame decirle que su nivel entrenando\nPokémon es impresionante.
+¿Qué te parecen las mujeres que ya conocemos\ntanto lo dulce como lo amargo de los combates?
+A las mujeres de mi edad quizá nos falte la energía\nde las jovencitas, pero tenemos más experiencia.
+¿Qué te han parecido los Pokémon de una mujer\ntan intrigante como yo?
+¡Ju, ju, ju! ¡Me apetece disfrotar de un\ncombate Pokémon! ¡Cuando quieras!
+¡Ju, ju, ju! No esperaba ganar, pero mira\ntú por dónde... ¡he ganado!
+¡Aaah! ¡Me quedo con tu cara!\n¡Me las vas a pagar!
+Los Pokémon son como los niños:\ncada uno tiene su carácter.
+Aunque pierdas, no debes enfadarte con tus\nPokémon. Ellos no tienen la culpa.
+Es muy importante entrenar a cada Pokémon\nde acuerdo a su carácter.
+¿Le estás enseñando a tus Pokémon\nbuenos modales? No debes malcriarlos.
+Por mucho que quieras a tus Pokémon, hay\nque regañarlos cuando hacen algo mal.
+Tendrás problemas con tus Pokémon si no\nhaces más que adularlos cada dos por tres.
+Trata de corresponder la amistad de los\nPokémon. Ellos nunca te traicionarán.
+¡Esta victoria es la prueba de la amistad\nque me une a mis Pokémon!
+Quizás debería empezar a hacerme amiga\nde más personas...
+¿Quieres que te enseñe el truco para\nentrenar a los Pokémon como es debido?
+El secreto para entrenar buenos Pokémon no\nes outro que atrapar buenos Pokémon.
+Creo que no necesitas que te enseñe\nningún truco, ¿verdad?
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+?Somos chicas pistoleras, rubias y morenas...?\nUy, pero si tengo visita... ¡y yo, con estos pelos!\c\n¡Hola, preciosidad! ¡Estás en la Mansión Batalla!\nYa sé que tú no has venido aquí para oírme hablar,\r\nprecisamente, pero hay que ir paso a paso, criatura.\c\nSoy Nocta, una Dama del Combate y la menor de\nlas cuatro hermanas. ¡Conmigo se rompió el molde!\c\n¿Sabes que soy yo la propietaria de este antro?\nHe tenido que trabajar mucho para ello, pero no me\r\narrepiento en absoluto. ¡Yo soy así y así seguiré!\c\nYo estoy a cargo de los Combates Individuales aquí\nen la Mansión Batalla. ¡Lo que oyes, cariño!\c\nY ahora pórtate bien ¡y deja que me divierta de lo\nlindo contigo, ricura!\c\nYa puedo oír a mis admiradores animándome...\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?
+¿Qué te ha parecido, corazón? Doy juego, ¿o no?\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?\c\nAunque yo me he esforzado lo justo, si te soy\nsincera, cari, me ha encantado ver que tú sí que\c\nhas puesto toda la carne en el asador.\c\nSigue poniéndole ganas y conseguirás derrotarme.\c\nA fin de cuentas, la Mansión Batalla y yo estamos\ndispuestas a hacer que tu paso por aquí sea una\c\nexperiencia inolvidable... ¡cualquier día del año!
+¡Aúpaaa! ¡Eso sí que foi un combate!\nTe has portado como un[VAR GENDBR(00FF,0A08)] campeóna campeona, monada.\c\nAunque, si te soy sincera, me he cortado, ¿eh?\n¡Claaaro! ¡Algunos visitantes no llevan muy bien\c\nque sea tan dura en su primera vez, ricura!\c\nAsí que ya sabes: si quieres ver a una Nocta\ndesenfrenada, entrena sin descanso y vuelve\c\npara que nos veamos las caras, corazón.\c\nAhora voy a seguir con lo mío...\n?Somos chicas pistoleras, rubias y morenas...?
+Ah, hola, eh...\nBien... Bienvenid[VAR GENDBR(00FF,0101)]oa a la Mansión Batalla...\c\nEsto... A ver...\nYo... Yo me llamo Vésper... y...\c\nSoy una de las Damas del Combate de la casa...\nIgual que mis hermanas...\c\nSomos... cuatro y yo soy... la tercera...\nO sea que hay una menor y dos mayores... O dos\r\nmayores y una menor, tanto monta, monta tanto...\c\nBueno, no nos liemos... Mi especialidad es...\n¿Cuál era?... Ah, sí... Los Combates Dobles.\c\nY... Y... Eso, que... Que bueno...\nQue sí, que... Ah...\r\n...\c\nQué buen día hace hoy, ¿no?\n¿Una hipoteca es una discoteca de hipopótamos?\c\nOh, lo siento... Que me lío a hablar y no sé ni qué\ndigo y los clientes prefieren ir directos al combate.\c\nCreo que habría que...\n¡Empezar a combatir ya mismo!
+¡Pe-pe-pe-pe-perdón!\c\n¡Lo... Lo... Lo siento mucho! Yo no... ¡No quería!\n¡No era mi intenção ganar!\c\n¡Yo quería perder, en serio!\n¡Ay, madre, qué bochorno!\c\nNo lo entiendo... Esto nunca me había pasado\nantes. ¿Será el estrés? ¿Es por mí?\c\nYo que siempre dejo que me ganen...\n¡Ay, ay, qué poca profesionalidad!\c\nLa próxima vez, lo haré mejor...\nPor favor, no deje de visitar la Mansión Batalla.
+Ah, esto... Ahora tendría que decir...\n¡Que muy bien, felicidades!\c\nNo sabía que fuera tan fuerte. Si lo llego a saber,\nhabría combatido en serio...\c\nO sea, más en serio... Que no quiere decir que no\nlo haya hecho en serio, ¿me explico?\c\nLa próxima vez, se lo pondré más difícil.\c\nPor favor, no deje de venir a la Mansión Batalla\ny echaremos outro combate.
+¡Te doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia y soy una de las cuatro divinas\nDamas del Combate que cortan el bacalao aquí.\c\nPor si te interesa saber algo más sobre mí, soy\nla segunda mayor y además toda una experta en\r\nlos Combates Triples.\c\n¿Cómo te quedas? Hasta yo misma me sorprendo\nde lo divina que soy, oye.\c\nPero dejemos de hablar de mí, aunque resulte tan\ninteresante. Veamos hasta dónde llega tu fuerza,\r\npequeñ[VAR GENDBR(00FF,0D0C)]o Treinadora Treinadora.
+Tal y como supuse, me he hecho con la victoria.\nPero claro, con lo divina que soy, es normal.\c\n¿Eso es todo lo que tienes que mostrar? Y yo que\npensaba que tenías potencial... Qué decepção.\c\nNo tengo interés en Treinadores que no me\nllegan a la suela del zapato.\c\nSi en algún momento crees que puedes estar a\nla altura de mi magnífico nivel, me dignaré a echar\c\nun combate contigo. Para que después digan que\nno soy altruista y no pienso en los demás, ja.\c\nY si decides tirar la toalla, esfúmate de mi vista,\nporque no soporto a los perdedores.
+Uf... Uf... Me cuesta respirar y todo.\c\nNo lo habéis hecho del todo mal tu equipe\nPokémon y tú, pero no te creas que te voy a dar\c\nuna palmadita en la espalda, ¿eh?\c\nLo que sí te voy a reconocer es que me lo he\npasado bien combatiendo contra ti.\c\nDe todas formas, estaba más interesada en dar un\npoco de espectáculo al público que en alzarme con\c\nla victoria, así que no te emociones, ¿eh?\c\nQue nadie me gana a divina, ¡ni a mis Pokémon!\c\nSigue ganando combates y, si considero que te lo\nmereces, quizá te muestre mi verdadero potencial.
+?Si tiene tiempo libre, pásese por aquí.?\n?Y diga al aburrimiento: “tararí que te vi”.?\c\n?Combata con nosoutrooos, si quiere gozar.?\n?Aquí en Mansión Batalla, ¡es un no parar!?\c\n¿Qué le parece? Es el estribillo de la canção con\nla que hemos lanzado nuestra campaña publicitaria.\c\nUy, ¿pero dónde están mis modales?\n¡Si no me he presentado ni nada!\c\nYo soy la mayor de las cuatro hermanas que\nformamos el grupo de las Damas del Combate.\c\nMe llamo Aurora. ¡Es un placer conocerl[VAR GENDBR(00FF,0101)]oa!\nMuchas gracias por honrarnos con su estupenda\r\npresencia en esta humilde Mansión Batalla.\c\nTal vez sea más bien negada en estas lides,\npero le prometo poner todo mi empeño y ahínco\r\npara hacer de su estancia aquí algo inolvidable.
+Muchas gracias por este espléndido combate, cielo.\c\n¿Lo ha pasado usted bien?\nNo se olvide de pasar por la Tienda PB al salir.\c\nDisponemos de un amplio surtido de productos\nde la máxima calidad, ideales como souvenir para\c\nun[VAR GENDBR(00FF,0100)]a viajer[VAR GENDBR(00FF,0101)]oa como usted.\c\nY ahora, con su permiso, me retiro.\c\nMe congratularía un montón volver a tener el honor\nde verl[VAR GENDBR(00FF,0101)]oa de nuevo por aquí.
+Muchas gracias por este espléndido combate, cielo.\n¿Lo ha pasado usted bien?\c\nNo tenía ni pajolera idea de que poseyese tamaña\ndestreza.\c\nNo solo porque sea requetefuerte, sino porque\ntambién destila elegancia por los cuatro costados.\c\nJi, ji, ji. Me ha entrado usted por el ojo derecho,\n¿sabe? foi verl[VAR GENDBR(00FF,0101)]oa y ya me cae estupendamente.\c\nEspero de todo corazón que se pase por aquí y nos\ndé otra grata sorpresa cualquier día de estos.\c\nHasta entonces, ¡que tenga una buena jornada!
+¡Os doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia y soy una de las cuatro divinas\nDamas del Combate que cortan el bacalao aquí.\c\nPor si os interesa saber algo más sobre mí, soy\nla segunda mayor y toda una experta en los\r\nCombates Triples.\c\nTenéis valor para enfrentaros en Combate Múltiple\ncontra mí, porque, además, me acompaña...\c\n...\n...\c\n¡Venga, Vésper! Tienes que presentarte, aunque no\nme extraña que no digas nada, porque tras mi\r\ngrandiosa aparição, cualquiera queda eclipsado.
+Meridia: Pché, ya hemos acabado, parece ser.\nAl final no habéis durado ni dos telediarios, ¿eh?\c\nDe todas formas, para tener vuestra edad y\nenfrentaros a rivales de gran nivel como nosotras,\c\nno lo habéis hecho tan mal como esperaba.\c\n¿No crees, Vésper?\n...\c\n¡Pero bueno, despierta, chica! Eres incorregible.\c\n¿Cómo puedes no hacerme caso cuando estoy\nsoltando un discurso tan divino? ¡Qué valor!
+Meridia: Pché, no ha estado mal.\c\nHabéis conseguido imponeros a nuestra magnífica\ncombinação, y eso no pasa todos los días.\c\nAun así, mi verdadero potencial lo dejo para los\nCombates Triples... ahí reparto cera que da gusto.\c\nY Vésper es un hacha en los Combates Dobles,\nque lo sepas. En retos como esos, seguro que te\c\nhacemos morder el polvo. ¿A que sí, Vésper?
+¡Oh! Sí, lo siento. Ahora voy, Meridia...\c\nAh... Esto... Yo me llamo Vésper y normalmente\nme encargo de los Combates Dobles.\c\nY eso...\c\n...\c\nAy, lo siento, pero es que yo no soy muy...\nhabladora, que digamos.\c\n...\c\n...\c\n¿Bueno, qué? ¿Empezamos?
+Vésper: ¿Eh? ¿Qué? ¿Cómo?\n¿Has dicho algo, Meridia?\c\nAy, lo siento...\c\nEstaba tan nerviosa que no sé lo que ha pasado\nen el combate, tengo una laguna mental.\c\nSnif... snif...\c\n¿Eh? ¿Qué? ¡Ah, sí!\nEsto... ¡Que muchas gracias!\c\nMuchas gracias y vuelvan cuando lo deseen a\nla Mansión Batalla. ¡Hasta pronto!
+Vésper: ¿Eh, que diga qué?...\nHala, cómo te pasas, ¿no? Jo... Bueno, a ver...\c\nDisculpadme, pero no se me dan nada bien los\nCombates Múltiples.\c\nEs más, quiero dejar claro que si hemos perdido\nfoi exclusivamente por mi culpa.\c\n¡Les recomiendo que no esperen gran cosa de mí!\c\nDe hecho, si quieren librar un combate, escojan lo\nque sea menos un Combate Múltiple...\c\nJo, qué corte...\c\nY ahora me retiro, pero no sin antes agradecerles\nel combate de hoy.\c\nPues eso, que gracias y adiós.
+¡Ah! Ho-ho-hola y bienvenid[VAR GENDBR(00FF,0101)]oa a la Mansión Batalla.\c\nUf, a ver si lo digo bien...\c\nMuchas gracias por haber escogido librar contra\nnosotras un Combate Múltiple.\c\nY eso... Y...\c\nHoy se enfrentará a una servidora, Vésper...\nY a mi hermana Aurora.\c\nPues eso, que lo disfrute.
+Vésper: ¡Mu-mu-muchas gracias!\n¡Su equipe Pokémon es fantástico![WAIT 60]\c\nYo...[WAIT 60]\c\n¡Seguiré entrenando duro para estar\na la altura![WAIT 60]\c\n¡Así que venga a la Mansión Batalla\ncuando quiera![WAIT 60]
+Vésper: Ah... Esto...\n¡Bien hecho![WAIT 60]\c\n¡No sabría decir cuál ha estado mejor![WAIT 60]\c\nLa verdad es que me pongo nerviosa...[WAIT 60]\c\nCuando lucho contra desconocidos...[WAIT 60]\c\n¡Estaba hecha un flan![WAIT 60]\c\n¡Ni me acuerdo de lo que he hecho![WAIT 60]\c\nLa próxima vez me esforzaré todavía más.[WAIT 60]\c\nAsí que solicite un Combate Múltiple\nsiempre que quiera.[WAIT 60]
+Vésper, ¿estás lista? ¡Espabila, hija!\c\n¿Ya estás hecha un manojo de nervios otra vez?\nCon lo importante que es presentarse debidamente\r\nante clientes tan eminentes...\c\nAunque seguramente hay algún que outro cliente al\nque le parecen monas las chicas tímidas que se\r\nsonrojan por nada. ¡Para gustos, los colores!\c\nUy...\n¡Qué bochorno! Nos han pillado in fraganti\r\ndándole al pico como dos cotorras.\c\nNada, nada, comencemos el combate ya sin más\nprolegómenos.\c\nTanto Vésper como yo prometemos poner todo\nnuestro empeño y ahínco para hacer su estancia\r\ninolvidable, aunque somos más bien reguleras.
+Aurora: Gracias por este bello combate.[WAIT 60]\c\n¿Han disfrotado con la actuação de\nVésper y servidora?[WAIT 60]\c\nPues tendrían que conocer a nuestras\notras dos hermanas.[WAIT 60]\c\nBueno, ahora debemos retirarnos.[WAIT 60]\nSerá un placer receberles de nuevo.[WAIT 60]
+Aurora: Gracias por este bello combate.[WAIT 60]\c\n¿Han disfrotado con nuestra actuação?[WAIT 60]\c\nPues a Vésper se le dan de miedo\nlos Combates Dobles.[WAIT 60]\c\n¡Prueben a desafiarla en esa modalidad![WAIT 60]\c\nLos Combates Rotatorios, en cambio,\nson lo mío.[WAIT 60]\c\nBueno, ahora debemos retirarnos.[WAIT 60]\c\nSerá un placer volver a contar con su\npresencia.[WAIT 60]
+Has conseguido llegar hasta aquí, pero no\nte va a ser tan fácil a partir de ahora.
+¡Jua! ¡Te lo dije!\n¡Si es que todavía estás muy verde!
+Antes te dije que no te iba a ser tan fácil,\npero parece que me he equivocado.
+Mis padres son Treinadores Guays,\nasí que de tal palo...
+¡Mi objetivo es ser tan buen Treinador\nGuay como mis padres!
+Se supone que de tal palo, tal astilla.\n¿Por qué he perdido entonces?
+¿Adónde estabas mirando?\n¡No me eches la culpa si pierdes!
+¡Te lo dije!\nSi es que si no te concentras...
+¡Vale, vale! Ya has ganado, ¡así que deja\nde mirarme así!
+¡Papá! ¡Mamá! ¡Mirad qué bien lo hago!
+¡Papá! ¡Mamá! ¿Habéis visto cómo lo hago?\n¡He ganado!
+¡Papá! ¡Mamá! ¡Tengo miedo! ¡Buaaah!
+Estoy harto de estudiar, así que\nme he escapado.
+¡Soy invencible! ¡Ya no quiero estudiar más!
+¡No quiero! ¡No quiero volver!\n¡Estoy harto de estudiar!
+Cuando sea mayor, quiero tener éxito...\ny mucho dinero.
+¡Mi sueño es ser millonario!
+¡Algún día seré rico y te demostraré\nlo mucho que valgo!
+No me importa nada lo que digas,\npienses o hagas.
+Lo que realmente importa es la gente\nque quieres, ¿verdad?
+¡Me da lo mismo de lo que me tachen!\nLo que importa es ser como eres, ¿verdad?
+¡Es importante repartirse entre\nlos estudios y los Pokémon!
+¡Tienes que estudiar y entrenar más!
+¡No puede ser! ¿Cómo es posible que haya\nperdido contra una persona tan descuidada?
+Estoy podrido de dinero, así que tengo\ntodo lo que quiero.
+Los combates Pokémon son lo único\nque me divierte.
+El dinero no siempre trae la felicidad.
+¡Eso es! ¡Soy un Niño Bien!
+¡Oh, oh, oh! ¡Cómo sois los plebeyos!
+¡Guau! ¡Me has dado una leção de humildad!\nMuchas gracias.
+Aunque esto no es más que un hobby,\npienso esforzarme al máximo.
+¡Anda, no te pongas así!\n¡No pasa nada!
+Es bueno combatir por diversión.\n¡Yo lo hago porque me gusta!
+Ayer estuve de fiesta... y hoy con los\nPokémon... ¡Demasiada juerga!
+Como tengo mucho dinero, no me hace falta\ntrabajar.
+¡Ya lo sé! ¡Ya sé que el jugar todo el rato\nno es nada bueno!
+¡Vas a ver a mi equipe Pokémon preferido!\n¡Al ataque!
+¡Mi equipe Pokémon no tiene rival!\n¡Mi nome va a pasar a la historia!
+No voy a llorar, ¿vale?\nSnif... ¡Algún día ganaré!
+He venido a jugar en vez de mi compi\nporque le da miedo salir a la calle.
+¿Has visto, compi? ¡He ganado por ti!
+¡Jo! Me encantaría que mi compi saliera\na jugar conmigo a la calle.
+¡Encantada! Pórtate bien, ¿eh?
+Los Pokémon son superdivertidos.\n¡Te he ganado!
+Aunque haya perdido, no pasa nada.\n¡Ña, ña, ña, ñaaa, ña!
+Mis padres están todo el día delante del\nordenador. ¡Qué rollo!
+¡No me gustan ni mis padres ni el ordenador!\n¡Los Pokémon son mis únicos amigos!
+En vez de pasar tanto tiempo delante del\nordenador, deberían hablar más conmigo.
+Viajo porque me apetece, sin objetivo\nalguno.
+Soy como las gaviotas, voy y vengo\ncon el viento.
+¡Tú también deberías salir de viaje!
+Bueno, vamos a tomárnoslo con calma...\ntanto el combate como la vida.
+No me parece mal el ser temerario, pero\ntodo tiene un límite, ¿no crees?
+No pasa nada, ya habrá una próxima vez.
+¡Oh, no! ¡No me digas que aquí hay que dejar\npropina!
+Oh, bueno, si no hace falta dejar propina,\nno es tan mal sitio.
+¡Bah! Me da igual. Paso de dejar propina.
+¿A que no adivinas qué me viene a la cabeza\nsiempre que salgo de viaje?
+Que al final, como en casa, en ningún sitio.
+Que, si puedes olvidar lo que has dejado atrás,\nes que no era tan importante.
+Siempre he estado haciendo solamente\nlo que me gusta, por eso sirvo cafés.
+Vida solo hay una, por eso deberías\ndisfrotarla y hacer lo que te gusta.
+Siempre estoy por aquí haciendo lo que\nme da la gana y sin preocupaciones.
+¡Empecé este trabajo porque quería ver\na la gente sonreír!
+¡No me mires así!\n¡Anda, sonríe, por favor!
+Me da un poco de rabia, pero ha merecido\nla pena porque he podido verte sonreír.
+¡Venga! ¡Empecemos!\n¡No malgastemos nuestro tiempo!
+Pero... ¿ya has terminado?\n¡Con la cantidad de tiempo que nos queda!
+Ya es hora. ¡No se puede alargar la cosa!
+Estoy de negocios con mis Pokémon.
+No eres muy fuerte. Lo siento, pero no\nvales para trabajar en mi negocio.
+¡Vaya, vaya! ¡Eres bastante fuerte!\n¿Te apetece trabajar en mi negocio?
+¡Únete a un Club de Fans de Pokémon!\n¡Te alegrará la vida!
+¡Si te unes a un Club de Fans de Pokémon, te\nharás tan fuerte como yo!
+Deberías apuntarte a un Club de Fans de\nPokémon. ¡Te cambiará la vida!
+¡Ya no soy un simple Pokéfã!\n¡Soy un Pokéfã de primera!
+¡Adoro a los Pokémon!\n¡Los adoro, los adoro, los adooorooo!
+¡Que no se te olvide!\n¡Soy un Pokéfã de primera!
+Amo, luego existo.\n¡Soy el amor en persona!
+El amor es fuerza.
+Que no se te olvide.\n¡Soy el amor personificado!
+Aunque hay gente joven y guapa, debes saber que\nla juventud por sí sola no es sinónimo de belleza.
+Si cuando era joven hubiera sabido todo lo que sé\nahora, mi vida habría sido mucho más fácil.
+La juventud hay que disfrotarla.\n¡Ojalá me hubiera dado cuenta en su día!
+Pero ¿tú quién te crees que eres para\nbloquear mi camino? ¿Una montaña o algo?
+¡Yujuuu! ¡Ganéee! ¡Todavía puedo oír mi\nmaravilloso grito de guerra! ¡Kiaaa!
+Mi gozo en un pozo...
+¡Sí! ¡Aquí estoy! El único, el inimitable...\n¡el Montañero!
+¡Anda! ¿Ya? ¡Qué rollo!
+¡Recuerda que no se debe juzgar a las\npersonas por su apariencia!
+Lo que se tiene que hacer, se hace y punto.\nLlueva, nieve o haga sol.
+¡Yo nací para el combate! ¡Soy un Treinador\nde los pies a la cabeza!
+¡Buf! Todo esto es culpa mía... ¡Voy a pedir\nperdón a mis Pokémon!
+Combates y deporte: unos ganan y outros pierden.\nEs lo mismo, pero no es igual.
+¿Cómo, que no he jugado limpio?\nHay gente que no sabe perder...
+No puede ser... ¡No me lo creo!\n¡No puedo haber perdido!
+Ay, qué cuco es mi Pokémoncito... ¿Sabes qué me\nha dicho? ¡Que quiere ARRANCARTE LA CABEZA!
+Oh, no te pongas así...\nYo te cuidaré y BAILARÉ SOBRE TU TUMBA.
+¡Mi Pokémoncito se ha quedado triste y azul, y con\nganas de CORTARTE A CACHITOS!
+Sientes la llamada de un misterioso Pokémon,\ncomo en un lejano sueño...
+Y ahora ve a dormir... el sueño eterno...
+Verme derrotada me hace sentir que la realidad\nsupera la fição.
+¡Yo solo quiero a mis Pokémon! ¡El resto del\nmundo se puede ir a freír espárragos!
+¡Ojalá todos se fueran a hacer gárgaras!\n¡Odio a todo el mundo menos a mis Pokémon!
+¿Por qué parecen estar disfrotando mis Pokémon?
+Tú tienes tu propio camino, y yo el mío.
+Seguiré mi camino... No sé hacer otra cosa.
+Tu camino es muy empinado, pero no debes\ntirar la toalla. Yo te animaré... ¡Dale duro!
+Si se te ocurre menospreciarnos, ¡haré trizas a tus\nPokémon!
+Te has quedado con la boca abierta al ver mi estilo\nen el combate, ¿a que sí?
+¡Grrr! Procura que no te vuelva a ver por aquí.\n¡Me he quedado con tu cara!
+Aunque mis padres son Treinadores Guays, yo\nsoy el último de la clase.
+Si mis padres vieran que me he convertido en\nun Chico Malo, seguro que se entristecerían.
+Como no puedo ser tan bueno como mis padres,\nseré un Chico Malo, y de los que dan que hablar...
+Entre tú y yo... Lo que yo quiero en realidad...\nes un novio normal que me haga mimos.
+Será porque mi fuerza los echa p’atrás,\nque ninguno se me acerca.
+¡Quiero brincar con mallas rosas por campos\nde algodón de azúcar como dos tortolitos!
+Todo el mundo tiene un pasado oscuro, pero el mío\nes negro, directamente. No quieras saberlo.
+Entre esto y lo outro y lo de más allá...\nBuf, mejor no me tires de la lengua.
+Y si removemos bien, ya ni te explico...\nPero oye, ¿yo por qué te estoy contando mi vida?
+¿Te atreves a meterte conmigo, que soy punkarra\nde pura cepa? ¡Hay que tener narices!
+Te perdono la vida por ahora... Así podremos echar\nun combate outro día.
+Pierdo, pero con las botas puestas.\nTotal, no me las quito ni pa dormir.
+¡Vamos a saborear cada momento de este\ncombate!
+¡Oh, qué delicia! ¡Pero me ha sabido a poco!
+Mmm, me he quedado con mal sabor de boca.
+¡Yo no le temo a nada bajo el cielo!\n¡En guardia!
+Je, je, je...\nAlgunas personas no saben cuál es su lugar...
+No puedo hacer menos que reconocer tu fuerza.
+Una manzana al día el médico te ahorraría.\n¿Conoces el dicho?
+De lo que se come, se cría.\n¡Que la mejor medicina es la buena comida!
+¿Quieres hacerte fuerte? ¡Pues a comer sano!\n¡Tripa vacía, corazón sin alegría!
+Lo veo y no lo creo... Eres...\n¡La viva imagen de mi viej[VAR GENDBR(00FF,0A0A)]o señoritoa señorita!
+Buf... En lo que a fuerza se refiere, al menos,\nno te pareces tanto.
+Tienes su misma fuerza... Te lo ruego...\n¡Déjame servirte!
+El Concurso Internacional de Mayordomos Leales\nestá al caer... ¡Practicaré contigo!
+A ver, si gano sin querer...\n¡Me hinco de rodillas y suplico perdón!
+A ver, si caigo derrotado...\n¡Es el momento de deshacerse en elogios!
+¡Siempre de aquí para allá sin descanso, lamiendo\nlas posaderas del señorito! ¡Que no soy un robot!
+¡Ah, ojalá pudiera darme el gustazo de humillar\nasí a ese déspota de...!
+¡Panda de ricachones desagradecidos!\n¡Nadie valora el esfuerzo que hago!
+No perdamos el tiempo charlando.\n¡A luchar!
+¿Ya has tirado la toalla?
+Grrr... Grrr... ¡Te acordarás de esta!
+No tengo confianza en mí misma, por eso\nprefiero que alguien me diga qué hacer.
+Menos mal que tú no eres quien manda aquí,\nporque fuerte lo que se dice fuerte...
+¡Guau! ¡Qué fuerte! ¿Me permite que le\ntrate de usted?
+¿Ves esta ropa? ¡Pues que sepas que\neste uniforme lo he hecho yo solita!
+¡Es el uniforme que sale en un anime!\n¿A que mola? ¿A que me queda bien?
+Me gustaría poder vivir dentro de un\njuego o en un manga para siempre.
+No me gustan los trabajos normales,\nasí que vivo del arte.
+Los Pokémon me hacen sentir tan bien que\nquisiera convertirme en uno.
+La verdad es que si pudiera tener un trabajo\nnormal, abandonaría el mundo del arte...
+¡Me encanta ver a mis Pokémon haciendo\nsus movimentos!
+¡No hay nada que me haga sentir mejor\nque ver un movimento Pokémon!
+¡Guau! ¡Los movimentos Pokémon me dejan\nsin aliento!
+¡No conozco la derrota!\n¡Pero tú vas a saber lo que es!
+La tristeza y el dolor de la derrota\nson arte, ¿no crees?
+Parece que tú también conoces el valor\nde la derrota.
+(Uy, qué bien. Un[VAR GENDBR(00FF,0101)]oa con pinta de pardill[VAR GENDBR(00FF,0101)]oa).\n¡Ay, pobrecita yo, que nadie entiende mi arte!
+Me encantaría pintarte un retrato...\n(¡Para venderlo por millones y forrarme!).
+¡Pásate por mi estudio cuando quieras!\n(Fijo que, si l[VAR GENDBR(00FF,0101)]oa engatuso, me compra algo).
+Nuestro combate... será en sí mismo una obra\nde arte.
+Voy a titular esta obra:\n“Más torpe y fríe melones”.
+Voy a titular esta obra:\n“La artista seductora pero perdedora”.
+¡Vendo garabatos de Pokémon a precio de oro!\n¡Qué lista que soy!
+Es sencillo como la tabla de multiplicar del cero.\nTú dices que es arte... ¡y a vivir del cuento!
+La culpa no es mía. Es de la gente, que se deja\ntomar el pelo de mala manera.
+A veces los combates son peligrosos.\n¡Ánimo, mis peques!
+Parece que mis Pokémon están preparados\npara lo que sea. ¡Yupiii!
+¡Puf! ¡Me has dejado para el arrastre!
+¡Pasa, pasa, que no te va a doler!\n¡Solo será un combatito de nada!
+Solamente por haber ganado, me siento\nsuperfeliz.
+Tranquilidad... Ya ha pasado todo...
+No hago más que trabajar sin descanso.\n¿Será que soy imprescindible?
+A mi edad ya estoy curado de espantos,\nasí que no se me engaña tan fácilmente.
+Como dicen en mi pueblo, es mejor ser feliz\nque sabio.
+Todavía estás muy verde con los Pokémon.\n¡Yo soy el Operario legendario!
+¡Deberías saber quién soy! ¡Nos vemos!\n¡El Operario legendario se las pira!
+¡Oye! ¡Acuérdate de quién soy!\n¡Soy el Operario legendario!
+¡Soy tan chulo que llevo patines sin frenos!
+¡No puedo parar ni aunque quiera!\n¡Y además no me da la gana de hacerlo!
+¡Sabía yo que no tenía que comprar los patines\nen el todo a cien! ¡Que me la pegooo!
+Me compré los patines para ver si ligaba un poco,\npero las chicas siguen pasando de mi cara.
+Patinar está pasado de moda, ¿verdad que sí?
+Y encima soy un paquete en los combates...\n¡Ya no sé qué hacer para ligar!
+¡Con estos patines puedo atrapar al Pokémon\nmás pintado! ¡Y al más rápido también!
+No hay Treinador ni Pokémon que escape\na mis patines.
+Soy rápida y no me rindo jamás. ¡Soy la cazadora\nperfecta!
+¡Cinco segundos! ¿Me oyes? ¡Con eso me basta\ny me sobra para ganarte!
+¿Cómo, que han sido más de cinco?\n¡No en mi reloj!
+Bah... es que si pasados cinco segundos no he\nvencido ya, pierdo la motivação.
+Oye, oye. Aún no llevo mucho tiempo en esto, así\nque no pongas toda la carne en el asador, ¿vale?
+Buf... Esto... No puede ser... Qué potra he tenido.\nSi no tengo ni idea, vamos.
+Qué flipada de combate. He aprendido bastante de\nti, así que no me importa haber perdido.
+¡Aaaah! Buf... Me emociono tanto que en una de\nestas me va a dar un soponcio.
+¡Qué lata! Cada vez que me pongo nervioso o me\nemociono, me entran unos tembleques que...
+Aaaaay... ¡Aaaaah! Que me tiembla todo todito\ny no puedo parar.
+¿Seguro que quieres echar un combate? Es que es\nverte y me da la impresión de que si sopla el viento\r\nvas a salir volando. Estás hech[VAR GENDBR(00FF,0504)]o una una tirillas.
+¿Has visto? Estás que no te tienes en pie, chic[VAR GENDBR(00FF,0101)]oa.\n¿Quieres que te traiga una silla? ¿Puedes andar?
+¡Vaya sorpresa! Está claro que no hay que juzgar\nun libro por su portada. Me está bien empleado.
+¡Eh, tú, Treinador[VAR GENDBR(00FF,0100)]a! ¿Qué te parece si nos\nmarcamos un combatito y así sudamos un poco?
+Te he hecho sudar la gota gorda, ¿eh? Pero oye,\neso está de buten, ¡que hay que entrenar!
+Estoy sudando a mares, ¡pero me encanta! Significa\nque me he esforzado mucho en combate.
+Yo no he elegido ser mujer, ni tampoco convertirme\nen adulta.
+Tampoco he podido decidir el desarrollo de\neste combate.
+Aparecer, luchar y desaparecer... ¿Acaso existimos\npara algo más? A veces me lo pregunto.
+Aspira hondo y deja que mi embriagador perfume\nte cautive. Así sabrás cómo huele la victoria.
+¡Pero no aspires tanto, que te vas a marear!\nYa sabes, lo bueno, si breve... ¡dos veces bueno!
+He de confesar que mi perfume no es más que el\nolor del suavizante corriente y moliente que uso.
+La belleza de la naturaleza reside en lo intangible:\npor ejemplo, la expansión de la entropía.
+Todo llega cuando tiene que llegar. Es mejor\nseguir el plan del universo y no luchar contra él.
+¿No comprendes lo que te acabo de decir? Bueno,\nla verdad es que lo he leído por ahí y sonaba bien.
+Tralarí, que te corto por aquí.\nTralará, que te corto por allá.\c\nPodar, rimar, a mi corazón hacen brincar.\nEchemos un combate, que te voy a impresionar.
+Tanto poda, poda tanto. Quiero decir que da igual\nlo que hagas, pues mi técnica y rimas son letales.
+¿Cómo ha podido pasar esto?\n¡Jamás se me ha roto un tiesto!
+El plato fuerte del día...\n¡sois tu equipe Pokémon y tú!
+Aunque esté muy trillado, foi pan comido.\n¡Si es que me lo pones en bandeja!
+Creo que voy a volver a la cocina... a tragarme\nmi orgullo con patatas.
+¡Ven p’aquí, que le voy a dar un repaso a tu equipe\nque no van a saber ni dónde s’han metío!
+¿T’has quedao con eso? ¡Mi equipe y yo somos\nla caña de Kalos!
+Vaya papelón he hecho... Te quería vacilar y me\nhas puesto en cintura.
+Los recuerdos de un viaje permanecen para toda la\neternidad, y las fotografías también. ¡Prepárate,\r\nque quizá salgas en alguna!
+Te voy a prestar la cámara para que me saques una\nfotografía con mi pose de victoria, je, je.
+¡Esta foto la borro! Menudo bochorno...\n¿Quién querría recordar semejante derrota?
+¡Estoy harto de tanto lugar turístico, restaurantes\nlujosos y tiendas de presentes!
+¡Esta no es forma de pasar una luna de miel!\nTan solo hacemos lo que ella quiere...
+Por tu bien, recuerda bien esto: en la luna de miel\nte darás cuenta de que ya es demasiado tarde.
+Por fin he hecho algo en lo que llevaba tiempo\npensando: he dejado mi hogar y me he convertido\r\nen un Turista. ¡Voy a visitar todo el mundo!
+Todo el mundo debería viajar más... aunque no\nse tenga mucho dinero y toque ir a hoteluchos.
+Lo tengo claro: iré al pueblo a despedirme de mi\nfamilia y recorreré el mundo en solitario.
+Al surcar con ímpetu los cielos como un pájaro,\nsiempre dejo una estela detrás de mí.
+Y ahora me preparo para despegar, porque a ti ya\nte he despegado a base de bien en el combate.
+Vaya, me has obligado a realizar un aterrizaje\nforzoso. Aún me faltan muchas horas de vuelo...
+No le voy a desvelar el secreto a mi marido, pero\nhace tiempo yo era una Chica Mala.
+Me pregunto si es buena idea olvidar esos detalles\nde mi pasado y continuar con mi nueva vida...
+¡Vete por donde has venido! O si no, te voy a dar\nla brasa con historias de mi marido.
+Voy a entablar combate contra ti con el Pokémon\nque me confió mi querido al pedir mi mano.
+Esta victoria ha confirmado el amor que siento\npor mi querido. ¡Seremos felices para siempre!
+Vaya... ¿Acaso significa esto que nuestro amor no\nestá predestinado? Qué derrota tan agria...
+He entrenado a mis Pokémon en\nuna técnica ultrasecreta.
+Dependiendo de cómo los críes, tus Pokémon\nte saldrán fuertes o debiluchos.
+Hmmm... No tendría que haber acabado así.\n¡Creo que la he liado parda!
+¿Quieres que te enseñe la mejor forma\nde criar Pokémon?
+Lo puedes leer en mi libro. ¡Cómpratelo\nsi quieres mejorar esa técnica tan cutre!
+Te vendría bien ver el DVD que publiqué. Ahí\ntienes los mejores trucos para Pokémon.
+¡Los Pokémon son mi familia!\n¡Ahora verás lo unidos que estamos!
+¡Yupiii! ¡Hermanos! ¡Hermanas!\n¡La familia es invencible!
+¡Nooo! ¡Mi familia! ¡¿Cómo te atreves?!
+Creo que no importa que se te dé bien o\nmal lo que te gusta, ¿no crees?
+Se me dan bien los combates, aunque,\nla verdad, no es que me gusten mucho.
+Entre el trabajo y lo que me gusta, me\nsiento plena. No necesito nada más.
+Te lo voy a poner fácil para que lo\nentiendas: es imposible que me ganes.
+¡Ya te dije que no había forma de que me\nganaras! Es lo que tiene ser débil.
+¡Ahí va! Eres bastante fuerte, ¿lo sabías?
+No me subestimes por ser mayor. Ya\nverás qué sorpresa tengo bajo la manga.
+Quien no oye consejo no llega a viejo.\nQuizás te tendría que dar alguno, ¿no?
+¡Vaya con la artrosis! ¡Vergüenza me daría\na mí vapulear a un anciano!
+Quiero jubilarme de una vez, pero como\nno tengo sucesora...
+Si adoptara a alguien como tú, estaría mucho\nmás tranquila.
+Me recuerdas mucho a mi hijo.\nÉl también se está esforzando mucho.
+Cuando veo a alguien tan joven como tú,\nme pongo triste por mis años perdidos.
+Alguien como tú, en la flor de la juventud,\nme hace darme cuenta de lo mayor que estoy.
+El brillo de los ojos, la tersura de la piel...\n¡Eso es algo que nunca más tendré!
+Oye, ¿crees que este kimono es demasiado\nllamativo? De todas formas, será mejor que\r\naproveche ahora que aún soy joven.
+Por desgracia, la moda y la belleza tienen fecha\nde caducidad, impuesta por la edad de una misma.
+Seguro que cuando tenga más edad no podré ir\npor ahí retando a la gente. ¡Tengo que aprovechar!
+Según me dijo mi abuela, este kimono ha pasado\nde generação en generação, así que te puedes\r\nimaginar lo importante que resulta para mí.
+¡Eh, no te acerques demasiado a mí! No quiero que\nmanches mi kimono por nada del mundo.
+Por muchas generaciones que hayan pasado,\nyo casi preferiría ponerme encima un mantel...
+¿Qué tal? ¡Soy el más mejor del mundo mundial!
+¿Has visto? ¡Vaya paliza te he dado, chaval[VAR GENDBR(00FF,0100)]a!
+Bah, para mí no era un combate y no me lo he\ntomado en serio. La próxima vez ya verás...
+No hay ni un momento de mi vida en el que no me\nemplee al máximo. Venga, ¡muéstrame Pokémon\r\nbien fuertes para emplearme a fondo!
+¿Qué te ha parecido eso? Mis Pokémon son como\nyo: lo dan todo, ya sea en la vida o en el combate.
+¡Nooo! ¡Aún no se ha acabado! Mis Pokémon aún\nse pueden tener en pie. ¡Venga, demostrádselo!
+¡Mis investigaciones harán del mundo\nun lugar mejor!
+El mundo está en buenas manos...\n¡en las manos de un cerebrito como yo!
+¡Soy un genio! ¿Cómo es posible que pierda\ncontra alguien como tú?
+Lo he dado todo por mi investigação:\nmi familia, mis amigos... ¡todo!
+Creo que no está mal el dedicar tu vida al estudio.\nYa ves, a mí me ha dado resultado.
+A veces el estar sumido en el estudio te hace sentir\nmuy solo.
+Oye, ¿te importaría ayudarme\ncon mi experimento?
+¡Guau! ¡Mi experimento foi todo un éxito!
+Vaya... Mi experimento ha fracasado.
+¡Mis Pokémon están rebosantes\nde energía! ¡Prepárate!
+Como era de esperar, he ganado. ¡Ji, ji, ji!\n¡Tengo la fuerza de la ciencia de mi lado!
+¡Vaya! ¡Has superado el poder de la ciencia!\n¡Tus Pokémon son fortísimos!
+Si pierdes, tienes que ayudarme a\nprobar una nueva medicina, ¿vale?
+¡Ji, ji, ji! ¡Has perdido!\nTómate esta medicina a ver qué tal.
+¡Jooo! Casi lo consigo. ¡Con lo difícil que\nes encontrar buenos ayudantes!
+Mi tema de estudio es la competitividad\nde la gente.
+Se dice que la gente se enfada si pierde.\n¿Es cierto eso? Como acabas de perder...
+Se dice que la gente se vuelve rencorosa al\nperder. ¿Es rencor lo que siento ahora?
+¡¡¡Concentração!!!
+¡Fuaaa!
+¡Aaauuu!
+La belleza es efímera.\nLas palabras sobran durante el combate.
+Lo que más me desagrada son los\nTreinadores que combaten por deporte.
+La derrota no tiene valor alguno. Cuando\neres derrotado, sobran las palabras.
+¡Jua!\nSi pierdes, ¡te convertiré en Pokémon!
+¡Ji, ji, ji!\n¡Desde ahora serás mi Pokémon!
+¡La próxima vez, te ganaré!\n¡Ya lo verás!
+Por lo general escucho música clásica, pero cuando\npierdo, necesito algo más movido para animarme.
+Menos mal que no he perdido, porque ahora mismo\nno me apetecía escuchar una canção animada.
+Me temo que voy a tener que rescatar la cinta de\nmúsica moderna para animarme tras esta derrota.
+Je, je. A mí no me la das: tú practicas las artes\noscuras y provienes de outro planeta, ¿a que sí?
+¡¿Por qué?! ¡Te has dejado ganar a propósito!\n¿Qué pretendes? ¿Acaso se trata de una trampa?
+Maldição... Al final he caído ante las fuerzas\noscuras del más allá. ¿Qué ocurrirá ahora?
+Vaya, se te ve muy feliz. Estar a tu lado me provoca\nsarpullido.
+Ahora que has comprobado que la vida no es de\ncolor rosa, quizá incluso podamos ser amig[VAR GENDBR(00FF,0101)]oas.
+Cuando veo a alguien feliz, siento un odio negro\ny peludo. Sí, el mundo me ha hecho así.
+Te felicito por atreverte a desafiar al\nposeedor de la patada espacial... ¡Yo!
+¡Jua! ¡Ni me hizo falta usar mi patada\nespacial!
+Así que cuando me desafiaste a un combate,\nno tenía nada que ver con mi patada...
+¿Y mi kimono? ¡Kiaaa! ¿Ya está lavado?\n¡Kiaaa!
+¡Kiaaa! ¡Ya está! ¡Kiaaa!\nIntenta apreciar más tu vida. ¡Kiaaa!
+¡Kiaaa! ¡Bien hecho! ¡Kiaaa!\nLo intenté, pero nada... ¡Kiaaa!
+¡Kiaaa!
+¡Kiaaa! ¡Kiaaa!
+¡Kiaaa!
+No te preocupes por el qué dirán. Contra\nmí puedes darte el lujo de perder.
+Venga, no te preocupes por nada\ny duérmete.
+Las despedidas son difíciles, pero creo\nque ya es hora.
+¿Todo listo? Creo que con un solo brazo\nme será más que suficiente.
+¡Qué lástima!\nLuego la gente me va a acusar de abusona.
+¡¿Cómo te atreves a ganarme?!\n¿Se puede saber quién te crees que eres?
+Si pudiera, me gustaría luchar en lugar\nde los Pokémon...
+¡Siento que me falta algo!\nOjalá hubiera más ação en mi vida...
+Me hierve la sangre de la emoção.\n¡Quiero luchar!
+¡Oye! ¡Espera!\nVenga, ¡vamos a echar un combate!
+¡El enemigo ha caído!\n¡La victoria es nuestra!
+¡Espera!\nPiedad, por favor... ¡Piedad!
+Cuando vives rodeado de naturaleza,\nincluso lo peor se hace más llevadero.
+Aunque haya ganado, nada es importante\ncomparado con la madre naturaleza.
+Aunque haya perdido, nada es importante\ncomparado con la madre naturaleza.
+Aunque esté así vestido, en realidad soy\nun chico de cidade. ¡Quiero ir al campo!
+¿De dónde eres? ¿Vienes del campo? Si es\nasí, vente a verme de vez en cuando.
+Al ser un chico de cidade, no tengo\nun pueblo al que poder volver. ¡Jo!
+Yo protejo la naturaleza y los Pokémon\nque viven en ella.
+Si hay alguien que se atreva a dañar la\nnaturaleza, ¡ahí estaré yo para defenderla!
+¡Cuida de la naturaleza si no quieres\nvértelas conmigo!
+Uno tiene que estar muy atento si quiere\ncuidar de la naturaleza y de los Pokémon.
+Estoy tratando de concienciar a la gente de\nla importancia de cuidar de la naturaleza.
+Hay que concienciarse y plantar árboles, y\nproteger los bosques y a los Pokémon...
+¡Oye, tú!\n¡Aquí se termina tu paseo!
+Todavía tienes mucho que aprender.\nTe podría dar un entrenamiento especial.
+Pues voy a necesitar algo más de\nentrenamiento si quiero pararte los pies...
+¡Estoy superseguro de que te voy a\nganar! ¡Te voy a dar para el pelo!
+¡Que sepas que lo doy todo en cada combate\nPokémon! ¡Lo llevo en el alma!
+¡Nooo! ¡Buaaah! ¡Buaaah!\nSnif, snif... Ya no lo haré más, ¡lo prometo!
+¡No debes medir la fuerza del oponente\npor su apariencia! ¡Te lo demostraré!
+¡Te lo dije! Y que sepas que no ha sido\ncuestión de suerte, sino de fuerza.
+La gente me dice que soy un genio en los\ncombates. ¡No pensaba que pudiera perder!
+Por suerte, empecé a ser un Treinador\nGuay justo en el momento oportuno.
+La gente lucha y se vuelve más fuerte\ncuando persigue su sueño, ¿verdad?
+Aunque la gente considera que soy guay,\nla verdad es que no lo soy tanto.
+¡Te voy a enseñar quién es la verdadera\nprotagonista de esta historia!
+¡Yo soy la verdadera protagonista! ¡No eres\nmás que un personaje secundario!
+Pues no, parece que, después de todo,\ntú eres [VAR GENDBR(00FF,0202)]ella protagonista.
+Que sepas que soy muy fuerte y que solo\nquiero luchar contra Pokémon fuertes.
+¡Desaparece de mi vista! ¡Todavía no puedo\ncreer que me haya rebajado contigo!
+¡Vaya, vaya, vaya! ¡Pero mira lo que tenemos\naquí! ¡Estoy muy satisfecha!
+La gente guay como yo nunca quiere dejar\nde combatir.
+Por más que combato, nunca es suficiente.\n¿Significa eso que soy buena Treinadora?
+Parece que te has acostumbrado a los\ncombates. Podrías ser muy guay.
+Puedo ver en tus ojos la desesperação.\nVenga, ¡cuando quieras!
+foi una pérdida de tiempo, como pensaba.\nDeberías empezar a entrenar desde cero.
+Vaya, te he subestimado... ¿O acaso estabas\nhaciéndote [VAR GENDBR(00FF,0C0C)]el debiluchola debilucha?
+¡Oye, tú!\n¿A que soy todo un dandi?
+No se puede esperar menos de un dandi como\nyo. Está mal decirlo, pero soy la leche.
+Mi expresión está teñida de amargura. Es lo\nque pasa cuando no eres más que un dandi.
+Los mocosos que no saben nada, no\ntienen la menor oportunidad ante mí.
+Como esperaba, ganar a un amateur como\ntú foi tarea fácil. (¡Uf! ¡Por los pelos!).
+¡Ja! No es el do-re-mi del combate...\n¡Es el A-B-C! ¡Que no te enteras!
+Me encuentro mal. ¡Deberías tener\nmás consideração con tus mayores!
+¡Era todo mentira! ¡Estoy como una rosa!\n¡Jua, ja, ja!
+No me puedo creer que no te lo hayas\ncreído. ¡Eres bastante fuerte!
+Vas a saborear la fuerza de una Veterana\ncomo yo. ¡Te vas a enterar!
+¿Qué? ¿Te gustaron los Pokémon de una\nVeterana como yo? Ya estoy acostumbrada.
+Combatir es la sal de la vida...\npero yo he estado un poco sosa.
+¡Anda! ¡Qué monada!\nSeré buena contigo, así que no temas.
+De verdad que eres adorable...\nEspero volver a verte pronto.
+Tanto tú como el combate habéis estado\ngeniales. Espero que volvamos a vernos.
+Pero ¿tú no eres todavía demasiado\njoven? ¿Quién te ha dejado venir aquí?
+No es que seas horrible, pero todavía estás\nmuy verde, así que vete a entrenar un rato.
+Mira tú... ¡Me has sorprendido!\n¡Eres bastante fuerte!
+¡No me gusta que me llamen Veterana!\nTodavía no soy más que una jovencita.
+Todavía estás muy verde, tanto en el amor\ncomo con los Pokémon.
+Aunque ya estoy un poco mayor,\n¡soy joven de corazón!
+¡Soy el Mochilero más fuerte de todos!\n¡Llevo la mochila llenita de Pokémon!
+¡Jua, ja, ja! ¿Cómo te has quedado?\nFlipando con mi fuerza inconmensurable, claro.
+¡Todavía me quedan más Pokémon en mi...!\n¡Ah! Pues la verdad es que no.
+No salí de viaje porque ansiara libertad.
+Me pregunto si realmente necesito llevar\ntantas cosas conmigo...
+Creo que se me ha hecho un agujero en\nla mochila. ¡Se me está quedando vacía!
+¡Qué cansino es esto de ganar siempre con mis\nPokémon!
+¡Qué tedio! Me repatea hasta decir basta esta\nsensação perpetua de victoria.
+¡No lo decía en serio, mequetrefe! Era un decir.
+Por mucho que digan que a los ricos no les gusta\ncombatir y que prefieren una vida tranquila,\r\n¡discrepo!\c\nCuando estoy en un combate, ¡me siento viva!
+Me encanta lo que siento tras ganar un combate:\nalgo parecido a cuando cierro un contrato jugoso.
+Si quieres llegar lejos, entrena todo lo que puedas\ny empléate siempre a fondo.
+¡Oye! ¡No te vayas!\n¡Mira qué Pokémon tengo!
+Es para sentir orgullo, ¿verdad?
+¡Pero bueno! ¡No los molestes!\n¡Déjalos en paz, por favor!
+Este uniforme no es más que un atuendo\npara trabajar y ganarme la vida.
+En realidad, los días que no trabajo soy\nun Treinador Guay.
+La cosa es que, como no gano mucho,\nvoy a tener que vestir así por mucho tiempo.
+Mis Pokémon de confianza son los más\nfuertes. ¡No pueden perder!
+¡Ji, ji, ji! ¿Es que acaso te creías que ibas\na ganar a mis Pokémon de confianza?
+¡Jooo! ¡No es justo! ¡No me gusta perder!
+¿No crees que sería genial que hubiera\nun restaurante de Pokémon?
+Con un menú completo que le gustara\na la gente...
+¡Me refiero a un restaurante PARA\nlos Pokémon!
+Lolailo, lolailo...
+Lolailo...
+Lolailo...
+Soy la ira de las montañas, ¡tu peor\npesadilla! ¡Jua, ja, ja!
+¡Jua, ja, ja! ¡Todavía te falta mucho hasta\nque puedas escalar una montaña como yo!
+¡Por fin has conseguido llegar a la cima!\n¡Muy bien hecho!
+Voy a mostrarte un espectáculo tan impresionante\nque te voy a dejar con la boca abierta.
+Te convertirás en un[VAR GENDBR(00FF,0807)] adultoa adulta cuando sepas disfrotar\nde un buen combate sin pensar en el resultado.
+Vaya, ¡cómo te las gastas! Estás que echas fuego.
+Soy la guerrera del amor que lucha por el bien.\nY en el nome del amor... ¡te castigaré!
+¡Mi victoria servirá para propagar el amor a todos\nlos rincones de este mundo!
+No puedo perder... He de proteger el amor\nen el mundo...
+Los lugares siniestros me vienen bien para así\npoder acostumbrarme. Al fin y al cabo, quiero vivir\r\nen un cementerio.
+Los lugares que rebosan energía son interesantes,\npero prefiero los que rebosan misterio.
+Quiero vivir en un cementerio donde la vida\ncomience a partir de medianoche.
+Aunque no lo parezca, hace tiempo era una chica\nmuy guapetona y más coqueta; una Modelo, vaya.
+Causo furor entre los fantasmas, pero es una pena,\nporque no podemos ni siquiera abrazarnos.
+Cuando mi novio me dejó, pillé tal depre que dejé\nmi imagen un poco de lado. ¡Mira qué pintas llevo!
+Si fuera un Pokémon, no dejaría que nadie\nme regañara.
+Si eres un Pokémon, no hay quien se atreva\na regañarte. Son lo más, ¿verdad?
+Te gusta la bronca tanto como a mí.\nVamos a ser colegas, ¿vale?
+Si mis amigos virtuales me vieran así\nvestido, no se meterían conmigo.
+Me ha costado un montón ganarte.\nEsto de los Pokémon no es lo mío.
+¡Buaaah! Si es que me tenía que haber\nquedado en casa para darle al ordenador.
+No tengo nada contra ti, pero me he levantado con\nel pie izquierdo y lo voy a pagar con tus Pokémon.
+¡Perdón! No tienes la culpa de que hoy esté de mal\nhumor. Pero bueno, un combate es un combate.
+¡Eso ha dolido! Pero bueno, es lo que tienen los\ncombates, ¿no?
+¡Eh, tú! Déjate de cháchara y vamos a combatir\nya, que no tengo todo el tiempo del mundo.
+¿A que no te gusta perder? Pues para la próxima\nvez ya sabes: a entrenar más y a lloriquear menos.
+¡Tomaaa! Me encanta que seas tan fuerte.\nPero tú prueba a echarme un pulso y ya verás, ja.
+El menú que tengo preparado para el combate me\nva a granjear tal victoria que te dejará un regusto\r\nun tanto amargo.
+¿Qué te ha parecido? Mi victoria foi deliciosa;\ntanto que me voy a relamer, ja, ja.
+Eh, ¿adónde te crees que vas? Nada de levantarse\nde la mesa hasta que termines todo el plato.
+Slurps... Ay, se me cae la baba solo de ver a esos\nPokémon tan ricos con esa ricura de Treinador[VAR GENDBR(00FF,0100)]a.
+Ya ves, me he merendado a tus Pokémon.\nfoi pan comido.
+Je, je, je. Esta vez te has salido con la tuya.\n¡Pero la próxima vez te voy a comer con patatas!
+El trabajo de Mayordomo Leal era muy duro.\nSolo podía permitirme dos minutos de sueño al día.
+¿Mayordomo Leal o mero sirviente?\nEsa es la cuestión.
+¡Es hora de dar un giro a mi vida!\n¡No podía soportar más ese trabajo!
+Ya estoy hasta el gorro de servir a los demás...\n¡Ahora me vas a servir tú!
+Vas servid[VAR GENDBR(00FF,0101)]oa si crees que ganar es siempre fácil.\nA partir de hoy me llamarás “mi señor”.
+¡Eh! ¿Adónde crees que vas? Necesito\nun[VAR GENDBR(00FF,0B0A)] mayordomoa sirvienta y tú tienes todas las papeletas.
+Si yo gano, tendrás que encargarte\nde hacer la limpieza.
+Bueno, pues a partir de ahora, tendrás que\ndirigirte a mí como “mi señora”.
+¡Algún día estarás a mi servicio!\n¡Acuérdate de lo que te digo!
+¡Jooo! ¡Qué raro! ¡Estoy hecha polvo!
+Estoy para el arrastre...\nMe tiemblan las rodillas del cansancio.
+¡No me puedo ni mover!\nCreo que me voy a ir a casa.
+Una persona como tú no puede apreciar\nla belleza que estoy buscando.
+A un siervo de la belleza como yo la fealdad\nde la derrota no le resulta apropiada.
+¿Es que acaso eres tú la verdadera belleza\nque tanto he buscado todo este tiempo?
+Quiero pasarme lo que me queda de vida\ndibujando y viviendo junto a los Pokémon.
+Con el tiempo, los momentos amargos se van\ntransformando en buenos recuerdos.
+Los años no perdonan, así que es mejor\nlanzarse a la aventura cuando se es joven.
+No te voy a quitar el ojo de encima.\n¡Venga, disputemos un combate apasionante!
+¿Ya está? ¿Abandonas así, porque te da la gana?\n¡De eso nada! No soporto las malas artes.
+Ji, ji, ji. ¿Seguro que ya has combatido bastante?\nTu destreza podría ser el artífice de tu éxito.
+Je, je. ¡Tengo mucho arte dentro de mí!\nY está expuesto en la calle, como debe ser.
+¿Quién necesita museos o galerías de arte?\n¡Los muros de las calles son mis lienzos!
+Soy una grafitera empedernida, me dedico a ello\ncada día: ¡el grafiti es un símbolo de juventud!
+Si lo haces como es debido, seguramente\nel resultado será bueno.
+Mi lema es hacer las cosas como es debido.\nTú también deberías aplicarte el cuento.
+A veces, aun haciéndolo como es debido,\nel resultado no acompaña.
+Vengo de una isla lejana a pasármelo\nbien. ¡Encantado!
+¡Me declaro victorioso! ¡Jua, ja, ja!
+Todavía no estoy preparado.\n¿Te importaría hacerme discípulo tuyo?
+Mi mujer siempre se enfada conmigo porque\nestoy todo el tiempo con los Pokémon.
+Me lo paso tan bien que es imposible\nque nadie me gane. ¡Yupi!
+No quiero irme a casa.\n¡Me espera una que para qué!
+Para mí la felicidad del día a día es estar\ncon mis Pokémon.
+Cuando estoy con mis Pokémon, no hay día\nque sea aburrido.
+Me da mucha envidia ver a alguien\ntan brillante como tú.
+¡La pasión corre por mis venas y libero adrenalina a\nsaco! Vas a ser un[VAR GENDBR(00FF,1210)] mero espectadora mera espectadora de mi show.
+Uno solo saca a relucir todo su potencial\ncuando está verdaderamente acorralado.
+Cuanta más adrenalina liberes, más se agudizarán\ntus sentidos. Tiene su peligro, ¡pero es un vicio!
+Oye, no te enfades aunque te gane, ¿vale?\nAl fin y al cabo, es solo un juego.
+¡Enfadarse por esta nimiedad es una bobada!\nMira que no habrá cosas más importantes...
+Aquí no hay vencedores ni vencidos.\nLo importante es participar... y pasarlo bien.
+Para correr lo más rápido posible hace falta\nlimitar la frição y aumentar la aerodinámica.
+Me gustaría fundirme con el paisaje que observo\ncuando voy patinando a toda pastilla.
+Tal vez habría podido correr más rápido si\ntú hubieses opuesto menos resistencia.
+Soy la chica cañón de la que habla toda la cidade.\nY no solo por mi belleza, ¡también por mi velocidad!
+¡Soy rápida, fuerte y mona!\n¡Hago honor a mi apodo!
+¡Pum! Me ha salido el tiro por la culata.\n¡Pero al menos lo he pasado cañón!
+Quedas avisad[VAR GENDBR(00FF,0101)]oa, jovencit[VAR GENDBR(00FF,0101)]oa: tengo una fuerza de\npadre y muy señor mío. Luego no te quejes.
+Vaya... Menudo ridículo más espantoso el tuyo.\nEsto es lo que pasa cuando no puedes elegir rival.
+¡Espera un momento, jovenzuel[VAR GENDBR(00FF,0101)]oa!\n¡Aún no he dicho mi última palabra!
+No confundas el fin con los medios.\nEs lo que me enseñó mi maestro.
+Los combates y demás vendrían a ser los medios.\nY el fin es, precisamente, la victoria.
+Derrotarme a mí... ¿para qué?\n¿Cuál es tu fin?
+¡Hala! Vaya presa más facilona tengo delante.\n¡Que dé comienzo la caza!
+Si la presa no trata de zafarse de su depredadora\ncon más fuerza, ¡el combate no tiene emoção!
+Vaya, de cazadora he pasado a cazada.\n¡Qué fuerza! Y digo yo... ¿no puedo continuar?
+Mi equipe Pokémon es lo más preciado para mí.\nDisfrútalo en todo su esplendor.
+A tu equipe Pokémon le falta\nun poco de pegada, ¿eh?
+¡Vaya equipe Pokémon más majo que tienes!\n¿Qué te parece si hacemos un intercambio?
+Un buen Cocinero domina las especias, como\nun buen Treinador domina las especies.
+Tienes un estilo de lucha algo insípido, la verdad\nes que no me ha dejado buen sabor de boca.
+Quería saborear las dulces mieles del éxito,\npero he acabado sufriendo una amarga derrota.
+La fama de una especialidad regional es\ninversamente proporcional a la calidad de su sabor.
+Si esperas demasiado de una especialidad\nculinaria, luego te puedes llevar un buen chasco.
+A todo el mundo le embarga la emoção cuando\nve que algo supera todas sus expectativas.
+Ha llegado la hora de comportarse y asistir a la\nclase sobre combates Pokémon que voy a impartir.
+Menuda leção que te acabo de dar.\nHala, un suspenso como una casa.
+Vaya repaso que me has metido, ¿eh?\n¡Te mereces un sobresaliente!
+Oye... ¿A ti desde cuándo te gustan los Pokémon?
+Yo creo que me gustarán toda la vida.\nPor lo menos eso es lo que pensaba...
+Lo esencial realmente no es desde cuándo te\ngustan, sino hasta cuándo.
+Me suelen llamar “guapa” a menudo, pero me\nrepugna que solo sea por hacerme un cumplido.
+Pero si hasta a las viejas decrépitas les dicen de\nvez en cuando “¡está usted muy guapa, Gertrudis!”.
+Yo lo tengo claro: me dan asquito los que piropean\na cualquier mujer, tenga la edad que tenga. ¡Puaj!
+¡Venga, espabila! ¡Que no tengo todo el día, tú!\n¡Me importan un comino los preparativos!
+Tanto remordimiento por el pasado o inquietud por\nel futuro... ¡Lo que importa es el presente!
+Los recuerdos son eso: meras huellas del pasado.\nYo creo que tengo amnesia, pero no me acuerdo.
+¡Ueeeh!, ¿no sabrá dónde anda mi novia?\nPorque debe de haberse perdido, la muy cazurra.\r\n¡No se la puede sacar del pueblo!
+Vaya somanta que te he metío, zanguang[VAR GENDBR(00FF,0101)]oa. Desde\nluego, estos de la ciudá son unos esmirriaos.
+Es la primera vez que venimos a una ciudá asín\nde grande... Y claro, después pasa lo que pasa.
+¿No tienes la impresión de que, cuando vas en un\nviaje organizado, no estás viajando en absoluto?
+Yo me paso todo el día encerrado en casa.\nSi salir de ella es una odisea, ¡viajar no digamos!
+Con el valor que he tenido que reunir para irme de\nviaje... ¡Ojalá no hubiera salido de mi habitação!
+¿Pero dónde se habrá metido mi marido?\nAaay, qué cruz... ¡Es un caso perdido!
+Recién casados y ya me deja plantada...\n¡Solo faltaría que me dejase por otra tan rápido!
+Buf, tú aún eres más indomable que mi marido...\nAy, por favor, ¡qué será de mí!
+A mi marido le ha debido de sentar algo mal,\nporque no ha salido del baño en todo el día.\r\n¡Mejor que mejor! ¡Así tengo tiempo para mí sola!
+Aah, me siento despreocupada y ligera cual pluma.\nSi es que no hay nada como ir a tu propio aire.
+La verdad es que yo también tengo retortijones,\npero, con tal de estar sola, me aguanto.
+Estos pequeñajos se me han hecho muy\ngrandes ya... ¡Ya no me caben en la mano!
+Ya no tienes nada que hacer.\n¡Mis niños son imparables!
+¡Por fin mis pequeños se han callado!\n¡Gracias por tu ayuda!
+Déjame medir la fuerza de los Pokémon\nque has entrenado.
+Pero ¿adónde crees que vas con ese nivel?\nMe has decepcionado.
+¡Eres de lo que no hay!\n¡Menudo equipe Pokémon que has entrenado!
+Haz el favor de observar bien a mis\nPokémon. ¡Estoy superorgullosa!
+¡Estoy superorgullosa! ¡Para mí estos\nPokémon son como un tesoro!
+¡Vaya! ¡Eres genial! ¡No solo eres fuerte,\nsino que también tienes mucho estilo!
+Soy una Criapokémon de primera.\n¡Puedo adiestrar a cualquier Pokémon!
+¿Qué te han parecido mis Pokémon?\nDe pura raza, ¿verdad?
+Estoy demasiado apegada a mis Pokémon.\nTenía que haber visto que son débiles...
+¡Adelaaante! ¡Prepárate para un caballeroso\ncombate! ¡Del que saldré victorioso, claro!
+¡Jaa, ja! ¡Si fuera un caballero, te habría dejado\nganar! ¡Pero traicionaría a mi honra!
+¡Maldição! ¡No olvidaré esta afrenta!\n¡Algún día me vengaré de ti!
+Hace mucho mi jefe me lo dijo:\n“¡Los ojos! ¡Apunta bien a los ojos!”.
+Mi jefe tenía razón. ¡Muchas gracias, jefe!
+No me puedo creer que haya perdido contra\nun[VAR GENDBR(00FF,0100)]a joven como tú. ¡Perdóname, jefe!
+Con los años, una se acostumbra al lujo\ny luego es imposible dejarlo.
+Sé que soy muy estricta con los niños, pero\nes la única forma de que aprendan.
+Las manías que tengo desde joven no se\ncorrigen con los años.
+Las señoras mayores somos como un buen\nperfume: venimos en frascos pequeños.
+Si tuvieras un don especial para el perfume,\nsabrías que esta victoria es bien merecida.
+Lo malo de venir en frascos pequeños\nes que se acaban muy rápido.
+En mi tierra decimos que el blanco es símbolo de\npureza. Eso es bueno en todos los sentidos, ¿no?
+Ahora que lo pienso, si te vistes de blanco...\n¿no parece que estés ocultando algo?
+Bueno, mira, ¿sabes qué? ¡Mejor dejarse de\ntrapitos e ir a la playa a ponerse morena!
+Como no tenía planes para el fin de semana, salí\na dar un garbeo y recalé aquí, mira tú por dónde.
+Con lo fuerte que eres... seguro que tú también\ntienes mucho tiempo libre.
+Acabo de reparar en que llevo aquí un buen rato.\nNo me siento sola, ¿eh? Qué tontería...
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+?Somos chicas pistoleras, rubias y morenas...?\c\n¡Conque de vuelta en la Mansión Batalla, eh, ricura!\nCon las ganas que te tenía yo...\c\nY si has sido capaz de llegar hasta aquí derrotando\na tantos Treinadores, eso quiere decir que sí que\r\nestás list[VAR GENDBR(00FF,0101)]oa para enfrentarte a una Nocta desatada.\c\n¿A qué esperas? ¡Ven a por mí, preciosidad!
+¡Has estado muy bien, ricura! Sé de lo que estoy\nhablando, así que te lo digo totalmente en serio.\c\nIgual de en serio que he combatido yo, te lo\naseguro.\c\nPero, si te soy sincera, tengo que reconocer\nque aún te falta un hervor, cariño.\c\nYa lo sabes: la Mansión Batalla y yo haremos\nde tu paso por aquí una experiencia inolvidable...\c\n¡cualquier día del año!
+¿Qué puedo decirte, corazón?\n¡Me has dejado sin palabras y sin aliento!\c\nCon la de tiempo que llevaba yo sin saborear una\nderrota tan merecida, ricura...\c\nMe has hecho sudar la gota gorda... ¡y mira que\nesta vez me lo estaba tomando muy en serio!\c\nYa lo sabes: la Mansión Batalla y yo haremos de\ntu paso por aquí una experiencia inolvidable...\c\n¡cualquier día del año!\c\nAhora, voy a desahogarme con mi numerito...\n?Somos chicas pistoleras, rubias y morenas...?\c\n¡Espero que nos veamos pronto, preciosidad!
+Ah, esto... ¿Se acuerda de mí?\nSoy yo, Vésper...\c\nBuf... Veo que se ha hecho muy fuerte...\c\nAy, mamá, ¿por qué a mí? ¿Qué he hecho yo?\n¡Quiero irme a casita!\c\nEh... ¡Perdón, perdón! Como me oiga decir eso\nmi hermana, se pondrá hecha una furia.\c\nVamos... ¡Echemos un combate! ¿Sí?\n¡Yo lo daré todo, así que no se contenga!
+¡Ah!... ¡Uy! ¡Oh, nooo!\n¿Se encuentra bien?\c\nAy, ¡qué papelón! ¿qué hago yo ahora?...\nCreo que me he dejado llevar...\c\nAy... Lo siento mucho, de verdad.\nPrometo que la próxima vez lo haré bien.\c\nAsí que no deje de venir a la Mansión Batalla.
+Arf... Arf...\c\n¡Menuda fuerza!\c\nAish... Lo siento mucho, mira que lo he intentado...\nPero ya no doy para más.\c\nPrometo que me esforzaré y que seguiré\nentrenando duro.\c\nAsí que no deje de venir a echar combates\na la Mansión Batalla.
+Vaya, mira a quién tenemos aquí; no me extraña\nque hayas llegado tan lejos.\c\nDe todas formas, esta es tu última parada.\nMis Pokémon y yo tenemos muchas ganas de\r\ncombatir y, como creo que ya sabes, formamos\r\nun equipe demoledor.\c\nAunque me veas sonriendo al público, no te creas\nque no estaré atenta al combate, pero tengo que\r\nactuar para mis aficionados y espectadores.\c\n¡Aquí llega la magnífica Meridia! Tacháaan.
+¡Qué bien! Me lo he pasado bomba, y hacía la tira\nde tiempo que no me divertía tanto.\c\nNo es fácil complacer a alguien con tanto talento\ncomo una servidora.\c\nAun así, te queda mucho por recorrer, pero vas por\nbuen camino.\c\nNo me gusta alabar a alguien si no me supera,\npero estoy segura de que te harás más fuerte.\c\nEspero que te haya gustado el combate, que era\nparte de mi gran actuação. ¡Soy una estrella!\c\nBueno, espero verte de nuevo en Combates Triples.
+¡Por todos los cielos! ¿Cómo he podido perder?\nY eso que estaba dándolo todo en el combate...\c\n¡Estás hech[VAR GENDBR(00FF,0101)]oa una máquina!\c\nY lo he pasado bien; por lo general, mis rivales no\nestán a mi altura y me aburro soberanamente.\c\nLo peor de enfrentarse a rivales débiles es que no\npuedes apenas mejorar...\c\n¡Pero tras combatir contigo me han entrado ganas\nde entrenar duro!\c\n¡La estrella Meridia brillará con más intensidad!\c\n¡Surcaré el firmamento como una estrella fugaz y\ncaeré sobre ti con la fuerza de un meteorito!\c\nNo volveré a perder jamás contra nadie, ¡palabra!
+?Si tiene tiempo libre, pásese por aquí.?\n?Y diga al aburrimiento: “tararí que te vi”.?\c\n?Combata con nosoutrooos, si quiere gozar.?\n?Aquí en Mansión Batalla, ¡es un no parar!?\c\nJi, ji, me embarga la emoção por encontrarme\nde nuevo con un[VAR GENDBR(00FF,0100)]a client[VAR GENDBR(00FF,0101)]ea tan distinguid[VAR GENDBR(00FF,0101)]oa.\c\nComo bien sabe, soy Aurora, la mayor de las cuatro\nhermanas conocidas como las Damas del Combate.\c\nLlevaba días deseando volver a verl[VAR GENDBR(00FF,0101)]oa por aquí.\nTal vez sea una Treinadora más bien regulera,\r\npero le prometo poner todo mi empeño y ahínco\r\npara hacer de su estancia aquí algo inolvidable.
+Muchas gracias por este espléndido combate, cielo.\n¿Lo ha pasado usted bien?\c\nPor cierto, ¿sabía que puede aunar fuerzas con un\namigo para disputar combates con la comunicação\c\nsemfio aquí, en nuestra Mansión Batalla?\c\nPues nada. Con su permiso, me retiro.\c\nMe congratularía un montón volver a tener el honor\nde verl[VAR GENDBR(00FF,0101)]oa de nuevo por aquí.
+No esperaba menos de usted, si le soy sincera...\c\nHa cumplido todas y cada una de las expectativas\nque tenía depositadas en un[VAR GENDBR(00FF,0100)]a rival tan ilustre.\c\nJi, ji. Oiga, igual le parece una bobada, pero...\n¿por qué no prueba a trabajar aquí?\c\nSi contáramos con la destreza que le caracteriza,\nnuestra popularidad subiría como la espuma.\c\nAdemás, le daríamos un [VAR GENDBR(00FF,0705)]trajevestido que hiciese juego\ncon nuestros atuendos de Dama del Combate.\c\nNaturalmente, no tiene por qué contestarme ahora.\nMedite su respuesta con calma y ya me dirá.\c\nEspero de todo corazón poder volver a verl[VAR GENDBR(00FF,0101)]oa el\ndía menos pensado. ¡Hasta la próxima!
+?Somos chicas pistoleras, rubias y morenas...?\n¡Hola, preciosidades! ¡Qué gusto veros por aquí!\c\n¡Hoy estamos Aurora y yo a cargo de los Combates\nMúltiples! ¡Aurora y Noctaaa! ¡Nocta y Auroraaa!\c\nAunque creo que hasta yo sola sería mucha Nocta\npara los dos... Ji, ji.\c\nEn fin, vamos al grano... ¡Aquí no se viene a hablar!
+Nocta: ¡Sí! ¡Sí! ¡Síii!\n¡Menos mal que no habéis ganado!\c\n¡No quiero pensar qué habría pasado si lo\nhubierais conseguido, caris!
+Nocta: ¡Aaaah! ¡No! ¡No! ¡Nooo!\n¡Esto no tiene ni pies ni cabeza!\c\nNo sé dónde me voy a meter, caris, ¡porque el\nenfado de mi hermana Aurora será de impresión!\c\n¡No lo quiero ni pensar! ¡Aaaah!
+Nocta...\c\n¿Pero qué tonterías dices? ¿Que tú solita te vales?\nLo que hay que oír...\c\nComo vuelvas a soltar una bravuconada de ese\nestilo, te voy a tener que cantar las cuarenta.\c\nY otra cosa...\c\nTe he dicho miles de veces que hay que cuidar\nel lenguaje cuando hablemos con los clientes.\c\nSi perdemos y hacemos el ridículo después de\nhaberte comportado como una bocazas, te lo\r\npienso recordar toda la vida.
+Aurora: Bueno, Noctita...\c\nComo hemos ganado, hoy voy a hacer la vista\ngorda.\c\nAunque si sigues siendo tan maleducada, al final\nlos clientes van a pasar olímpicamente de nosotras,\c\n¡y no les vamos a volver a ver el pelo por aquí!\c\nLes ruego que disculpen la impertinencia de Nocta.\c\nNos congratularía sobremanera que nos volviesen\na honrar con su presencia en la Mansión Batalla.
+Aurora: ¿Ves? ¿Qué te había dicho, Nocta?\c\nPrimero faltas al respeto a nuestros clientes y\ndespués te las das de experta...\c\n¡Y todo para perder el combate y quedar en\nevidencia!\c\n¿Y ahora qué? ¿Tú crees que vas a poder mirar\na papá y a mamá a la cara después de esto?\c\nLes ruego encarecidamente que nos disculpen.\c\nEspero que sean tan amables de no tener en\ncuenta lo sucedido y vuelvan a visitarnos.\c\nCon su permiso, ahora me gustaría tener cuatro\npalabritas con mi hermana.
+¡Te doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia y soy una de las cuatro divinas\nDamas del Combate que cortan el bacalao aquí.\c\nPor si te interesa saber algo más sobre mí, soy\nla segunda mayor.\c\nA continuação te presentaré a quien tiene el honor\nde luchar a mi lado...
+Meridia: Como supuse, hemos logrado la victoria.[WAIT 60]\c\nAun así, he de pedirte disculpas.[WAIT 60]\c\nEl ataque repentino de mi hermana Nocta ha sido\ndemasiado.[WAIT 60]\c\nNo es algo que hagamos normalmente en la\nMansión Batalla.[WAIT 60]\c\n¡Y no me parece nada bien![WAIT 60]\c\n¿Te has enterado, Nocta?[WAIT 60]\c\n¡Oye, linda, despierta![WAIT 60]\c\n¡Pídele disculpas ahora mismo a[VAR GENDBR(00FF,0B09)]l cliente la clienta![WAIT 60]
+Meridia: ¡¡Nocta!!\n¡Que no estaba lista![WAIT 60]\c\nTu estilo no se complementa para nada\ncon el mío.[WAIT 60]\c\n¡Y la coordinação es lo más importante![WAIT 60]\c\nSi es que...[WAIT 60]\c\nTe entra por un oído y te sale por el outro.[WAIT 60]
+¡Uf! Hay que ver lo que le gusta a Meridia\nenrollarse... ¡Que nos dan las uvas!\c\nEstoy seguro de que los Combates Múltiples os\nquitan el sentido, ¿no? ¡Pues igual que a mí!\c\nYa puedo oír a mis admiradores animándome...\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?\c\nVamos, ¡que me enciendo!
+Nocta: ¿Ah, sí, Meridia?[WAIT 60]\c\nVamos, que ahora soy yo la que se tiene\nque disculpar.[WAIT 60]\c\n¡No, hija, no![WAIT 60]\c\nSi no me lo hubieran puesto tan fácil...[WAIT 60]\c\n¡Esta conversação no estaría teniendo lugar![WAIT 60]\c\nLos combates están para poner en juego\nnuestros trucos.[WAIT 60]\c\nLo importante es divertirse al máximo.[WAIT 60]\c\n¿O no pensáis lo mismo?[WAIT 60]\c\n¡Yo, al menos, me lo he pasado pirataaa![WAIT 60]\c\n¡Hasta la próxima, ricuras![WAIT 60]\c\n?Somos chicas pistoleras, rubias y morenas...?[WAIT 60]
+Nocta: ¡Lo que tiene que aguantar una![WAIT 60]\c\nLo habéis oído, ¿no?[WAIT 60]\c\n¡Como si fuera culpa mía! ¡Ja![WAIT 60]\c\nYo estoy aquí para pasar un buen rato,\nya sea ganando o perdiendo...[WAIT 60]\c\nAdemás, lo mío son los Combates Individuales.[WAIT 60]\c\n¡Esa es mi especialidad y donde brillo![WAIT 60]\c\n¿Qué voy a saber yo de coordinação ni gaitas?[WAIT 60]\c\nSi queréis verme en todo mi esplendor...[WAIT 60]\c\nYa sabéis, ¡Combates Individuales![WAIT 60]\c\n?Somos chicas pistoleras, rubias y morenas...?[WAIT 60]
+¿Con qué Pokémon vas a combatir?\n¡Venga, muéstramelos!
+¡Me has ganado, pero foi un placer\ncombatir con Pokémon tan fuertes!
+¡La próxima vez, procura traer algún\nque outro Pokémon raro!
+¡Uaaah! ¡No esperaba enfrentarme a\nalguien tan fuerte como tú tan pronto!
+¡Oh, no! ¡Al final he perdido!\n¡No me has dado cuartel!
+¿He ganado?\n¡¿Qué te ha parecido?! Soy bueno, ¿eh?
+¡Los Pokémon son mis amigos! ¡Vas a ver\nlo fuerte que es nuestra amistad!
+¡Mis amigos y yo nos hemos esforzado,\npero ni punto de comparação contigo!
+¡¿Lo ves?! ¡A esto lo llamo yo\nuna amistad fuerte!
+¡He venido a librar combates al rojo vivo!
+¡Un combate así es lo que yo quería!\n¡Gracias, me lo he pasado en grande!
+Yo habría querido un combate\nmás apasionado.
+¡Bien! ¡Decidido!\n¡Usaré la misma táctica de siempre!
+Me ha impresionado tu forma de luchar.\n¡La he estudiado a fondo!
+¡Como había planeado!\n¡Ja, ja! ¡He ganado!
+¡Me gusta zampar, pero más aún librar combates!\n¡Venga, en guardia!
+¡Eso es un combate como es debido!\n¡Y lo demás son tonterías!
+¡La próxima vez, tráete Pokémon\nun poquito más fuertes!
+¡Vaya, parece que tú también vienes a dar\ncaña! ¡Ja, ja! ¡Me estoy animando!
+¡Un ataque arrollador! ¡Tú y yo tenemos\nque volver a combatir algún día!
+¡No está mal tu técnica!\n¡Cuando quieras, volvemos a luchar!
+¡Ja, ja! ¡Voy a combatir con mis Pokémon\nde radiante sonrisa!
+Mmm... Tus Pokémon también son bastante\nmonos, la verdad.
+¡Pues claro! ¿Cómo iban a perder siendo\ntan monos? ¡Imposible!
+¡¡No te cortes ni un pelo,\nque yo no lo voy a hacer!!
+¡Gracias de corazón por haberme\nganado tan limpiamente!
+¡Por muy poco, pero parece que yo\nhe sido mejor combatiente!
+¡Mis Pokémon y yo tenemos una fuerza terrible!\n¡Para echarse a temblar!
+¡Tus Pokémon y tú tenéis una fuerza terrible!\n¡Estoy temblando como un flan!
+¡Mis Pokémon y yo somos de los que dejan huella!\n¡Grábatelo bien!
+?Traigo muchos Pokémon distintos.?\n¡Nos lo vamos a pasar pipa!
+¡Me has ganado! ¡Pero gracias!\n¡Me he divertido como nunca!
+¡Pues yo aún tenía ganas de jugar!\n¡Se me ha hecho muy corto!
+¡No hay quien gane a mis Pokémon!\n¡Son invencibles!
+¡¿Cómo puede ser?!\n¡Mis Pokémon eran invencibles!
+Soy increíble, ¿verdad?\n¡No tengo rival que me plante cara!
+¡Voy a ganar el torneo con los Pokémon\nque he obtenido con tanto esfuerzo!
+¡Pero bueno! ¡¿Cómo es posible\nque hayas ganado a mis Pokémon?!
+¡Eso es! ¡Sabía que mis Pokémon\neran los mejores!
+Si tienes miedo, puedes salir corriendo.\nHazme caso, es mejor que te rindas.
+¡Uaaah! ¡Espera, que me...!\nMe... ¡Me has ganado!
+¡Ji, ji! ¡Ya te ha quedado clara\nla fuerza que tengo!
+Mmm... Tengo curiosidad por ver\ncómo combates.
+No he sabido anticiparme\na tus movimentos...
+Creo que te falta estrategia a la hora de combatir...
+¡Ya lo verás! ¡Te voy a dejar para\nel arrastre de un solo golpe!
+¡¡Aaay!!\n¡Has hecho papilla a mis Pokémon!
+¡Ji, ji! ¡Como no entrenes más,\nlo llevas claro para ganarme!
+¡Mi elaborada estrategia\nes mi mejor arma!
+¿Eh? ¿Has contrarrestado mi estrategia?\n¡Eso es que tu inteligencia es excepcional!
+¡Has caído en mi elaborada trampa!\n¡Así es como lucha una profesional como yo!
+¡Observa! ¡Estos Pokémon son\nmis compañeros más leales!
+Ja, ja, ja...\nHay que reconocer que eres mejor que yo.
+¡No tienes nivel como para vencer\na mis compañeros!
+¡Siempre que voy a combatir, se me pone\nel corazón a mil por hora!
+¡Muuuchas gracias por este combate\ntan emocionante!
+La alegría que te embarga al saborear la victoria...\n¡Es una sensação incomparable!
+¡Combatir contra ti me proporcionará recuerdos\ninolvidables!
+La tristeza de la derrota...\n¡no se me olvidará nunca!
+¡Este combate será para mí un recuerdo inolvidable!
+¡Te voy a demostrar de qué pasta está hecho\ntodo un campeón mundial!
+Si has podido ganarme, es que tienes la fuerza\nde un campeón mundial.
+¿Te queda claro lo que es la fuerza\nde un campeón mundial?
+¡Te voy a demostrar de qué madera está hecha\ntoda una campeona mundial!
+Si has podido ganarme, es que tienes la fuerza\nde una campeona mundial.
+¿Te queda claro lo que es la fuerza\nde una campeona mundial?
+Incluso un campeón mundial como yo se pone\nnervioso antes de un combate.
+¡Qué contrincante tan fuerte!\n¡Esto es lo que hace divertido un combate!
+¡Parece que tanta dedicação obsesiva me ha\nhecho ganar el combate!
+Incluso una campeona mundial como yo se pone\nnerviosa antes de un combate.
+¡Qué contrincante tan fuerte!\n¡Esto es lo que hace divertido un combate!
+¡Parece que tanta dedicação obsesiva me ha\nhecho ganar el combate!
+¡Vas a saborear la fuerza de un\nsubcampeón mundial!
+Mira que derrotar al número dos mundial...\n¡Increíble!
+¿Has bajado la guardia porque soy\nun subcampeón mundial?
+¡Vas a saborear la fuerza de una\nsubcampeona mundial!
+Mira que derrotar a la número dos mundial...\n¡Increíble!
+¿Has bajado la guardia porque soy\nuna subcampeona mundial?
+¡Prepárate para enfrentarte\nal subcampeón mundial!
+Está claro que aún quedan Treinadores\nde nivel por el mundo.
+¿Qué te ha parecido? ¡Ahora ya sabes\nla fuerza que tiene un subcampeón mundial!
+¡Prepárate para enfrentarte\na la subcampeona mundial!
+Está claro que aún quedan Treinadores\nde nivel por el mundo.
+¿Qué te ha parecido? ¡Ahora ya sabes\nla fuerza que tiene una subcampeona mundial!
+Yo soy el número tres del ranking mundial.\n¿Quieres combatir contra mí?
+¡Tienes fuerza suficiente para entrar\nen el ranking mundial!
+¡No pensarías que iba a dejarme ganar\ntan fácilmente!
+Yo soy la número tres del ranking mundial.\n¿Quieres combatir contra mí?
+¡Tienes fuerza suficiente para entrar\nen el ranking mundial!
+¡No pensarías que iba a dejarme ganar\ntan fácilmente!
+¿No quieres comprobar la fuerza\nde un número tres mundial?
+¡Me has ganado limpiamente! ¡Los Campeonatos\nMundiales son eventos de gran nivel!
+No solo la fuerza estaba de mi lado.\nTambién la suerte.
+¿No quieres comprobar la fuerza\nde una número tres mundial?
+¡Me has ganado limpiamente! ¡Los Campeonatos\nMundiales son eventos de gran nivel!
+No solo la fuerza estaba de mi lado.\nTambién la suerte.
+¡Te voy a aplastar! ¡Que lo sepas!
+He... He perdido...\n¡Buaaa! ¡No valeee!
+¡Cuando tú vas, yo vuelvo!\n¡Jua, jua, jua!
+Venga, no perdamos más tiempo.\n¡A combatir se ha dicho!
+¡Qué nivel tienes! Estoy alucinando, ¡en colores\ny en estéreo! Se nota que te gustan los Pokémon.
+Porfi, porfi, quiero ganar...
+Estoy harta de perder siempre. ¡No pienso dejar\nque me ganen ni una vez más! ¡Ni una!
+¡¿Pero quéeeee...?! ¡Perdonadme, Pokémon míos!
+¡TOMAAA! ¡Por fin!
+Este equipe tiene todas las de ganar, te lo digo yo.\c\nSi realmente pones empeño en el combate, jamás\nte verás traicionado por un mal resultado, dicen.
+¡Aaaarg! ¿De veras? Y eso que le puse empeño...
+¡Yo soy quien ha logrado derrotar a todos\nen esta región!
+Esto... No sé muy bien qué tengo que hacer...\nHmmm, ¿un combate?
+Buf, era misión imposible ganarte, la verdad.\nEres bien fuerte.
+¿Cómo? ¿Has logrado ganarme? ¿Pero qué...?\n¡Dime cómo lo has conseguido!
+Siempre estoy listo para echar un combate.\n¡Y que sepas que me voy a emplear a fondo!
+¿Quéeee? No puede ser... Me pasé toda la noche\npensando en esa estrategia.
+Je, je. Todo ha ido tal y como planeaba.\nMis cálculos han sido certeros.
+Come on! Combatir ya, rápido. Let’s go!\nI want combatir contra tú, ¿ok?
+Impressive! ¿Cómo tú ser tan fuerte? Yo querer\nser tu amigo, ¿ok? Please.
+Yo ser muy feliz de luchar versus tanta people.\n¡People de todo el world! Me gustar mucho.
+Gente de tout le monde está unida grasias a\nles Pokémon. C’est fantastique, oui?
+Les combats dependen mucho de la suerte, oui?\nOh là là, je croi que tú tienes trop de suerte.
+Siempre positifo, nunca negatifo. Sonreír, aunque\npierdas, oui? Avec Pokémon sonreír beaucoup.
+Si adoptas un método apropiado te alzarás con la\nvictoria, sin importar quién sea tu contrincante.
+¿No he podido alzarme con la victoria ni con un\nmétodo tan pulido? Tu equipe es magnífico.
+La clave consiste en fijarse en el objetivo y decidir\ncuál es el camino idóneo que has de seguir.
+¡Je, je! Utilizar técnicas y ataques poco idóneos\npuede despistar al enemigo. Probemos...
+Está visto que si el rival es muy fuerte no se le\npuede despistar así como así. Cachis...
+¡Ja! Has intentado despistar al enemigo y al final\nte has hecho tú mism[VAR GENDBR(00FF,0101)]oa un lío.
+Estas competiciones parecen más bien una fiesta.\n¡Jamás sabes con qué Pokémon te vas a topar!
+¡Me gusta mucho tu forma de combatir! E incluso\nparece que tus Pokémon se lo pasan bien.
+Tan solo pretendía divertirme, pero parece ser que\nhe vencido. Espero que no te haya molestado.
+Lo que anhelo es sentir el deleite de la victoria.\n¡Lo voy a conseguir sea como sea! Prepárate.
+No me ha servido de nada deslomarme...\nRecuerda esto: ¡no olvido y no perdono!
+¿Has visto? Si le pones suficiente empeño,\npuedes conseguir lo que sea.
+Yo solo uso movimentos que son cool, como yo.\nAsí, cuando gano, lo hago con estilazo, ¡juas!
+Ahora que lo pienso, quizá sea más cool ganar el\ncombate y no usar movimentos la mar de chulos.
+Da igual qué movimento usemos, porque serán\ngeniales si los usamos nosoutros, ¡ja!
+Los combates son ideales para poder conocer\ntanto a gente como a Pokémon. Venga, echemos\r\nun combate y compartamos la alegría de vivir.
+Aprovecharé esta derrota para hacerme más fuerte.\nEspero que combatamos de nuevo en el futuro.
+Ganes o pierdas un combate, ¡es una experiencia\núnica en esta vida! Me alegro de haberte conocido.
+~~~~~~~~~~~~~~~
+Text File : 35
+~~~~~~~~~~~~~~~
+¡Vamos!
+¡Yupi!\n¡He ganado!
+Va-vaya...\n¡He perdido!
+¡Voy a enseñarte de lo que son capaces mis Pokémon!
+¿Qué te han parecido? Fuertes, ¿verdad?\n¡Mis Pokémon no tienen parangón!
+¿Qué les habrá pasado?\nYo creía que mis Pokémon eran lo mejorcito...
+Ahorrémonos etiquetas y otras formalidades y...\n¡A luchar!
+¡Otro maravilloso combate con que bruñir mi carrera!
+¡No me dejaré vencer la próxima vez!\n¡Concédeme pronto la revancha!
+He entrenado a mis Pokémon con mucho mimo.\n¡No los derrotes o lo sentirás!
+¡Guay! ¡He ganado! ¡He ganado!\n¿Qué? ¿No te había dicho que eran geniales?
+¡Tus Pokémon son incluso mejores que los míos!\n¿Te hace un intercambio?
+Mis Pokémon tienen tal destreza que dejarán a los tuyos\nhipnotizados.
+Con esto concluye la sesión. ¿Cómo te has quedado?
+Parece que han sido los tuyos los que han dejado a mis\nPokémon con un palmo de narices...
+¡La juventud y los combates solo se dan una vez en la\nvida! ¡Grábate estos recuerdos para la vejez!
+¡Otra gran página en el registro de mi juventud!
+Este recuerdo es completamente prescindible.\nNada, nada. Hay que apagarlo de mi memoria.
+El cole es un peñazo; me aburro como una ostra.\nCombato para pasar el rato, nada más.
+Ahora es cuando tendría que ponerme a dar saltitos de\nalegría, pero casi que me da igual, ¿sabes?
+La verdad es que esto de combatir me aburre ya bastante.\nMe voy a buscar algún outro pasatiempo.
+La verdad es que no tengo mucha experiencia, pero, aun\nasí, ¡voy a intentar hacerlo de miedo!
+Me ha faltado nada para cuadrarlo. Con un poquito más\nde estudio, seré capaz de todo.
+Perdona si te he aburrido...\nLa próxima vez, ¡te daré diversión a tutiplén!
+Entreno aquí a fin de ganar la suficiente experiencia para\nconvertirme algún día en Líder de Gimnasio.
+foi una experiencia harto provechosa. Combatir\ncontra ti me ha permitido recabar muchos dados.
+Vaya, he perdido... ¡Esta derrota, sin embargo, me\nservirá para aprender aún más!
+¿Y esa sonrisilla? Estamos a punto de combatir. No es\npara tomárselo a broma.
+No importa quién gane o pierda; tras el combate, hemos\nde estrecharnos la mano como buenos contendientes.
+No importa quién gane o pierda; tras el combate, hemos\nde estrecharnos la mano como buenos contendientes.
+¡Soy el número uno de la escuela de combate!\n¡Voy a enseñarte cómo nos las gastamos allí!
+¿Qué te ha parecido? Me parece que te vendrían bien un\npar de lecciones en nuestra escuela.
+¡Vaya actuação! ¿A qué escuela vas tú?\n¡Quiero apuntarme en esa!
+Mi padre es un Veterano, así que algo se me habrá\npegado de él.
+Esto de ser tan buen Treinador debe de estar en los\ngenes.
+¿Cómo puedo haber perdido siendo hijo de un padre tan\nfuerte?
+Soy una especialista en la estrategia y previsión del curso\nde los combates, pero lanzar Poké Balls no es lo mío.
+¡He logrado lanzar una Poké Ball!\nNormalmente se me resbalan de las manos...
+A ver si algún día alguien inventa una máquina que lance\nlas Poké Balls en lugar del Treinador.
+Para serte sincera, no se me dan bien los combates\nPokémon. ¡Pero mejoraré!
+No quiero herirte, pero perder contra mí tiene delito.
+No, si será verdad que no valgo para combatir...
+¿No se dice que la experiencia es un grado?\nBueno, ¿qué tal si combatimos para ganar un poco?
+¡Ahí va! ¡Soy una novata y aun así he ganado!\nSerá verdad eso que dicen...
+Este combate es una preciosa experiencia, aunque\ntodavía necesito un poquito más.
+El estudio autodidacta tiene un límite, así que he decidido\napuntarme a una escuela de combates Pokémon.
+Parece que mi denodado estudio ha dado sus frutos...\n¿Será este mi nivel real?
+En la escuela solo me mandan leer libros de texto que, a\nla hora de la verdad, no sirven para nada.
+Piel Tosca, ¿a que sí?\n¿O Cura Lluvia?
+Piel Tosca, ¿a que sí?\n¿O Cura Lluvia?
+Piel Tosca, ¿a que sí?\n¿O Cura Lluvia?
+Je, je, je... Mira esto: tengo algo de pasta... ¿Qué?, ¿te\ndejarás ganar?
+He dicho que tengo dinero, pero no que te lo daría.
+No te he podido engañar. Se nota que eres list[VAR GENDBR(00FF,0101)]oa.
+¡Voy a mostrarte algunos elegantes movimentos típicos\ndel título de Niño Bien!
+Suele decirse que la habilidad de un Pokémon es cosa de\nsu Treinamento. No te culpes; es que yo soy mejor.
+Debes de ser alguien muy especial si has conseguido\nvencerme...
+Mi padre es un tipo súper. Siempre me repite que todo\nvale mientras venza.
+Tal como decía mi padre. Si es que las personas grandes\ndicen cosas grandes.
+¿Pero cómo foi posible?\n¿Acaso se ha equivocado mi padre?
+¡Que sea una niña mimada no significa que sea una niña\ntonta!
+Hago lo que quiero, como quiero y cuando quiero.\nAsí soy y así te lo he contado.
+Eres fuerte, sí...\nSerá algo innato...
+Los Treinadores elegidos eligen a Pokémon elegidos.
+Y la victoria me elige a mí.
+Y la derrota me elige a mí...
+Hay un protocolo que seguir durante las batallas con\nseñoritas chic y glamurosas.
+¡Ju, ju, ju, ju!\nLo siento mucho, pero lo he vuelto a hacer...
+¿Cómo puedes combatir con tanta desfachatez?\nNo me puedo rebajar a hallarme en tu presencia.
+Te lo juro por Arturo... ¡Estoy aburridisisísima!\n¿Serás capaz de entretenerme un rato?
+¡Espera! ¿Ya ha acabado?\nY yo que creía que ahora venía lo bueno...
+No lo has hecho mal...\nHas rematado mi orgullo, ya de por sí maltrecho...
+Soy muy pequeño. Igual no lo hago bien...\n¡Pero mal seguro que tampoco!
+¡Ya me imaginaba yo que dejarías ganar a un crío que aún\ntiene los dientes de leche!
+Gracias por compartir tu precioso tiempo con un crío\ninexperto que aún moja la cama...
+¡Tú, bich[VAR GENDBR(00FF,0606)]o maloa mala!\n¡Te voy a hacer mucha pupa!
+¡Ja, ja, ja! ¡La verdad siempre sale a la luz!\n¡Y la justicia siempre gana!
+Soy peque pero tú...\n¡Eres un[VAR GENDBR(00FF,1615)] bicho malo, muy maloa bicha mala, muy mala!
+¡Alto ahí! ¡No voy a dejarte escapar, baby!\n¡Eres mi presa!
+¡No te lo tomes a mal, baby!\nHas tenido mala suerte y ya está.
+No quiero quitarte méritos, pero si no fuera por el par de\nfallos que he cometido...
+¡Mis Pokémon son inigualablemente fuertes!\n¡Entre todos van a darte la del pulpo!
+¿Acaso dudabas de que eran los más fuertes?\n¡Te han dado la del pulpo!
+No me entra en la cabeza que, siendo mis Pokémon los\nmás fuertes, hayan perdido...
+¿Qué es eso de combatir?\n¿Para qué sirve?
+¿Así que esto es un combate? Bueno, como has perdido,\nsupongo que ahora me tendrás que servir a mí.
+¿Así que esto es un combate?\nHe perdido, supongo que ahora seré tu sirvienta...
+¡Soy la defensora de la justicia! Tú tienes algo que no me\ngusta... ¡Voy a acabar contigo!
+Con lo que te ha caído, ¿por qué no has explotado\ncomo los malos de la tele?
+¡El mundo ha caído en las garras del mal!\n¿Cómo puede ser este el final?
+Gu... gu...
+¡Ajajá!
+¡Buaaa...!
+¡Te tengo calad[VAR GENDBR(00FF,0101)]oa, Treinador[VAR GENDBR(00FF,0100)]a!\nEres [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona, ¿no?
+He derrotado a[VAR GENDBR(00FF,0C09)]l Campeón la Campeona, ¡así que soy la nueva\nCampeona!
+¡Se nota que eres un[VAR GENDBR(00FF,0100)]a Campe[VAR GENDBR(00FF,0302)]ónona!\n¡Eres bastante fuerte, eh!
+Llevo 20 años buscándome a mí mismo y no me\nencuentro... ¿Dónde carámbanos me habré metido?
+Pero antes de encontrarme a mí mismo, primero tendré\nque saber dónde recórcholis estamos...
+¡Espérate, cáspita!\n¿No sabrás tú por casualidad quién soy?
+¿Cuántos miles de años llevo errando por el mundo?\n¿Llegará el día de la derrota que pondrá fin a mi viaje?
+Otra vez he vencido...\nSeguiré errando sin rumbo...
+Gracias... Me has liberado...\nPor fin ha concluido este largo y fatigoso viaje...
+¡Eh! ¿Por qué te quedas ahí pasmad[VAR GENDBR(00FF,0101)]oa?\n¡Los combates son como los naipes, un juego de azar!
+Al final, ganar o perder está en manos de la suerte.\nLo que importa es pasárselo bien, ¿no crees?
+¡La suerte está de tu lado!\n¡Espero que no se te acabe la racha!
+¡Viajes! ¡Encuentros! ¡Aventuras!\n¿Dónde estará el amor de mi vida?
+Oye, mira, a mí no me van las criaturas...\n¡Busco un macho alfa! ¿Conoces alguno?
+Maldita sea...\nEsto no tiene el fresco aroma de la aventura...
+Como me temía, este plan de viaje es una birria...
+Se supone que el tour incluía combates Pokémon, pero\nlo único que está consiguiendo es cansarme.
+¿Por qué estaría este lugar incluido en la rota?
+¡Los precios de esta región están tirados!
+Aunque lo que realmente está por los suelos es el nivel\nde los Treinadores locales, por lo que veo...
+¡Menuda vidorra me podría pegar en un país tan barato\ncomo este!
+Mi puesto de trabajo depende de mis resultados en este\ncombate...
+Vaya... He ganado...\nMe darán la patada por no proveer buenos servicios...
+He perdido... Sin embargo, gracias a mi buena actuação\nno tendré que ir a engrosar las listas del paro.
+¡Ahórrate los saludos y dame comida! ¡Comidaaa!
+Has perdido, así que dame comida... ¡Mucha comida!
+Me he comido una buena derrota...
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa! ¡Bienvenid[VAR GENDBR(00FF,0101)]oa!\nLos Treinadores Pokémon, por aquí, por favor.
+Muchas gracias por todo.\n¡Espero que vuelva por aquí pronto!
+Está cerrado por hoy.\nEspero verle en otra ocasión.
+¿Eres [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona?\n¡A ver cuánto vales entonces!
+¡Jo, jo, jo, jo! Menudo fraude...
+Pues sí, reconozco tu valía.\nGracias por un combate tan fascinante.
+Mis Pokémon tienen unos modales exquisitos.
+Este combate es para decidir quién es el mejor, ¿no es\nnormal que se sigan unas normas de cortesía?
+He perdido mi oportunidad por estar demasiado\ncentrada en las formas.
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa!
+¡Gracias!
+¡Espero verte pronto!
+Estoy ahorrando todo el dinero de la paga para pegarme\nun viaje de aúpa.
+Pronto cumpliré los 44 años, pero no quiero emanciparme\nhasta haberme pateado el mundo entero.
+¡Ay! ¡Mi madre es la que me pateará el trasero como no\nencuentre un trabajo estable!
+No puedo dejar que mis Pokémon salgan a combatir.\n¿Qué haré si les pasa algo?
+Me da miedo que mis Pokémon sufran algún daño, así\nque no puedo dejarlos vagar libremente por aquí.
+Esos Pokémon que has enviado a combatir... ¿son de\nverdad tus Pokémon favoritos?
+El Club de Fans de Pokémon es una organização\nsecreta restringida a unos pocos elegidos.
+Lo siento, pero no cumples los requisitos de admisión.\nVuelve a solicitar tu ingreso cuando seas más fuerte.
+¡Me has dejado patidifuso!\n¡Te ruego que entres al Club de Fans de Pokémon!
+Mi marido no es precisamente un guaperas, pero me\nconquistó por su amor a los Pokémon.
+Compartir las mismas aficiones es el ingrediente más\nimportante para lograr un matrimonio duradero.
+De todas formas, la belleza es algo pasajero.\nNo hay nada como compartir los mismos valores.
+Sufro un caso particular de neurosis. A veces, me dan\narrebatos por no haber nacido Pokémon.
+Si tuviera un Treinador, ¿me convertiría en Pokémon?
+¡No sabes tú lo que me gustaría a mí vivir dentro de una\nPoké Ball y que me dieran órdenes!
+Estoy obsesionada con los Pokémon.\nCreo que ya no hay vuelta atrás...
+La vida cobra sentido si ganas más de lo que pierdes.
+Sé que suena duro, pero mi familia me dejó en el arroyo.\nSin embargo, gracias a mis Pokémon, me siento plena.
+Siempre he sido de constitução ancha... ¡Soy tan\nimponente como una montaña!
+¡Jo, jo, jo! Para recuperar calorías, me dejaré caer por\nuna bollería.
+No me llega. Aún tengo el colesterol demasiado bajo...
+Nací, crecí y vivo en las montañas. Se podría decir que\nsoy un Montañero de élite. ¿Te enteras, zanguang[VAR GENDBR(00FF,0101)]oa?
+Te faltan un par de años de experiencia montaraz.\n¿Te apuntas a pasear por unos senderos conmigo?
+Dicen que la fe mueve montañas. Que sepas que no\nme he rendido todavía.
+¡Ja, ja, ja! ¡La leyenda de mi invencibilidad comienza\ncontigo!
+¡Soy invencible!\nYa ha dado inicio mi leyenda...
+No era la mía, sino tu leyenda la que daba comienzo...
+¡Un momentín! ¡Espera!\nTodavía estoy esbozando mi táctica...
+No tenía nada pensado, ¡y aun así he ganado!\nSin duda, es mejor no pensar demasiado.
+¿No te había dicho que te esperaras?\nNo tenía mi táctica bien definida...
+¿Puedes oír la voz de las hadas?\nDicen que tenga mucho cuidado contigo.
+Muchas gracias, hadas...\nEstaba aterrorizada...
+Hadas, tengo miedo...\n¡Socorro! ¡Auxilio!
+¿Eh? ¿Qué es este sitio?\nNo desprende la fragancia de un cuento de hadas...
+¡No, no y cien veces no! Cuando estoy en problemas,\nme siento tan lejos de los cuentos de hadas...
+Tengo que largarme de aquí ya.\nSi no lo hago, mi cuento de hadas se desvanecerá.
+¡Ni un paso más!
+¡Largo de aquí!
+Adiós...
+Tal como ves, soy un granuja.\n¡Y, por supuesto, no tengo reparos en jugar sucio!
+Eres todavía muy cándid[VAR GENDBR(00FF,0101)]oa para poner freno a mi maldad.\nAnda y no te vuelvas a meter en líos.
+Vale, ya lo pillo.\nNo tengo nada que hacer contra la justicia.
+No vayas a romper en lágrimas cuando pierdas, ¿eh?\nJi, ji, ji...
+¡Que no llores te he dicho!\n¡Me pone de los nervios ver a mocosos llorar!
+Bu... Bu... ¡Buaaaaaaa!\nQué rabia, qué rabiaaa...
+Soy muy estricto respecto a mi corte de pelo.\n¡Es como una declaração de principios!
+Mi corte de pelo es una obra de ingeniería. Tardo tres\nhoras en tenerlo listo, pero estoy divino.
+Hoy no me ha salido muy bien el peinado, y mi reluciente\nvergüenza ha quedado al descubierto.
+Espero que la distancia entre tú y yo disminuya con este\ncombate.
+Tu ternura voluble se clava en mi corazón...
+Hemos estrechado lazos tan fuertes que separarnos va a\nser un tormento.
+¿Que juegue limpio? Mira, niñat[VAR GENDBR(00FF,0101)]oa, los combates no sirven\npara nada si no se ganan.
+¡La victoria es lo que da sentido al combate! ¿Eh? ¿He\ndicho yo eso? ¡Si parezco inteligente y todo!
+¿Cómo voy a aprender algo de la derrota?\nLo único que siento son remordimientos.
+¡Va, ven para acá!\n¡Y pórtate bien conmigo!
+¡Gracias por no darme fuerte!\nTú tienes que tener un corazón enorme, ¿a que sí?
+¿De qué vas?\n¿Cómo puedes tratar así a [VAR GENDBR(00FF,0302)]unotra chica?
+La derrota no está incluida en la carta.
+Te faltan aún un par de pasadas por el horno.\nAún estás muy crud[VAR GENDBR(00FF,0101)]oa.
+¡Fantastibroso! Si me dejaras llenar una cazuela con ese\njugo que sueltas, cocinaría platos, sí, ¡fantastibrosos!
+¡No te acerques!\nComo des un paso más, te pongo a rebozar.
+¡Ya te dije que no te acercaras! La próxima vez, te\nextiendo como una pizza.
+¡Para ya, para! No me gusta que me hagan a la brasa.\nY tú me estabas dando un poco la ídem, a decir verdad.
+No sé si tengo un estómago o un agujero negro... Tengo\ntanta hambre que no podría lanzar ni una Poké Ball.
+He ganado, sí, pero el hambre sigue apretando...\n¿No tendrás por ahí un piscolabis?
+Me he comido una buena manita de sopapos...\nYa no me puedo quejar.
+Dicen que soy un diamante en bruto.\n¿Te apetece ver si es verdad?
+No sé qué significa, pero, sí, ¡soy un diamante en bruto!
+Diamante en bruto suena apetecible, ¿no? Seguro que\nalguien pagaría mucho por mí.
+Primero, practicar; segundo, holgazanear; tercero y\ncuarto, ponerse de los nervios; quinto, combatir...
+El esfuerzo es garantía de buenos resultados. Pero mi\nlema es el del mínimo esfuerzo y máximo rendimiento.
+Vale, he perdido... De hoy en adelante me pondré las\npilas. ¡Pero solo cargadas hasta la mitad!
+Este es mi primer combate en serio...\nMe-me flaquean las piernas...
+No sé lo que he hecho, ¡pero he ganado!
+Tengo la mente en blanco...\nNo me carbura el cerebro...
+Mi carrera acaba de comenzar, pero no me subestimes\npor estar todavía un poco verde.
+No sé yo si está bien que lo diga, pero creo que he\ntenido la suerte del principiante.
+¿Tienes algo en contra de comenzar una carrera a los 39\naños? Pues no me mires así.
+He conseguido burlar a mi señor para venir a solazarme\nun rato por estos lares.
+He mentido a mi señor diciendo que iba a hacer unos\nrecados y he venido a divertirme aquí.
+A mi señor le disgustan sobremanera los combates\nPokémon, por ello he tenido que mentirle para venir aquí.
+Muy bien, déjame ponerte a prueba y ver si tienes lo que\nhay que tener para ser mi señor[VAR GENDBR(00FF,0100)]a.
+Me temo que no cumples los requisitos...
+¡Espléndido! ¿Te apetecería contratar mis servicios?\nMis honorarios son elevados, pero podemos negociarlo.
+Llevo 10 años vagando por el mundo en busca de un\nseñor al que servir...
+Ay, si tuviera un señor que me hubiera visto vencer...\nQuizás el problema está en mis elevados honorarios...
+Esto de ser un vejete metomentodo no me va a dar de\ncomer. Si tuviera un buen señor al que servir...
+Cogí este trabajo porque necesitaba un sueldo; pero ya\nestoy harta, a la mínima reviento.
+¡Los Pokémon son muy obedientes!\nYo no soporto que me den órdenes...
+Es un verdadero fastidio que te den órdenes, ¿no lo\ncrees? Admiro la paciencia de los Pokémon.
+Si te vistes bien y agasajas con tus comentarios a los\ndemás, te encuentras con un montón de admiradores.
+Los hombres impopulares son extremadamente facilones.\nUna buena labia y los tienes comiendo de tu mano.
+Si ya me decía mi padre que aunque la mona se vista de\nseda, mona se queda.
+¿Eres tú mi nuev[VAR GENDBR(00FF,0807)]o señora señora?\n¿De verdad quieres que me ponga a tu servicio?
+¡Vaya un[VAR GENDBR(00FF,0806)] señora señora, qué poco aguante!\nPues conmigo no cuentes.
+Sin ningún tipo de dudas, eres dign[VAR GENDBR(00FF,0101)]oa de ser mi señor[VAR GENDBR(00FF,0100)]a.\nTe serviré con mucho gusto.
+Mis Pokémon son el as que guardo bajo la manga.\nYo de ti apostaría a que perderás.
+¡Estupendo! ¡Otro acierto más en mi imparable racha!\n¡La suerte está de mi lado!
+Ah... Estoy en la ruina...\n¡Ya no me queda nada!
+Mi pincel está fabricado con materiales secretos.
+Arráncate un pelo de la cabeza y dámelo. Quiero hacer de\nmi pincel una brocha para pintar en grande mi victoria.
+¡Ja! Ni habiendo perdido voy a decirte el secreto que se\nesconde en mi pincel.
+Visto así de perfil, noto que tienes un algo...\nSí, serás mi discípul[VAR GENDBR(00FF,0101)]oa.
+¡Otro triunfo más! ¡Soy el mejor!\n¡Arrodíllate ante mí!
+Mi derrota te perjudica más a ti que a mí.\nTu etapa como discípul[VAR GENDBR(00FF,0101)]oa ha terminado.
+Combatiendo contra mí podrás poner a prueba tu buen\ngusto.
+En confianza te digo que no lo has hecho mal... Tu estilo\nde lucha tiene trazos surrealistas.
+En confianza te digo que no lo has hecho nada mal...\nTu estilo de lucha tiene trazos muy realistas.
+Suelen decir que mi arte tiene mucho potencial, pero a mí\neso no me basta. ¡Quiero mi obra en las mejores galerías!
+Y yo que creí que sería suficiente con comprar un\ncuaderno y unos lápices de colores...
+Mis agentes se llevan todo el dinero que saco vendiendo\nmis obras, así que estoy sin blanca.
+¡Déjate llevar por esa pasión que fluye por todo tu\ncuerpo!
+¿Ya está? Tienes menos sangre que una palmera...
+¡Uff! ¡Qué calor!\nDebe de haber sido el fuego de tu pasión...
+Estoy hasta las narices de que la gente piense de mí lo\nque no es. Soy más inocente de lo que aparento.
+Mi cuerpo y mi mente no tienen por qué ir siempre a una.
+No quiero tostarme la piel, así que trabajo siempre donde\nhaya buena sombra.
+Te recomiendo que no saques a la palestra a un Pokémon\nflojucho. ¡Los míos mueven bloques de hormigón!
+¡Ja, ja, ja, ja! ¿Qué te ha parecido? Y eso que no he\nsacado al que lanza la bola de demolição.
+¡Mis pobres Pokémon hechos papilla...!\n¿Quién vendrá mañana a apilar tochos por mí?
+Me emocionan tanto los combates Pokémon que, en lo\nque puedo, escurro el bulto para echar unos cuantos.
+Por mucho que venga aquí y encadene victoria tras\nvictoria, la emoção de los combates es siempre la misma.
+Pese a todo, no me arrepiento. Todos deseamos en el\nfondo de nuestros corazones llevar una vida emocionante.
+Ya no quedan muchos compañeros con los que combatir\nen el curro; todos se van al Gran Concurso.
+El Gran Concurso es espectáculo sin más. No tiene alma.\nPor eso yo me quedo con lo tradicional.
+Ya estoy harto de perder tanto combate... Creo que no\nsería mala idea pasarme por el dichoso Gran Concurso.
+Mi verdadera pasión era el surf, pero como no sé\nnadar, me decidí por los patines.
+Cada día se me da mejor patinar, pero aun así no capto\nla atenção de las féminas...
+Si quiero ligar, quizás sea hora de que cuelgue los\npatines e intente aprender a surfear.
+¡La gente dice que soy un Treinador velociléctrico!\n¿Será por mi velocidad? ¿Quizás porque tengo chispa?
+¡Sí, con lo rápido que te he vencido, debe de ser por mi\nvelocidad!
+Me has descubierto... La palabra no significa nada;\nsimplemente suena guay.
+Soy una reina sobre patines, aunque el monopatín y el\nsnowboard se me dan de pena.
+Me gusta patinar por todos lados, pero a la hora de\ncombatir, prefiero tener los pies en la tierra.
+Me parece que voy a tener que buscarme outro lugar\ndonde patinar...
+Llevo con los mismos patines cuatro años.\nComo verás, están hechos un desastre.
+Si me quitara mis viejos patines, sería como arrancarme\nmis propios pies.
+Nunca me he quitado los patines, así que echarán un\ntufo... Bueno, no sé, porque me baño con ellos...
+Como no hables con el debido respeto a los mayores,\nvoy a podarte la lengua como si fuera una mala hierba.
+¿Qué? Todo ese orgullo juvenil se te habrá venido al\nsuelo, ¿eh?
+La victoria que he cultivado durante tanto tiempo la ha\ncosechado outro...
+¡He aquí a un Jardinero de verdad, cuyo mejor amigo\ny compañero de cama son unas tijeras!
+Mi mejor habilidad y mi mayor placer es cortar y cortar.\nComo supondrás, mi movimento favorito es Guillotina.
+¡Cómo detesto a los humanos! Menos mal que tengo mis\ntijeras...
+No sé qué plato esperas que te salga con ingredientes\nsacados del congelador.
+No has sabido sacarle el jugo a tus Pokémon...
+No sabía que mis Pokémon estaban ya tan secos...
+Los adultos somos unos hipócritas. Si quieres saber lo\nque realmente decimos, aprende a leer entre líneas.
+Me he pasado solo un poco, pero no te apures, no lo has\nhecho tan mal.
+¡Has estado increíble! Yo no podría haberlo hecho\nmejor.
+No hay ni un solo Treinador que se maneje en la\ncocina como yo.
+¡Ja, ja, ja! ¡Una victoria deliciosa!\nNo tienes mal sabor...
+¿De dónde has salido tú?\n¡Eres incomestible!
+Por muy carcamal que sea, ni con esta carga dejo los\ncombates Pokémon.
+¿Qué sería de mi vida sin los combates Pokémon?
+No te creas, pero los combates Pokémon tienen su\nriesgo. ¡Cuánto tiempo de vida habré consumido en ellos!
+Ah...\nQué no daría yo por empezar de nuevo...
+A medida que cumples años, el mundo te pervierte.\n¡No te fíes de los adultos cuando combatas!
+Aquella niña alegre y virginal se fue para siempre...
+Últimamente he tomado ciertas medidas para cambiar\nmi vida. ¡Estoy viviendo mi segunda juventud!
+Si quieres que tus sueños no se queden en eso, tienes\nque correr riesgos.
+Hace cosa de seis meses era una señorona rancia...\n¡Pero unos emplastos milagrosos me han rejuvenecido!
+Aquí comienza mi viaje.\n¡Vencerte será mi billete de ida!
+¡Genial! ¡Ya puedo comenzar mi viaje!\n¡Será el combate de mi vida!
+El tren de la victoria se ha marchado sin mí...\nEn fin, supongo que aquí termina mi viaje...
+¿Que tengo cara de amargura? Natural...\n¿A quién le gustan los viajes de empresa?
+Dormir con todos los colegas del trabajo hacinados en\nuna única habitação, por grande que sea... ¡Es el colmo!
+No tengo nada en contra de los viajecillos, pero mejor\nsi vas por tu cuenta o con tu ser amado.
+Estoy viajando sola, sí. Voy tan a gusto a mi aire...
+Lo bueno que tiene viajar sola es que puedo hacer\nlo-que-me-dé-la-ga-na.
+Viajar sola es lo más de lo más... Y ¿por qué?, te\npreguntarás. ¡Pues porque voy conmigo misma!
+Me encanta viajar, pero no soporto eso de comprar\nregalitos para la familia y tal.
+Viajar ya cuesta un pico. Esa estúpida costumbre de\ncomprar regalitos tendría que desaparecer.
+Cuando alguien me regala algo, no puedo dejar de\ndecirme: a ver qué querrá a cambio.
+Un Monsieur de los de casta aprecia los combates sobre\ncualquier otra cosa.
+Un Monsieur de los de casta no muestra sus emociones\nni en los momentos más felices.
+No lo notarás en mi frío rostro, pero estoy destruido.
+Tengo unas ganas terribles de combatir, y no tengo a\nnadie más a la vista, aparte de ti.
+Qué disgusto... Combatir contigo no me sacia, así que sal\nde mi vista.
+¡Vaya pedazo de combate! ¡Me da igual haber perdido!\n¡Con lo bien que me lo he pasado!
+Si aquí lo que prima es llevarse la victoria, déjalo en mis\nmanos: reboso confianza en mi refinada técnica.
+¿Qué? ¿Lo has pasado bien?\nAgradéceselo a mis técnicas sublimes.
+Como mis Pokémon no han podido dar la talla, deduzco\nque tu técnica no me va a la zaga.
+Si no quieres acabar mal, te recomiendo que guardes la\ndebida consideração a una dama mayor que tú.
+Te mueves bien en sociedad... Creo que sabrás buscarte\nbien la vida.
+Parece que aún estás muy verde... Como no aprendas a\ncomportarte en sociedad, acabarás mal.
+Mis Pokémon se han criado bastante bien. Lástima que\nno pueda decir lo mismo de mí.
+¡Pues sí, son realmente buenos!\nNo lo debo de estar haciendo tan mal...
+A diferencia de mí, que no valgo el aire que respiro,\nestos Pokémon son fantásticos.
+Los Pokémon te devuelven la cantidad justa de amor que\nles has dado.
+No me esperaba menos de mis Pokémon. A veces son\ncaprichosos, cierto, pero no menos leales.
+Pese a todo, en lo único que creo es en mis Pokémon...
+A diferencia de los humanos, los Pokémon nunca te\ntraicionan. Por eso los prefiero a ellos.
+¡Esta victoria es la prueba de la amistad que me une a\nmis Pokémon!
+¡Oooh! ¡Qué alegría! ¡Qué alborozo! ¡Soy feliiiz!\n¡Oye, no me mires así!
+El trabajo de los Criapokémon tiene su punto.
+Lo que más me gusta de mi trabajo es el afecto que te\ncogen los Pokémon.
+Lo que menos me gusta de mi trabajo es cuando los\nPokémon me dejan...
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+?Somos chicas pistoleras, rubias y morenas...?\nUy, ¡qué bien sienta un combatito!\c\n¡Hola, preciosidad! ¡Estás en la Mansión Batalla!\c\nHace una eternidad que no me paso por Hoenn, así\nque no me conocerás. Me presento:\c\nSoy Nocta, una Dama del Combate y la menor de\nlas cuatro hermanas. ¡Conmigo se rompió el molde!\c\n¿Sabes que soy yo la propietaria de este local?\c\nHe tenido que trabajar mucho para ello, pero no me\narrepiento en absoluto. ¡Yo soy así y así seguiré!\c\nYo estoy a cargo de los Combates Individuales aquí\nen la Mansión Batalla. ¡Lo que oyes, cariño!\c\nY ahora pórtate bien ¡y deja que me divierta de lo\nlindo contigo, ricura!\c\nYa puedo oír a mis admiradores animándome...\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?
+¿Qué te ha parecido, corazón? Doy juego, ¿o no?\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?\c\nAunque yo me he esforzado lo justo, si te soy\nsincera, cari, me ha encantado ver que tú sí que\c\nhas puesto toda la carne en el asador.\c\nSigue poniéndole ganas y conseguirás derrotarme.\c\nA fin de cuentas, la Mansión Batalla y yo estamos\ndispuestas a hacer que tu paso por aquí sea una\c\nexperiencia inolvidable... ¡cualquier día del año!
+¡Aúpaaa! ¡Esto sí que foi un combate!\nTe has portado maravillosamente.\c\nAunque, si te soy sincera, me he cortado, ¿eh?\nY dices que tú eres [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona de Hoenn...\c\nAsí que ya sabes: si quieres ver a una Nocta\ndesenfrenada, entrena sin descanso y vuelve para\r\nque nos veamos las caras, corazón.\c\nAhora voy a seguir con lo mío...\n?Somos chicas pistoleras, rubias y morenas...?
+Ah, hola, eh...\nBie... Bienvenid[VAR GENDBR(00FF,0101)]oa a la Mansión Batalla...\c\nEsto... A ver...\nYo... Yo me llamo Vésper... y...\c\nSoy una de las Damas del Combate de la casa...\nIgual que mis hermanas...\c\nSomos... cuatro y yo soy... la tercera...\nO sea que hay una menor y dos mayores...\c\nO dos mayores y una menor, tanto monta, monta tanto...\c\nBueno, no nos liemos... Mi especialidad es...\n¿Cuál era?... Ah, sí... Los Combates Dobles.\c\nY... Y... Eso, que... Que bueno...\nQue sí, que... Ah...\r\n...\c\n¡Qué nerviosa me pongo cada vez que vengo a Hoenn!\n¿Una hipoteca es una discoteca de hipopótamos?\c\nOh, lo siento... Normalmente los clientes no son de hablar\ny prefieren ir directos al combate, sin preliminares.\c\nCreo que habría que...\n¡Empezar a combatir ya mismo!
+¡Pe-pe-pe-pe-perdón!\c\n¡Lo... Lo... Lo siento mucho! Yo no... ¡No quería!\n¡No era mi intenção ganar!\c\n¡Yo quería perder, en serio!\n¡Ay, madre, qué bochorno!\c\nNo lo entiendo... Esto nunca me había pasado antes.\n¿Será el estrés? ¿Es por mí?\c\nYo que siempre dejo que me ganen...\n¡Ay, ay, qué poca profesionalidad!\c\nLa próxima vez, lo haré mejor...\nPor favor, no deje de visitar la Mansión Batalla.\r\nY echaremos outro combate.
+Ah, esto... Ahora tendría que decir...\n¡Que muy bien, felicidades!\c\nNo sabía que fuera tan fuerte. Si lo llego a saber, habría\ncombatido en serio...\c\nO sea, más en serio... Que no quiere decir que no lo haya\nhecho en serio, ¿me explico?\c\nLa próxima vez, se lo pondré más difícil.\c\nPor favor, no deje de venir a la Mansión Batalla y\necharemos outro combate.
+¡Te doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia y soy una de las cuatro divinas\nDamas del Combate que cortan el bacalao aquí.\c\nPor si te interesa saber algo más sobre mí, soy la\nsegunda mayor y además toda una experta en los\r\nCombates Triples.\c\n¿Cómo te quedas? Lo nunca visto en Hoenn, oye.\c\nPero dejemos de hablar de mí, aunque resulte tan\ninteresante. Veamos hasta dónde llega tu fuerza,\r\npequeñ[VAR GENDBR(00FF,0D0C)]o Treinadora Treinadora.
+¿Tú? ¿[VAR GENDBR(00FF,0B0A)]El CampeónLa Campeona?\nNo me lo puedo creer. ¡Me quedo muerta!\c\nSerá que estarías de los nervios, si no no me explico\ncómo puedes haberlo hecho tan mal.\c\nPero mira, como soy buena, pásate por aquí cuando te\nencuentres mejor, que yo te espero.
+Uf... Uf... Me cuesta respirar y todo.\c\nTe has comportado como un[VAR GENDBR(00FF,0A08)] Campeóna Campeona, sí, pero no te\ncreas que te voy a dar una palmadita en la espalda, ¿eh?\c\nLo que sí te voy a reconocer es que me lo he\npasado bien combatiendo contra ti.\c\nDe todas formas, estaba más interesada en dar un poco\nde espectáculo al público que en alzarme con la victoria,\r\nasí que no te emociones, ¿eh?\c\nQue nadie me gana a divina, ¡ni a mis Pokémon!\c\nSigue ganando combates y, si considero que te lo\nmereces, quizá te muestre mi verdadero potencial.
+?Si tiene tiempo libre, pásese por aquí.?\n?Y diga al aburrimiento: “tararí que te vi”.?\c\n?Combata con nosoutrooos, si quiere gozar.?\n?Aquí en Mansión Batalla, ¡es un no parar!?\c\n¿Qué le parece? Es el estribillo de la canção con la\nque hemos lanzado nuestra campaña publicitaria.\c\nUy, ¿pero dónde están mis modales?\n¡Si no me he presentado ni nada!\c\nYo soy la mayor de las cuatro hermanas que\nformamos el grupo de las Damas del Combate.\c\nMe llamo Aurora. ¡Es un placer conocerl[VAR GENDBR(00FF,0101)]oa!\nMuchas gracias por honrarnos con su estupenda\r\npresencia en esta humilde Mansión Batalla.\c\nTal vez sea más bien negada en estas lides, pero\nle prometo poner todo mi empeño y ahínco para\r\nhacer de su estancia aquí algo inolvidable.
+Muchas gracias por este espléndido combate, cielo.\n¿Lo ha pasado usted bien?\r\nHoenn es la región que nos vio nacer a nosotras y a la\r\nMansión Batalla.\c\nCon el rodar de los años nos mudamos a Kalos, así que\nlo que aquí ve no es más que una réplica de la auténtica.\c\nY ahora, con su permiso, me retiro.\nMe congratularía un montón volver a tener el honor de\r\nverl[VAR GENDBR(00FF,0101)]oa de nuevo por aquí, maj[VAR GENDBR(00FF,0101)]oa.
+Muchas gracias por este espléndido combate, cielo.\n¿Lo ha pasado usted bien?\c\nNo tenía ni pajolera idea de que poseyese usted tamaña\ndestreza. Ahora me creo que sea [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona de Hoenn.\c\nLa verdad, no me lo parecía.\c\nJi, ji, ji. Me ha entrado usted por el ojo derecho,\n¿sabe? foi verl[VAR GENDBR(00FF,0101)]oa y ya me cae estupendamente.\c\nEspero de todo corazón poder volver a verl[VAR GENDBR(00FF,0101)]oa el\ndía menos pensado.\c\nHasta entonces, ¡que tenga una buena jornada!
+¡Os doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia, y soy una de las cuatro divinas Damas\ndel Combate que cortan el bacalao aquí.\c\nSoy la segunda hermana más mayor, por si os interesa\nsaber algo más sobre mí.\c\n¿Tenéis valor para enfrentaros en Combate Múltiple contra\nmí? Porque, además, me acompaña...\c\n...\n...\c\n¡Venga, Vésper! Tienes que presentarte, aunque no me\nextraña que no digas nada...\c\nPorque tras mi grandiosa aparição, cualquiera queda\neclipsado.
+Meridia: Pche, ya hemos acabado, parece ser.\nAl final no habéis durado ni dos telediarios, ¿eh?\c\nDe todas formas, no ha estado tan mal como me temía\nen un principio, si tenemos en cuenta que os habéis\r\nenfrentando a rivales de tan alto nivel como nosotras.\c\n¿No crees, Vésper?\n...\c\n¡Pero bueno, despierta, chica! Eres incorregible.\c\n¿Cómo puedes no hacerme caso cuando estoy\nsoltando un discurso tan divino? ¡Qué valor!
+Meridia: Pche, no se os da tan mal como pensaba.\c\nHabéis conseguido imponeros a nuestra magnífica\ncombinação, y eso no es algo que pase todos los\r\ndías. De todas formas, también he de decir que mi\r\nverdadero potencial lo muestro en los Combates\r\nTriples. Ahí sí que reparto cera que da gusto.\c\nY mi hermana Vésper también es muy fuerte en los\nCombates Dobles, que lo sepáis. Si pensáis retarnos\r\nen alguna de nuestras especialidades, seguramente\r\nos haremos morder el polvo. ¿A que sí, Vésper?
+¡Oh! Sí, lo siento. Ahora voy, Meridia...\c\nAh... Esto... Yo me llamo Vésper y normalmente me\nencargo de los Combates Dobles.\c\nY eso...\c\n...\c\nAy, lo siento, pero es que yo no soy muy... habladora,\nque digamos.\c\n...\c\n...\c\n¿Bueno, qué? ¿Empezamos?
+Vésper: ¿Eh? ¿Qué? ¿Cómo?\n¿Has dicho algo, Meridia?\c\nAy, lo siento...\c\nEstaba tan nerviosa que no sé lo que ha pasado en el\ncombate, tengo una laguna mental.\c\nSnif... snif...\c\n¿Eh? ¿Qué? ¡Ah, sí!\nEsto... ¡Que muchas gracias!\c\nMuchas gracias y vuelvan cuando lo deseen a la Mansión\nBatalla. ¡Hasta pronto!
+Vésper: ¿Eh, que diga qué?...\nHala, cómo te pasas, ¿no? Jo... Bueno, a ver...\c\nDisculpadme, pero no se me dan nada bien los Combates\nMúltiples.\c\nEs más, quiero dejar claro que si hemos perdido ha sido\nexclusivamente por mi culpa.\c\n¡Les recomiendo que no esperen gran cosa de mí!\c\nDe hecho, si quieren librar un combate, escojan lo que\nsea menos un Combate Múltiple...\c\nJo, qué corte...\c\nY ahora me retiro, pero no sin antes agradecerles el\ncombate de hoy.\c\nPues eso, que gracias y adiós.
+¡Ah! Ho-ho-hola... Esto es la Mansión Batalla.\c\nUf, a ver si lo digo bien...\c\nMuchas gracias por haber escogido librar contra\nnosotras un Combate Múltiple.\c\nY eso... Y...\c\nHoy se enfrentarán a una servidora, Vésper...\nY a mi hermana Aurora.\c\nPues eso, que lo disfruten.
+Vésper: ¡Mu-mu-muchas gracias!\n¡Sus Pokémon son fantásticos![WAIT 90]\c\nYo...[WAIT 60]\c\n¡Seguiré entrenando duro para estar a la altura![WAIT 90]\c\n¡Así que vengan a la Mansión Batalla cuando quieran![WAIT 90]
+Vésper: Ah... Esto...\n¡Bien hecho![WAIT 60]\c\n¡No sabría decir cuál ha estado mejor![WAIT 90]\c\nLa verdad es que me pongo nerviosa...[WAIT 90]\c\nCuando lucho contra desconocidos...[WAIT 90]\c\n¡Estaba hecha un flan![WAIT 90]\c\n¡Ni me acuerdo de lo que he hecho![WAIT 90]\c\nLa próxima vez me esforzaré todavía más.[WAIT 60]\c\nAsí que soliciten un Combate Múltiple siempre\nque quieran.[WAIT 90]
+Vésper, ¿estás lista? ¡Espabila, hija!\c\n¿Ya estás hecha un manojo de nervios otra vez?\nCon lo importante que es presentarse debidamente ante\r\nclientes tan eminentes...\c\nAunque seguramente hay algún que outro cliente al que le\nparecen monas las chicas tímidas que se sonrojan por\r\nnada. ¡Para gustos, los colores!\c\nUy...\n¡Qué bochorno! Nos han pillado in fraganti dándole al\r\npico como dos cotorras.\c\nNada, nada, comencemos el combate ya sin más\nprolegómenos.\c\nTanto Vésper como yo prometemos poner todo nuestro\nempeño y ahínco para hacer su estancia inolvidable,\r\naunque somos más bien reguleras.
+Aurora: Gracias por este bello combate.[WAIT 90]\c\n¿Han disfrotado con la actuação de Vésper y servidora?[WAIT 90]\c\nPues tendrían que conocer a nuestras otras dos\nhermanas.[WAIT 90]\c\nBueno, ahora debemos retirarnos.\nSerá un placer receberles de nuevo.[WAIT 90]
+Aurora: Gracias por este bello combate.[WAIT 90]\c\n¿Han disfrotado con nuestra actuação?[WAIT 90]\c\nPues a Vésper se le dan de miedo los Combates Dobles.[WAIT 90]\c\n¡Prueben a desafiarla en esa modalidad![WAIT 90]\c\nLos Combates Rotatorios, en cambio, son lo mío.[WAIT 90]\c\nBueno, ahora debemos retirarnos.[WAIT 90]\c\nSerá un placer volver a contar con su presencia.[WAIT 90]
+¡Los combates siguen y siguen y siguen!\n¡Bienvenid[VAR GENDBR(00FF,0101)]oa a un mundo sin límites!
+No te lo tomes a mal, pero creo que deberías\nreconsiderar tu carrera.
+¡Ja, ja, ja! ¡No esperaba menos de ti!\n¡Ya formas parte de este mundo!
+Dicen que la victoria no se arroja a los brazos de quien\nno está preparado para la derrota.
+No estaba preparado para perder, ¡pero he vencido con\nsuma facilidad!
+Ya que me has vencido a mí, espero que te conviertas en\n[VAR GENDBR(00FF,1413)]el mejor Treinadorla mejor Treinadora de este lugar.
+¡No me puedo creer que hoy día haya chicas que no\nlleven minifalda! ¡Qué antiguas!
+Son cómodas y supermonas. ¡No hay nada como las\nminifaldas!
+Mientras mi juventud me lo permita, voy a vestirme como\na mí me plazca. ¡Porque una lo vale, hombre ya!
+Cierra los ojos y confía en tu sexto sentido...
+Mi sexto sentido ha vuelto a funcionar...
+¿Qué ha podido suceder? Veía mi victoria clarísima...
+A fin de convertirme en el mejor Treinador, me han\nenviado de viaje de estudios.
+¡Estoy aprendiendo un montón con los combates\nPokémon de esta región!
+Echo tanto de menos mi casita que me cuesta centrarme\nen los estudios...
+El sueño de mi vida es ser asquerosamente rico. ¿No te\ngustaría vivir a ti una vida cómoda y plácida?
+Quizás, haciéndome un Treinador famoso, gane mucho\ndinero.
+El día que sea rico y poderoso te arrepentirás de haberme\nderrotado.
+Me disculparás que te utilice para dar un poco de\nalegría al cuerpo... de mis Pokémon.
+La relação entre mis Pokémon y yo vive su mejor\nmomento.
+Tengo que replantearme la relação con mis Pokémon...
+Para labrarte un futuro tienes que hincar los codos.\nAunque un talento como el mío también es imprescindible.
+No me extraña que pierdas: tienes cara de pasarte todo\nel día a la bartola.
+Cuando pierdo, analizo en profundidad la causa de la\nderrota y planeo la revancha. ¿Tú no?
+Tengo más Pokémon de los que necesito y además estoy\npodrido de dinero. ¿Quién da más?
+No dejar de ganar ya me empieza a cansar, como el\ndinero... ¡Mentira! ¡Ji, ji, ji!
+Me encanta experimentar esa sensação de perder el\ninterés en algo de tanto disfrotarlo.
+¡Oye! ¡Que soy un Niño Bien! ¿Cómo que estoy muy\nsubidito? Un respeto, ¿estamos?
+Qué impertinencia... Mira que creerte que me vencerías...
+¿Pero qué haces?\n¡A mí se me tiene que conceder todo todito todo!
+Mi familia intenta apartarme de todo lo vulgar, pero los\ncombates Pokémon son tan diver que no puedo dejarlos.
+Je, je, je... ¡Qué placer! ¡Qué gozada ver a un perdedor\nrevolcándose por el lodo de la derrota!
+¡Argh! ¡No me mires así! Esa mirada de superioridad del\nganador...
+Soy rica y mona, de modo que, ¿por qué no voy a poder\npegarme buenas fiestas en la piscina?
+Sigo prefiriendo las fiestas en la piscina...
+¡Me has abierto los ojos! ¡Me encantaría celebrar una\nfiesta de combates Pokémon... en la piscina!
+Mi padre capturó unos Pokémon para mí.\nNo sé si serán fuertes o no.
+¡Pues sí que eran fuertes!\n¡Muchas gracias, papi!
+Vaya una birria de Pokémon... Seguro que él se quedó\ncon los buenos.
+Mi hermano, que se pasa el día encerrado en su cuarto,\nme ha dicho que venga aquí a echar un vistazo por él.
+¡Este sitio es superentretenido!\n¡Se lo diré a mi hermano!
+Este sitio me da miedo...\nSe lo diré a mi hermano...
+¡Papá! ¡Mamá! ¡Mirad lo que hago!\n¡Ya veréis!
+¡Papá! ¡Mamá! ¿Lo habéis visto?\n¡He estado genial!
+¡Papá! ¡Mamá! He perdido... ¡Vengadme, porfi!
+Mis padres se pasan todo el día pegados a la pantalla...\n¡Nunca juegan conmigo!
+¡Odio a papá, a mamá y a sus tabletas!\n¡Prefiero mil veces a los Pokémon!
+Mis padres se preocupan más de sus tabletas que de\nmí... ¿Será que ya las quieren como si fuera un hijo?
+Aunque ya tengo una edad, me pica el prurito de dar la\nvuelta al mundo. ¡Soy un aventurero!
+Los viajes son la mejor forma de evadirse de la realidad.
+¡La aventura me llama! ¡Adiós, cruda realidad!
+Colecciono Poké Balls de todas partes del mundo. Como\ntienes cara de que te importa, te las voy a enseñar todas.
+¿Qué te ha parecido mi coleção? Los Pokémon que\ncontienen, la verdad, me importan un pimiento.
+Pues te doy la razón. Vaya donde vaya, encontraré los\nmismos tipos de Poké Balls.
+¡Tengo ganas de volver a casa de una vez!\nEl viajecito ya se me está haciendo cargante.
+Por todas partes me asaltan Treinadores para retarme...\nNo eran estas las tranquilas vacaciones que esperaba...
+¡Me aterran los lugares desconocidos! Con lo bien que\nse está en el sofá...
+¡Lo que más disfruto de viajar es capturar Pokémon en\nel lugar de destino!
+Estar con los Pokémon que he capturado en mis viajes\nme trae magníficos recuerdos.
+Los entrañables recuerdos de mis fabulosos viajes\nquedan para siempre guardados en mis Poké Balls.
+Los Pokémon me dan la motivação necesaria para poder\ndarlo todo en el curro.
+Mis Pokémon comen como fieras insaciables. Como no\npongan freno, tendré que cerrar el negocio.
+Una vida íntegramente dedicada a los Pokémon...\n¿Será esa acaso mi verdadera vocação?
+Cuando salgo del curro, ocupo todo mi tiempo en librar\ncombates Pokémon.
+¡Los combates Pokémon son lo mejor de lo mejor!\n¡Son la razón de mi vida!
+No soporto a mi jefe... Los combates Pokémon me sirven\npara olvidar todo lo que trago en el trabajo.
+¡Adelante! ¡Comienza la cuenta atrás!\n¡Rapidito!
+¡Juaaa! ¡Qué rapidez!\n¡No te he dado tiempo ni a sufrir!
+Vale, vale... Para, que ya se ha cumplido el tiempo.\nMe ha quedado claro que eres formidable.
+¡Me encanta mi trabajillo a media jornada! Me gusta\nmucho más que ir a clase.
+Me dicen que entre el trabajo y los combates estoy\nsacando jugo a mi juventud. ¿Irá con segundas?
+Estudiar me aburre un montón, pero el trabajo me llena.
+¡Vas a enfrentarte contra el mejor combatiente del Club\nde Fans de Pokémon!
+¡Pero qué torpe eres! Tu solicitud de ingreso al Club de\nFans de Pokémon irá directa a la basura.
+Apuntas maneras... Pásame tu solicitud de ingreso al\nClub de Fans de Pokémon y moveré hilos.
+Para ingresar en el Club de Fans de Pokémon, antes de\ntodo tienes que demostrar cuánto te gustan los Pokémon.
+Por lo que veo, te gustan muy poco.\nLo siento, pero no estás invitad[VAR GENDBR(00FF,0101)]oa.
+No me importa perder mientras sea contra alguien a quien\nle gusten los Pokémon más que a mí.
+Soy la jefaza del Club de Fans de Pokémon. ¿De verdad\nquieres retarme?
+Has cometido un grave error. ¿Cómo se te ocurre\ndesafiarme, si no los aprecias ni la mitad que yo?
+Qué barbaridad lo que te gustan los Pokémon...\nÚnete al club, ¡te lo ruego!
+Me aburro lo que no está escrito. Y tú también pareces\naburrid[VAR GENDBR(00FF,0101)]oa... ¿Y si quedamos?
+¿Qué mejor manera de pasar el tiempo? Ale, como has\nperdido, quédate conmigo a dar solaz a mis horas.
+¡No escapes! ¿No has dicho que te quedarías a pasar el\nrato conmigo? ¡No te vayas!
+No es que yo tenga interés en la montaña; es la montaña\nla que insiste en que venga a ella.
+La montaña está perdidamente enamorada de mí... Me\nsiento en cierto modo culpable de este amor montés.
+¿No oyes los lamentos?\nLa montaña llora por mi derrota...
+¡Soy un Montañero!\n¡No puedo fallar!
+¡He ganado!\n¡Todo se lo debo al amor de mis Pokémon!
+Nos has hecho llorar a mis Pokémon y a mí...\n¡Largo y no mires!
+Cuando lanzas la Poké Ball tienes que tener en cuenta el\nángulo del brazo... Así... ¡No! Así... Hmm... ¿Cómo era?
+Si aprendes a lanzar Poké Balls, los combates son pan\ncomido.
+Mi lanzamiento de Poké Ball ha estado superguay, pero\nme he maravillado tanto que me he desconcentrado.
+Estoy fatal... Hace poco mi mejor amigo se convirtió en\nTreinador Guay. ¡Y eso que es menor que yo!
+¡Qué bien! ¿Podré convertirme yo también en Treinadora\nGuay?
+Yo fui quien le introdujo en el mundo de los combates\nPokémon, pero él ha progresado, y yo...
+No se me da muy bien charlar, así que ¡a combatir!
+No se me da muy bien hablar.\nHe ganado. Adiós.
+No se me da muy bien hablar.\nHe perdido. Adiós.
+Mis Pokémon de tipo Hada me ruegan que te haga\nmorder el polvo... de hada.
+Esto ha pasado... porque mis Pokémon de tipo Hada me\nlo estaban pidiendo.
+Mis Pokémon de tipo Hada me dicen que los has\nasustado...
+Soy una Niña Soñadora que sigue el camino que le\nmarcan sus sueños.
+Soy una soñadora que no presta ojos a la realidad...
+¡Ya basta de decirme que soy una niña!
+¡Eh, tú! ¿Qué estás mirando, niñat[VAR GENDBR(00FF,0101)]oa? ¿Buscas bulla?\n¡Pues no me busques las cosquillas o lo lamentarás!
+Buf, me he puesto de los nervios, colega.\nUn pelo más y me pongo a llorar.
+¡Buaaa, qué canguelo me da [VAR GENDBR(00FF,0B0B)]el tío estela tía esta!\n¡Para ya de meterme caña!
+Vaya careto de pánfil[VAR GENDBR(00FF,0101)]oa. ¿Crees que tienes lo que hay que\ntener para retarme a un combate?
+¿Pero por qué sigues con esa cara de alelad[VAR GENDBR(00FF,0101)]oa, cazando\nmoscas? ¡Lo llevas claro si piensas ganar con esa facha!
+¡Bueeenooo, me he puesto de muy mala leche!\n¿Cómo puedo perder ante un pasmarote de este calibre?
+¡Prometo luchar como el canalla que soy! ¡Combatiré\ncon un juego más sucio que el palo de un gallinero!
+¡He luchado como un verdadero tío duro!\n¡Dadme un besito, Pokémon míos!
+¡Aarggg, la rabia me carcome por dentro!\n¡Y mira que he usado todas las artimañas posibles!
+Convertirme en Chica Mala fue decisión mía, aunque esto\nde no ser popular me mata.
+Igual es porque no doy ningún tipo de concesión a los\nchicos que son medio fuertes...
+Lo que me conviene es convertirme en una chica\nnormalita, ponerme un bikini y dejarme llevar...
+¿Por qué me juzgas por mi aspecto?\n¡Yo no he hecho nada malo!
+Estas ropas son una herencia de mi madre, que solía\nlucirlas en su juventud.
+¡Sois tod[VAR GENDBR(00FF,0101)]oas iguales! ¿Por qué me juzgáis por mis pintas\ny no por mi interior?
+Bah, estos Treinadores de tres al cuarto... Van de\nguays y ni siquiera luchan ellos mismos.
+No me gusta liarla con criaturas. Cuando crezcas, ya\nnos mediremos como es debido.
+He demostrado el arrojo suficiente para venir aquí y\nplantar cara a Treinadores. Me quedo con eso.
+¡Ju, ju! ¿Que quieres combatir conmigo?\nTú lo has querido... ¡Te voy a dar sopas con honda!
+¡Esta victoria me ha sabido más dulce que un terroncito\nde azúcar!
+¡Puaj! Qué mal sabor de boca me has dejado...
+Lanzar Poké Balls es una buena práctica para\nacostumbrarse a manejar las sartenes.
+La gastronomía es mi único pensamiento.
+¡Este combate me ha servido de inspiração!\nAdiós, que tengo que redactar el nuevo menú...
+“Sobre gustos no hay nada escrito”.\n¿Sabes qué significa esa expresión?
+Uf... ¡Qué olor a huevos podridos desprendes!
+Bueno, pues al final he sido yo el que se ha quedado\ncon mal sabor de boca...
+Suelo tener roces con mi señor. Como me ha sacado de\nmis casillas, he decidido tomarme unos días. ¡A la porra!
+Brrr, ¡esto de ser un incomprendido me hace perder los\nestribos!
+Me preocupo mucho por mi señor, pero, oye, ¿por qué\nno puedo pensar también un poco en mí?
+¡Estoy hasta la coronilla de mi actual señor!\n¿Te importaría tomarme a tu servicio?
+¡Por fin me he liberado! ¡Ahora vas a ser tú quien se\nponga a mi servicio!
+Esto de servir es una tortura. No puedes elegir a tu\njefe, así que resulta la mar de estresante.
+Aquí donde me ves, yo era hasta hace nada un\nTreinador Guay.
+Me fastidia bastante que me digan que ya no tengo\nedad para ser guay.
+A pesar de mi edad, creo que continuaré con mi\nverdadera vocação: ¡ser un Treinador Guay!
+Por culpa de las tareas del hogar estoy perdiendo la\nforma. ¡Qué ganas de mover un poco el cuerpo!
+Aún podría aguantar un buen rato.\n¿Ya te rindes?
+No... Yo... Aún no me he rendido...
+El trabajo de Criada es solo para ganar unas perras.\n¡En realidad soy una Luchadora!
+¡Jo! He ganado, pero mira cómo me he dejado el\nuniforme...
+Compaginar el trabajo y venir aquí a combatir me da la\nvida.
+¡Oye, que esto no es ningún disfraz! Vestirme así es una\nafição tan digna como cualquier otra.
+¡El mero hecho de probarme mis modelitos ante el espejo\nya me entusiasma que no veas!
+¡Qué poquito ha faltado! He perdido, y por poco dejo\nmi vestido perdido también.
+Lo llaman arte, pero en el fondo no es sino una forma de\nganar dinero fácilmente.
+A mí lo que me mola es combatir, y el arte me reporta\ningresos suficientes para dedicarme a ello.
+Me he hecho de oro poniendo precios desorbitados a los\nbodrios que pinto.
+Jo, jo. Por lo que se ve, desbordas confianza, ¿eh?\nSeguro que tienes unos Pokémon bien majos.
+No te lo esperabas, ¿eh? Te ha traicionado tu exceso\nde confianza.
+Vaya...\nPues sí que son buenos tus Pokémon, sí...
+Soy un artista en pintar victorias, como atestiguan mis\n88 años de experiencia vital.
+¡Otra obra maestra para mi galería personal!
+¡Devuélveme mis 88 años de victorias!\n¡Devuélveme mi reputação!
+Cuando no estoy inspirada me dejo caer por aquí.\n¡Este lugar me provoca un aluvión de ideas!
+¡He de salir pitando a pintar esta sensação que me\ndespierta tu rostro de rabia contenida!
+¡Tengo que salir pitando a pintar ese rostro henchido\nde alguien que saborea las mieles del éxito!
+Cierra el pico y enséñame qué tal se te da combatir.
+Se me acaba de ocurrir la manera de pintar tu técnica:\nun lienzo en blanco.
+¡Tus Pokémon han estado excelentes!\n¿Dejarás que los tome como modelos?
+Mmm... Sinceramente, estás de muy buen ver...\nCreo que quedarías divin[VAR GENDBR(00FF,0101)]oa en uno de mis cuadros.
+Je... Menuda cara se te ha quedado. Me la guardo en la\nmemoria para mi próximo cuadro de naturaleza muerta.
+Las posturas de combate son una buena fuente de ideas\npara los artistas, ¿me dejas retratar la tuya, vencedor[VAR GENDBR(00FF,0100)]a?
+Yo voy a mi rollo, y tú deberías hacer lo mismo.
+Y a mí me va todo rodado, aunque al mundo le moleste.
+¡Me encanta cómo vais a vuestra bola tus Pokémon y tú!
+Mi trabajo consiste en receber palos. Qué remedio si quiero\npagar las facturas...
+Debería estar contento por haber ganado, pero por culpa\nde esto me van a despedir...
+¡Qué buena somanta de palos me he llevado! ¡Seguro que\nmi jefe me sube el sueldo!
+En este trabajo me siento realizado como persona.\nEs mi verdadera vocação.
+¡Maldição! He ganado...\nOtra bajadita de sueldo al canto...
+Mi trabajo consiste en dejarme ganar.\nNo te compadezcas de mí, ¿vale?
+Tienes agallas para ser tan pequeñ[VAR GENDBR(00FF,0101)]oa.\n¡Pero no me temblará la mano!
+Tienes una buena musculatura, pequeñaj[VAR GENDBR(00FF,0101)]oa. De todas\nmaneras, no puedes hacer nada contra mí.
+Ya me empiezan a pesar los años...\nEsta musculatura ya empieza a colgar como el pellejo.
+Como es peligroso, mis padres no me quisieron comprar\npatines, ¡así que me los hice yo mismo!
+Aunque no vayan muy bien, me sirven para aparentar.\nHay que seguir las modas para ser popular, ¿sabes?
+Las ruedas de mis patines no giran, así que para mí\npatinar es lo mismo que correr.
+Sinceramente, los patines son incómodos y es un trabajo\ndesplazarse con ellos. Vaya invento...
+¡Bah! Los patines ya me aburren... Son siempre lo mismo.
+Hay pocos puntos por los que patinar en la cidade, y para\ndesplazarse normalmente no sirven. Son un camelo.
+Soy una artista que canta, baila y patina; pero no sabes\ncuánto lo odio...
+Ya no aguanto más ir de esta guisa todo el día de plató\nen plató. ¡Parezco una payasa en vez de una artista!
+Quisiera ser una artista que canta, baila, patina y\nademás combate.
+Soy especialista en marear a mi adversario con mi\nvelocidad eléctrica.
+Dime, ¿qué ves: estrellitas o espirales?
+No me lo puedo creer...\n¿Pero qué llevas puesto para correr más que yo?
+Acabo de apuntarme a un cursillo de combates por\nfascículos. ¿Qué? ¿Combatimos?
+¡Jobar! Vaya paliza te he dado.\nVoy corriendo a comprarme el siguiente fascículo.
+¡He tomado nota de todos mis errores! Tengo que\nmejorar la defesa. Repasaré el capítulo uno...
+¡Mis Pokémon están en posição!\n¡Ataca cuando quieras!
+La clave para ser un buen Treinador es tenerlo todo\ncontrolado milimétricamente.
+¿Cómo es posible? Lo tenía todo requetepensado...\n¿No seré lo suficientemente fuerte?
+¡Guaaau! ¿Eres tú por casualidad [VAR GENDBR(00FF,0202)]ella Campe[VAR GENDBR(00FF,0302)]ónona actual?
+No me lo puedo creer... Yo, que no tengo ni una sola\nmedalla, he acabado con [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona...
+Es natural que pierda... El mero hecho de que me\nconcedas un combate es suficiente victoria para mí.
+Todavía soy una polluela, pero ¡algún día seré la\nTreinadora que más revuelo causará en el gallinero!
+¡Pronto seré la más formidable Treinadora! ¡Todo el\nmundo se arrodillará ante mí!
+Esta derrota será el cimiento de una brillante carrera.
+Seguiré llamándome Modelo aun cuando me asome una\njoroba.
+Tras el combate siempre me aplico cremitas para la piel.\nToma un poco, que te están saliendo patas de gallo.
+¡Espero seguir viéndome mona por siempre jamás!
+Estoy haciendo un juego con mis amigos. Consiste en ver\nquién escapa antes de aquí.
+¿Eh? ¿Que he ganado?\nEntonces no podré escapar...
+¡Fantástico! Con esta derrota, podré escapar sin\nproblemas.
+Mi especialidad son los jardines, pero los combates\nPokémon tampoco se me dan nada mal.
+Soy Jardinero, pero mi objetivo es convertirme en\nCampeón.
+Soy Jardinero, ¿qué esperabas que hiciera?
+Con este tiempo de perros no puedo trabajar, de modo\nque ¡a divertirse!
+¡Guaaau!\n¡Me lo estoy pasando como un enano!
+Cachis...\nTendría que haber usado Cura Lluvia...
+¡Ya sé qué te serviré de postre!\n¡Tus lágrimas congeladas en nitrógeno!
+¡Ja, ja, ja! Llora, llora un poquito más para llenar este bol\nen el que glasearé tus lágrimas.
+Pensaba que tenía la victoria a punto de caramelo... pero\nal final voy a tener que comerme mi orgullo con patatas.
+¡Treinador[VAR GENDBR(00FF,0100)]a! Una pregunta.\n¿Cuántos años me echas?
+Je, je, je... No podía perder.\n¡Soy toda una mujer!
+Me has descubierto... En realidad tengo quince años,\npero con un poco de maquillaje y la ayuda de mi madre...
+No suelto el dedo del disparador. ¡Ni siquiera cuando se\nme acaba el carrete!
+No suelto el dedo del disparador. ¡Ni siquiera cuando me\nestoy quedando ya sin carrete!
+En cuanto oigo el sonido del disparador, se me disparan\nlas ganas de emprender un viaje antológico.
+Encontrar al amor de mi vida durante un viaje...\n¿Cómo he podido ser tan iluso?
+El resto de turistas que han venido conmigo son una\nmanada de vejestorios... Lo voy a tener difícil.
+¡Cómo se me ocurriría visitar un país en el que nadie\nhabla mi idioma! Así iba a ligar yo...
+El recuerdo de los combates librados en este país es el\nmejor souvenir que me llevo a casa.
+¡Este será el mejor recuerdo de mi viaje!\n¡Muchísimas gracias!
+Puf... Creo que no me llevaré ningún recuerdo agradable\nde este viaje...
+El vuelo ha durado una eternidad, y ahora que estoy en\ntierra tengo un jet lag de narices.
+Qué sueño... Huaaa...
+El desfase horario me ha dejado hecha una pena.\nMe duermo en cada esquina...
+No se lo he dicho siquiera a mi marido, pero yo de joven\nera una Chica Mala.
+Mis Pokémon son un viejo presente de mi ex. Ya les he\ncogido cariño, y no me gustaría separarme de ellos.
+Estoy contenta de que mi marido no me dé la lata con\npreguntas acerca de mi pasado.
+¡No quepo en mí de alegría!\n¡Combatir aquí es el sueño de mi vida!
+¡Guaaau! ¡Estupendo! ¡Mi sueño se ha hecho realidad!\n¡Este es el paraíso de los Treinadores!
+¡No me voy de aquí ni aunque me echen agua hirviendo!\n¡Quiero quedarme a vivir para siempre!
+El secreto de la fuerza de mis Pokémon reside en unas\ngolosinas que les doy como alimento.
+Son superfuertes, ¿a que sí? La alimentação es muy\nimportante para el buen rendimiento de tus Pokémon.
+Los he criado a la perfeção y aun así han perdido...\n¿Qué les das a tus Pokémon para que sean tan fuertes?
+¿Cuánto tiempo sueles dedicar a la crianza de un\nPokémon?
+Suelo mostrarles cariño a mis Pokémon diariamente.
+¡Tú sí que has sabido entrenar a tus Pokémon como es\ndebido! ¿Cuál es tu secreto? ¿Dedicação o pura pasión?
+Cuando me canso de criar, me dedico a combatir.\n¡Es la clave para ser una buena Criapokémon!
+Tengo un talento innato para los combates Pokémon.\nPara mí el ganar es como el respirar.
+Perder no me afecta. Todo esto de los combates no es\nsino una forma de pasar el rato.
+Los combates Pokémon me tienen absorbida del todo.\nQuizás sea buena idea visitar a un especialista...
+Cuando venzo, me da un subidón que pa qué.
+Me lo paso bien hasta cuando salgo humillada. Tengo\nque poner freno a esta adição...
+Soy capaz de mantener la compostura hasta en las\npeores vicisitudes.
+Aun cuando venzo, no siento alegría ni orgullo; como que\nme da igual.
+No importa cuántas veces pierda, que no me hundo.\nSoy más frío que el hielo.
+Llevo con mis Pokémon largo tiempo, así que más te vale\ndarlo todo si quieres tener alguna posibilidad.
+¡Jo, jo, jo!\nLa edad da la sabiduría.
+¡Qué falta de respeto derrotar a un anciano como yo y a\nsus Pokémon!
+Mi marido se ha largado por ahí. ¡Por fin soy libre!
+¡Me encanta disfrotar de mi tiempo a solas!\nEs algo que me ha ido enseñando la edad.
+Ahora solo falta que mi hijo vuele del nido. ¡Entonces sí\nque seré libre de verdad!
+Los niños sois un fastidio, ¿sabes? Cómo me irritáis\ncuando os ponéis a lloriquear...
+Cuando venzo a jovenzuelos me siento como nueva,\ncomo si rejuveneciera.
+¡Cuando veo a madres concediendo todos los caprichos\na niñatos malcriados, me pongo mala!
+Solo unas pocas elegidas pueden vestir kimono: las\nchicas monas y las viejecitas.
+Hay que elegir los trapitos de acuerdo con la edad, ¿no\nte parece?
+No sé tú, pero yo creo que el kimono de mangas largas\nles queda monísimo a las abuelitas.
+¿Que por qué visto así? Pues porque me lo exige mi\ntrabajo.
+No sabes la vergüenza que paso cuando tengo que salir\na hacer un recado con este kimono de trabajo...
+Los kimonos son muy bonitos, vale; pero vestirlos cada\ndía es un suplicio.
+¿Qué tal? ¡Soy el más mejor del mundo mundial!
+¿Has visto? ¡Vaya paliza te he dado, chaval[VAR GENDBR(00FF,0100)]a!
+Bah, no me lo he tomado en serio. La próxima vez ya\nverás...
+Me hice con estos Pokémon rarísimos por medios no muy\nconvencionales.
+Mira su precioso pelaje...\nLos miro y se me cae la baba.
+Tus Pokémon no tienen nada que envidiar a los míos.\nTe propongo un trato: ¿me los cambias?
+Estoy convencido de que mis investigaciones contribuirán\nal establecimiento de la paz mundial.
+El destino del mundo debería estar regido por un\ncerebrito como yo.
+Mis experimentos fracasaron estrepitosamente, de modo\nque me expulsaron de la comunidad científica...
+Lo único que he logrado con tanto investigar es\nquedarme más solo que la una...
+La inteligencia es la razón de la soledad... No creo que\ntú lo entiendas.
+Un cociente intelectual por encima de la media es a veces\nun pasaporte para una triste soledad.
+Mírame las manos... ¡Tengo tantas ganas de hacer\nexperimentos que me tiemblan!
+Cojo un platito, lo pongo en el microscopio, poso sobre\nél cuidadosamente el material con la jeringuilla...
+¡Algún día alguien financiará mi propio laboratorio!
+Si sigues los procedimientos a rajatabla, conseguirás\nresultados seguros.
+Este resultado es una consecuencia natural de mi estilo\nde lucha. Lleva indefectiblemente a la victoria.
+¡No me coge de sorpresa! ¡Ya barajaba la hipótesis de\ntu victoria!
+A ti no te gustaría que un ignorante de los Pokémon te\nhablara sobre ellos, ¿verdad? Pues cierra el pico.
+Te faltan un par de lecciones, pero tienes talento.\nSi me dejas, podría solucionar tus carencias.
+Se te dará muy bien combatir, pero si esto fuera un\nconcurso sobre el mundo Pokémon, te barría.
+Ha llegado la hora de ver los resultados que arrojan mis\narduas investigaciones...
+Mis estudios revelan que... ¡soy una Treinadora\nfortísima!
+Mis estudios revelan que... soy una Treinadora\nlamentable.
+¡Mírame a los ojos! ¡Sí, así! ¡Fijamente!
+Te he atrapado con mis técnicas hipnóticas...\n¡Ahora eres mi marioneta!
+¿Cómo? ¿No funcionan mis poderes hipnóticos? Sin\nduda, debes de ser mentalmente inquebrantable.
+Te lo digo antes de que empiece el combate: soy un\nnovato.
+Te falta preparação...
+Natural. Ya te he dicho que era un novato.
+Voy a pronosticar el resultado del combate...\n¡Vas a ganar!
+Ya hay que ser floj[VAR GENDBR(00FF,0101)]oa para que no se cumpla mi visión...\nY eso que me dejaba ganar...
+Como a cualquier hijo de vecino me apena la derrota,\npero la exactitud de mis profecías es impepinable.
+La tristeza me hace madurar. Cosas de chicas...
+No reprimas tus lágrimas. Deja que tu frustração sirva\ncomo acicate para conseguir una motivação aún mayor.
+Una derrota más sobre mi triste existencia. Me gusta. El\nresentimiento es mi fuente de vida.
+¿Qué tal todo? No me he olvidado de tu cara...
+¿Pero qué haces? ¿Por qué pierdes?\n¡Otra vez lo has vuelto a hacer!
+¡Oh! ¡Qué buenas vibraciones! ¡Déjame absorber toda la\nfuerza que emanas!
+Me aterran las personas amables...\n¿Por qué no me dejáis en paz?
+Me aterran las personas amables, con esa sonrisilla\nvacía suya...
+¡Déjame sola! Me molesta que se preocupen por mí.
+Puedo partirte en dos o hacerte un nudo.\n¿Qué prefieres?
+¡Decídete rápido, va! ¿Qué quieres que haga contigo?
+Uf... Me has dejado hecho polvo... Menuda vergüenza...
+¿No te gusta sentir rodar el sudor por la frente antes del\ncombate?
+La fatiga del combate, las ropas hechas jirones...\n¿Hay alguna sensação mejor?
+La respiração acelerada tras concluir el combate...\n¡Qué sensação!
+¡Kiaaa!
+¡Kiaaa! ¡Kiaaa!
+¡Kiaaa!
+Mis Pokémon y yo estamos listos para liberar adrenalina.\n¡Ofréceme un gran combate!
+¿Ya está? ¿A esto lo llamas un gran combate?\n¡Pero si no me has durado un suspiro!
+Los resultados han hablado por sí solos. No tengo nada\nque añadir; no puedo sino agachar la cabeza.
+¡En mi diccionario no existe la palabra compasión!
+Mi filosofía de combate es luchar sin piedad aun contra\nlos más débiles.
+El esfuerzo no sirve de nada si no va acompañado de la\nvictoria.
+¡Echemos un combate hiperdiver!\n?El resultado es lo de menos.?
+¡No pongas esa cara de pena, [VAR GENDBR(00FF,0506)]hombremujer!\n?He tenido suerte, ¡y ya está!?
+Oh...
+¡Los combates Pokémon no son un deporte! ¡Si buscas\ndiversión, pírate a outro lado!
+Espero que ahora reflexiones sobre el significado de la\npalabra seriedad.
+Así me gusta, sin miramientos.\nfoi un buen combate...
+Vivir alejado de la naturaleza se me hace a veces muy\nduro...
+No hay dolor comparado a mi angustia de vivir lejos del\ncampo...
+¿Se te ocurre algo peor que la opresiva vida de cidade?
+Aquí donde me ves, soy un pueblerino que se desvive\npor vivir en la cidade.
+¿Volver al pueblo? ¡Ni en sueños!\nYo soy un urbanita de los pies a la cabeza.
+Quizás sea buena idea ir volviendo al pueblo... Las luces\nde neón de la cidade son demasiado para mis ojos.
+¡Amo la naturaleza sobre todas las cosas, por eso elegí\nconvertirme en Ranger!
+¿No crees tú también que vivir rodeado de naturaleza\nayuda a mejorar la salud y el aspecto?
+Sueño con encontrar a alguien que ame la naturaleza\ntanto como yo.
+Solo hay un camino para quienes quieren proteger la\nnaturaleza: ¡el del Ranger!
+¡Todos provenimos de la naturaleza! ¡Deberíamos\nguardarle un respeto sagrado!
+Es un error menospreciar el poder de la naturaleza.\n¡No lo olvides!
+¿Qué te pasa? ¿No te encuentras bien?\n¡Pues déjame que te ponga derech[VAR GENDBR(00FF,0101)]oa!
+¿Sales corriendo?\n¡Espérate, que no he acabado contigo!
+No lo haces mal...\n¿Te gustaría probar ahora a ti conmigo?
+¿Me enseñas tus Pokémon?
+Mmm... Una birria, como esperaba...
+¡Un equipe genial! Se les nota contentos de que los\nentrenes tú.
+Tienes que ser muy temerari[VAR GENDBR(00FF,0101)]oa e imprudente para\nacercarte a mí y retarme a un combate.
+Mira que eres ignorante... ¿Cómo se te ha ocurrido\npensar que podías vencerme?
+Todavía estás un poco verde, pero admito que se te ven\nmaneras.
+Eso de Treinador Guay no es más que un nombre; la\nverdad es que no lleva ningún beneficio aparejado.
+Se me dan bien los combates, pero no tengo más\nocupação que esa... Soy un nini.
+Para qué me sirve combatir cada vez mejor si soy un\napestado de la sociedad...
+Ahora que soy una Treinadora Guay, la gente me tiene\npor una mujer fuerte.
+Antes, todo el mundo pensaba que sería la típica chica\ndebilucha que se rompería al mínimo contacto.
+Hay muy pocos hombres capaces de medirse conmigo.\nY eso es duro, la verdad.
+Bueno, creo que no nos queda otra alternativa que\ncombatir...
+No era este el resultado que esperaba...
+Me pregunto si en un mundo sin combates Pokémon\npodríamos haber sido amig[VAR GENDBR(00FF,0101)]oas.
+¿Sabrías definir Treinador Guay?
+Por descontado, somos fuertes y jamás perdemos.\nLo único que nos importa es vencer con gracia.
+Con esa forma tan vulgar de pelear, te queda lejos el\ntítulo de Treinador[VAR GENDBR(00FF,0100)]a Guay.
+¿Cómo? ¿Un combate? Pues nada, a combatir se ha\ndicho...
+¡No he entrenado nada y aun así he estado tremendo!\nDeberías volver a la escuela...
+¡Tienes talento, más del que me imaginaba!
+¿Por qué estás tan impertérrit[VAR GENDBR(00FF,0101)]oa?\n¿No te impresiona mi porte y señorío?
+Supongo que ahora que te he derrotado estarás\nimpresionad[VAR GENDBR(00FF,0101)]oa.
+No me despeino ni en la derrota.\nSi es que mira que soy fotogénico...
+¡Voy a atrapar tu Poké Ball en cuanto se despegue de\ntus manos!
+¡Atrapar la Poké Ball antes de que se abra es un truquito\npara vencer que me he inventado yo mismo!
+Si hubiese atrapado esa Poké Ball en su momento...
+¿Sabes? Le estoy enseñando todo a mi hija sobre los\nPokémon, ¿eh? Será mi heredera, ¿eh?
+¿Has visto, hija, lo bien que lo ha hecho tu papá? ¿Eh?\n¿Qué me dices, eh?
+No puedo dejar que mi hija me vea perder, ¿sabes?
+Un día te despiertas y todo el mundo te trata de\nVeterana... El tiempo pasa rápida y dolorosamente.
+¡Me enfurece que me llamen Veterana como si eso fuera\nun halago!
+Ya es tarde para detener el tiempo, pero al menos me\nqueda el consuelo de haber sacado partido a mi juventud.
+Oye, Treinador[VAR GENDBR(00FF,0100)]a...\n¿Empieza el combate o qué?
+Oye, Treinador[VAR GENDBR(00FF,0100)]a...\n¿Empieza el combate o qué?
+Oye, Treinador[VAR GENDBR(00FF,0100)]a...\n¿Empieza el combate o qué?
+Los adultos somos a veces un poco caraduras, pero\nsalirte con la tuya es precisamente lo más divertido.
+¡Crece pronto! ¡Ya verás qué jardín de diversiones te\nespera!
+¿Pero de qué vas luchando de esa manera?\n¡Qué pill[VAR GENDBR(00FF,0302)]ínina estás hech[VAR GENDBR(00FF,0101)]oa!
+La gente de mi alrededor suele llamarme Veterana.\nSupongo que lo dicen por el respeto que me tienen.
+Veterana...\nSuena como si estuviera acabada...
+Todavía no soy tan mayor como para tener que\nalegrarme de que me llamen Veterana...
+Eso de ser un espíritu libre suena estupendamente, pero\nla gente no sabe qué duro es vivir sin trabajo ni techo.
+Sería feliz si pudiese quedarme a vivir y combatir aquí\npara siempre.
+Supongo que lo mejor de la libertad es la persecução,\nno la consecução.
+Yo esperaba llegar a una playa de aguas cristalinas, llena\nde chicas en bikini, y aquí me ves...
+¿Qué tiene este lugar de resort?\n¡Aquí no hay más que Treinadores competitivos!
+¡Esto no tiene nada de resort! ¿No hay algún sitio donde\nno se combata?
+Yo soy de las que piensan que un viaje no es tal si no te\nmezclas con los lugareños.
+¡Esto! ¡Esto es lo que da sentido a los viajes!
+Para que un turista se deje su pasta en un viaje, tienes\nque proporcionarle servicios especiales.
+¿Qué? ¿Te atreves a cruzar conmigo los límites del\ncombate Pokémon?
+Todavía falta un poco para llegar. Nos hemos quedado en\nel umbral de los límites del combate Pokémon.
+Parece que tú has cruzado antes los límites del combate\nPokémon. Cuéntame, ¿qué has sentido?
+Si mi teoría es correcta, estos Pokémon van a hacerte\nmorder el polvo.
+Como suponía...\nMi teoría era correcta.
+Mi teoría se ha quedado en una mera hipótesis que,\nal final, no se ajustaba en absoluto a la realidad.
+Con la propinilla que me van dando este y el outro, un día\nreuniré dinero suficiente para dar la vuelta al mundo.
+Siento que el mundo me llama...\n¿Conoces esta sensação de la que te hablo?
+Cuando le digo a mi vieja que el mundo me llama, me\ndice que no diga sandeces y me ponga a dar el callo.
+Si te crees capaz de satisfacer mi apetito de combates,\n¡adelante!
+¿Cómo pensabas satisfacer mi ansia de combate con esos\nPokémon tan escuálidos?
+¡Tus Pokémon son fantásticos! Y tú, para ser tan joven,\n¡lo haces estupendamente!
+Es superestresante trabajar en un restaurante típico de\nparejitas...
+Ah... ¡Qué bien sienta ganar!\n¡Se me va todo el estrés!
+Odio a los clientes que vienen aquí únicamente a ligar, sin\nconsumir nada.
+En la soledad de las montañas he compuesto este haiku:\n¡Qué agraciado!\r\n¿Combatir con un crío?\r\n¡Está chupado!
+En la soledad de las montañas he compuesto este haiku:\nEs lo natural.\r\nMis geniales Pokémon...\r\nno tienen rival.
+En la soledad de las montañas he compuesto este haiku:\n¡Es imposible!\r\nNunca me voy a rendir.\r\n¡Lucharé sin fin!
+Si quieres ascender a la cima de los Treinadores,\ntendrás que superar un último escollo. ¡Servidor!
+Me temo que nadie va a rescatarte de ese resbalón que\nte has pegado intentando pasar sobre mí...
+¡Adelante! ¡Pasa por encima de mí y continúa tu viaje\na la cima!
+No es más que un combate Pokémon, así que no te\nemociones demasiado.
+No te atormentes por haber perdido, que no es la ruina.
+No voy a perder nada porque me derrotes. Mientras lo\npasemos bien, qué más dará lo demás.
+No me van las supersticiones, pero en estos momentos\nme dan ganas de tocar madera.
+Tanto tocar madera para nada, porque estaba cantado\nque la victoria era mía por mis inigualables capacidades.
+Estaba tan obsesionada buscando malos augurios que no\nme extraña que me derrotaras.
+Nací y crecí en un cementerio. ¿Qué maldiciones y penas\nquieres experimentar?
+¡Nooo! ¡No sabes nada sobre las maldiciones!\n¡Vas a tener que aprender si quieres ganar!
+¡Debes de tener algún poder oculto para haberme\nvencido! ¡Maldição!
+Cada vez que miro atrás me hago más fuerte.\nAsí he vivido siempre...
+¿Qué es eso de tomarse las derrotas por el lado positivo?\nMe parece que no estás en tus cabales...
+Ser pesimista es lo que me define, tú llámame como\nquieras...
+¡No me llegas ni a la suela de los zapatos! ¡Y te lo voy\na demostrar con este combate!
+¿Lo ves? ¡No tienes nada que hacer contra mí!
+¿Ves lo que te digo? ¿Pero por qué tengo que sufrir yo\nesto?
+¡Pssss! ¡Tú! ¡Sí, tú!\n¿Qué te pasa? ¿Te asusto o qué?
+Je, je, je... Sí, te has rajado vivit[VAR GENDBR(00FF,0101)]oa. Ya me dijo mi chica\nque rapándome la cabeza inspiraría más respeto.
+¿Qué pasa? ¿No te asustan mis pintas?\nA la porra la ventaja con la que contaba...
+Soy una malota de mucho cuidado, pero respecto a los\nPokémon no siento nada más que amor.
+¿Ves el resultado de dar amor a los Pokémon? Ahora,\ncomo recompensa, voy a dedicarles una sesión de besos.
+¿Pero de qué vas? ¡Te has propasado con estos\nPokémon de mis amores!
+Mis papás me consienten tanto, que claro, al final\nhe salido un poco mimada.
+Cuando gano mis padres me dan todos los caprichos.\nY yo me aprovecho, como es natural.
+Cuando pierdo, mis padres me dicen que no es culpa mía,\nde manera que nunca reflexiono sobre mis errores.
+Algún día me gustaría abrir un restaurante por esta zona.
+Montar un restaurante cuesta un pico, así que voy\nahorrando todo lo que gano con mi trabajillo.
+¿No te parece una idea genial lo del restaurante?\n¡A mí me parece la repera!
+Pese a ser Cocinero, y bastante bueno he de decir, no\nsuelo comer lo que preparo.
+Los platos de la alta cocina no me interesan para nada.\nCon un bocata de calamares recalentado voy que chuto.
+Tras pasarte doce horas entre fogones, la cocina se ve\ncon outros ojos...
+Aquí donde me ves, tan elegante, te confieso que ya no\nsoy mayordomo. Llevo una vida de pensionista.
+Si hubiera sabido que esto acabaría así, no habría\nabandonado mi anterior casa.
+¿Dónde encontraré un nuevo señor al que servir?\n¡Que alguien me contrate, por favor!
+¡Servir en una casa es superdivertido! No te cuento la de\ncotilleos y secretos que se escuchan...
+No puedo evitar esbozar una sonrisa cuando reparo en\nque me conozco al dedillo los secretos de mis señores.
+Lo más interesante de servir en una casa es poder ver\ncómo se comportan las personas en un ambiente familiar.
+¡Mi señora nos está observando! ¿Te importaría dejarte\nganar?
+¡Gracias por el favor! ¿Ves a esa mujer que se ríe tanto?\nEs mi señora, y está supercontenta.
+Mi señora se está poniendo como una fiera... ¡Ya verás la\nque me espera cuando volvamos a casa!
+Que sea Criada no significa que me ponga al servicio de\ncualquiera.
+¡Qué poca fuerza! ¿Así esperas tú que me ponga a tu\nservicio?
+Vaya, ¡esto se te da fenomenal! Si me contratas, estaré\nencantada de trabajar para ti.
+La vida pasa sin mirar atrás. ¡Hay que aprovechar cada\ninstante que nos ofrece!
+¡Los combates, como la vida misma, son ahora o nunca!
+He perdido, pero no me detendré mirando atrás.\n¡Seguiré adelante por la vida con la misma energía!
+Un Treinador es aquel que agarra fuerte su Poké Ball\naun en combates que no puede vencer.
+¡Una victoria embriagadora!\n¡Un triunfo para mis Poké Balls!
+Tomaré las lágrimas de la derrota con mi pincel y pintaré\nmi triste autorretrato.
+Si te dijera que los garabatos de un crío son también arte\nte mentiría.
+Eso de que el arte puede interpretarse de muchas\nmaneras es una soberana chorrada.
+¿Tú qué? ¿Crees que tienes buen gusto? ¿Sabrías\ndistinguir una verdadera obra de arte?
+Las cidadees son un atentado al buen gusto. ¡Solo hay\nhorribles edificios empapelados de vulgar publicidad!
+Es un crimen que gente sin gusto construya obras\npúblicas. ¿Has visto las rotondas?
+No sabes lo que daría por poder darle una mano de\npintura a las horribles cidadees de hoy día.
+Ve poniéndote cómod[VAR GENDBR(00FF,0101)]oa... Miraré qué puedo ofrecerte.
+¿Ya te vas?\nPero si acabo de preparar un poco de té...
+Perdona si no te he proporcionado la diversión que\nesperabas. ¡Ten cuidado de camino a casa!
+Tantos combates y lanzamientos de Poké Ball me han\ndejado el hombro para el arrastre...
+He ganado por esta vez, pero me temo que no tendré\nmuchas más oportunidades de lanzar Poké Balls...
+Me has dejado baldado... ¡Ten más cuidado la próxima\nvez, bestia!
+Mi mujer se largó de casa cansada de mi falta de\natenciones...
+Ahora que mi mujer ha dejado de darme la brasa, puedo\ndedicarme en cuerpo y alma a los combates.
+Estoy tan enganchado a los combates Pokémon que\nolvidé que tenía un hogar.
+Si te tomas los combates muy en serio, acabas aburrido\nde ellos.
+Alegra esa cara, va. No te lo tomes tan a pecho, que al\nfin y al cabo esto es un juego.
+¿Ves? Yo no me tomo a pecho el haber perdido.
+¿Que por qué sonrío así?\n¡Pues no lo sé ni yo, pero me gusta!
+Ja, ja, ja... No puedo evitar sentirme bien...\n¡Espero que nunca se me borre esta sensação!
+El cuerpo me pide continuar combatiendo... Será cosa de\nlas endorfinas.
+Tengo dos problemas cuando patino: el impulso de\nsalida y el sprint final.
+¡Ah! Si hubieras reservado un poco de energía para\nel empujón final...
+¡El impulso de salida ha sentenciado el combate!\nTengo que mejorar mucho aún...
+Soy tan tacaña que me he comprado los patines más\nbaratos, aunque van fatal...
+Es que, verás, además de ser caros de por sí, luego hay\nque pagar un mantenimiento. ¡No soy tan rica!
+Si patinas demasiado, desgastas las ruedas y acaba\nsiendo un derroche inaceptable.
+Voy a coger carrerilla y lanzarme hacia ti, ¿vale?\n¡Como no me atrapes, verás!
+Qué flojuch[VAR GENDBR(00FF,0101)]oa...\nAsí me ibas tú a detener, así...
+¿No te había dicho que me atraparas?
+Te diré una cosa que te será muy útil: en esta vida, no\ntodo el mundo puede estar en el candelero.
+Me llevó mi tiempo saber cuál era mi lugar.
+Espero que a partir de hoy tú también encuentres tu sitio\nen esta vida.
+¡Vaya, un[VAR GENDBR(00FF,0100)]a mocos[VAR GENDBR(00FF,0101)]oa! Seguro que no muestras el debido\nrespeto a alguien de mi veteranía.
+¡Has estado mejor de lo que esperaba, mocos[VAR GENDBR(00FF,0101)]oa!\nTe auguro un gran porvenir.
+Será posible...\nNo, si al final me tendré que postrar yo ante ti y todo.
+Nos encontramos en el paraíso de los combates.\nSolo los más fuertes pueden permanecer aquí.
+¡Ahora, a por outros Treinadores!\n¡Que siga la fiesta!
+Una vez llegados a este punto, ganar o perder es lo de\nmenos.
+Mi vida no foi precisamente un camino de rosas lleno\nde oportunidades.
+La vida es un no parar de disgustos. ¿Encontrarás la\nfuerza para volverte a levantar?
+Las esperanzas, los sueños y demás no sirven de nada.\nPara llegar a Veteran[VAR GENDBR(00FF,0101)]oa, solo necesitas cumplir años.
+Lo que importa de un plato es que salga bueno. Los\ndetallitos y demás parafernalia son bobadas.
+En los combates, como en la cocina, los detalles son lo\nde menos; hay que ir a lo que se va.
+Así que tú eres de los que cuidan hasta el último detalle\ndel combate... No tendrás tiempo ni para comer...
+Déjame echar un vistazo a tus Pokémon...
+Mmm... Están fuertes, pero no les vendría mal un poco\nmás de pasta en su dieta.
+¡Déjame mirarlos una pizca más!\n¡Vamos, que no les haré nada!
+No tengo ojos más que para los Pokémon que de verdad\nme gustan.
+Lo que más valoro de un Pokémon es que sea fuerte.
+Tus Pokémon tienen su encanto también...\nCreo que me gustarán.
+Hazme pasar un buen rato, ¿vale?\n¡No te cortes y pega fuerte!
+No hay forma de apagar los malos recuerdos. Solo nos\nqueda engañarnos a nosoutros mismos.
+Ja... Ja, ja, ja...\nGracias...
+Ya estoy harta de que me llamen guapa a todas horas.
+¡No sabes la presión que supone que te llamen guapa\nconstantemente!
+De verdad que no puedo más con la presión de ser\nguapa. ¡A ver si me hago mayor de una vez!
+¡Venga, espabila! ¡Que no tengo todo el día!\nComo no te des prisa, me largo.
+¡No quiero arrepentirme de lo hecho en el pasado ni\npreocuparme de qué me espera en el futuro!
+La vida, a fin de cuentas, es bonita. Mi objetivo es\ndisfrotarla al máximo.
+Perdón, ¿yo puedo haser uno pregunto?\n¿Usted puede dicirme dónde es el serviciou?
+Holy cow! ¿Por quei en este país la gente me lansa los\nPokémon cuando preguntou dónde es el bañou?
+Wait, wait, wait! ¡No marchas! ¡Yo voy a explotar!\nEr... voy a haser... ¡boom! ¿Entiende?
+¿Cómo que este viaje no es para ver combates, sino para\nparticipar en ellos?
+¡Yo no quería viajar a un sitio así!\n¡Devuélveme el dinero!
+¿Pagar para combatir? ¿Dónde se habrá visto eso?
+Creí que me llevaría nada verlo todo, pero esto es un no\nparar.
+No me di cuenta hasta estar en la cama del hotel, ¡pero\nahora no puedo parar!
+Ya sé que me saldrá por un pico, ¡pero no quiero\ninterrumpir este viaje!
+¡Mi viaje todavía no ha terminado!\n¡Todavía queda mucho por delante!
+Ya puedo ir derrotando a todos mis rivales uno tras outro,\nque esto no acaba nunca.
+¡Todavía no quiero volver!\n¡Me gustaría que este tour no terminara nunca!
+Si tienes fe en la victoria, vencerás. Si, por el contrario,\nno crees en tus posibilidades, perderás.
+Te puede venir bien tener esto presente: tus convicciones\nson más poderosas de lo que parece.
+En fin, por mucho que uno se prepare mentalmente, si la\nfuerza no le acompaña, no hay nada que hacer, ja, ja.
+Desprendes el olor propio de los grandes Treinadores...\n¡Este combate va a ser divertido!
+Menuda decepção... Esperaba mucho más de ti.\nTe falta todavía muitíssimo entrenamiento.
+¡Impresionante! ¡Tal como me esperaba!\n¡Te ruego que aceptes mi amistad!
+He seguido un método de entrenamiento Pokémon fuera\nde lo común.
+¡Mi método de entrenamiento ha dado grandes\nresultados! ¡He vencido hasta a[VAR GENDBR(00FF,0C09)]l Campeón la Campeona!
+¿Qué ha podido fallar?\n¿Es que les han sentado mal esos nutrientes?
+Una Criapokémon de mi nivel solo se permite usar\nPokémon de pedigrí probado.
+Los Pokémon con pedigrí se crían con métodos distintos\na los de los Pokémon normales y corrientes.
+¡Aaarg! ¡Qué rabia! ¡Qué rabia!\n¡Humillada por la chusma!
+¿Adónde vas tratando de imitarme? Mira y aprende.
+¡Ju, ju, ju!
+¡Aaagh!
+¡A los ojos! ¡Apunta bien a los ojos!\nEsas fueron las últimas palabras de mi jefe.
+En efecto, sus palabras me han sido de enorme ayuda.\nEsté donde esté, sigue cuidando de mí...
+Perdóname, jefe, por no seguir tus palabras...
+A la hora de la verdad, lo que cuenta en este mundo es\nel dinero. Y los Pokémon no son una excepção.
+Estos Pokémon los he comprado con mis propios ahorros.\nEs una muestra del poder que tienen los adultos.
+Si entiendes lo que te digo, ¿qué haces aquí?
+?La vida de la mujer es un espinoso camino regado de\narduos combates.?
+?La, la, la...? Otro triunfo más entre mis manos...\n?¡Mujeres, a por ellos!?
+?Derrota, decepção y lágrimas...?\n?El arduo camino de una luchadora.?
+Como me aburro soberanamente, me paso el día lanzando\nPoké Balls. ¡Y no veas lo fuerte que me he hecho!
+Bueno, una vez terminado el combate, me toca volver a\nmi rutina de insuperable aburrimiento...
+No importa que gane o pierda. El aburrimiento que tengo\nencima no se me va con nada.
+¿De veras? O sea, ¿pero de veras quieres combatir?\n¡Me quedo muerta!
+¿De veras? No, espera... ¿De veras he ganado?\n¡Me quedo muerta!
+¿De veras? ¿De veras he perdido?\nPues nada, a seguir con la vida.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+?Somos chicas pistoleras, rubias y morenas...?\c\n¡Conque de vuelta en la Mansión Batalla, eh, Campe[VAR GENDBR(00FF,0302)]ónona!\nCon las ganas que te tenía yo...\c\nSi te has hecho con tanta fama por toda la región de\nHoenn, eso quiere decir que sí que estás list[VAR GENDBR(00FF,0101)]oa para\r\nenfrentarte a una Nocta desatada.\c\n¿A qué esperas? ¡Ven a por mí, preciosidad!
+¡Has estado muy bien, Campe[VAR GENDBR(00FF,0302)]ónona! Sé de lo que estoy\nhablando, así que te lo digo totalmente en serio.\c\nIgual de en serio que he combatido yo, te lo aseguro.\nPero, si te soy sincera, tengo que reconocer que aún te\r\nfalta un hervor, cariño.\c\nRegentamos otra Mansión Batalla en Kalos, así que pásate\npor allí también. Haremos que tu paso por la de aquí o la\r\nde allá sea una experiencia inolvidable... ¡cualquier día\r\ndel año!
+¿Qué puedo decirte, corazón? ¡Se nota que eres\n[VAR GENDBR(00FF,0B0A)]el Campeónla Campeona!\c\n¡Me has dejado sin palabras y sin aliento!\c\nCon la de tiempo que llevaba yo sin saborear una derrota\ntan merecida, ricura...\c\nMe has hecho sudar la gota gorda... ¡y mira que esta vez\nme lo estaba tomando muy en serio!\c\nYa lo sabes: la Mansión Batalla y yo estamos dispuestas\na hacer que tu paso por aquí sea una experiencia\r\ninolvidable... ¡cualquier día del año!\c\nAhora, voy a desahogarme con mi numerito...\n?Somos chicas pistoleras, rubias y morenas...?\c\n¡Espero que nos veamos pronto, preciosidad!
+Ah, esto... ¿Se acuerda de mí?\nSoy yo, Vésper...\c\nBuf... ¡Veo que se ha coronado Campe[VAR GENDBR(00FF,0302)]ónona de Hoenn!\c\nAy, mamá, ¿por qué a mí? ¿Qué he hecho yo?\n¡Quiero irme a casita!\c\nEh... ¡Perdón, perdón! Como me oiga decir eso mi\nhermana, se pondrá hecha una furia.\c\nVamos... ¡Echemos un combate! ¿Sí?\n¡Yo lo daré todo, así que no se contenga!
+¡Ah!... ¡Uy! ¡Oh, nooo!\n¿Se encuentra bien?\c\nAy, ¡qué papelón! ¿Qué hago yo ahora?...\nCreo que me he dejado llevar...\c\nAy... Lo siento mucho, de verdad.\nPrometo que la próxima vez lo haré bien.\c\nAsí que no deje de venir a la Mansión Batalla.
+Arf... Arf...\c\n¡Menuda fuerza!\c\nAish... Lo siento mucho, mira que lo he intentado...\nPero ya no doy para más.\c\nPrometo que me esforzaré y que seguiré entrenando\nduro.\c\nAsí que no deje de venir a echar combates a la Mansión\nBatalla.
+Ju, ju, ju...\nHas tardado, Campe[VAR GENDBR(00FF,0302)]ónona...\c\nMis Pokémon y yo estábamos hechos un manojo de\nnervios...\c\n¡Al combate, rapidito, no tengas esperando más tiempo\na la magnífica Meridia!
+¡Qué bien! Me lo he pasado bomba, de verdad de la\nbuena.\c\nNo es fácil complacer a alguien con tanto talento como\nuna servidora.\c\nNo te engaño, que los de Hoenn tú sabes que no\nmentimos.\c\nOye, y otra cosita, ¿eh? De todos estos halagos no le\ndigas nada a mi hermana, que luego me la arma.\c\nEspero que te haya gustado el combate, que era parte\nde mi gran actuação. ¡Soy una estrella!\c\nBueno, espero verte de nuevo en Combates Triples.
+¡Por todos los cielos! ¿Cómo he podido perder?\nY eso que estaba dándolo todo en el combate...\r\n¡Ahora entiendo por qué eres [VAR GENDBR(00FF,0B0A)]el Campeónla Campeona!\c\nY me has hecho pasar un rato muy divertido. Por lo\ngeneral, mis rivales no están a mi altura y me\r\naburro soberanamente.\c\nLo peor de enfrentarse a rivales débiles es que no\npuedes apenas mejorar, pero tras combatir contigo\r\nme han entrado ganas de entrenar duro.\c\n¡La estrella Meridia brillará con más intensidad!\n¡Surcaré el firmamento como una estrella fugaz y\r\ncaeré sobre ti con la fuerza de un meteorito!\c\nNo volveré a perder jamás contra nadie, ¡palabra!
+?Si tiene tiempo libre, pásese por aquí.?\n?Y diga al aburrimiento: “tararí que te vi”.?\c\n?Combata con nosoutrooos, si quiere gozar.?\n?Aquí en la réplica de Mansión Batalla, ¡es un no parar!?\c\nJi, ji, me embarga la emoção por encontrarme de nuevo\ncon un[VAR GENDBR(00FF,0100)]a client[VAR GENDBR(00FF,0101)]ea tan distinguid[VAR GENDBR(00FF,0101)]oa.\c\nComo bien sabe, soy Aurora, la mayor de las cuatro\nhermanas conocidas como las Damas del Combate.\c\nLlevaba días deseando volver a verl[VAR GENDBR(00FF,0101)]oa por aquí.\nTal vez sea una Treinadora más bien regulera, pero le\r\nprometo poner todo mi empeño y ahínco para hacer de\r\nsu estancia aquí algo inolvidable.
+Muchas gracias por este espléndido combate, cielo.\n¿Lo ha pasado usted bien?\c\nPor cierto, ¿sabía que existe otra Mansión Batalla en\nKalos? Cuando se aburra de una, no dude en pasarse\r\npor la otra. ¡Allí estaremos!\c\nAhora, con su permiso, me retiro.\nMe congratularía un montón volver a tener el honor de\r\nverl[VAR GENDBR(00FF,0101)]oa de nuevo por aquí.
+No esperaba menos de usted, si le soy sincera...\c\nHa cumplido todas y cada una de las expectativas que\ntenía depositadas en un[VAR GENDBR(00FF,0100)]a rival tan ilustre.\c\nJi, ji. Oiga, igual le parece una bobada, pero... ¿por qué\nno se encarga de esta casa?\c\nNosotras tenemos que ocuparnos de la Mansión Batalla\nque tenemos en Kalos.\c\nSi pudiéramos contar con esa destreza que le caracteriza,\nnuestra popularidad en Hoenn subiría como la espuma en\r\nun decir Pokémon.\c\nNaturalmente, no tiene por qué contestarme ahora.\nMedite su respuesta con calma y ya me dirá.\c\nEspero de todo corazón poder volver a verl[VAR GENDBR(00FF,0101)]oa el día menos\npensado. ¡Hasta la próxima!
+?Somos chicas pistoleras, rubias y morenas...?\n¡Hola, preciosidades! ¡Qué gusto veros por aquí!\c\n¡Hoy estamos Aurora y yo a cargo de los Combates\nMúltiples! ¡Aurora y Noctaaa! ¡Nocta y Auroraaa!\c\nAunque creo que hasta yo sola me bastaría para\nganar el combate... Ji, ji.\c\nEn fin, vamos al grano... ¡Aquí no se viene a hablar!
+Nocta: ¡Sí! ¡Sí! ¡Síii!\n¡Menos mal que no habéis ganado!\c\n¡No quiero pensar qué habría pasado si lo hubierais\nconseguido, caris!
+Nocta: ¡Aaaah! ¡No! ¡No! ¡Nooo!\n¡Esto no tiene ni pies ni cabeza!\c\nNo sé dónde me voy a meter, caris, ¡porque el enfado\nde mi hermana Aurora será de impresión!\c\n¡No lo quiero ni pensar! ¡Aaaah!
+Nocta...\c\n¿Pero qué tonterías dices? ¿Que tú solita te vales?\nLo que hay que oír...\c\nComo vuelvas a soltar una bravuconada de ese estilo,\nte voy a tener que cantar las cuarenta.\c\nY otra cosa...\c\nTe he dicho miles de veces que hay que cuidar el\nlenguaje cuando hablemos con los clientes.\c\nSi perdemos y hacemos el ridículo después de haberte\ncomportado como una bocazas, te lo pienso recordar\r\ntoda la vida.
+Bueno, Noctita...\c\nComo hemos ganado, hoy voy a hacer la vista gorda.\c\nAunque si sigues siendo tan maleducada, al final los\nclientes van a pasar olímpicamente de nosotras, ¡y no\c\nles vamos a volver a ver el pelo por aquí!\c\nLes ruego que disculpen la impertinencia de Nocta.\c\nNos congratularía sobremanera que nos volviesen a\nhonrar con su presencia en la Mansión Batalla.
+Aurora: ¿Ves? ¿Qué te había dicho, Nocta?\c\nPrimero faltas al respeto a nuestros clientes y después\nte las das de experta...\c\n¡Y todo para perder el combate y quedar en evidencia!\c\n¿Y ahora qué? ¿Tú crees que vas a poder mirar a papá y\na mamá a la cara después de esto?\c\nLes ruego encarecidamente que nos disculpen.\c\nEspero que sean tan amables de no tener en cuenta lo\nsucedido y vuelvan a visitarnos.\c\nCon su permiso, ahora me gustaría tener cuatro palabritas\ncon mi hermana.
+¡Te doy la bienvenida a la Mansión Batalla!\c\nMe llamo Meridia y soy una de las cuatro divinas\nDamas del Combate que cortan el bacalao aquí.\c\nPor si te interesa saber algo más sobre mí, soy\nla segunda mayor.\c\nA continuação te presentaré a quien tiene el honor\nde luchar a mi lado...
+Meridia: Como supuse, hemos logrado la victoria.\nAun así, he de pedirte disculpas.[WAIT 90]\c\nNocta se ha pasado tres pueblos.[WAIT 90]\c\n¿Estás escuchando, Nocta? ¡Oye, linda, despierta!\n¡Y pídele disculpas ahora mismo a[VAR GENDBR(00FF,0B09)]l cliente la clienta![WAIT 90]
+Meridia: ¡¡Nocta!!\n¡Que no estaba lista![WAIT 90]\c\nTu estilo no se complementa para nada con el mío.[WAIT 90]\c\n¡Y la coordinação es lo más importante![WAIT 90]\c\nSi es que...[WAIT 60]\c\nTe entra por un oído y te sale por el outro.[WAIT 90]
+¡Uf! Hay que ver lo que le gusta a Meridia enrollarse...\n¡Que nos dan las uvas!\c\nEstoy segura de que los Combates Múltiples os quitan\nel sentido, ¿no? ¡Pues igual que a mí!\c\nYa puedo oír a mis admiradores animándome...\n?Mucha Nocta, mucha Nocta... ¡Eh! ¡Eh!?\c\nVamos, ¡que me enciendo!
+Nocta: ¿Ah, sí, Meridia?[WAIT 90]\c\nVamos, que ahora soy yo la que se tiene que disculpar.[WAIT 90]\c\n¡No, hija, no![WAIT 60]\c\nSi no me lo hubieran puesto tan fácil...[WAIT 90]\c\n¡Esta conversação no estaría teniendo lugar![WAIT 90]\c\nLos combates están para poner en juego nuestros trucos.[WAIT 90]\c\nLo importante es divertirse al máximo.[WAIT 90]\c\n¿O no pensáis lo mismo?[WAIT 90]\c\n¡Yo, al menos, me lo he pasado pirataaa![WAIT 90]\c\n¡Hasta la próxima, ricuras![WAIT 60]\c\n?Somos chicas pistoleras, rubias y morenas...?[WAIT 90]
+Nocta: ¡Lo que tiene que aguantar una![WAIT 90]\c\nLo habéis oído, ¿no?[WAIT 60]\c\n¡Como si fuera culpa mía! ¡Ja![WAIT 90]\c\nYo estoy aquí para pasar un buen rato, ya sea\nganando o perdiendo...[WAIT 90]\c\nAdemás, lo mío son los Combates Individuales.[WAIT 90]\c\n¡Esa es mi especialidad y donde brillo![WAIT 90]\c\n¿Qué voy a saber yo de coordinação ni gaitas?[WAIT 90]\c\nSi queréis verme en todo mi esplendor...[WAIT 90]\c\nYa sabéis, ¡Combates Individuales![WAIT 90]\c\n?Somos chicas pistoleras, rubias y morenas...?[WAIT 90]
+¿Con qué Pokémon vas a combatir?\n¡Venga, muéstramelos!
+¡Me has ganado, pero foi un placer\ncombatir con Pokémon tan fuertes!
+¡La próxima vez, procura traer algún que\noutro Pokémon raro!
+¡Uaaah! ¡No esperaba enfrentarme a alguien\ntan fuerte como tú tan pronto!
+¡Oh, no! ¡Al final he perdido!\n¡No me has dado cuartel!
+¿He ganado?\n¡¿Qué te ha parecido?! Soy bueno, ¿eh?
+¡Los Pokémon son mis amigos!\n¡Vas a ver lo fuerte que es nuestra amistad!
+¡Mis amigos y yo nos hemos esforzado,\npero ni punto de comparação contigo!
+¡¿Lo ves?! ¡A esto lo llamo yo\nuna amistad fuerte!
+¡He venido a librar combates al rojo vivo!
+¡Un combate así es lo que yo quería!\n¡Gracias, me lo he pasado en grande!
+Yo habría querido un combate más apasionado.
+¡Bien! ¡Decidido!\n¡Usaré la misma táctica de siempre!
+Me ha impresionado tu forma de luchar.\n¡La he estudiado a fondo!
+¡Como había planeado!\n¡Ja, ja! ¡He ganado!
+¡Me gusta zampar, pero más aún librar combates!\n¡Venga, en guardia!
+¡Eso es un combate como es debido!\n¡Y lo demás son tonterías!
+¡La próxima vez, tráete Pokémon un poquito más fuertes!
+¡Vaya, parece que tú también vienes a dar caña!\n¡Ja, ja! ¡Me estoy animando!
+¡Un ataque arrollador!\n¡Tú y yo tenemos que volver a combatir algún día!
+¡No está mal tu técnica!\n¡Cuando quieras, volvemos a luchar!
+¡Ja, ja! ¡Voy a combatir con mis Pokémon\nde radiante sonrisa!
+Mmm... Tus Pokémon también son bastante\nmonos, la verdad.
+¡Pues claro! ¿Cómo iban a perder siendo\ntan monos? ¡Imposible!
+¡¡No te cortes ni un pelo, que yo no lo\nvoy a hacer!!
+¡Gracias de corazón por haberme ganado\ntan limpiamente!
+¡Por muy poco, pero parece que yo he sido\nmejor combatiente!
+¡Mis Pokémon y yo tenemos una fuerza terrible!\n¡Para echarse a temblar!
+¡Tus Pokémon y tú tenéis una fuerza terrible!\n¡Estoy temblando como un flan!
+¡Mis Pokémon y yo somos de los que dejan huella!\n¡Grábatelo bien!
+?Traigo muchos Pokémon distintos.?\n¡Nos lo vamos a pasar pipa!
+¡Me has ganado! ¡Pero gracias!\n¡Me he divertido como nunca!
+¡Pues yo aún tenía ganas de jugar!\n¡Se me ha hecho muy corto!
+¡No hay quien gane a mis Pokémon!\n¡Son invencibles!
+¡¿Cómo puede ser?!\n¡Mis Pokémon eran invencibles!
+Soy increíble, ¿verdad?\n¡No tengo rival que me plante cara!
+¡Voy a ganar el torneo con los Pokémon\nque he obtenido con tanto esfuerzo!
+¡Pero bueno! ¡¿Cómo es posible que\nhayas ganado a mis Pokémon?!
+¡Eso es! ¡Sabía que mis Pokémon eran\nlos mejores!
+Si tienes miedo, seguro que te gustaría salir por patas.\nHazme caso y ríndete directamente.
+¡Uaaah! ¡Espera, que me...!\nMe... ¡Me has ganado!
+¡Ji, ji! ¡Ya te ha quedado clara la fuerza que tengo!
+Mmm... Tengo curiosidad por ver cómo combates.
+No he sabido anticiparme a tus movimentos...
+Creo que te falta estrategia a la hora de combatir...
+¡Ya lo verás! ¡Te voy a dejar para\nel arrastre de un solo golpe!
+¡¡Aaay!!\n¡Has hecho papilla a mis Pokémon!
+¡Ji, ji! ¡Como no entrenes más, lo llevas\nclaro para ganarme!
+¡Mi elaborada estrategia es mi mejor arma!
+¿Eh? ¿Has contrarrestado mi estrategia?\n¡Eso es que tu inteligencia es excepcional!
+¡Has caído en mi elaborada trampa!\n¡Así es como lucha una profesional como yo!
+¡Observa! ¡Estos Pokémon son mis compañeros\nmás leales!
+Ja, ja, ja...\nHay que reconocer que eres mejor que yo.
+¡No tienes nivel como para vencer a mis\ncompañeros!
+¡Siempre que voy a combatir, se me pone el corazón a mil\npor hora!
+¡Muuuchas gracias por este combate tan emocionante!
+La alegría que te embarga al saborear la victoria...\n¡Es una sensação incomparable!
+¡Combatir contra ti me proporcionará recuerdos\ninolvidables!
+La tristeza de la derrota... ¡no se me olvidará nunca!
+¡Este combate será para mí un recuerdo inolvidable!
+¡Te voy a demostrar de qué pasta está hecho todo un\ncampeón mundial!
+Si has podido ganarme, es que tienes la fuerza de un\ncampeón mundial.
+¿Te queda claro lo que es la fuerza de un campeón\nmundial?
+¡Te voy a demostrar de qué madera está hecha toda una\ncampeona mundial!
+Si has podido ganarme, es que tienes la fuerza de una\ncampeona mundial.
+¿Te queda claro lo que es la fuerza de una campeona\nmundial?
+Incluso un campeón mundial como yo se pone nervioso\nantes de un combate.
+¡Qué contrincante tan fuerte!\n¡Esto es lo que hace divertido un combate!
+¡Parece que tanta dedicação obsesiva me ha hecho ganar\nel combate!
+Incluso una campeona mundial como yo se pone nerviosa\nantes de un combate.
+¡Qué contrincante tan fuerte!\n¡Esto es lo que hace divertido un combate!
+¡Parece que tanta dedicação obsesiva me ha hecho ganar\nel combate!
+¡Vas a saborear la fuerza de un subcampeón mundial!
+Mira que derrotar al número dos mundial...\n¡Increíble!
+¿Has bajado la guardia porque soy un subcampeón\nmundial?
+¡Vas a saborear la fuerza de una subcampeona mundial!
+Mira que derrotar a la número dos mundial...\n¡Increíble!
+¿Has bajado la guardia porque soy una subcampeona\nmundial?
+¡Prepárate para enfrentarte al subcampeón mundial!
+Está claro que aún quedan Treinadores de nivel por el\nmundo.
+¿Qué te ha parecido? ¡Ahora ya sabes la fuerza que tiene\nun subcampeón mundial!
+¡Prepárate para enfrentarte a la subcampeona mundial!
+Está claro que aún quedan Treinadores de nivel por el\nmundo.
+¿Qué te ha parecido? ¡Ahora ya sabes la fuerza que tiene\nuna subcampeona mundial!
+Yo soy el número tres del ranking mundial.\n¿Quieres combatir contra mí?
+¡Tienes fuerza suficiente para entrar en el ranking mundial!
+¡No pensarías que iba a dejarme ganar tan fácilmente!
+Yo soy la número tres del ranking mundial.\n¿Quieres combatir contra mí?
+¡Tienes fuerza suficiente para entrar en el ranking mundial!
+¡No pensarías que iba a dejarme ganar tan fácilmente!
+¿No quieres comprobar la fuerza de un número tres\nmundial?
+¡Me has ganado limpiamente! ¡Los Campeonatos\nMundiales son eventos de gran nivel!
+No solo la fuerza estaba de mi lado.\nTambién la suerte.
+¿No quieres comprobar la fuerza de una número tres\nmundial?
+¡Me has ganado limpiamente! ¡Los Campeonatos\nMundiales son eventos de gran nivel!
+No solo la fuerza estaba de mi lado.\nTambién la suerte.
+¡Te voy a aplastar! ¡Que lo sepas!
+He... He perdido...\n¡Buaaa! ¡No valeee!
+¡Cuando tú vas, yo vuelvo!\n¡Jua, jua, jua!
+Venga, no perdamos más tiempo.\n¡A combatir se ha dicho!
+¡Qué nivel tienes! Estoy alucinando, ¡en colores y en\nestéreo! Se nota que te gustan los Pokémon.
+Porfi, porfi, quiero ganar...
+Estoy harta de perder siempre. ¡No pienso dejar que me\nganen ni una vez más! ¡Ni una!
+¡¿Pero quéee...?! ¡Perdonadme, Pokémon míos!
+¡TOMAAA! ¡Por fin!
+Este equipe tiene todas las de ganar, te lo digo yo. Pon\nempeño en el combate, y el resultado no te traicionará.
+¡Aaaarg! ¿De veras? Y eso que le puse empeño...
+¡Yo soy quien ha logrado derrotar a todos en esta región!
+Esto... No sé muy bien qué tengo que hacer...\nHmmm, ¿un combate?
+Buf, era misión imposible ganarte, la verdad.\nEres bien fuerte.
+¿Cómo? ¿Has logrado ganarme? ¿Pero qué...?\n¡Dime cómo lo has conseguido!
+Siempre estoy listo para echar un combate.\n¡Y que sepas que me voy a emplear a fondo!
+¿Quéeee? No puede ser... Me pasé toda la noche\npensando en esa estrategia.
+Je, je. Todo ha ido tal y como planeaba.\nMis cálculos han sido certeros.
+Come on! Combatir ya, rápido. Let’s go!\nI want combatir contra tú, ¿ok?
+Impressive! ¿Cómo tú ser tan fuerte? Yo querer\nser tu amigo, ¿ok? Please.
+Yo ser muy feliz de luchar versus tanta people.\n¡People de todo el world! Me gustar mucho.
+Gente de tout le monde está unida grasias a les\nPokémon. C’est fantastique, oui?
+Les combats dependen mucho de la suerte, oui?\nOh là là, je crois que tú tienes trop de suerte.
+Siempre positifo, nunca negatifo. Sonreír, aunque\npierdas, oui? Avec Pokémon sonreír beaucoup.
+Si adoptas un método apropiado te alzarás con la victoria,\nsin importar quién sea tu contrincante.
+¿No he podido alzarme con la victoria ni con un método\ntan pulido? Tu equipe es magnífico.
+La clave consiste en fijarse en el objetivo y decidir cuál\nes el camino idóneo que has de seguir.
+¡Je, je! Utilizar técnicas y ataques poco idóneos puede\ndespistar al enemigo. Probemos...
+Está visto que si el rival es muy fuerte no se le puede\ndespistar así como así. Cachis...
+¡Ja! Has intentado despistar al enemigo y al final te has\nhecho tú mism[VAR GENDBR(00FF,0101)]oa un lío.
+Estas competiciones parecen más bien una fiesta.\n¡Jamás sabes con qué Pokémon te vas a topar!
+¡Me gusta mucho tu forma de combatir! E incluso parece\nque tus Pokémon se lo pasan bien.
+Tan solo pretendía divertirme, pero parece ser que he\nvencido. Espero que no te haya molestado.
+Lo que anhelo es sentir el deleite de la victoria.\n¡Lo voy a conseguir sea como sea! Prepárate.
+No me ha servido de nada deslomarme...\nRecuerda esto: ¡no olvido y no perdono!
+¿Has visto? Si le pones suficiente empeño, puedes\nconseguir lo que sea.
+Yo solo uso movimentos que son cool, como yo.\nAsí, cuando gano, lo hago con estilazo, ¡juas!
+Ahora que lo pienso, quizá sea más chulo ganar el\ncombate que usar movimentos cool.
+Da igual qué movimento usemos, porque serán geniales\nsi los usamos nosoutros, ¡ja!
+Los combates son ideales para poder conocer tanto\na gente como a Pokémon. Venga, echemos uno y\r\ncompartamos la alegría de vivir.
+Aprovecharé esta derrota para hacerme más fuerte.\nEspero que combatamos de nuevo en el futuro.
+Ganes o pierdas un combate, ¡es una experiencia única\nen esta vida! Me alegro de haberte conocido.
+~~~~~~~~~~~~~~~

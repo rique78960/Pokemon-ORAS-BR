@@ -1,0 +1,118 @@
+~~~~~~~~~~~~~~~
+Text File : 79
+~~~~~~~~~~~~~~~
+
+
+El Pokémon recuerda muy vagamente
+El Pokémon recuerda vagamente
+El Pokémon recuerda más o menos
+El Pokémon recuerda bastante bien
+El Pokémon recuerda con claridad
+El Pokémon nunca podrá olvidar
+El Pokémon tiene grabado en el corazón
+
+cuánto se alegró
+lo bien que lo pasó
+la felicidad que sintió
+la sonrisa que esbozó
+cómo le embargó la emoção
+la sensação inenarrable que experimentó
+lo mucho que le agradó
+las lágrimas que le vinieron a los ojos
+la ilusión que le hizo
+lo nervioso que se puso
+lo bien que se sintió
+el hormigueo que sintió
+la experiencia y le gustaría revivirla
+el regusto amargo que le quedó
+la pena que sintió
+la nostalgia que sintió
+lo difícil que le pareció
+lo extenuante que resultó
+cómo le costó aceptar lo que sentía
+el orgullo que sintió
+el mal humor que le sobrevino
+cuánto se enfadó
+los celos que sintió
+el sueño que le entró
+
+objeto determinado
+cierto movimento
+cierto Pokémon
+Aunque parece guardar un grato recuerdo, no es\ncapaz de rescatarlo de la memoria, por lo que veo.
+Los caminos de [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nse cruzaron en [VAR GENLOC(0002)].\c\nLa Poké Ball lanzada por [VAR TRNAME(0001)] marcó el\npunto de partida de su viaje conjunto.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Lo primero que vio [VAR PKNICK(0000)] cuando salió\ndel cascarón en [VAR GENLOC(0002)]\r\nfue la cara de [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Los caminos de [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nse cruzaron en [VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] se conocieron\ncomo consecuencia de un intercambio Pokémon en\r\n[VAR GENLOC(0002)] y ambos\r\nsintieron que era el comienzo de una gran amistad.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nfueron juntos a una Tienda Pokémon para comprar\r\n[VAR 1702(0002)][VAR ITEM2(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 44]
+En una ocasión, [VAR TRNAME(0001)] y [VAR PKNICK(0000)]\npescaron juntos un ejemplar de [VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR TRNAME(0001)] y [VAR PKNICK(0000)] fueron\njuntos de pesca en una ocasión, [VAR TRNAME(0001)]\r\ndejó escapar un Pokémon que ya tenía en el bote.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 47]
+En una ocasión, [VAR TRNAME(0001)] le dio un dulce a\n[VAR PKNICK(0000)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nfueron juntos a comprar ropa.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 50]
+[VAR PKNICK(0000)] ayudó una vez a [VAR TRNAME(0001)]\na eclosionar el Huevo de [VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] estaba presente cuando\n[VAR TRNAME(0001)] atrapó a [VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR PKNICK(0000)] estaba contra las cuerdas,\n[VAR TRNAME(0001)] usó [VAR 1702(0002)][VAR ITEM2(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 54]
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] lucharon codo\ncon codo para derrotar a [VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR PKNICK(0000)] perdió el combate contra\n[VAR PKNAME(0002)], [VAR TRNAME(0001)] se vio obligad[VAR GENDBR(0001,0101)]oa\r\na poner pies en polvorosa.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Gracias al entrenamiento de [VAR TRNAME(0001)], llegó\nel día en que [VAR PKNICK(0000)] logró evolucionar.\r\nTodo ocurrió en [VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En cierta ocasión, [VAR TRNAME(0001)] surcó las aguas\na lomos de [VAR PKNICK(0000)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 59]
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] lucharon codo\ncon codo para derrotar a un Líder de Gimnasio.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR TRNAME(0001)] afrontó el reto de la\nMansión Batalla, [VAR PKNICK(0000)] era un manojo\r\nde nervios.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] llevó volando a [VAR TRNAME(0001)]\ndesde [VAR GENLOC(0002)] en cierta\r\nocasión.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 63]
+Una vez [VAR PKNICK(0000)] vio como [VAR TRNAME(0001)]\nutilizaba [VAR 1702(0002)][VAR ITEM2(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] lucharon codo\ncon codo para derrotar al Campeón.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] estaba junto a [VAR TRNAME(0001)]\ncuando consiguió completar su Pokédex.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] se hallaba junto a [VAR TRNAME(0001)]\ncuando ambos se toparon con [VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR TRNAME(0001)] derrotó a una\nDama del Combate.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 69]
+[VAR PKNICK(0000)] se montó en Bici con\n[VAR TRNAME(0001)] en\r\n[VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] utilizaron el\nMapa en [VAR GENLOC(0002)] para\r\ncomprobar adónde se dirigían.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Mientras plantaba una [VAR ITEM2(0002)] con\n[VAR TRNAME(0001)], [VAR PKNICK(0000)] se imaginaba\r\nlo abundante que sería la cosecha.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Siguiendo las indicaciones de [VAR TRNAME(0001)],\n[VAR PKNICK(0000)] se sintió muy orgulloso una vez al\r\nusar Fuerza en [VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Siguiendo las indicaciones de [VAR TRNAME(0001)],\nuna vez [VAR PKNICK(0000)] hizo gala de su destreza\r\nal usar Corte en [VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Siguiendo las indicaciones de [VAR TRNAME(0001)],\nuna vez [VAR PKNICK(0000)] hizo añicos una roca en\r\n[VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Una vez [VAR PKNICK(0000)] utilizó Cascada en\n[VAR GENLOC(0002)] llevando a\r\ncuestas a [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Una vez [VAR PKNICK(0000)] vio como [VAR TRNAME(0001)]\nrecogía un objeto sin que nadie se diese cuenta\r\nen [VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En cierta ocasión, [VAR TRNAME(0001)] equipó a\n[VAR PKNICK(0000)] con [VAR 1702(0002)][VAR ITEM2(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En cierto momento, [VAR PKNICK(0000)] emprendió el\ncamino hacia la Calle Victoria con [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 80]
+Cuando [VAR PKNICK(0000)] montó en el tren junto\na [VAR TRNAME(0001)], se quedó de piedra por la\r\nvelocidad vertiginosa que podía alcanzar.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 82]
+[VAR PKNICK(0000)] y [VAR TRNAME(0001)] tomaron las de\nVilladiego cuando [VAR PKNAME(0002)] les sorprendió\r\ncon su repentina emboscada.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] se hallaba junto a [VAR TRNAME(0001)]\ncuando ambos obtuvieron una puntuação alta en la\r\nCasa Examinadora.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR TRNAME(0001)] llevó a [VAR PKNICK(0000)]\nante el Juez, este realizó un riguroso examen.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR PKNICK(0000)] se encontró con el\nQuita-Movimientos gracias a [VAR TRNAME(0001)],\r\nolvidó [VAR MOVE(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Siguiendo las instrucciones de [VAR TRNAME(0001)],\n[VAR PKNICK(0000)] fue capaz de recordar\r\n[VAR MOVE(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR TRNAME(0001)] llevó a [VAR PKNICK(0000)] a una\nGuardería Pokémon para que se criara junto a\r\n[VAR PKNAME(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando a [VAR TRNAME(0001)] le tocó la lotería,\n[VAR PKNICK(0000)] vio con envidia que se llevaba\r\n[VAR 1702(0002)][VAR ITEM2(0002)] como premio.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR TRNAME(0001)] usó un Repelente en\n[VAR GENLOC(0002)], [VAR PKNICK(0000)]\r\nse hallaba a su lado.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] se sometió a un\nduro entrenamiento impartido por [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] se subió a un\nascensor junto a [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR TRNAME(0001)] y [VAR PKNICK(0000)]\nfueron a ver juntos al Inspector de Motes, y este\r\nle puso un nombre de buen augurio.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] acompañó a\n[VAR TRNAME(0001)] cuando fue a una boutique para\r\nprobarse ropa, aunque al final no compró nada.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Una vez [VAR PKNICK(0000)] y [VAR TRNAME(0001)] fueron\na un restaurante y se pusieron las botas.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Una vez [VAR TRNAME(0001)] llevó a [VAR PKNICK(0000)]\na un sitio donde una chica encantadora le dio todo\r\ntipo de mimos.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nrebuscaron juntos en una papelera que hay en\r\n[VAR GENLOC(0002)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[~ 98]
+Cuando [VAR TRNAME(0001)] y [VAR PKNICK(0000)] estaban\nen una torre muy alta, [VAR PKNICK(0000)] miró hacia\r\nabajo y todo le pareció muy pequeñito.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Cuando [VAR TRNAME(0001)] y [VAR PKNICK(0000)] visitaron\nuna cueva llena de espejos, [VAR PKNICK(0000)] contempló\r\nsu reflejo.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+[VAR PKNICK(0000)] estuvo a punto de perderse al\nexplorar un bosque junto a [VAR TRNAME(0001)].\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Al acompañar a [VAR TRNAME(0001)] hasta una fábrica,\n[VAR PKNICK(0000)] se encontró allí con un montón\r\nde máquinas que parecían muy complejas.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En cierto momento, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nconstruyeron juntos una Base Secreta.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En una ocasión, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nparticiparon en un concurso y se exhibieron delante de\r\nmuchas personas.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En determinado momento, [VAR PKNICK(0000)] y\n[VAR TRNAME(0001)] participaron en un concurso y se\r\nalzaron con la victoria.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+En cierta ocasión, [VAR PKNICK(0000)] y [VAR TRNAME(0001)]\nvisitaron numerosos lugares gracias al Ultravuelo.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+Una vez, [VAR PKNICK(0000)], siguiendo las instrucciones de\n[VAR TRNAME(0001)] se sumergió en las profundidades del\r\nmar para explorar el fondo oceánico.\c\n[VAR REMQUAL(0004)]\n[VAR REMFEEL(0003)].
+
+Me llaman la Evocadora porque puedo ver los recuerdos\nde los Pokémon.\c\n¿Quieres que saque a la luz los recuerdos que residen en\nel interior de alguno de los Pokémon que te acompañan?
+¡Muy bien!\n¿A qué Pokémon en concreto?
+Vale, vuelve cuando quieras.
+Eso no es todo. También recuerda otra cosa...
+¿Quieres evocar los recuerdos de outro Pokémon?
+~~~~~~~~~~~~~~~

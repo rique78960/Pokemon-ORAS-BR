@@ -1,0 +1,64 @@
+~~~~~~~~~~~~~~~
+Text File : 125
+~~~~~~~~~~~~~~~
+¡Te damos la bienvenida a Sincronizar Juego!\c\nCon esta função podrás sincronizar el sitio\nweb oficial de Pokémon Global Link, operado\r\npor The Pokémon Company y sus filiales, con\r\ntus juegos Pokémon Rubí Omega y\r\nPokémon Zafiro Alfa.\c\nPara ello, es necessário que registres en\nPokémon Global Link el ID para Sincronizar\r\nque obtendrás en Pokémon Rubí Omega y\r\nPokémon Zafiro Alfa.\c\nUna vez registrado, podrás acceder a multitud\nde servicios.\c\nSi quieres obtener más informação sobre los\npasos a seguir, selecciona “Informação”.\c
+Não foi possível realizar la sincronização.\c\nEl ID para Sincronizar no está registrado en el\nsitio web de Pokémon Global Link.\c\nAccede a Pokémon Global Link e introduce tu\nID para Sincronizar.\c
+¿Quieres generar un ID para Sincronizar que\nte permita utilizar Sincronizar Juego?
+Conectando...\nPor favor, espera.
+Guardando...\nNão desligue o console.
+¡Tu ID para Sincronizar se ha activado!\c\nYa puedes registrarlo en el sitio web de\nPokémon Global Link.\c\nCuando hayas terminado el registro, podrás\nusar la função Sincronizar Juego.\c\nActualmente, la configuração de Sincronizar\nJuego para este juego es la siguiente:\r\nla sincronização automática está activada y\r\ntus Poké Millas se enviarán automáticamente.\c\nPuedes cambiar esta configuração en\ncualquier momento seleccionando “Opciones”.\c\nSi quieres obtener más informação sobre los\npasos a seguir, selecciona “Informação”.\c
+Has cambiado la configuração de Sincronizar\nJuego.\c
+[~ 7]
+Se ha interrumpido Sincronizar Juego debido al\nelevado volumen de tráfico del servidor.\c\nVolte a tentar más tarde.
+Se ha interrumpido la emisión de tu ID para\nSincronizar porque el servidor está\r\nexperimentando un volumen de tráfico\r\ndemasiado elevado.\c\nInténtalo de nuevo más tarde.
+[~ 10]
+Sincronizando el juego...\nNão desligue o console.
+[~ 12]
+¡Sincronização completada!
+[~ 14]
+Sim
+Não
+¡Te damos la bienvenida a Sincronizar Juego!
+Generar ID para Sincronizar
+Informação
+Sincronizar
+Opciones
+[~ 22]
+¿Qué es Sincronizar Juego?
+Preparativos para Sincronizar Juego
+¿Qué es Sincronizar Juego?
+Preparativos para Sincronizar Juego
+Pasos a seguir para Sincronizar Juego
+Opciones
+Sincronização automática
+Activada
+Desactivada
+Poké Millas
+Enviar todas
+No enviar
+Instrucciones sobre Sincronizar Juego
+ID para Sincronizar
+Accede al sitio web oficial de Pokémon Global Link,\noperado por The Pokémon Company y sus filiales, e\nintroduce el ID para Sincronizar que aparece en la\npantalla para registrarlo.\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+— Historial de Sincronizar Juego —\nUsaste Sincronizar Juego el [VAR COLOR(0002)][VAR NUM2(0002)]-[VAR NUM2(0001)]-20[VAR NUM2(0000)][VAR COLOR(0000)].\nHora: [VAR COLOR(0002)][VAR NUM2(0003)]:[VAR NUM2(0004)][VAR COLOR(0000)]\nObjetos distintos recibidos: [VAR COLOR(0002)][VAR NUM3(0005)][VAR COLOR(0000)]\n\n— Pokémon Global Link —\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+[VAR NUM1(0000)]/[VAR NUM1(0001)]
+El ID para Sincronizar que aparece en la pantalla se ha\nregistrado en el sitio web de Pokémon Global Link:\n\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+— Historial de Sincronizar Juego —\nUsaste Sincronizar Juego el [VAR COLOR(0002)][VAR NUM2(0002)]-[VAR NUM2(0001)]-20[VAR NUM2(0000)][VAR COLOR(0000)].\nHora: [VAR COLOR(0002)][VAR NUM2(0003)]:[VAR NUM2(0004)][VAR COLOR(0000)]\n[VAR COLOR(0002)]\n[VAR COLOR(0000)]— Pokémon Global Link —\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+Con la função Sincronizar Juego podrás\nconectar tus juegos Pokémon Rubí Omega\ny Pokémon Zafiro Alfa con el sitio web de\nPokémon Global Link:\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+Puedes transferir tu partida guardada mediante\nla função Sincronizar Juego.
+Puedes servirte de Pokémon Global Link para\nconseguir objetos y consultar tus dados de\nPokémon Rubí Omega y Pokémon Zafiro Alfa.\nPuedes enviar los objetos que obtengas a\nPokémon Rubí Omega y Pokémon Zafiro Alfa\nmediante la função Sincronizar Juego.
+Sigue los siguientes pasos para utilizar la\nfunção Sincronizar Juego:\n\n1. Selecione “Generar ID para Sincronizar”\nen la pantalla principal de Sincronizar Juego y\nobtendrás tu ID para Sincronizar.
+2. Accede al sitio web oficial de Pokémon\nGlobal Link, [VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)], y\nregistra tu ID para Sincronizar.\nCuando lo hayas hecho, habrás concluido con\nlos preparativos necessários para usar\nSincronizar Juego.
+Necesitas una cuenta en el sitio web de\nPokémon Global Link, operado por The\nPokémon Company y sus filiales, para poder\nregistrar tu ID para Sincronizar.\nPara obtener más informação, visita el sitio\nweb oficial de Pokémon Global Link.
+Con la função Sincronizar Juego podrás\nconectar tus juegos Pokémon Rubí Omega\ny Pokémon Zafiro Alfa con el sitio web de\nPokémon Global Link:\n[VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)]
+Puedes transferir tu partida guardada mediante\nla função Sincronizar Juego.
+Puedes servirte de Pokémon Global Link para\nconseguir objetos y consultar tus dados de\nPokémon Rubí Omega y Pokémon Zafiro Alfa.\nPuedes enviar los objetos que obtengas a\nPokémon Rubí Omega y Pokémon Zafiro Alfa\nmediante la função Sincronizar Juego.
+Puedes visitar el sitio web de Pokémon Global\nLink, [VAR COLOR(0002)]http://www.pokemon-gl.com/[VAR COLOR(0000)], y registrar\ntu ID para Sincronizar si quieres usar la função\nSincronizar Juego.
+Necesitas una cuenta en el sitio web de\nPokémon Global Link, operado por The\nPokémon Company y sus filiales, para poder\nregistrar tu ID para Sincronizar.\nPara obtener más informação, visita el sitio\nweb oficial de Pokémon Global Link.
+Al seleccionar “Sincronizar”, comenzará\nla conexão con Pokémon Global Link.\nTen en cuenta que si no has registrado antes\ntu ID para Sincronizar, no podrás conectarte\nal sitio web ni disfrotar de sus servicios.
+Si tienes la sincronização automática activada\nen “Opciones” y el PSS está conectado a\ninternet, el juego se sincronizará cada vez que\nguardes la partida desde el menú principal.
+Podrás transferir a Pokémon Global Link las\nPoké Millas que hayas acumulado con\nSincronizar Juego. Dentro de “Opciones”,\npodrás seleccionar si quieres “Enviar todas” o\n“No enviar”.
+Con Sincronizar Juego, también podrás enviar\na un Centro Pokémon los objetos que hayas\nconseguido en Pokémon Global Link.\nHabla con la repartidora que aparecerá en el\nCentro Pokémon para receberlos.
+La função Sincronizar Juego también te\npermite enviar a Pokémon Global Link las fotos\nque hagas en los Grandes Concursos.\nPara ello, puedes usar Sincronizar Juego\ndespués de hacer una foto.
+En la cartão SD de tu consola Nintendo 3DS\nsolo podrás guardar una foto para enviar con\nSincronizar Juego. Por tanto, si haces otra foto\nantes de enviar la que ya tienes, se perderá la\nque tenías guardada.
+[~ 59]
+~~~~~~~~~~~~~~~

@@ -1,0 +1,516 @@
+~~~~~~~~~~~~~~~
+Text File : 127
+~~~~~~~~~~~~~~~
+¡Gracias por venir a ver esta Película Pokémon!\nVe a ver a la repartidora en cualquier Centro\nPokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2013!\nVe a ver a la repartidora en cualquier Centro\nPokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a\neste Centro Pokémon!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Tokio!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Osaka!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Fukuoka!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Nagoya!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Sapporo!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por venir al\nCentro Pokémon de Yokohama!\nNo te olvides de recoger\ntu presente en el juego.
+¡Gracias por participar en el Campeonato\nMundial Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a este Evento de Videogames\nPokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento de\nVideogames Pokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a este Evento Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por jugar a Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a este establecimiento!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar en este torneo!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por participar\nen este Evento de Videogames!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente en\neste Evento de Videogames!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente\ndel Club de Fans de Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por ver este programa sobre Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente\nde un programa sobre Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a\neste Concierto Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por ver la serie de animação\nde Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por realizar esta descarga!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente en Pokémon Global\nLink!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por jugar en Pokémon Global Link!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente en Pokémon Global\nLink!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a este Evento Pokémon!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir al Evento Pokémon de 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a Pokémon Festa 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Has conseguido un presente en PokéPark!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2013!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2014!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2015!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2016!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2017!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a PokéPark 2018!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por asistir a este evento!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Centro Pokémon de Tohoku!\nNo te olvides de recoger tu presente en el juego.
+¡Has conseguido un presente de GAME FREAK!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por acudir al estadio!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir al Centro Pokémon Tokyo Bay!\nNo te olvides de recoger tu presente en el juego.
+¡Gracias por venir a Pokémon Store!\nVe a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+Ve a ver a la repartidora en cualquier\nCentro Pokémon para recoger tu presente.
+¡Gracias por venir a ver esta Película Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a ver\nla Película Pokémon de 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a este Centro Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de Tokio!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de Osaka!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de\nFukuoka!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de Nagoya!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de Sapporo!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de\nYokohama!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nMundial Pokémon de 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Campeonato Mundial\nPokémon de 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a este Evento de\nVideogames Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento de Videogames\nPokémon de 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato de\nVideogames Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en el Campeonato\nde Videogames Pokémon 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a este Evento Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por jugar a Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a este establecimiento!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en este torneo!\nLa repartidora ya ha entregado este presente.
+¡Gracias por participar en este Evento de\nVideogames!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente en este Evento de\nVideogames!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente\ndel Club de Fans de Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por ver este programa sobre Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente de un programa sobre\nPokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a este Concierto Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por ver la serie de animação\nde Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por realizar esta descarga!\nLa repartidora ya ha entregado este presente.
+La repartidora ya ha entregado este presente.
+¡Has conseguido un presente en Pokémon Global\nLink!\nLa repartidora ya ha entregado este presente.
+¡Gracias por jugar en Pokémon Global\nLink!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente en Pokémon Global\nLink!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a este Evento Pokémon!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir al Evento Pokémon 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a Pokémon Festa 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente en PokéPark!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2013!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2014!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2015!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2016!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2017!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a PokéPark 2018!\nLa repartidora ya ha entregado este presente.
+¡Gracias por asistir a este evento!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon de Tohoku!\nLa repartidora ya ha entregado este presente.
+¡Has conseguido un presente de GAME FREAK!\nLa repartidora ya ha entregado este presente.
+¡Gracias por acudir al estadio!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir al Centro Pokémon Tokyo Bay!\nLa repartidora ya ha entregado este presente.
+¡Gracias por venir a Pokémon Store!\nLa repartidora ya ha entregado este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+O entregador já te entregou este presente.
+~~~~~~~~~~~~~~~

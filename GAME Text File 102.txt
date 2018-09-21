@@ -1,0 +1,84 @@
+~~~~~~~~~~~~~~~
+Text File : 102
+~~~~~~~~~~~~~~~
+Mediante el modo Torneo en Directo puedes participar\nen los torneos oficiales que se celebran en distintos\nemplazamientos.\n\nPara obtener informação sobre los torneos oficiales y\nsus reglas, visita el sitio web oficial de Pokémon.
+¿Quieres receber el Certificado Digital de\nJogador?
+Recibiendo el Certificado Digital de Jogador...\nPara cancelar, pulsa el botão B.
+¿Quieres cancelar la recepção?
+No puedes participar en este torneo.
+Ya te has inscrito en este torneo.
+¿Quieres registrar los Pokémon de esta Caja\nde Combate en el torneo?
+¿Quieres cancelar la inscripção de tu Caja\nde Combate?
+Registrando la Caja de Combate...\nNão desligue o console.
+Estás en el Torneo en Directo.\nSelecione un modo.
+Buscando contrincante...\nPor favor, espera.
+¿Quieres interrumpir la búsqueda?
+Vuestros reglamentos del torneo no coinciden.
+Ya has luchado contra este contrincante.
+Pulsa el botão A cuando un miembro de la\norganização te lo indique.
+Guardando los resultados del torneo...\nNão desligue o console.
+Has librado el número de combates necessário.\n¡Bien hecho!
+Este foi tu último combate.\n¿Quieres volver a verlo?
+Si te retiras ahora, no podrás volver a\nparticipar en el mismo torneo.\c\n¿Seguro que quieres retirarte?
+¿Seguro que quieres retirarte de este torneo?
+Cancelando tu participação en el torneo...
+Se ha cancelado tu participação en el torneo.\nLa Caja de Combate se ha desbloqueado.
+Conexão en curso...\nPor favor, espera.
+¡Todavía no has librado ningún combate!
+¿Quieres cancelar tu participação\nen el torneo?
+Comprobando la cartão SD...\nNão desligue o console.
+Los dados están dañados.\nNo se puede reproducir el Vídeo de Combate.
+Não foi possível grabar el Vídeo de Combate\nporque la cartão SD está llena.
+Cancelando la comunicação...
+Error de recepção.\nInténtalo de nuevo desde el principio.
+No se ha encontrado el Vídeo de Combate.
+Torneo en Directo
+Tu Caja de Combate
+[VAR NUM2(0002)]-[VAR NUM2(0001)]-[VAR NUM4(0000,0000)]
+Registrar
+Cancelar
+Combatir
+Resultado del último combate
+Abandonar el torneo
+Ver de nuevo
+Atrás
+Sim
+Não
+L
+[VAR NUM3(0000)]
+[VAR COLOR(0002)]?[VAR COLOR(0000)]
+[VAR COLOR(0001)]?[VAR COLOR(0000)]
+[~ 47]
+Tus resultados:
+Victorias:
+[VAR NUM2(0000)]
+Derrotas:
+[VAR NUM2(0000)]
+Número de combates:
+[VAR NUM2(0000)]/[VAR NUM2(0001)]
+Contrincante:
+[~ 56]
+[~ 57]
+[~ 58]
+[~ 59]
+[VAR NUM2(0000)]
+¡La victoria es para [VAR TRNAME(0000)]!
+[VAR TRNAME(0000)] se ha retirado del combate.
+Se ha producido un empate.
+Se ha detectado un problema con alguno de\nlos Pokémon de tu Caja de Combate.
+Los Huevos no pueden participar.
+No hay suficientes Pokémon participantes.
+Hay demasiados Pokémon participantes.
+Falta alguno de los Pokémon requeridos para\nparticipar.
+Alguno de los Pokémon conoce un movimento\nno permitido.\n\n[VAR PKNAME(0000)]\n[VAR PKNAME(0001)]\n[VAR PKNAME(0002)]\n[VAR PKNAME(0003)]\n[VAR PKNAME(0004)]\n[VAR PKNAME(0005)]
+Alguno de tus Pokémon no puede participar:\n\n[VAR PKNAME(0000)]\n[VAR PKNAME(0001)]\n[VAR PKNAME(0002)]\n[VAR PKNAME(0003)]\n[VAR PKNAME(0004)]\n[VAR PKNAME(0005)]
+Alguno de tus Pokémon lleva un objeto no\npermitido:\n\n[VAR ITEM2(0000)]\n[VAR ITEM2(0001)]\n[VAR ITEM2(0002)]\n[VAR ITEM2(0003)]\n[VAR ITEM2(0004)]\n[VAR ITEM2(0005)]
+El nivel de alguno de tus Pokémon no se ciñe\nal reglamento:\n\n[VAR PKNAME(0000)]\n[VAR PKNAME(0001)]\n[VAR PKNAME(0002)]\n[VAR PKNAME(0003)]\n[VAR PKNAME(0004)]\n[VAR PKNAME(0005)]
+Algunos Pokémon son de la misma especie:\n\n[VAR PKNAME(0000)]\n[VAR PKNAME(0001)]\n[VAR PKNAME(0002)]\n[VAR PKNAME(0003)]\n[VAR PKNAME(0004)]\n[VAR PKNAME(0005)]
+Algunos Pokémon llevan el mismo objeto:\n\n[VAR ITEM2(0000)]\n[VAR ITEM2(0001)]\n[VAR ITEM2(0002)]\n[VAR ITEM2(0003)]\n[VAR ITEM2(0004)]\n[VAR ITEM2(0005)]
+Has elegido más Pokémon especiales de los\npermitidos.
+No puedes participar en el Torneo en Directo\nporque ya estás participando en un Torneo en\r\nLínea.\c\n¿Quieres cancelar tu participação en el Torneo\nen Línea?
+Si te retiras ahora de este Torneo en Línea, no\npodrás volver a participar en el mismo.\c\n¿Seguro que quieres retirarte?
+Cancelando tu participação...\nNão desligue o console.
+Se ha cancelado tu participação en el Torneo\nen Línea.
+~~~~~~~~~~~~~~~

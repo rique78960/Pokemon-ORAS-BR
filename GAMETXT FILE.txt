@@ -1,0 +1,178 @@
+GAME TXT - O arquivos começa do 0 até o 174.
+
+Text File 0 - Completo
+Text File 1 - Completo
+Text File 2 - Completo
+Text File 3 - Completo
+Text File 4 - Completo
+Text File 5 - Completo
+Text File 6 - Não traduzido Descrição do Pokémon na PokéDex
+Text File 7 - Não traduzido Descrição do Pokémon na PokéDex
+Text File 8 - Completo
+Text File 9 - Completo
+Text File 10 - Completo
+Text File 11 - Completo
+Text File 12 - Completo
+Text File 13 - Completo
+Text File 14 - Completo
+Text File 15 - Completo
+Text File 16 - Completo
+Text File 17 - Completo
+Text File 18 - Completo
+Text File 19 - Não traduzido TV comercial
+Text File 20 - Completo
+Text File 21 - Completo
+Text File 22 - Completo
+Text File 23 - Não traduzido falas TREINADORES
+Text File 24 - Completo
+Text File 25 - Completo
+Text File 26 - Completo
+Text File 27 - Completo
+Text File 28 - Completo
+Text File 29 - Completo
+Text File 30 - Completo
+Text File 31 - Completo
+Text File 32 - Completo
+Text File 33 - Completo
+Text File 34 - Não traduzido
+Text File 35 - Não traduzido
+Text File 36 - Completo
+Text File 37 - Completo
+Text File 38 - Completo
+Text File 39 - Completo
+Text File 40 - Completo
+Text File 41 - Completo Creditos Finais
+Text File 42 - Completo
+Text File 43 - Completo
+Text File 44 - Completo
+Text File 45 - Incompleto 50%
+Text File 46 - Completo
+Text File 47 - Completo
+Text File 48 - Completo
+Text File 49 - Completo
+Text File 50 - Completo
+Text File 51 - Completo Naturezas Pokémon
+Text File 52 - Completo
+Text File 53 - Completo
+Text File 54 - Não traduzido
+Text File 55 - Não traduzido
+Text File 56 - Não traduzido
+Text File 57 - Não traduzido
+Text File 58 - Não traduzido
+Text File 59 - Completo
+Text File 60 - Completo
+Text File 61 - Completo
+Text File 62 - Completo
+Text File 63 - Completo
+Text File 64 - Completo
+Text File 65 - Completo
+Text File 66 - Completo
+Text File 67 - Completo
+Text File 68 - Completo
+Text File 69 - Completo
+Text File 70 - Incompleto
+Text File 71 - Não traduzido
+Text File 72 - Não traduzido
+Text File 73 - Completo
+Text File 74 - Completo
+Text File 75 - Completo Tubo PokéCubos
+Text File 76 - Completo
+Text File 77 - Completo
+Text File 78 - Completo
+Text File 79 - Não traduzido
+Text File 80 - Completo
+Text File 81 - Não traduzido Tipos dos PokéCubos
+Text File 82 - Completo
+Text File 83 - Não traduzido TV do VideoNav
+Text File 84 - Completo
+Text File 85 - Completo
+Text File 86 - Completo
+Text File 87 - Completo
+Text File 88 - Completo
+Text File 89 - Completo
+Text File 90 - Completo Nome Lugares Mapa
+Text File 91 - Completo
+Text File 92 - Completo
+Text File 93 - Completo
+Text File 94 - Não traduzido NOMES MAIUSCULOS
+Text File 95 - Completo Nomes dos Frutos
+Text File 96 - Completo
+Text File 97 - Completo
+Text File 98 - Completo
+Text File 99 - Completo
+Text File 100 - Completo
+Text File 101 - Completo
+Text File 102 - Não traduzido
+Text File 103 - Completo Menu escolhe idiomas
+Text File 104 - Completo
+Text File 105 - Completo
+Text File 106 - Completo falta revisão
+Text File 107 - Completo
+Text File 108 - Completo
+Text File 109 - Completo
+Text File 110 - Incompleto 10%
+Text File 111 - Completo
+Text File 112 - Completo
+Text File 113 - Completo Items Plural
+Text File 114 - Completo Items Nomes Normal
+Text File 115 - Completo Items Plural
+Text File 116 - Completo Items Nomes Normal
+Text File 117 - Completo Descrição dos Items
+Text File 118 - Completo Falas PProfessor Inicio
+Text File 119 - Completo
+Text File 120 - Não traduzido
+Text File 121 - Não traduzido
+Text File 122 - Não traduzido
+Text File 123 - Completo
+Text File 124 - Completo
+Text File 125 - Não traduzido
+Text File 126 - Completo
+Text File 127 - Não traduzido
+Text File 128 - Completo
+Text File 129 - Completo
+Text File 130 - Completo
+Text File 131 - Completo
+Text File 132 - Completo
+Text File 133 - Completo
+Text File 134 - Completo
+Text File 135 - Completo
+Text File 136 - Completo
+Text File 137 - Completo
+Text File 138 - Completo
+Text File 139 - Completo
+Text File 140 - Completo
+Text File 141 - Completo
+Text File 142 - Completo
+Text File 143 - Completo
+Text File 144 - Completo
+Text File 145 - Completo
+Text File 146 - Completo
+Text File 147 - Completo FALAS DOS COMBATES & BATALHAS
+Text File 148 - Incompleto 50% FALAS DOS COMBATES & BATALHAS
+Text File 149 - Completo FALAS USANDO GOLPES NO COMBATE
+Text File 150 - Completo
+Text File 151 - Completo
+Text File 152 - Completo
+Text File 153 - Completo
+Text File 154 - Completo
+Text File 155 - Completo
+Text File 156 - Completo
+Text File 157 - Completo
+Text File 158 - Completo
+Text File 159 - Completo
+Text File 160 - Completo
+Text File 161 - Não traduzido
+Text File 162 - Completo
+Text File 163 - Completo
+Text File 164 - Completo
+Text File 165 - Completo
+Text File 166 - Completo
+Text File 167 - Completo
+Text File 168 - Completo
+Text File 169 - Completo
+Text File 170 - Completo
+Text File 171 - Completo
+Text File 172 - Completo
+Text File 173 - Completo
+Text File 174 - Completo
+FIM DO ARQUIVOS DO GAMETXT

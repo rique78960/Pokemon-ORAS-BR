@@ -1,0 +1,210 @@
+~~~~~~~~~~~~~~~
+Text File : 110
+~~~~~~~~~~~~~~~
+Fundo Normal
+Fundo Fogo
+Fundo Água
+Fundo Elétrico
+Fundo Planta
+Fundo Gelo
+Fundo Luta
+Fundo Veneno
+Fundo Terra
+Fundo Voador
+Fundo Psíquico
+Fundo Inseto
+Fundo Rocha
+Fundo Fantasma
+Fundo Dragão
+Fundo Travas
+Fundo Aço
+Fundo Fada
+Fundo Rosa
+Fundo Azul
+Fundo Laranja
+Fundo Verde
+Fundo Roxo
+Fundo Marrom
+Fundo Amarelo
+Fundo Branco
+Fundo Negro
+Fundo Nuvens Rosas
+Fundo Nuvens Azuis
+Fundo Nuvens Laranjas
+Fundo Pop
+Fundo Punk
+Fundo de Quadros
+Fundo Chic
+Almofada Doce de Creme
+Almofada Doce de Chocolate
+Almofada Rosquinha de Menta
+Almofada Rosquinha de Creme
+Coração Normal
+Bolinho de Adorno
+Almofada Chama Azul
+Almofada Chama Vermelha
+Almofada Lava Ardente
+Almofada Lava Esfriada
+Coração Fogo
+Fogueira de Adorno
+Almofada Concha Branca
+Almofada Concha Rosa
+Almofada Gota Turquesa
+Almofada Gota Azul
+Coração Água
+Adorno Pérola Brilhante
+Almofada Luz
+Almofada Luz Azul
+Almofada Centelha
+Almofada Centelha Azul
+Coração Elétrico
+Lâmpada de Adorno
+Almofada Folha
+Almofada Folha Fresca
+Almofada Tronco
+Almofada Tronco Branco
+Coraçao Planta
+Flor de Adorno
+Almofada Placa de Gelo
+Almofada Temporal
+Almofada Bola de Neve
+Almofada Bola de Gelo
+Coraçao Gelo
+Figura Boneco de Neve
+Almofada Objetiva Azul
+Almofada Objetiva Vermelha
+Almofada Tronco Exercício
+Almofada Tronco Prática
+Coraçao Luta
+Almofada de Substituto
+Almofada Fumaça de Alerta
+Almofada Fumaça de Perigo
+Almofada Veneno Verde
+Almofada Veneno Magenta
+Coraçao Veneno
+Adorno Nuvem Venenosa
+Almofada Hoyo Profundo
+Almofada Hoyo No Profundo
+Almofada Tierra Dura
+Almofada Terra Blanda
+Corazón Tierra
+Cactus Extraño
+Almofada Pluma Blanca
+Almofada Pluma Negra
+Percha Banderín Azul
+Percha Banderín Rojo
+Corazón Volador
+Huevos Extraños
+Almofada Círculo Azul
+Almofada Círculo Rojo
+Almofada Cuchara Torcida
+Almofada Cuchara Doblada
+Corazón Psíquico
+Cristal Misterioso
+Almofada Hoja Otoñal
+Almofada Hoja Seca
+Almofada Ovillo Gris
+Almofada Ovillo Amarillo
+Corazón Bicho
+Panal de Adorno
+Almofada Roca Gris
+Almofada Roca Negra
+Almofada Pepita de Hierro
+Almofada Pepita de Oro
+Corazón Roca
+Adorno Mineral Brillante
+Almofada Calabaza Hechizada
+Almofada Calabaza Maldita
+Almofada Sábana Fantasmal
+Almofada Sábana Espectral
+Corazón Fantasma
+Velas de Fuegos Fatuos
+Almofada Cima de Dragón
+Almofada Roca de Dragón
+Almofada Gema Azul
+Almofada Gema Morada
+Corazón Dragón
+Castillo de Dragón
+Almofada Chic Negro
+Almofada Chic Rojo
+Almofada Dentado Negro
+Almofada Dentado Rojo
+Corazón Siniestro
+Silla Caballero Sombrío
+Almofada Tornillo Estrella
+Almofada Tornillo Ranurado
+Almofada Placa de Hierro
+Almofada Placa de Acero
+Corazón Acero
+Corona de Adorno
+Almofada Arcos Rosas
+Almofada Arcos Azules
+Almofada Pelota Bonita
+Almofada Pelota Entrañable
+Corazón Hada
+Parasol Irisado
+Almofada Huevo Rosa
+Almofada Redondo Rosa
+Estrella Rosa
+Cubo Rosa
+Almofada Huevo Azul
+Almofada Redondo Azul
+Estrella Azul
+Cubo Azul
+Almofada Huevo Naranja
+Almofada Redondo Naranja
+Estrella Naranja
+Cubo Naranja
+Almofada Huevo Verde
+Almofada Redondo Verde
+Estrella Verde
+Cubo Verde
+Almofada Huevo Morado
+Almofada Redondo Morado
+Estrella Morada
+Cubo Morado
+Almofada Huevo Marrón
+Almofada Redondo Marrón
+Estrella Marrón
+Cubo Marrón
+Almofada Huevo Amarillo
+Almofada Redondo Amarillo
+Estrella Amarilla
+Cubo Amarillo
+Almofada Huevo Blanco
+Almofada Redondo Blanco
+Estrella Blanca
+Cubo Blanco
+Almofada Huevo Negro
+Almofada Redondo Negro
+Estrella Negra
+Cubo Negro
+Almofada Nube Rosa
+Almofada Nube Fucsia
+Nube Estrella Rosa
+Mesa Nube Rosa
+Almofada Nube Azul
+Almofada Nube Añil
+Nube Estrella Azul
+Mesa Nube Azul Celeste
+Almofada Nube Naranja
+Almofada Nube Albaricoque
+Nube Estrella Naranja
+Mesa Nube Naranja
+Almofada Caramelo Pop
+Almofada Redondo Pop
+Estrella Pop
+Cubo Pop
+Almofada Caramelo Punk
+Almofada Redondo Punk
+Estrella Punk
+Cubo Punk
+Almofada Caramelo Cuadros
+Almofada Redondo Cuadros
+Estrella de Cuadros
+Cubo de Cuadros
+Silla Chic de Madera
+Silla Antigua de Madera
+Mesa de Madeira
+Cama de Madeira
+~~~~~~~~~~~~~~~
